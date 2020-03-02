@@ -32,3 +32,6 @@ cp ./home/pi/RetroPie/roms/scummvm/*.sh /home/pi/RetroPie/roms/scummvm/
 
 # change #8 Xeno Crisis use of right analogue stick configuration (8bitdo SN30 Pro)
 cp -R ./opt/retropie/configs/genesis/ /opt/retropie/configs/
+
+# change #9 custom collections updates
+cp ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
