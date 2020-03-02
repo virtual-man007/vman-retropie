@@ -31,4 +31,4 @@ cp ./opt/retropie/configs/all/retroarch/shaders/presets/mGBA/ /opt/retropie/conf
 cp ./home/pi/RetroPie/roms/scummvm/*.sh /home/pi/RetroPie/roms/scummvm/
 
 # change #8 Xeno Crisis use of right analogue stick configuration (8bitdo SN30 Pro)
-cp -R ./opt/retropie/configs/genesis/ /opt/retropie/configs/genesis/
+cp -R ./opt/retropie/configs/genesis/ /opt/retropie/configs/
