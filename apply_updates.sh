@@ -36,3 +36,6 @@ cp -p /opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspmini
 cp ./opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspminis/emulators.cfg
 # 2020-03-08 pspminis optimization-configuration for ppsspp
 cp ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
+# 2020-03-10 Sega Master System master configuration for core system 
+cp -p /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg.VM
+cp ./opt/retropie/configs/all/retroarch/configs/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg
