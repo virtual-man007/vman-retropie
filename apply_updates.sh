@@ -50,3 +50,5 @@ cp ./home/pi/RetroPie/roms/amiga/gamelist.xml /home/pi/RetroPie/roms/amiga/gamel
 cp -p /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf.VM
 #cp ./opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf
 cp ./opt/retropie/configs/amiga/amiberry/conf/default.uae /opt/retropie/configs/amiga/amiberry/conf/default.uae
+# 2020-03-15 Ports Quake .sh scripts missing, 4 additional Quake games will showup now in Ports - reported by DaButcher
+cp ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
