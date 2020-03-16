@@ -30,25 +30,25 @@
 
 # 2020-03-08 emulators master for specific games 
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
-cp ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
+cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-03-08 pspminis change default emulator from lr-ppsspp to ppsspp
 cp -p /opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspminis/emulators.cfg.VM
-cp ./opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspminis/emulators.cfg
+cp -rf ./opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspminis/emulators.cfg
 # 2020-03-08 pspminis optimization-configuration for ppsspp
-cp ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
+cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 # 2020-03-10 Sega Master System master configuration for core system 
 cp -p /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg.VM
-cp ./opt/retropie/configs/all/retroarch/configs/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg
+cp -rf ./opt/retropie/configs/all/retroarch/configs/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg
 # 2020-03-14 PSX - Three additional games enhancements and gamelist.xml update request special VIP Sunrise169
-cp ./opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/*.opt /opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/
+cp -rf ./opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/*.opt /opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/
 cp -p /home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml.VM
-cp ./home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml
+cp -rf ./home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml
 # 2020-03-14 Amiga gamelist.xml and global vertical alignement, reported by Sunrise169
 rm -f /home/pi/RetroPie/roms/amiga/NorthAndSouth_v1.7_Files_0194.lha
 cp -p /home/pi/RetroPie/roms/amiga/gamelist.xml /home/pi/RetroPie/roms/amiga/gamelist.xml.VM
-cp ./home/pi/RetroPie/roms/amiga/gamelist.xml /home/pi/RetroPie/roms/amiga/gamelist.xml
+cp -rf ./home/pi/RetroPie/roms/amiga/gamelist.xml /home/pi/RetroPie/roms/amiga/gamelist.xml
 cp -p /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf.VM
 #cp ./opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf
-cp ./opt/retropie/configs/amiga/amiberry/conf/default.uae /opt/retropie/configs/amiga/amiberry/conf/default.uae
+cp -rf ./opt/retropie/configs/amiga/amiberry/conf/default.uae /opt/retropie/configs/amiga/amiberry/conf/default.uae
 # 2020-03-15 Ports Quake .sh scripts missing, 4 additional Quake games will showup now in Ports - reported by DaButcher
-cp ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
+cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
