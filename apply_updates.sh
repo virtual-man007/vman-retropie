@@ -57,3 +57,8 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
 sudo cp -p ./boot/cmdline.txt /boot/cmdline.txt.VM
 sudo cp -prf ./boot/cmdline.txt /boot/cmdline.txt
+
+# 2020-03-21 force prompt/reboot - VMAN!
+echo
+read -n 1 -s -r -p "Press any key to continue"
+sudo reboot
