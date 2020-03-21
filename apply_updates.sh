@@ -54,3 +54,6 @@ cp -rf ./opt/retropie/configs/amiga/amiberry/conf/default.uae /opt/retropie/conf
 cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
 # 2020-03-19 Ports - Quake enhancements internal resolution bumped up to 640x480 by Virtualman
 cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/configs/all/retroarch/config/TyrQuake/
+# 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
+sudo cp -p ./boot/cmdline.txt /boot/cmdline.txt.VM
+sudo cp -prf ./boot/cmdline.txt /boot/cmdline.txt
