@@ -57,6 +57,16 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
 sudo cp -p ./boot/cmdline.txt /boot/cmdline.txt.VM
 sudo cp -prf ./boot/cmdline.txt /boot/cmdline.txt
+# 2020-03-22 Daphne - One additional game enhancements Astron Belt - request by VMAN
+cp -p /home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml.VM
+cp -rf ./home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml
+# 2020-03-22 Arcade & Atomiswave delete known games not loading to not playable save 650MB of space - reported by VMAN
+rm -f /home/pi/RetroPie/roms/arcade/cphd.zip
+rm -f /home/pi/RetroPie/roms/arcade/kinst.zip
+rm -f /home/pi/RetroPie/roms/arcade/kinst2.zip
+rm -f /home/pi/RetroPie/roms/arcade/kinst/kinst.chd
+rm -f /home/pi/RetroPie/roms/arcade/kinst/kinst2.chd
+rm -f /home/pi/RetroPie/roms/atomiswave/The\ King\ of\ Fighters\ *
 
 # 2020-03-21 force prompt/reboot - VMAN!
 echo
