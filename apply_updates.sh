@@ -67,6 +67,10 @@ rm -f /home/pi/RetroPie/roms/arcade/kinst2.zip
 rm -f /home/pi/RetroPie/roms/arcade/kinst/kinst.chd
 rm -f /home/pi/RetroPie/roms/arcade/kinst/kinst2.chd
 rm -f /home/pi/RetroPie/roms/atomiswave/The\ King\ of\ Fighters\ *
+# 2020-03-22 Magnavox/Odyssey2/Videopac system prep retroarch friendly setup - requested by Mystical
+cp -prf /opt/retropie/configs/videopac/launching.jpg /opt/retropie/configs/odyssey2/launching.jpg
+cp -p /opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyssey2/retroarch.cfg.VM
+cp -rf ./opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyssey2/retroarch.cfg
 
 # 2020-03-21 force prompt/reboot - VMAN!
 echo
