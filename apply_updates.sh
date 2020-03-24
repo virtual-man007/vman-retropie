@@ -37,8 +37,8 @@ cp -rf ./opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspmi
 # 2020-03-08 pspminis optimization-configuration for ppsspp
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 # 2020-03-10 Sega Master System master configuration for core system 
-cp -p /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg.VM
-cp -rf ./opt/retropie/configs/all/retroarch/configs/Genesis Plus GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis Plus GX/mastersystem.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/configs/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg
 # 2020-03-14 PSX - Three additional games enhancements and gamelist.xml update request special VIP Sunrise169
 cp -rf ./opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/*.opt /opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/
 cp -p /home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml.VM
@@ -55,7 +55,7 @@ cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
 # 2020-03-19 Ports - Quake enhancements internal resolution bumped up to 640x480 by Virtualman
 cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/configs/all/retroarch/config/TyrQuake/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
-sudo cp -p ./boot/cmdline.txt /boot/cmdline.txt.VM
+sudo cp ./boot/cmdline.txt /boot/cmdline.txt.VM
 sudo cp -prf ./boot/cmdline.txt /boot/cmdline.txt
 # 2020-03-22 Daphne - One additional game enhancements Astron Belt - request by VMAN
 cp -p /home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml.VM
@@ -73,6 +73,6 @@ cp -p /opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyssey
 cp -rf ./opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyssey2/retroarch.cfg
 
 # 2020-03-21 force prompt/reboot - VMAN!
-echo
-read -n 1 -s -r -p "Press any key to continue"
+#echo
+#read -n 1 -s -r -p "Press any key to continue"
 sudo reboot
