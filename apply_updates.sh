@@ -38,7 +38,7 @@ cp -rf ./opt/retropie/configs/pspminis/emulators.cfg /opt/retropie/configs/pspmi
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 # 2020-03-10 Sega Master System master configuration for core system 
 cp -p /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg.VM
-cp -rf ./opt/retropie/configs/all/retroarch/configs/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg
+cp -rf ./opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg
 # 2020-03-14 PSX - Three additional games enhancements and gamelist.xml update request special VIP Sunrise169
 cp -rf ./opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/*.opt /opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/
 cp -p /home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml.VM
@@ -56,7 +56,7 @@ cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
 cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/configs/all/retroarch/config/TyrQuake/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
 sudo cp ./boot/cmdline.txt /boot/cmdline.txt.VM
-sudo cp -prf ./boot/cmdline.txt /boot/cmdline.txt
+sudo cp -rf ./boot/cmdline.txt /boot/cmdline.txt
 # 2020-03-22 Daphne - One additional game enhancements Astron Belt - request by VMAN
 cp -p /home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml.VM
 cp -rf ./home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml
