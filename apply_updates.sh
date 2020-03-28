@@ -52,7 +52,7 @@ cp -p /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/conf
 cp -rf ./opt/retropie/configs/amiga/amiberry/conf/default.uae /opt/retropie/configs/amiga/amiberry/conf/default.uae
 # 2020-03-27 Ports Quake/OpenJazz .sh, 4 additional Quake and Jazz Jackrabbit games will showup now in Ports - reported by DaButcher/VMAN
 cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
-chmod +xrw /home/pi/RetroPie/roms/ports/Jazz Jackrabbit.sh
+#chmod +xrw /home/pi/RetroPie/roms/ports/Jazz Jackrabbit.sh
 # 2020-03-19 Ports - Quake enhancements internal resolution bumped up to 640x480 by Virtualman
 cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/configs/all/retroarch/config/TyrQuake/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
