@@ -50,8 +50,9 @@ cp -rf ./home/pi/RetroPie/roms/amiga/gamelist.xml /home/pi/RetroPie/roms/amiga/g
 cp -p /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf.VM
 #cp ./opt/retropie/configs/amiga/amiberry/conf/amiberry.conf /opt/retropie/configs/amiga/amiberry/conf/amiberry.conf
 cp -rf ./opt/retropie/configs/amiga/amiberry/conf/default.uae /opt/retropie/configs/amiga/amiberry/conf/default.uae
-# 2020-03-15 Ports Quake .sh scripts missing, 4 additional Quake games will showup now in Ports - reported by DaButcher
+# 2020-03-27 Ports Quake/OpenJazz .sh, 4 additional Quake and Jazz Jackrabbit games will showup now in Ports - reported by DaButcher/VMAN
 cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
+chmod +xrw /home/pi/RetroPie/roms/ports/Jazz Jackrabbit.sh
 # 2020-03-19 Ports - Quake enhancements internal resolution bumped up to 640x480 by Virtualman
 cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/configs/all/retroarch/config/TyrQuake/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
@@ -74,6 +75,13 @@ cp -rf ./opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyss
 # 2020-03-27 Nintendo System emulator configuration disabled savestate_auto - reported by Timecop80s
 cp -p /opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg /opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg /opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg
+# 2020-03-27 Ports - Added support for Jazz JackRabbit OpenJAZZ complete with config/gamelist/artwork "no-rom" - special request by VMAN
+cp -p /home/pi/RetroPie/roms/ports/gamelist.xml /home/pi/RetroPie/roms/ports/gamelist.xml.VM
+cp -rf ./home/pi/RetroPie/roms/ports/gamelist.xml /home/pi/RetroPie/roms/ports/gamelist.xml
+cp -rf ./opt/retropie/configs/ports/openjazz/ /opt/retropie/configs/ports/
+cp -rf ./home/pi/RetroPie/roms/ports/mixart/ /home/pi/RetroPie/roms/ports/
+cp -rf ./home/pi/RetroPie/roms/ports/snap/ /home/pi/RetroPie/roms/ports/
+cp -rf ./home/pi/RetroPie/roms/ports/wheel/ /home/pi/RetroPie/roms/ports/
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
