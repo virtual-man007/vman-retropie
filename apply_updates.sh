@@ -84,7 +84,7 @@ cp -rf ./home/pi/RetroPie/roms/ports/snap/ /home/pi/RetroPie/roms/ports/
 cp -rf ./home/pi/RetroPie/roms/ports/wheel/ /home/pi/RetroPie/roms/ports/
 cp -p /home/pi/.livewire.py /home/pi/.livewire.py.VM
 cp -rf ./home/pi/.livewire.py /home/pi/.livewire.py
-cp -rf ./home/pi/.livewire.py /home/pi/RetroPie/extras+/.pb-fxies/bgm/.livewire.py
+cp -rf ./home/pi/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
