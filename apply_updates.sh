@@ -71,6 +71,9 @@ rm -f /home/pi/RetroPie/roms/atomiswave/The\ King\ of\ Fighters\ *
 cp -prf /opt/retropie/configs/videopac/launching.jpg /opt/retropie/configs/odyssey2/launching.jpg
 cp -p /opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyssey2/retroarch.cfg.VM
 cp -rf ./opt/retropie/configs/odyssey2/retroarch.cfg /opt/retropie/configs/odyssey2/retroarch.cfg
+# 2020-03-27 Nintendo System emulator configuration disabled savestate_auto - reported by Timecop80s
+cp -p /opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg /opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg /opt/retropie/configs/all/retroarch/config/FCEUmm/nes.cfg
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
