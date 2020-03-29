@@ -88,7 +88,23 @@ cp -rf ./home/pi/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.
 # 2020-03-29 N64 - Minor gamelist.xml fix Resident Evil 2 was listed as Biohazard 2 - reported by tjmadden83
 cp -p /home/pi/RetroPie/roms/n64/gamelist.xml /home/pi/RetroPie/roms/n64/gamelist.xml.VM
 cp -rf ./home/pi/RetroPie/roms/n64/gamelist.xml /home/pi/RetroPie/roms/n64/gamelist.xml
-
+# 2020-03-29 - 4KTV only fix for hand-held systems custom aspect ratio to align with bezel properly. Retroarch video_fullscreen must be set to "true" - Reported by @pappis1985 & @Sunrise169
+cp -p /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/gamegear.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/gamegear.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/gamegear.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/gamegear.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/mGBA/gb.cfg /opt/retropie/configs/all/retroarch/config/mGBA/gb.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/mGBA/gb.cfg /opt/retropie/configs/all/retroarch/config/mGBA/gb.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/mGBA/gbc.cfg /opt/retropie/configs/all/retroarch/config/mGBA/gbc.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/mGBA/gbc.cfg /opt/retropie/configs/all/retroarch/config/mGBA/gbc.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/Beetle\ NeoPop/ngpc.cfg /opt/retropie/configs/all/retroarch/config/Beetle\ NeoPop/ngpc.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/Beetle\ NeoPop/ngpc.cfg /opt/retropie/configs/all/retroarch/config/Beetle\ NeoPop/ngpc.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg /opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg /opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg /opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg /opt/retropie/configs/all/retroarch/config/VecX/vectrex.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
