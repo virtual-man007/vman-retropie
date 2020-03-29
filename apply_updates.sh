@@ -85,6 +85,10 @@ cp -rf ./home/pi/RetroPie/roms/ports/wheel/ /home/pi/RetroPie/roms/ports/
 cp -p /home/pi/.livewire.py /home/pi/.livewire.py.VM
 cp -rf ./home/pi/.livewire.py /home/pi/.livewire.py
 cp -rf ./home/pi/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py
+# 2020-03-29 N64 - Minor gamelist.xml fix Resident Evil 2 was listed as Biohazard 2 - reported by tjmadden83
+cp -p /home/pi/RetroPie/roms/n64/gamelist.xml /home/pi/RetroPie/roms/n64/gamelist.xml.VM
+cp -rf ./home/pi/RetroPie/roms/n64/gamelist.xml /home/pi/RetroPie/roms/n64/gamelist.xml
+
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
