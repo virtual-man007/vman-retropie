@@ -105,6 +105,8 @@ cp -p /opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg /opt/retropie
 cp -rf ./opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/PPSSPP.cfg
 cp -p /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg
+cp -p /opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg /opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg /opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
