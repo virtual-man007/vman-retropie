@@ -107,6 +107,10 @@ cp -p /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg /opt/retrop
 cp -rf ./opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg /opt/retropie/configs/all/retroarch/config/PPSSPP/pspminis.cfg
 cp -p /opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg /opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg /opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg
+# 2020-03-30 - 4KTV TV users bios fix to force 4KTV to use 1080p 60fps vs 30fps this addresses lag for (Naomi/Atomiswave/Dreamcast) - reported by pappis1985 and enhancement by 2play!-VMAN!
+sudo cp ./boot/config.txt /boot/config.txt.VM
+sudo cp -rf ./boot/config.txt /boot/config.txt
+
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
