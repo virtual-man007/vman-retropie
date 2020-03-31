@@ -88,7 +88,7 @@ disable_audio_dither=on
 #gpu_mem_1024=384
 #gpu_mem_2048=512
 #gpu_mem_4096=512
-#gpu_mem=512
+gpu_mem=512
 #overscan_scale=1
 
 # Enables USB BOOT MODE on PI3B
