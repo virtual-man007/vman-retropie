@@ -110,7 +110,9 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/Beetle\ VB/virtualboy.cfg /op
 # 2020-03-30 - 4KTV TV users bios fix to force 4KTV to use 1080p 60fps vs 30fps this addresses lag for (Naomi/Atomiswave/Dreamcast) - reported by pappis1985 and enhancement by 2play!-VMAN!
 sudo cp ./boot/config.txt /boot/config.txt.VM
 sudo cp -rf ./boot/config.txt /boot/config.txt
-
+# 2020-04-01 - 4KTV only fix for Snescd systems custom aspect ratio to align with bezel properly. - reported by @neonoodle
+cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
