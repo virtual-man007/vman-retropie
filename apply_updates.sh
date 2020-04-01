@@ -28,7 +28,7 @@
 # change #9 custom collections updates
 #cp ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
 
-# 2020-03-08 emulators master for specific games 
+# 2020-04-01 emulators master for specific games 
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-03-08 pspminis change default emulator from lr-ppsspp to ppsspp
@@ -113,6 +113,10 @@ sudo cp -rf ./boot/config.txt /boot/config.txt
 # 2020-04-01 - 4KTV only fix for Snescd systems custom aspect ratio to align with bezel properly. - reported by @neonoodle
 cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg
+# 2020-04-01 - Galaga loading after game bootup fix - reported by @Weiserboy
+cp -p /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cf.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg
+
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
