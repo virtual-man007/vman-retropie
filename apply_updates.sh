@@ -116,6 +116,7 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retrop
 # 2020-04-01 - Galaga loading after game bootup fix - reported by @Weiserboy
 cp -p /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cf.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg
+cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.opt /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.opt
 
 
 # 2020-03-21 force prompt/reboot - VMAN!
