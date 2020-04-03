@@ -39,7 +39,7 @@ cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP
 # 2020-03-10 Sega Master System master configuration for core system 
 cp -p /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg /opt/retropie/configs/all/retroarch/config/Genesis\ Plus\ GX/mastersystem.cfg
-# 2020-03-14 PSX - Three additional games enhancements and gamelist.xml update request special VIP Sunrise169
+# 2020-03-14 PSX - additional games enhancements and gamelist.xml update request special VIP Sunrise169
 cp -rf ./opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/*.opt /opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/
 cp -p /home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml.VM
 cp -rf ./home/pi/RetroPie/roms/psx/gamelist.xml /home/pi/RetroPie/roms/psx/gamelist.xml
