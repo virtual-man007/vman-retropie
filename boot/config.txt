@@ -45,8 +45,8 @@ hdmi_force_hotplug=1
 #hdmi_group=1
 #hdmi_mode=16
 # uncomment to force a specific HDMI mode 4K (This setting force 4K tv to use 1080p 60fps vs 30fps) fix by 2play!-VMAN!
-hdmi_group=2
-hdmi_mode=82
+#hdmi_group=2
+#hdmi_mode=82
 hdmi_ignore_edid=0xa5000080
 
 # uncomment to force a HDMI mode rather than DVI. This can make audio work in
