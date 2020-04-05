@@ -117,7 +117,9 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retrop
 cp -p /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cf.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.cfg
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.opt /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/galagamf.opt
-
+# 2020-04-05 - Ports - Streets of Rage Remake proven unstable on Pi4 - Known issue since day one will save 250MB - reported by VMAN
+rm -f /home/pi/RetroPie/roms/ports/sorr/SorR.dat
+rm -f /home/pi/RetroPie/roms/ports/Streets\ of\ Rage\ Remake.sh
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
