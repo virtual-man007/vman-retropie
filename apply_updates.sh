@@ -126,6 +126,10 @@ cp -rf ./home/pi/RetroPie/roms/dreamcast/gamelist.xml /home/pi/RetroPie/roms/dre
 cp -rf ./home/pi/RetroPie/roms/dreamcast/wheel/*.png /home/pi/RetroPie/roms/dreamcast/wheel/
 # 2020-04-06 Gameboy - Minor video snaps fix - reported by VMAN
 cp -rf ./home/pi/RetroPie/roms/gb/snap/*.mp4 /home/pi/RetroPie/roms/gb/snap/
+# 2020-04-07 N64 Excite Bike Full-Screen Fix - reported by djsteel and 2Play!
+cp -p ./opt/retropie/configs/all/videomodes.cfg /opt/retropie/configs/all/videomodes.cfg.VM
+cp -rf ./opt/retropie/configs/all/videomodes.cfg /opt/retropie/configs/all/videomodes.cfg
+
 
 # 2020-03-21 force prompt/reboot - VMAN!
 #echo
