@@ -56,8 +56,8 @@ cp -rf ./home/pi/RetroPie/roms/ports/*.sh /home/pi/RetroPie/roms/ports/
 # 2020-03-19 Ports - Quake enhancements internal resolution bumped up to 640x480 by Virtualman
 cp -rf ./opt/retropie/configs/all/retroarch/config/TyrQuake/*.opt /opt/retropie/configs/all/retroarch/config/TyrQuake/
 # 2020-03-21 Hide blinking cursor on boot - enhancement by 2play!
-sudo cp ./boot/cmdline.txt /boot/cmdline.txt.VM
-sudo cp -rf ./boot/cmdline.txt /boot/cmdline.txt
+#sudo cp ./boot/cmdline.txt /boot/cmdline.txt.VM
+#sudo cp -rf ./boot/cmdline.txt /boot/cmdline.txt
 # 2020-03-22 Daphne - One additional game enhancements Astron Belt - request by VMAN
 cp -p /home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml.VM
 cp -rf ./home/pi/RetroPie/roms/daphne/gamelist.xml /home/pi/RetroPie/roms/daphne/gamelist.xml
