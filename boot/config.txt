@@ -9,7 +9,6 @@ disable_splash=1
 
 #Ensures the LCD is not the default display
 display_default_lcd=0
-
 # uncomment if you get no picture on HDMI for a default "safe" mode
 #hdmi_safe=1
 
@@ -30,7 +29,7 @@ disable_overscan=1
 #framebuffer_height=720
 
 # uncomment if hdmi display is not detected and composite is being output
-hdmi_force_hotplug=1
+#hdmi_force_hotplug=1
 
 # uncomment to force a specific HDMI mode (this will force VGA)
 # uncomment to define the custom video mode over hdmi
@@ -38,17 +37,12 @@ hdmi_force_hotplug=1
 # command hdmi_cvt=<width required> <height required> <framerate required> <aspect no> <margins 0-1> <interlace 0-1> <rb 0-1>
 # aspect ratios numbers fro hdmi_cvt command 1=4:3, 2=14:9, 3=16:9, 4=5:4, 5=16:10, 6=15:9
 #hdmi_group command options 0/(Auto) / 1(TVs CEA) / 2(Monitors DMT)
-# uncomment to force a specific HDMI mode (this will force VGA)
 #hdmi_group=1
-#hdmi_mode=1
-# uncomment to force a specific HDMI mode 1080p (This setting is required to force 1080p)
-#hdmi_group=1
-#hdmi_mode=16
-# uncomment to force a specific HDMI mode 4K (This setting force 4K tv to use 1080p 60fps vs 30fps) fix by 2play!-VMAN!
 #hdmi_group=2
 #hdmi_mode=82
+#hdmi_cvt9=800 480 60
+#hdmi_cvt12=2160 1440 60
 hdmi_ignore_edid=0xa5000080
-
 # uncomment to force a HDMI mode rather than DVI. This can make audio work in
 # DMT (computer monitor) modes
 hdmi_drive=2
@@ -60,6 +54,9 @@ hdmi_drive=2
 # uncomment for composite PAL
 #sdtv_mode=2
 
+# uncomment to define the aspect ratio for composite video output
+#4:3 is 1, 16:9 is 3
+#sdtv_aspect=3
 #uncomment to overclock the arm. 700 MHz is the default.
 #uncomment to enable custom overclock settings
 #arm_freq=2000
@@ -77,23 +74,20 @@ hdmi_drive=2
 
 # Uncomment this to enable the lirc-rpi module
 #dtoverlay=lirc-rpi
-
 # Additional overlays and parameters are documented /boot/overlays/README
 
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
-disable_audio_dither=on
-#gpu_mem_256=128
-#gpu_mem_512=256
-#gpu_mem_1024=384
-#gpu_mem_2048=512
-#gpu_mem_4096=512
-gpu_mem=512
+gpu_mem_256=128
+gpu_mem_512=256
+gpu_mem_1024=384
+gpu_mem_2048=512
+gpu_mem_4096=512
 #overscan_scale=1
 
 # Enables USB BOOT MODE on PI3B
 program_usb_boot_mode=1
-#enable_uart=1
+enable_uart=1
 
 [pi4]
 # Enable DRM VC4 V3D driver on top of the dispmanx display stack
@@ -103,8 +97,10 @@ max_framebuffers=2
 [all]
 dtoverlay=vc4-fkms-v3d
 
-# RJ's 3.5m audio jack pop-crackle-lag fix
+#Onboard analogue audio options in config.txt (3.5mm jack) https://www.raspberrypi.org/documentation/configuration/config-txt/audio.md
+#Crackle sound fix: Use of the two below options
 #audio_pwm_mode=0
+#audio_pwm_mode=2
 
-# Throttling back from 60C instead of 70C may help under load
-#temp_soft_limit=70
+# By default, a 1.0LSB dither is applied to the audio stream if it is routed to the analogue audio output. This can create audible background "hiss" in some situations, for example when the ALSA volume is set to a low level
+#disable_audio_dither=1
