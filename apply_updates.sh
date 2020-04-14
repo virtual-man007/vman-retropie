@@ -110,6 +110,9 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/*.* /opt/r
 # 2020-04-13 emulators master for specific games
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
+# 2020-04-14 Scummvm ini update for additional supported games
+cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
+cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.cfg
 
 # 2020-04-13 force reboot - VMAN!
 sudo reboot
