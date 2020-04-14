@@ -113,6 +113,10 @@ cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulat
 # 2020-04-14 Scummvm ini update for additional supported games
 cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
 cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.cfg
+# 2020-04-14 - MAME 2003 Plus retroarch cfg & bezel enhancements
+cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/*.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/
+
+
 
 # 2020-04-13 force reboot - VMAN!
 sudo reboot
