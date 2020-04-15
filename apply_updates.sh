@@ -120,6 +120,9 @@ rm -f /home/pi/RetroPie/roms/psx/Star\ Wars\ -\ Episode\ I\ -\ Jedi\ Power\ Batt
 # 2020-04-15 Boot splashcreen option to lower "omxvol" volume (now set to 50% lower), reported by @morbid#4803 and enhancement by @2play!
 sudo cp ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh.VM
 sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh
+# 2020-04-15 Desktop from CLI known freeze issue fixed - Pressing F4 to exit to CLi with the command "startx" will no longer freeze to start Desktop - enhancement by @2play!
+sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
+sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
 
 
 # 2020-04-13 force reboot - VMAN!
