@@ -43,7 +43,7 @@ do_start () {
         while ! pgrep "dbus" >/dev/null; do
             sleep 1
         done
-        omxplayer --vol -3000 --no-osd -o both -b --layer 10000 "$line"
+        omxplayer --vol -2000 --no-osd -o both -b --layer 10000 "$line"
     elif $(echo "$line" | grep -q "$REGEX_IMAGE"); then
         if [ "$RANDOMIZE" = "disabled" ]; then
             local count=$(wc -l <"$config")
