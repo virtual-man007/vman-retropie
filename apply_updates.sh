@@ -115,7 +115,8 @@ cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/s
 cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.cfg
 # 2020-04-14 - MAME 2003 Plus retroarch cfg & bezel enhancements
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/*.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/
-
+# 2020-04-14 - PSX Star Wars: Episode 1, Jedi Power Battles random freezes and unplayable - flagged for deletion (275MB) known issue and reported by Zartheus
+rm -f /home/pi/RetroPie/roms/psx/Star\ Wars\ -\ Episode\ I\ -\ Jedi\ Power\ Battle\ \(USA\).chd
 
 
 # 2020-04-13 force reboot - VMAN!
