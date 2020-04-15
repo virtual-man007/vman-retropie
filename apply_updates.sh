@@ -112,11 +112,14 @@ cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulator
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-04-14 Scummvm ini update for additional supported games
 cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
-cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.cfg
+cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
 # 2020-04-14 - MAME 2003 Plus retroarch cfg & bezel enhancements
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/*.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/
 # 2020-04-14 - PSX Star Wars: Episode 1, Jedi Power Battles random freezes and unplayable - flagged for deletion (275MB) known issue and reported by Zartheus
 rm -f /home/pi/RetroPie/roms/psx/Star\ Wars\ -\ Episode\ I\ -\ Jedi\ Power\ Battle\ \(USA\).chd
+# 2020-04-15 Boot splashcreen option to lower "omxvol" volume (now set to 50% lower), reported by @morbid#4803 and enhancement by @2play!
+sudo cp ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh.VM
+sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh
 
 
 # 2020-04-13 force reboot - VMAN!
