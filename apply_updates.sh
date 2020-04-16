@@ -123,7 +123,3 @@ sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retr
 # 2020-04-15 Desktop from CLI known freeze issue fixed - Pressing F4 to exit to CLi with the command "startx" will no longer freeze to start Desktop - enhancement by @2play!
 sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
 sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
-
-
-# 2020-04-13 force reboot - VMAN!
-sudo reboot
