@@ -123,7 +123,7 @@ sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retr
 # 2020-04-15 Desktop from CLI known freeze issue fixed - Pressing F4 to exit to CLi with the command "startx" will no longer freeze to start Desktop - enhancement by @2play!
 sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
 sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
-# 2020-04-17 PlayBox scripts fixes-enhancementes - by 2play!
+# 2020-04-17 PlayBox xinmo, USB-Extend, BGM, Samba core scripts fixes-enhancements by 2play!
 rm -R /home/pi/RetroPie/extras+/xinmo-juyao/
 cp -rf ./home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh
