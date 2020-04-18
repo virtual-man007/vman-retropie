@@ -139,6 +139,13 @@ chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
+# 2020-04-18 Playbox es_systems striped to only option4 (es_systemsUSNoPB.cfg) until others are fixed to avoid users selecting wrong option.
+rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsEU.cfg
+rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsEUNoPB.cfg
+rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsNoPB.cfg
+rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsUS.cfg
+
+
 
 # 2020-04-13 force reboot - VMAN!
 sudo reboot
