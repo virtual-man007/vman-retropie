@@ -143,7 +143,7 @@ cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/us
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
 cp -rf ./home/pi/RetroPie/retropiemenu/fixplaybox.sh /home/pi/RetroPie/retropiemenu/fixplaybox.sh
 # 2020-04-18 fixplaybox Playbox Region Systems Fix All Regions update - by 2play!
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/es_cfg/*.cfg /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/es_cfg/*.cfg /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/
 # 2020-04-18 fixplaybox Playbox new omxvol script - by 2play!
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
 chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
