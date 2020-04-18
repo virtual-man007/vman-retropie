@@ -124,21 +124,21 @@ sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retr
 sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
 sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
 # 2020-04-17 PlayBox xinmo, USB-Extend, BGM, Samba core scripts fixes-enhancements by 2play!
-rm -R /home/pi/RetroPie/extras+/xinmo-juyao/
-cp -rf ./home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh
-cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autostart.sh
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py
-cp -rf ./home/pi/.livewire.py /home/pi/.livewire.py
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh
-cp -rf ./home/pi/RetroPie/retropiemenu/System/bgm.sh /home/pi/RetroPie/retropiemenu/System/bgm.sh
-cp -rf ./home/pi/RetroPie/extras+/usb/10-retropie.USB /home/pi/RetroPie/extras+/usb/10-retropie.USB
-chmod +x /home/pi/RetroPie/extras+/usb/10-retropie.USB
-cp -rf ./home/pi/RetroPie/extras+/usb/smb.conf.USB /home/pi/RetroPie/extras+/usb/smb.conf.USB
-chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
-cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
-cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
+#rm -R /home/pi/RetroPie/extras+/xinmo-juyao/
+#cp -rf ./home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh
+#cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autostart.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py
+#cp -rf ./home/pi/.livewire.py /home/pi/.livewire.py
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh
+#cp -rf ./home/pi/RetroPie/retropiemenu/System/bgm.sh /home/pi/RetroPie/retropiemenu/System/bgm.sh
+#cp -rf ./home/pi/RetroPie/extras+/usb/10-retropie.USB /home/pi/RetroPie/extras+/usb/10-retropie.USB
+#chmod +x /home/pi/RetroPie/extras+/usb/10-retropie.USB
+#cp -rf ./home/pi/RetroPie/extras+/usb/smb.conf.USB /home/pi/RetroPie/extras+/usb/smb.conf.USB
+#chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
+#cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
+#cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
 
 # 2020-04-13 force reboot - VMAN!
 sudo reboot
