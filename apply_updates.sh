@@ -139,11 +139,6 @@ chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
-# 2020-04-18 Playbox es_systems striped to only option4 (es_systemsUSNoPB.cfg) until others are fixed to avoid users selecting wrong option.
-#rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsEU.cfg
-#rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsEUNoPB.cfg
-#rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsNoPB.cfg
-#rm -f /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/es_systemsUS.cfg
 # 2020-04-18 fixplaybox update - by 2play!
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
 cp -rf ./home/pi/RetroPie/retropiemenu/fixplaybox.sh /home/pi/RetroPie/retropiemenu/fixplaybox.sh
@@ -152,6 +147,8 @@ cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/es_cfg/*.cfg /home/pi/RetroPie/extra
 # 2020-04-18 fixplaybox Playbox new omxvol script - by 2play!
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
 chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
+# 2020-04-18 53 Custom Collections enhancement/fixes - by Zartheus
+cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
 
 
 # 2020-04-13 force reboot - VMAN!
