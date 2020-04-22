@@ -149,6 +149,9 @@ cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh /home/pi/RetroPie
 chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
 # 2020-04-18 53 Custom Collections enhancement/fixes - by Zartheus
 cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
+# 2020-04-22 omxplayer /usr/bin replaced - by 2play!
+sudo cp ./usr/bin/omxplayer /usr/bin/omxplayer.VM
+sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
 
 
 # 2020-04-13 force reboot - VMAN!
