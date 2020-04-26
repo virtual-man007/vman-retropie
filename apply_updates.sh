@@ -153,7 +153,7 @@ sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-04-26 - Flycast/Dreamcast retroarch cfg update HLE BIOS, .opt files no longer needed
-cp -rf ./opt/retropie/configs/all/retroarch/config/Flycast/*.cfg /opt/retropie/configs/all/retroarch/config/Flycast/*.cfg
+cp -rf ./opt/retropie/configs/all/retroarch/config/Flycast/*.cfg /opt/retropie/configs/all/retroarch/config/Flycast/
 rm -f /opt/retropie/configs/all/retroarch/config/Flycast/*.opt
 
 
