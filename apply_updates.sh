@@ -107,9 +107,6 @@
 #~VMAN-2.0~ Post-changes after 1.5 release for 64GB-512GB
 # 2020-04-13 N64 - Enhancement/Fix graphic glitches for some N64 games, Enable Frame Buffer required for some games. Unique .opt files optimized. Reported by @Drewster 
 cp -rf ./opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/*.* /opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/
-# 2020-04-13 emulators master for specific games
-cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
-cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-04-14 Scummvm ini update for additional supported games
 cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
 cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
@@ -152,6 +149,12 @@ cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retrop
 # 2020-04-22 omxplayer /usr/bin replaced - by 2play!
 sudo cp ./usr/bin/omxplayer /usr/bin/omxplayer.VM
 sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
+# 2020-04-26 emulators master for specific games
+cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
+cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
+# 2020-04-26 - Flycast/Dreamcast retroarch cfg update HLE BIOS, .opt files no longer needed
+cp -rf ./opt/retropie/configs/all/retroarch/config/Flycast/*.cfg /opt/retropie/configs/all/retroarch/config/Flycast/*.cfg
+rm -f /opt/retropie/configs/all/retroarch/config/Flycast/*.opt
 
 
 # 2020-04-13 force reboot - VMAN!
