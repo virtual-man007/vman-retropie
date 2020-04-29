@@ -158,6 +158,9 @@ rm -f /opt/retropie/configs/all/retroarch/config/Flycast/*.opt
 # 2020-04-28 - Atomiswave retroarch cfg update-prep for addon
 cp -p ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg.VM
 cp -rf ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg
+# 2020-04-29 - emulationstation themes permission fix so files can easily be overwritten via samba share
+sudo chown pi:pi -R /etc/emulationstation/themes/
 
-# 2020-04-13 force reboot - VMAN!
+# 2020-04-29 sleep and force reboot - VMAN!
+sleep 10
 sudo reboot
