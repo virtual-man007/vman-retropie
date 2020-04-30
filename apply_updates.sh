@@ -160,6 +160,9 @@ cp -p ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atom
 cp -rf ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg
 # 2020-04-29 - emulationstation themes permission fix so files can easily be overwritten via samba share
 sudo chown pi:pi -R /etc/emulationstation/themes/
+# 2020-04-30 lr-vice Commodore 64 retroarch fix/optimization for keyboard-controller options to work with new emulator - reported by @sunrise169
+cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.cfg /opt/retropie/configs/all/retroarch/config/VICE\ x64/
+cp -rf ./opt/retropie/configs/c64/*.cfg /opt/retropie/configs/c64/
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
