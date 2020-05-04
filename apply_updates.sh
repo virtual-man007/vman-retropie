@@ -166,6 +166,7 @@ cp -rf ./opt/retropie/configs/c64/*.cfg /opt/retropie/configs/c64/
 # 2020-05-03 - PPSSPP ini optimized game configs for PlayStation Portable - More to come!!
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 
+
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
 sudo reboot
