@@ -136,9 +136,11 @@ chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
-# 2020-04-18 fixplaybox update - by 2play!
+# 2020-05-06 fixplaybox toolkit update - by 2play!
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
 cp -rf ./home/pi/RetroPie/retropiemenu/fixplaybox.sh /home/pi/RetroPie/retropiemenu/fixplaybox.sh
+chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
+chmod +x /home/pi/RetroPie/retropiemenu/fixplaybox.sh
 # 2020-04-18 Playbox Region Systems Fixed EU Regions - reported by austin
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/es_cfg/*.cfg /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/
 # 2020-04-18 fixplaybox Playbox new omxvol script - by 2play!
