@@ -154,7 +154,7 @@ sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
 # 2020-04-26 emulators master for specific games
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
-# 2020-04-28 - lr-flycast Dreamcast/Atomiswave retroarch cfg update-prep for addon, .opt files no longer needed
+# 2020-05-10 - lr-flycast Dreamcast/Atomiswave retroarch cfg update-prep for addon, .opt files no longer needed
 cp -rf ./opt/retropie/configs/all/retroarch/config/Flycast/*.cfg /opt/retropie/configs/all/retroarch/config/Flycast/
 rm -f /opt/retropie/configs/all/retroarch/config/Flycast/*.opt
 # 2020-04-28 - Atomiswave retroarch cfg update-prep for addon
