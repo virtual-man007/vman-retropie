@@ -167,8 +167,9 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.cfg /opt/retropie
 cp -rf ./opt/retropie/configs/c64/*.cfg /opt/retropie/configs/c64/
 # 2020-05-03 - PPSSPP ini optimized game configs for PlayStation Portable - More to come!!
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
-# 2020-05-05 - Atomiswave delete cached <game>.nvmem* fixes stuck at bios for certain games - reported by @acsalazar9 
+# 2020-05-05 - Atomiswave/Naomi delete cached <game>.nvmem* fixes stuck at bios for certain games - reported by @acsalazar9 
 rm -rf /home/pi/RetroPie/saves/atomiswave/reicast/*.*
+rm -rf /home/pi/RetroPie/saves/naomi/reicast/*.*
 # 2020-05-10 Nintendo 64 emulators.cfg update mupen64plus-gles2rice to use 1920x1080 - reported by @GeekOB
 cp -p /opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulators.cfg
