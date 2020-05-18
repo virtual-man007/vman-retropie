@@ -177,6 +177,9 @@ cp -rf ./opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulat
 cp -p /opt/retropie/configs/3do/emulators.cfg /opt/retropie/configs/3do/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/3do/emulators.cfg /opt/retropie/configs/3do/emulators.cfg
 cp -rf ./opt/retropie/configs/all/retroarch/config/Opera/ /opt/retropie/configs/all/retroarch/config/
+# 2020-05-17 SNES-MSU1 retroarch Snes9x config fix-prep for future addon
+cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/*.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
