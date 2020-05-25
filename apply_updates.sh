@@ -180,6 +180,8 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/Opera/ /opt/retropie/configs/
 # 2020-05-17 SNES-MSU1 retroarch Snes9x config fix-prep for future addon
 cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg.VM
 cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/*.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/
+# 2020-05-25 3DO updated enhanced Panasonic-3DO.png bezel
+cp -rf ./opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png /opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
