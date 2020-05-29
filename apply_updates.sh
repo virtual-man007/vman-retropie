@@ -151,7 +151,7 @@ cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retrop
 # 2020-04-22 omxplayer /usr/bin replaced - by 2play!
 sudo cp ./usr/bin/omxplayer /usr/bin/omxplayer.VM
 sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
-# 2020-04-26 emulators master for specific games
+# 2020-05-29 emulators master for specific games
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-05-10 - lr-flycast Dreamcast/Atomiswave retroarch cfg update-prep for addon, .opt files no longer needed
@@ -182,6 +182,9 @@ cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie
 cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/*.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/
 # 2020-05-25 3DO updated enhanced Panasonic-3DO.png bezel
 cp -rf ./opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png /opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png
+# 2020-05-29 retroarch master options file
+cp -p /opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.VM
+cp -rf ./opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.cfg
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
