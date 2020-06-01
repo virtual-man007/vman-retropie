@@ -185,7 +185,11 @@ cp -rf ./opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png /o
 # 2020-05-29 retroarch master options file
 cp -p /opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.VM
 cp -rf ./opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.cfg
-
+# 2020-05-30 fixplaybox oc.sh update - by 2play!
+cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
+cp -rf ./home/pi/RetroPie/retropiemenu/System/oc.sh /home/pi/RetroPie/retropiemenu/System/oc.sh
+chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
+chmod +x /home/pi/RetroPie/retropiemenu/System/oc.sh
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
