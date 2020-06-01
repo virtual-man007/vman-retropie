@@ -190,6 +190,10 @@ cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh /home/pi/R
 cp -rf ./home/pi/RetroPie/retropiemenu/System/oc.sh /home/pi/RetroPie/retropiemenu/System/oc.sh
 chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
 chmod +x /home/pi/RetroPie/retropiemenu/System/oc.sh
+# 2020-05-31 - SNESCD retroarch cfg update fixed save state - repoted by @crashbang
+cp -p ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg.VM
+cp -rf ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg
+
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
