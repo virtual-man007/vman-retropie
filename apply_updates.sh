@@ -193,6 +193,9 @@ chmod +x /home/pi/RetroPie/retropiemenu/System/oc.sh
 # 2020-05-31 - SNESCD retroarch cfg update fixed save state - repoted by @crashbang
 cp -p ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg.VM
 cp -rf ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg
+# 2020-06-02 C64 - Enhancement/Fix for certain game options. Unique .opt files optimized. Reported by @sunrise169 
+cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.opt /opt/retropie/configs/all/retroarch/config/VICE\ x64/
+
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
