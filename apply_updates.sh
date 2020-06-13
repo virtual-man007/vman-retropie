@@ -151,7 +151,7 @@ cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retrop
 # 2020-04-22 omxplayer /usr/bin replaced - by 2play!
 sudo cp ./usr/bin/omxplayer /usr/bin/omxplayer.VM
 sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
-# 2020-05-29 emulators master for specific games
+# 2020-06-13 emulators master for specific games
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-05-10 - lr-flycast Dreamcast/Atomiswave retroarch cfg update-prep for addon, .opt files no longer needed
@@ -195,7 +195,11 @@ cp -p ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/r
 cp -rf ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg
 # 2020-06-02 C64 - Enhancement/Fix for certain game options. Unique .opt files optimized. Reported by @sunrise169 
 cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.opt /opt/retropie/configs/all/retroarch/config/VICE\ x64/
-
+# 2020-06-13 Arcade retroarch prep for addon bundle bezel/emulators optimization
+cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2010/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2010/
+cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2016/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2016/
+cp -rf ./opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/*.* /opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/
+cp -rf ./opt/retropie/configs/all/retroarch/config/MAME/*.* /opt/retropie/configs/all/retroarch/config/MAME/
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
