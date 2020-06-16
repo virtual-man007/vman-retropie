@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Atomiswave</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./dirtypig.zip</path>
+		<name>Dirty Pigskin Football</name>
+		<desc>This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.</desc>
+		<image>./mixart/dirtypig.png</image>
+		<video>./snap/dirtypig.mp4</video>
+		<marquee>./wheel/dirtypig.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Sports-Sports / Football</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./xtrmhunt.zip</path>
+		<name>Extreme Hunting</name>
+		<desc>You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.</desc>
+		<image>./mixart/xtrmhunt.png</image>
+		<video>./snap/xtrmhunt.mp4</video>
+		<marquee>./wheel/xtrmhunt.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggisuka.zip</path>
+		<name>Guilty Gear Isuka</name>
+		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
+		<image>./mixart/ggisuka.png</image>
+		<video>./snap/ggisuka.mp4</video>
+		<marquee>./wheel/ggisuka.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./ggx15.zip</path>
+		<name>Guilty Gear X Ver. 1.5</name>
+		<desc>Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.</desc>
+		<image>./mixart/ggx15.png</image>
+		<video>./snap/ggx15.mp4</video>
+		<marquee>./wheel/ggx15.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rangrmsn.zip</path>
+		<name>Ranger Mission</name>
+		<desc>A 1 to 2 player 3-D military combat shooting game where players use pump-action shotguns to shoot on-screen enemies.The game has four different missions:Jungle Mission, Desert Mission, Indoor Rescue Mission and Tundra Mission.</desc>
+		<image>./mixart/rangrmsn.png</image>
+		<video>./snap/rangrmsn.mp4</video>
+		<marquee>./wheel/rangrmsn.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./salmankt.zip</path>
+		<name>Salary Man Kintaro</name>
+		<desc>Salary Man Kintaro est un jeu d'aventure sorti en 2004 dans les salles d'arcade. </desc>
+		<image>./mixart/salmankt.png</image>
+		<video>./snap/salmankt.mp4</video>
+		<marquee>./wheel/salmankt.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Platform-Mahjong-Asiatic board game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./samsptk.zip</path>
+		<name>Samurai Shodown 6 - Tale Of The World's Greatest Swordsman</name>
+		<desc>Among other series changes, aerial blocking was removed entirely, and the switch-around move, which enabled a player to shift quickly behind the other's back, as well as the dodge (evade, side-step), in which the move virtually brings a semi-3D environment to the defense in attempt to use each sword more effectively.    One can no longer charge one's own "pow" gauge. The off-screen delivery man was omitted entirely from the game. The "CD combo" was added, wherein a player can press the C and D buttons together, triggering a strike that can be followed up by a sequence of button taps.    SNK also added a "suicide" move, wherein one's character forfeits the round. The bonus to this is that the one committing suicide will start the next round with a full "POW" gauge. Certain finishes also enable a "fatality" move in the vein of Mortal Kombat.</desc>
+		<image>./mixart/samsptk.png</image>
+		<video>./snap/samsptk.mp4</video>
+		<marquee>./wheel/samsptk.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight-Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./basschal.zip</path>
+		<name>Sega Bass Fishing Challenge</name>
+		<desc>Sega Bass Fishing Challenge is a 1-Player only fishing game.</desc>
+		<image>./mixart/basschal.png</image>
+		<video>./snap/basschal.mp4</video>
+		<marquee>./wheel/basschal.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports-Fishing-Hunting and Fishing</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./claychal.zip</path>
+		<name>Sega Clay Challenge</name>
+		<desc>Sega Clay Challenge (c) 2009 Sega Amusements, Inc.  - SOURCES -  Game's ROM.</desc>
+		<image>./mixart/claychal.png</image>
+		<video>./snap/claychal.mp4</video>
+		<marquee>./wheel/claychal.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1-6</players>
+	</game>
+	<game>
+		<path>./sprtshot.zip</path>
+		<name>Sports Shooting Usa</name>
+		<desc>A competitive 1 to 2 player shooting game where players, using optical guns, must shoot a number of required on-screen targets within a certain time limit to qualify and proceed to next round.</desc>
+		<image>./mixart/sprtshot.png</image>
+		<video>./snap/sprtshot.mp4</video>
+		<marquee>./wheel/sprtshot.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rumblef.zip</path>
+		<name>The Rumble Fish</name>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<image>./mixart/rumblef.png</image>
+		<video>./snap/rumblef.mp4</video>
+		<marquee>./wheel/rumblef.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rumblef2.zip</path>
+		<name>The Rumble Fish 2</name>
+		<desc>he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.    The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.    Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./mixart/rumblef2.png</image>
+		<video>./snap/rumblef2.mp4</video>
+		<marquee>./wheel/rumblef2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kofnw.lst</path>
+		<name>The King of Fighters NeoWave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./mixart/kofnw.png</image>
+		<video>./snap/kofnw.mp4</video>
+		<marquee>./wheel/kofnw.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./fotns.zip</path>
+		<name>Fist Of The North Star</name>
+		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
+		<image>./mixart/fotns.png</image>
+		<video>./snap/fotns.mp4</video>
+		<marquee>./wheel/fotns.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>Neo-geo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./mixart/ngbc.png</image>
+		<video>./snap/ngbc.mp4</video>
+		<marquee>./wheel/ngbc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./vfurlong.zip</path>
+		<name>Net Select Horse Racing - Victory Furlong</name>
+		<desc>Net Select Horse Racing - Victory Furlong es un juego árcade de carreras de caballos desarrollado por Sammy en 2005.</desc>
+		<image>./mixart/vfurlong.png</image>
+		<video>./snap/vfurlong.mp4</video>
+		<marquee>./wheel/vfurlong.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./smashdrv.zip</path>
+		<name>Smashing Drive (UK)</name>
+		<desc>Smashing Drive es un árcade de carreras futurista y brutal donde las armas de los vehículos y los enrevesados circuitos son los verdaderos protagonistas. Conducción extrema, saltos espectaculares y destrucción por doquier será la línea que seguirás.</desc>
+		<image>./mixart/smashdrv.png</image>
+		<video>./snap/smashdrv.mp4</video>
+		<marquee>./wheel/smashdrv.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+	</game>
+	<game>
+		<path>./kofnw.zip</path>
+		<name>The King of Fighters NeoWave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./mixart/kofnw.png</image>
+		<video>./snap/kofnw.mp4</video>
+		<marquee>./wheel/kofnw.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ftspeed.zip</path>
+		<name>Faster Than Speed</name>
+		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
+		<image>./mixart/ftspeed.png</image>
+		<video>./snap/ftspeed.mp4</video>
+		<marquee>./wheel/ftspeed.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Race, Driving-Race 1st Pers. view</genre>
+	</game>
+	<game>
+		<path>./kov7sprt.zip</path>
+		<name>Knights Of Valour: The Seven Spirits</name>
+		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
+		<image>./mixart/kov7sprt.png</image>
+		<video>./snap/kov7sprt.mp4</video>
+		<marquee>./wheel/kov7sprt.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Beat'em Up-Fight / 2.5D-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kofxi.zip</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<image>./mixart/kofxi.png</image>
+		<video>./snap/kofxi.mp4</video>
+		<marquee>./wheel/kofxi.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./demofist.zip</path>
+		<name>Demolish Fist</name>
+		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
+		<image>./mixart/demofist.png</image>
+		<video>./snap/demofist.mp4</video>
+		<marquee>./wheel/demofist.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Beat'em Up-Fight-Fight / Versus</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./mslug6a.zip</path>
+		<name>mslug6a</name>
+	</game>
+	<game>
+		<path>./atvtrack.zip</path>
+		<name>Atv Track (set 1)</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./mixart/atvtrack.png</image>
+		<video>./snap/atvtrack.mp4</video>
+		<marquee>./wheel/atvtrack.png</marquee>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./xtrmhnt2.zip</path>
+		<name>Extreme Hunting 2</name>
+		<desc>Embark on a hunting trip of a lifetime with Extreme Hunting 2, the sequel to Sega Amusements' line of coin-operated hunting games. A choice of the most prestigious North American wild game a hunter could ask for including Bison, Bear, Moose, Elk, Deer, and Wolf along with bonus stages featuring Bass, Goose, Bat, Squirrel and more. Don't miss the chance to play our ever-changing Special Hunts. The first game for the ALL.Net online platform, the game links arcade machines into a common community allowing for national tournaments and online rankings as you hunt a widest variety of wild game.</desc>
+		<image>./mixart/xtrmhnt2.png</image>
+		<video>./snap/xtrmhnt2.mp4</video>
+		<marquee>./wheel/xtrmhnt2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./maxspeed.zip</path>
+		<name>Maximum Speed</name>
+		<desc>Maximum Speed is a driving game which includes a single player mode, and a 2 Player Head to Head mode.    Maximum Speed features 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.    Players can also choose from 3 distinctly different racing styles: Stock Car, Open Wheel Cart or Pickup Truck. Maximum Speed also features great 3D action graphics and steering wheel feedback, which both add a degree of realism of the game.</desc>
+		<image>./mixart/maxspeed.png</image>
+		<video>./snap/maxspeed.mp4</video>
+		<marquee>./wheel/maxspeed.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Race 1st Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./mslug6.zip</path>
+		<name>Metal Slug 6</name>
+		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.    Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.  The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
+		<image>./mixart/mslug6.png</image>
+		<video>./snap/mslug6.mp4</video>
+		<marquee>./wheel/mslug6.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./anmlbskt.zip</path>
+		<name>Animal Basket (24 Jan 2005)</name>
+		<desc>"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !</desc>
+		<image>./mixart/anmlbskt.png</image>
+		<video>./snap/anmlbskt.mp4</video>
+		<marquee>./wheel/anmlbskt.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./blokpong.zip</path>
+		<name>Block Pong-pong</name>
+		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
+		<image>./mixart/blokpong.png</image>
+		<video>./snap/blokpong.mp4</video>
+		<marquee>./wheel/blokpong.png</marquee>
+		<rating>0</rating>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./sushibar.zip</path>
+		<name>Sushi Bar</name>
+		<desc>Sushi simulation Game.</desc>
+		<image>./mixart/sushibar.png</image>
+		<video>./snap/sushibar.mp4</video>
+		<marquee>./wheel/sushibar.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./waidrive.zip</path>
+		<name>Waiwai Drive</name>
+		<desc>WaiWai Drive est un jeu de voitures destiné à un jeune public où deux voitures doivent collecter les éléments disponibles à l'écran tout en essayant d'en avoir plus que l'adversaire.</desc>
+		<image>./mixart/waidrive.png</image>
+		<video>./snap/waidrive.mp4</video>
+		<marquee>./wheel/waidrive.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Race, Driving</genre>
+	</game>
+</gameList>

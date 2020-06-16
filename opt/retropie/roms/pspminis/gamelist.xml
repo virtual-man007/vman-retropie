@@ -1,0 +1,2610 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Playstation minis</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="144713" source="ScreenScraper.fr">
+		<path>./Ramen Heaven (USA).cso</path>
+		<name>Ramen Heaven</name>
+		<desc>Slurp up the fun in the quirky PSP® soup game Ramen Heaven. Use your chopsticks to collect bubbles of oil floating on the soup, and place them in your spoon to eat up, increasing your satisfaction gauge. A bowl of ramen has never had so many obstacles in it, knock into an egg and your oil bubble will split up, braise a naruto, and it may pop altogether. Heat up the fun by grabbing a friend and competing head to head!</desc>
+		<rating>0</rating>
+		<releasedate>20100504T000000</releasedate>
+		<developer>Sony Interactive Entertainment</developer>
+		<publisher>Sony Interactive Entertainment</publisher>
+		<hash>18C53FAA</hash>
+		<image>./mixart/Ramen Heaven (USA).png</image>
+		<marquee>./wheel/Ramen Heaven (USA).png</marquee>
+		<video>./snap/Ramen Heaven (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Carnivores - Ice Age (USA).cso</path>
+		<name>Carnivores : Ice Age</name>
+		<desc>Carnivores : Ice Age sur Playstation Portable est un jeu de tir à la première personne dans lequel vous incarnez un chasseur, envoyé sur une planète lointaine par une entreprise pour tuer des bêtes préhistoriques. Contrairement aux deux premiers opus de la série, vous êtes cette fois en compagnie de mammouths, d'ours et de tigres à dents de sabre.</desc>
+		<image>./mixart/Carnivores - Ice Age (USA).png</image>
+		<video>./snap/Carnivores - Ice Age (USA).mp4</video>
+		<marquee>./wheel/Carnivores - Ice Age (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Action Forms Ltd.</developer>
+		<publisher>WizardWorks Group, Inc.</publisher>
+	</game>
+	<game>
+		<path>./3 2 1 - Supercrash! (USA).cso</path>
+		<name>3, 2, 1... Supercrash!</name>
+		<desc>Get on your unicycle and attempt to pass through human-shaped spaces in walls that appear on your path. Jump and dodge all the obstacles that get in your way to reach the goal in snow, the woods and a town. Try your hand at five different race types in Endless Mode.</desc>
+		<image>./mixart/3 2 1 - Supercrash! (USA).png</image>
+		<video>./snap/3 2 1 - Supercrash! (USA).mp4</video>
+		<marquee>./wheel/3 2 1 - Supercrash! (USA).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20101110T000000</releasedate>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game>
+		<path>./Ace Armstrong vs. the Alien Scumbags! (USA).cso</path>
+		<name>Ace Armstrong Vs The Alien Scumbags!</name>
+		<desc>Ace Armstrong vs. the Alien Scumbags! is a fast-paced horizontally scrolling shooter with a unique, slapstick take on the best of 50s and 60s sci-fi movies and cartoons. The game features a unique weapons system: instead of collecting power-ups, Ace must down enemies using the incredible power of the Recyl-o-Ray! before turning the Scumbagsâ own weapons against them!
+
+The game sees our titular hero blasting into outer space to defeat a race of psychopathic cephalopod invaders intent on wiping Earth from the face of the galaxy: if the galaxy even has a face that is... Ace must speed across the surface of the earth, before blasting into space, speeding through a deadly asteroid field, taking on a Scumbag Factory Ship and defeating them on their home planet before blasting into the mysterious Dimension X to put an end to the Scumbag menace once and for all! (phew!)</desc>
+		<image>./mixart/Ace Armstrong vs. the Alien Scumbags! (USA).png</image>
+		<video>./snap/Ace Armstrong vs. the Alien Scumbags! (USA).mp4</video>
+		<marquee>./wheel/Ace Armstrong vs. the Alien Scumbags! (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101006T000000</releasedate>
+		<developer>Laughing Jackal</developer>
+		<publisher>Laughing Jackal</publisher>
+	</game>
+	<game>
+		<path>./Age of Hammer Wars (USA).cso</path>
+		<name>Age Of Hammer Wars</name>
+		<desc>This game is a unique mixture of action, RPG and simulator. Player finds himself in the world, where the air is ruled by hovering vehicles â one of which he takes under control. According to a plot, player have to fight his way through the numerous combats with monsters and accomplish different missions. During the headway to the the heart of the fairy kingdom , playerâs hovering vehicle gets new weapon, armor and other useful power-ups.</desc>
+		<image>./mixart/Age of Hammer Wars (USA).png</image>
+		<video>./snap/Age of Hammer Wars (USA).mp4</video>
+		<marquee>./wheel/Age of Hammer Wars (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>iSquared Games</developer>
+		<publisher>Dynamic Systems Limited</publisher>
+	</game>
+	<game>
+		<path>./Alien Zombie Death (USA).cso</path>
+		<name>Alien Zombie Death</name>
+		<desc>Somewhere far far away in a random solar system, a lone space man dies... horribly. Take control of said fateful space man as he battles to his end against the dreaded Alien Zombies! Using a standard laser gun and a few pickups along the way, make sure you take out as many of those Alien Zombie suckers before they take you down. Its that simple. It's Alien Zombie Death.</desc>
+		<image>./mixart/Alien Zombie Death (USA).png</image>
+		<video>./snap/Alien Zombie Death (USA).mp4</video>
+		<marquee>./wheel/Alien Zombie Death (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100325T000000</releasedate>
+		<developer>PomPom Games</developer>
+		<publisher>PomPom Games</publisher>
+	</game>
+	<game>
+		<path>./Ambassador Kane (Europe).cso</path>
+		<name>Ambassador Kane</name>
+		<desc>Asegure un camino seguro para el embajador Kane usando robots y un rifle de francotirador fiable para que pueda alcanzar y hackear terminales para abrir la puerta de salida en cada nivel.</desc>
+		<image>./mixart/Ambassador Kane (Europe).png</image>
+		<video>./snap/Ambassador Kane (Europe).mp4</video>
+		<marquee>./wheel/Ambassador Kane (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111214T000000</releasedate>
+		<developer>60 Degrees North</developer>
+		<publisher>Playgroundsquad</publisher>
+	</game>
+	<game>
+		<path>./Angry Birds (USA).cso</path>
+		<name>Angry Birds</name>
+		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
+		<image>./mixart/Angry Birds (USA).png</image>
+		<video>./snap/Angry Birds (USA).mp4</video>
+		<marquee>./wheel/Angry Birds (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20110112T000000</releasedate>
+		<developer>Rovio Mobile</developer>
+		<publisher>Chillingo</publisher>
+	</game>
+	<game>
+		<path>./Apache Overkill (USA).cso</path>
+		<name>Apache Overkill</name>
+		<desc>Guide your chopper in this action-packed shoot'em up game based on the popular web game series. Collect missiles, weapons and powerups, targetting enemy tanks, trucks, troops, fighter planes and ground troops.</desc>
+		<image>./mixart/Apache Overkill (USA).png</image>
+		<video>./snap/Apache Overkill (USA).mp4</video>
+		<marquee>./wheel/Apache Overkill (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Playerthree</developer>
+		<publisher>Asylum Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Arcade Essentials (USA).cso</path>
+		<name>Arcade Essentials</name>
+		<desc>Arcade Essentials est une compilation de 5 jeux d'arcade à télécharger sur le Playstation Store pour PSP. Les jeux sont reliftés avec des graphismes plus lisses pour convenir au support actuel.</desc>
+		<image>./mixart/Arcade Essentials (USA).png</image>
+		<video>./snap/Arcade Essentials (USA).mp4</video>
+		<marquee>./wheel/Arcade Essentials (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20101208T000000</releasedate>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game>
+		<path>./Arcade Pool (USA).cso</path>
+		<name>Arcade Pool &amp; Snooker</name>
+		<desc>Arcade Pool &amp; Snooker est un jeu de billard sur PS3. On y trouve 11 différents modes pour 6 types de billard. Il est possible d'y jouer seul ou contre trois amis et de débloquer plusieurs éléments comme des queues, des tables, etc.</desc>
+		<image>./mixart/Arcade Pool (USA).png</image>
+		<video>./snap/Arcade Pool (USA).mp4</video>
+		<marquee>./wheel/Arcade Pool (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110713T000000</releasedate>
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Arcade Air Hockey &amp; Bowling (USA).cso</path>
+		<name>Arcade Sports : Bowling &amp; Air Hockey</name>
+		<desc>Arcade Air Hockey &amp; Bowling offers fully featured 3D versions of Air Hockey &amp; Bowling, with smooth analogue control and realistic gameplay. Win trophies and unlock new equipment in the World Tour career mode, or challenge a friend to play.</desc>
+		<image>./mixart/Arcade Air Hockey &amp; Bowling (USA).png</image>
+		<video>./snap/Arcade Air Hockey &amp; Bowling (USA).mp4</video>
+		<marquee>./wheel/Arcade Air Hockey &amp; Bowling (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100922T000000</releasedate>
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+	</game>
+	<game>
+		<path>./BABEL - The King of the Blocks (USA).cso</path>
+		<name>Babel - The King Of The Blocks</name>
+		<desc>Build your empire and become the King.
+
+- Put your building skills to the test and create your own kingdom made out of blocks.
+- Place falling pieces in the right position at the right time to create amazing buildings.
+- Challenge yourself to over 50 levels in three exciting game modes and become King of the Blocks</desc>
+		<image>./mixart/BABEL - The King of the Blocks (USA).png</image>
+		<video>./snap/BABEL - The King of the Blocks (USA).mp4</video>
+		<marquee>./wheel/BABEL - The King of the Blocks (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>StormBASIC S.L.</developer>
+		<publisher>StormBASIC S.L.</publisher>
+	</game>
+	<game>
+		<path>./Bashi Blocks (USA).cso</path>
+		<name>Bashi Blocks</name>
+		<desc>Bashi Blocks - Make your Own Levels, Make Your Own Game! With ninety game levels to play through, huge end of zone bosses and several game modes to choose from including customized arcade tournaments, players of all ages are guaranteed hours of endless fun! 
+
+The unique built-in game editor offers unlimited level design possibilities; you can even structure your own game tournament!</desc>
+		<image>./mixart/Bashi Blocks (USA).png</image>
+		<video>./snap/Bashi Blocks (USA).mp4</video>
+		<marquee>./wheel/Bashi Blocks (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Beach Buzzin' Chopper (Europe).cso</path>
+		<name>Beach Buzzin' Chopper</name>
+		<desc>You control a beach-sports chopper that is buzzin' private beaches for bikini babes and handsome hunks. Some of the babes and hunks are already taken but others are happy to climb on board! Avoid the angered beach bodies whose squeezes you've stolen as they pursue you in jet packs and beach buggies armed with rubber bullets trying to get their favourite honey or dude back. If youâre successful, you get to party with the most beautiful girls or hunky guys on the beach!</desc>
+		<image>./mixart/Beach Buzzin' Chopper (Europe).png</image>
+		<video>./snap/Beach Buzzin' Chopper (Europe).mp4</video>
+		<marquee>./wheel/Beach Buzzin' Chopper (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Asylum Entertainment</developer>
+		<publisher>Asylum Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Beam 'em Up (USA).cso</path>
+		<name>Beam 'em Up</name>
+		<desc>Beam'em Up is a downloadable action/puzzle game for PSP in which the player is cast in the role of a space scientist, piloting a spaceship with the goal of acquiring and collecting alien specimens from various planets and environments. Thanks to lush environments styled in 1950s sci-fi visuals, an accurate 2D physics system, addictive puzzle gameplay, and collection mechanics, Beat'em Up is homage to the classic era of videogames, revisited with contemporary look and feel.</desc>
+		<image>./mixart/Beam 'em Up (USA).png</image>
+		<video>./snap/Beam 'em Up (USA).mp4</video>
+		<marquee>./wheel/Beam 'em Up (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20091210T000000</releasedate>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game>
+		<path>./Bloons (USA).cso</path>
+		<name>Bloons</name>
+		<desc>In Bloons, the player assumes the role of a monkey sitting on a platform in the clouds attempting to pop as many balloons as possible. The player uses the touch screen of the iPhone or iPod Touch in order to aim the primate's throw and indicate its velocity; letting go of the touch screen throws the dart and physics takes its course. Each level has a minimum number of balloons that must be popped before progressing to the next level.
+
+In addition to the standard balloons, various levels have special balloons, such as a balloon with extra darts, a tack-filled balloon which will pop all nearby balloons if it is burst, and balloons containing boomerangs (useful for tricky balloon-popping maneuvers). Different levels also have varying obstacles which must be overcome as part of the puzzle, such as blocks which might be destructible with a dart.</desc>
+		<image>./mixart/Bloons (USA).png</image>
+		<video>./snap/Bloons (USA).mp4</video>
+		<marquee>./wheel/Bloons (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Hands-on Mobile</developer>
+		<publisher>Hands-on Mobile</publisher>
+	</game>
+	<game>
+		<path>./Boom Beats (USA).cso</path>
+		<name>Boom Beats</name>
+		<desc>Boom Beats is an addictive rhythm game which lets you enter compelling worlds full of club tunes: drum and bass, jungle, dub step, rave and house. All you need to do is tap the rhythm and earn score. Use multipliers, unlocks, special powers and more. Headphones recommended.</desc>
+		<image>./mixart/Boom Beats (USA).png</image>
+		<video>./snap/Boom Beats (USA).mp4</video>
+		<marquee>./wheel/Boom Beats (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20101027T000000</releasedate>
+		<developer>Gamelion Studios</developer>
+		<publisher>Gamelion Studios</publisher>
+	</game>
+	<game>
+		<path>./BounceBack (Europe).cso</path>
+		<name>Bounce Back</name>
+		<desc>BounceBack es un emocionante juego de plataformas/puzle 2D sobre una pelota hinchable llamada Lanos que con el tiempo ha perdido su rebote! Controla a Lanos en una búsqueda para recuperar el control, resolver acertijos y superar obstáculos en 28 niveles que invitan a la reflexión. Viaje más y más alto a través de varias áreas progresivamente desafiantes para llevar a Lanos de vuelta a su mundo natal en la luna! Recoja los rebote mágicos para llenar su BounceBar y obtener un poco de aire serio! A lo largo del camino, hazte amigo de una gran cantidad de memorables personajes de apoyo para ayudar en la resolución de rompecabezas, cada uno con habilidades especiales únicas a tu disposición. ¿Tienes lo que se necesita para rebotar hasta las estrellas? Ponte tu gorra pensante y descárgate ahora mismo este título de puzzle!</desc>
+		<image>./mixart/BounceBack (Europe).png</image>
+		<video>./snap/BounceBack (Europe).mp4</video>
+		<marquee>./wheel/BounceBack (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120912T000000</releasedate>
+		<developer>Steel Minions</developer>
+		<publisher>Steel Minions</publisher>
+	</game>
+	<game>
+		<path>./Brainpipe (USA).cso</path>
+		<name>Brainpipe : A Plunge to Unhumanity</name>
+		<desc>Brainpipe : A Plunge to Unhumanity sur PSP est un jeu atypique. Vous voilà embarqués dans une succession de tuyaux multicolores et hypnotiques. Votre objectif est d'éviter les obstacles tout en récoltant des glyphes pour faire monter votre score.</desc>
+		<image>./mixart/Brainpipe (USA).png</image>
+		<video>./snap/Brainpipe (USA).mp4</video>
+		<marquee>./wheel/Brainpipe (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Hands-on Mobile</developer>
+		<publisher>Hands-on Mobile</publisher>
+	</game>
+	<game>
+		<path>./BreakQuest - Extra Evolution (USA).cso</path>
+		<name>BreakQuest : Extra Evolution</name>
+		<desc>BreakQuest ha vuelto y es el doble de divertido! Impresionantes imágenes y formas, física energizante y sonidos excitantes! Disfrute de los 100 niveles rediseñados, cada uno con su propio diseño colorido, elementos de comportamiento y efectos visuales. Un sistema avanzado de física y colisión proporciona una experiencia nunca vista antes para su placer. Y no te olvides de las armas y los bonos de potencia, así como el asombroso Gravitor que atrae la pelota a ti. Romper ladrillos nunca ha sido tan divertido!</desc>
+		<image>./mixart/BreakQuest - Extra Evolution (USA).png</image>
+		<video>./snap/BreakQuest - Extra Evolution (USA).mp4</video>
+		<marquee>./wheel/BreakQuest - Extra Evolution (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20121017T000000</releasedate>
+		<developer>Beatshapers</developer>
+		<publisher>Beatshapers</publisher>
+	</game>
+	<game>
+		<path>./Brick Breaker (USA).cso</path>
+		<name>Brick Breaker</name>
+		<desc>Brick Breaker est un casse-briques à télécharger sur Playstation Portable dans la gamme Minis. Le jeu comprend 50 niveaux en mode classique, 12 niveaux en mode double-palette, des dizaines de bonus insolites, un lance-roquettes, des balles rebondissantes, une plate-forme qui s'englue et un écran qui va vous rendre fou !</desc>
+		<image>./mixart/Brick Breaker (USA).png</image>
+		<video>./snap/Brick Breaker (USA).mp4</video>
+		<marquee>./wheel/Brick Breaker (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20100728T000000</releasedate>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game>
+		<path>./Canabalt (USA).cso</path>
+		<name>Canabalt</name>
+		<desc>Canabalt est un jeu de plates-formes à télécharger sur PSP en jeu Mini. Vous incarnez un jeune homme dans une ville récemment sinistrée par un tremblement de terre. Le but du jeu est de courir dans les rues le plus longtemps possible tout en évitant les divers obstacles vous barrant la route.</desc>
+		<image>./mixart/Canabalt (USA).png</image>
+		<video>./snap/Canabalt (USA).mp4</video>
+		<marquee>./wheel/Canabalt (USA).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20120314T000000</releasedate>
+		<developer>Semi Secret Software</developer>
+		<publisher>Semi Secret Software</publisher>
+	</game>
+	<game>
+		<path>./Card Shark (USA).cso</path>
+		<name>Card Shark</name>
+		<desc>Card Shark aumenta la apuesta presentando los siguientes juegos clásicos: Solitaire, Texas Hold' em, Five Card Draw, Blackjack y Higher or Lower. ¿Crees que puedes ganar mucho dinero y sacar un beneficio? ¡Bueno, ve al casino y pruébatelo tú mismo!</desc>
+		<image>./mixart/Card Shark (USA).png</image>
+		<video>./snap/Card Shark (USA).mp4</video>
+		<marquee>./wheel/Card Shark (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101124T000000</releasedate>
+		<developer>Midas Interactive</developer>
+		<publisher>Midas Interactive</publisher>
+	</game>
+	<game>
+		<path>./Carnivores - Dinosaur Hunter (USA).cso</path>
+		<name>Carnivores : Dinosaur Hunter</name>
+		<desc>Carnivores: Dinosaur Hunter lets players explore huge non-linear locations as they attempt to track down a variety of dinosaurs that are armed with some ferociously advanced AI. As a result, these are no "pea-brained" dinosaurs -- these are dangerous creatures that are able to see, hear and sense the hunter. If you're not careful, it's very easy for the hunter to become the hunted.
+
+With a series of different dinosaurs across varied, distinct environments (including pine forests, muddy marshes and rolling hills,) how you approach your target is important. Wind direction, scent and the use of a special dinosaur call are all key elements in tracking your prey.</desc>
+		<image>./mixart/Carnivores - Dinosaur Hunter (USA).png</image>
+		<video>./snap/Carnivores - Dinosaur Hunter (USA).mp4</video>
+		<marquee>./wheel/Carnivores - Dinosaur Hunter (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate />
+		<developer>Tatem Games</developer>
+		<publisher>Beatshapers</publisher>
+	</game>
+	<game>
+		<path>./Charge! Tank Squad (USA).cso</path>
+		<name>Charge! Tank Squad</name>
+		<desc>Un asalto monstruoso está teniendo lugar en su sistema PSP® y depende de ti, el comandante del tanque, para eliminar las fuerzas invasoras implacables del enemigo. Debes permanecer en alerta constante ya que estos ejércitos son astutos y cambiarán su estilo de ataque para dominarte. Despliega todo tipo de armas y toma el poder en una cruzada para salvar tu base antes de que tu energía y tus fondos se acaben!</desc>
+		<image>./mixart/Charge! Tank Squad (USA).png</image>
+		<video>./snap/Charge! Tank Squad (USA).mp4</video>
+		<marquee>./wheel/Charge! Tank Squad (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100422T000000</releasedate>
+		<developer>Sony Computer Entertainment America, Inc.</developer>
+		<publisher>Sony Computer Entertainment America, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Circles, Circles, Circles (USA).cso</path>
+		<name>Circles, Circles, Circles</name>
+		<desc>The game idea of the circles is inspired from a war strategy called âChakraviguaâ described in the Indian epic Mahabharata. The Sanskrit word Chakravigua means Circle strategy where a battalion forms a circle around the king to protect him.
+
+Circle puzzle is designed in similar fashion. The playerâs circles (Blue small circles) are distributed in border of big circle where the objective is to move the blue circle toward zero to conquer it. Defending playerâs circles (orange small circles) are distributed around the golden zero where the object is to destroy the all the blue circles. 
+
+Moving the circle around works based on simple logic which described in game mechanics section. The player can destroy the opponent circles using simple math skills like (5+3 =?), (4-2 =?). 
+
+Features
+â¢	Three difficulty modes (Easy, Medium &amp; Hard). 
+â¢	40 levels in each mode 
+â¢	120 total levels</desc>
+		<image>./mixart/Circles, Circles, Circles (USA).png</image>
+		<video>./snap/Circles, Circles, Circles (USA).mp4</video>
+		<marquee>./wheel/Circles, Circles, Circles (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Coconut Dodge (USA).cso</path>
+		<name>Coconut Dodge</name>
+		<desc>Coconut Dodge is an arcade game in which a player must dodge falling coconuts, weave through airborne mazes and play beach ball keepy-uppy to collect giant shiny treasures. The game starts quite easy and gradually ramps up to insane levels of coco-bullet action.
+
+What makes the game addictive is the combination of the predictable mazes and the random coconuts and beach balls. It makes the experience similar to a racing game, where the first few attempts at a new track are difficult, but once youve learnt the track, you can hone your movements to perfection whilst confidently dealing with the other cars.
+
+Coconut Dodge works in a similar way as you learn to memorise and master the mazes. Most of the mazes in the game have two different routes; one that is nice and easy, and one that is more difficult. The difficult route always has more valuable treasure in it. So, when you come across a maze you can get through it quite easily, which makes the game suitable for some quick casual play on the bus. However, to get the most treasure and a high score, you have to learn some pretty complex movements that require good rhythm and very high precision.</desc>
+		<image>./mixart/Coconut Dodge (USA).png</image>
+		<video>./snap/Coconut Dodge (USA).mp4</video>
+		<marquee>./wheel/Coconut Dodge (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100519T000000</releasedate>
+		<developer>FuturLab</developer>
+		<publisher>FuturLab</publisher>
+	</game>
+	<game>
+		<path>./Cohort Chess (USA).cso</path>
+		<name>Cohort Chess</name>
+		<desc>Cohort Chess est un jeu d'échecs disponible sur le Playstation Store. Pourvu d'un design singulier, ce titre vous propose d'aiguiser votre sens tactique à l'aide de ce fameux jeu de société et des différents modes de jeu proposés.</desc>
+		<image>./mixart/Cohort Chess (USA).png</image>
+		<video>./snap/Cohort Chess (USA).mp4</video>
+		<marquee>./wheel/Cohort Chess (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110607T000000</releasedate>
+		<developer>Cohort Studios</developer>
+		<publisher>Cohort Studios</publisher>
+	</game>
+	<game>
+		<path>./Core Blaster (USA).cso</path>
+		<name>Core Blaster</name>
+		<desc>¡Fuego en el agujero! Hay una fuga en el reactor principal y miles de núcleos atómicos están sueltos. ¡No dejes que los núcleos pasen por la puerta! nnnnPoderosos blasters están a tu disposición. Úsalos estratégicamente para destruir los núcleos radioactivos. nnnnCombina las armas correctas y aplasta estos peligros antes de que provoquen la explosión de todo el sistema.</desc>
+		<image>./mixart/Core Blaster (USA).png</image>
+		<video>./snap/Core Blaster (USA).mp4</video>
+		<marquee>./wheel/Core Blaster (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101215T000000</releasedate>
+		<developer>RingZero Game Studio Co., Ltd.</developer>
+		<publisher>RingZero Game Studio Co., Ltd.</publisher>
+	</game>
+	<game>
+		<path>./Crime Spree (Europe).cso</path>
+		<name>Crime Spree</name>
+		<desc>Yo! I got a "job" for you, if you know what I mean. The Godfather needs a favor for the Mafia. I need you to drive a getaway car, collect cash, and outrun some cops thatâll be chasing you. Race through the city as fast as you can and find some loot that some of my boys left hanging around. The cops are onto us so youâre gunna have some heat on you. I mean a LOT of heat. But donât worry, my cousin Johnny left some oil cans and a few other 'tings laying around for youse to use. Just remember, your getaway car is always in motion so make sure the cops don't get you cornered! Got it! Now get 'otta here!</desc>
+		<image>./mixart/Crime Spree (Europe).png</image>
+		<video>./snap/Crime Spree (Europe).mp4</video>
+		<marquee>./wheel/Crime Spree (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110215T000000</releasedate>
+		<developer>GameShastra Solutions Pvt Ltd</developer>
+		<publisher>GameShastra Solutions Pvt Ltd</publisher>
+	</game>
+	<game>
+		<path>./Cubixx (USA).cso</path>
+		<name>Cubixx</name>
+		<desc>Cubixx HD is a puzzle game developed by UK-based studio Laughing Jackal released on the PlayStation Network in Europe on August 17, 2011 [1] and September 20, 2011 in North America.[2] It is the HD sequel to Cubixx, a 2009 PlayStation mini title.</desc>
+		<image>./mixart/Cubixx (USA).png</image>
+		<video>./snap/Cubixx (USA).mp4</video>
+		<marquee>./wheel/Cubixx (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20091222T000000</releasedate>
+		<developer>Laughing Jackal</developer>
+		<publisher>Laughing Jackal</publisher>
+	</game>
+	<game>
+		<path>./D-Cube Planet (USA).cso</path>
+		<name>D-cube Planet</name>
+		<desc>The goal of the game is to move the alien to its destination. The alien is trapped in an array of cubes. The player can move the alien and the cubes. The alien can be moved in all four directions based on empty spaces available around him. Cubes can be moved only in the directions indicated by the arrow marks on the cubes. So the player has to move the alien and the cubes wisely to make path for the alien to collect the spare parts and other interesting elements in the world. 
+
+Features 
+â¢	Three difficulty mode (Easy, Medium &amp; Hard)
+â¢	40 levels in each mode 
+â¢	Totally 120 levels</desc>
+		<image>./mixart/D-Cube Planet (USA).png</image>
+		<video>./snap/D-Cube Planet (USA).mp4</video>
+		<marquee>./wheel/D-Cube Planet (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Days of Thunder (USA).cso</path>
+		<name>Days Of Thunder</name>
+		<desc>Juegas contra el personaje de Cruise's Cole Trickle (su nombre, como muchos de los otros, es ligeramente diferente al de un verdadero piloto de NASCAR del día) contra tus rivales en 8 pistas, basado en personajes reales. Las carreras son todas en óvalos, aunque las longitudes exactas, tipos de esquinas y gradientes son variados. Esto significa que la línea de carrera ideal en una pista puede ponerte en la pared en otra. La calificación se incorpora junto a las propias carreras.</desc>
+		<image>./mixart/Days of Thunder (USA).png</image>
+		<video>./snap/Days of Thunder (USA).mp4</video>
+		<marquee>./wheel/Days of Thunder (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Argonaut Software Ltd.</developer>
+		<publisher>Mindscape, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Defenders of the Mystic Garden (USA).cso</path>
+		<name>Defenders Of The Mystic Garden</name>
+		<desc>Defenders of the Mystic Garden es un juego del popular género de juegos Tower Defense. Los jugadores encontrarán que varios animales e insectos están causando estragos en nuestros gnomos de jardín y robando sus fresas. Depende de ti colocar y dirigir tus defensas. En lugar de torres estáticas se coloca uno de los cuatro tipos de unidades. Estas unidades también se pueden mover o poner a patrullar entre dos puntos. nn</desc>
+		<image>./mixart/Defenders of the Mystic Garden (USA).png</image>
+		<video>./snap/Defenders of the Mystic Garden (USA).mp4</video>
+		<marquee>./wheel/Defenders of the Mystic Garden (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120418T000000</releasedate>
+		<developer>Twisted Dragon Media</developer>
+		<publisher>Twisted Dragon Media</publisher>
+	</game>
+	<game>
+		<path>./Deflector (USA).cso</path>
+		<name>Deflector</name>
+		<desc>Deflector est un jeu de réflexion sur PSP dans lequel il faut opérer de nombreuses déflexions sur des lasers pour qu'ils atteignent le receveur de leur couleur avec pour ce faire à disposition seulement des miroirs et des prismes qu'il faut en prime acheter avec parcimonie à cause du budget limité dont le joueur dispose au début de chaque niveau, ce qui corse notablement la difficulté.</desc>
+		<image>./mixart/Deflector (USA).png</image>
+		<video>./snap/Deflector (USA).mp4</video>
+		<marquee>./wheel/Deflector (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100114T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Doodle Pool (USA).cso</path>
+		<name>Doodle Pool</name>
+		<desc>Doodle Pool est un jeu de billard disponible sur le Playstation Store de la Playstation Portable. Découvrez les diverses façons de jouer à ce jeu de boules : à la française, à l'américaine... Et défiez vos amis dans les différents modes de jeu proposés.</desc>
+		<image>./mixart/Doodle Pool (USA).png</image>
+		<video>./snap/Doodle Pool (USA).mp4</video>
+		<marquee>./wheel/Doodle Pool (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110309T000000</releasedate>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game>
+		<path>./Dr. Mini Games (USA).cso</path>
+		<name>Dr. Minigames</name>
+		<desc>Dr. Minigames est une compilation de mini-jeux disponible sur le Playstation Store de la Playstation Portable. Une variété de jeux très courts vous est proposée et il est possible de faire varier leur niveau de difficulté.</desc>
+		<image>./mixart/Dr. Mini Games (USA).png</image>
+		<video>./snap/Dr. Mini Games (USA).mp4</video>
+		<marquee>./wheel/Dr. Mini Games (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101215T000000</releasedate>
+		<developer>StormBASIC S.L.</developer>
+		<publisher>StormBASIC S.L.</publisher>
+	</game>
+	<game>
+		<path>./Dracula - Undead Awakening (USA).cso</path>
+		<name>Dracula : Undead Awakening</name>
+		<desc>In this chilling top-down shooter, you play a vampire hunter must combat hordes of undead enemies like zombies, ghouls, werewolves, vampire brides and more. Can you stand the night?</desc>
+		<image>./mixart/Dracula - Undead Awakening (USA).png</image>
+		<video>./snap/Dracula - Undead Awakening (USA).mp4</video>
+		<marquee>./wheel/Dracula - Undead Awakening (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091126T000000</releasedate>
+		<developer>Chillingo</developer>
+		<publisher>Chillingo</publisher>
+	</game>
+	<game>
+		<path>./Drums Challenge (USA).cso</path>
+		<name>Drums Challenge</name>
+		<desc>Sumérgete en batallas musicales con los mejores bateristas del mundo.nnDiviértete tocando en una batería virtual y desafía a bateristas de muchos estilos diferentes!nnnnMuestra tus habilidades: ¿tu oponente se exhibe en una secuencia de golpes de tambor? Réplica con la sincronización perfecta! nnnnGana desafíos para ganar piezas especiales de tambor y completar tu batería FreeStyle.</desc>
+		<image>./mixart/Drums Challenge (USA).png</image>
+		<video>./snap/Drums Challenge (USA).mp4</video>
+		<marquee>./wheel/Drums Challenge (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110531T000000</releasedate>
+		<developer>MusiGames</developer>
+		<publisher>Sanuk Games SARL</publisher>
+	</game>
+	<game>
+		<path>./Duael Invaders (USA).cso</path>
+		<name>Duæl Invaders</name>
+		<desc>Duæl Invaders is an old-school, fixed-screen shoot 'em up, mixing the classic formula seen in countless great '80s games with its own unique brand of simultaneous 2-ship control. The game’s concept is centered on the idea of controlling two player ships simultaneously (on a single PSP or PS3 controller) across single player and 2-player co-operative and adversarial game modes.
+
+In all modes your ships (one red, one blue) are tasked with destroying wave upon wave of red and blue enemies; the idea being to survive, waste the bad guys and attain the highest score possible. Some of your enemies will cause chain reactions or change other enemies’ colors, so picking out the best shots will really help you survive and rack up those high scores!</desc>
+		<image>./mixart/Duael Invaders (USA).png</image>
+		<video>./snap/Duael Invaders (USA).mp4</video>
+		<marquee>./wheel/Duael Invaders (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110419T000000</releasedate>
+		<developer>Laughing Jackal</developer>
+		<publisher>Laughing Jackal</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dynogems (USA).cso</path>
+		<name>Dynogems</name>
+		<desc>DynoGems is an addictive and challenging puzzle game! Grab and group four or more diamonds of the same color to eliminate them from the screen, until you fill the level bar.</desc>
+		<image>./mixart/Dynogems (USA).png</image>
+		<video>./snap/Dynogems (USA).mp4</video>
+		<marquee>./wheel/Dynogems (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20091210T000000</releasedate>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game>
+		<path>./Earthshield (USA).cso</path>
+		<name>Earthshield</name>
+		<desc>Defiende el planeta contra los invasores alienígenas en este clásico juego de arcade vertical. Multiplica tu puntuación más rápido haciendo que tus enemigos aparezcan más rápido.</desc>
+		<image>./mixart/Earthshield (USA).png</image>
+		<video>./snap/Earthshield (USA).mp4</video>
+		<marquee>./wheel/Earthshield (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Echoes (USA).cso</path>
+		<name>Echoes</name>
+		<desc>Race to collect crystals while dodging the Echoes shadowing your footsteps in this innovative, seat-of-your-pants arcade game. Halfbrick Echoes is an action puzzle game in which players collect crystals within many surreal, artistic worlds. As each crystal is collected, an enemy called an Echo will spawn. Echoes are translucent versions of the player's hat icon, and they will walk the exact same path the hat walked between collecting crystals. The goal is to successfully complete the level by collecting all the crystals. Coming into contact with an Echo will result in one life being lost.</desc>
+		<image>./mixart/Echoes (USA).png</image>
+		<video>./snap/Echoes (USA).mp4</video>
+		<marquee>./wheel/Echoes (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20091119T000000</releasedate>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+	</game>
+	<game>
+		<path>./HISTORY - Egypt - Engineering an Empire (USA).cso</path>
+		<name>Egypt : Engineering an Empire</name>
+		<desc>HISTORY Egypt Engineering Empire allows players to build their own empire from its foundations to the height of its power. Acting as the leader of a territory from the Egyptian Empire, players manage all aspects of its rise, from economic growth to political power, the development of armies, and expansion into other regions by war and diplomacy. 
+
+Empires are controlled from three main views: the Campaign Map shows the entire game world, including mountains, forests, coastlines, oceans, rivers, cites, and armies. The City Map gives players an overview of the structure and role of a city within the empire, and provides a basis for economic decisions. The Battle Map is to be used when diplomacy has run its course or when a city is being attacked, resulting in turn-based combat. 
+
+All nations, cities and armies were carefully researched to ensure historical accuracy. The game is accessible for new users, while offering deeper gameplay for expert players.</desc>
+		<image>./mixart/HISTORY - Egypt - Engineering an Empire (USA).png</image>
+		<video>./snap/HISTORY - Egypt - Engineering an Empire (USA).mp4</video>
+		<marquee>./wheel/HISTORY - Egypt - Engineering an Empire (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101020T000000</releasedate>
+		<developer>Slitherine Software</developer>
+		<publisher>Slitherine Software</publisher>
+	</game>
+	<game>
+		<path>./Enchanted Cavern (Europe).cso</path>
+		<name>Enchanted Cavern</name>
+		<desc>The moment you step through the mouth of the cave, your eyes behold an amazing sight: the walls are lined with thousands of glittering jewels! By matching groups of precious stones, you'll be able to work your way toward a treasure of untold value! Featuring exhilarating gameplay, stunning visuals and special logic challenges that will test your mental mettle, Enchanted Cavern is a journey the entire family will enjoy!</desc>
+		<image>./mixart/Enchanted Cavern (Europe).png</image>
+		<video>./snap/Enchanted Cavern (Europe).mp4</video>
+		<marquee>./wheel/Enchanted Cavern (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120912T000000</releasedate>
+		<developer>Wellore</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Enigmo (USA).cso</path>
+		<name>Enigmo</name>
+		<desc>Enigmo is a 3D puzzle game where you direct animated streams of flowing liquid so that the droplets get to their destination. Water, Oil, and Lava fall from Droppers and bounce around the walls of the puzzle. You move and rotate various types of bumpers, sliders, accelerators, and sponges in order to divert the flow of the falling droplets. The faster you complete each of the 50 levels, the more bonus points you receive.</desc>
+		<image>./mixart/Enigmo (USA).png</image>
+		<video>./snap/Enigmo (USA).mp4</video>
+		<marquee>./wheel/Enigmo (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20110316T000000</releasedate>
+		<developer>Pangea Software</developer>
+		<publisher>Pangea Software</publisher>
+	</game>
+	<game>
+		<path>./Epyx's Impossible Mission (Europe).cso</path>
+		<name>Epyx's Impossible Mission</name>
+		<desc>Epyx's Impossible Mission est un jeu de réflexion disponible sur le Playstation Store de la Playstation Portable. Vous disposez de six heures pour retrouver les six pièces de puzzle d'un scientifique fou tout en échappant à diverses créatures et ainsi sauver le monde.</desc>
+		<image>./mixart/Epyx's Impossible Mission (Europe).png</image>
+		<video>./snap/Epyx's Impossible Mission (Europe).mp4</video>
+		<marquee>./wheel/Epyx's Impossible Mission (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101124T000000</releasedate>
+		<developer>System 3</developer>
+		<publisher>System 3</publisher>
+	</game>
+	<game>
+		<path>./Family Games (USA).cso</path>
+		<name>Family Games : Pen &amp; Paper Edition</name>
+		<image>./mixart/Family Games (USA).png</image>
+		<video>./snap/Family Games (USA).mp4</video>
+		<marquee>./wheel/Family Games (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110105T000000</releasedate>
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+	</game>
+	<game>
+		<path>./Farm Frenzy (USA).cso</path>
+		<name>Farm Frenzy</name>
+		<desc>Farm Frenzy is a straightforward time-management game, where the player controls a farm, raising animals and selling products to the market. The main game screen is mostly occupied by a central bare patch of land where the farm animals roam, surrounded by a series of farm implements and machines. All necessary actions are performed with clicks over interactive hotspots of the scenery.</desc>
+		<image>./mixart/Farm Frenzy (USA).png</image>
+		<video>./snap/Farm Frenzy (USA).mp4</video>
+		<marquee>./wheel/Farm Frenzy (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101215T000000</releasedate>
+		<developer>Melesta</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Farm Frenzy - Pizza Party (USA).cso</path>
+		<name>Farm Frenzy - Pizza Party</name>
+		<desc>Do you like pizza as much as we do? Then you'll love the pepperoni-packed sequel to the farming sim ? Farm Frenzy: Pizza Party!nnAt first, you'll grow crops, feed animals and collect produce, and then you'll turn your goods into the ingredients you need to make a variety of pizzas. From China to Germany and Italy to New York City (where pizza is considered one of the main food groups), people from around the world will enjoy your mouthwatering creations!</desc>
+		<image>./mixart/Farm Frenzy - Pizza Party (USA).png</image>
+		<video>./snap/Farm Frenzy - Pizza Party (USA).mp4</video>
+		<marquee>./wheel/Farm Frenzy - Pizza Party (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120606T000000</releasedate>
+		<developer>Alawar Entertainment, Inc.</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Farm Frenzy 2 (USA).cso</path>
+		<name>Farm Frenzy 2</name>
+		<desc>Farm Frenzy 2 is a time management game, where each action (feeding animals, producing goods, trading) needs a specific amount of time to be completed.nnnnIn the game the player has to produce a specific amount of goods within a given time. The basic action is planing grass to feed the animals. The animals will produce basic goods (e.g. hens will lay eggs) which can be sold in the city. Basic products can be processed to more valuable goods (e.g. eggs to egg powder and egg powder to cakes). Between the levels there is an upgrade shop where the player can spend stars to improve buildings and farm helpers.</desc>
+		<image>./mixart/Farm Frenzy 2 (USA).png</image>
+		<video>./snap/Farm Frenzy 2 (USA).mp4</video>
+		<marquee>./wheel/Farm Frenzy 2 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120307T000000</releasedate>
+		<developer>Alawar Melesta</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Farm Frenzy 3 (USA).cso</path>
+		<name>Farm Frenzy 3</name>
+		<desc>Farm Frenzy 3 is a time management game in which you have to fulfill tasks in a certain time. Produce goods, buy new buildings and vehicles and improve them with upgrades to earn more money form selling your goods. In return, use this money to buy the upgrades. The game includes 95 levels in 5 different countries, 30 animals, 33 different goods and 17 buildings and vehicles.</desc>
+		<image>./mixart/Farm Frenzy 3 (USA).png</image>
+		<video>./snap/Farm Frenzy 3 (USA).mp4</video>
+		<marquee>./wheel/Farm Frenzy 3 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Easy Interactive</developer>
+		<publisher>Alawar Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Feisty Feet (USA).cso</path>
+		<name>Feisty Feet</name>
+		<desc>Welcome to the annual eXtreme Running Championship! Compete with fierce opponents for the grand prize. Freeze your rivals with snowballs, set traps to slow them down and use speed boost to charge your way to victory. Earn coins for your performance and upgrade your skills for ultimate dominance.nnUnlock marathon mode and exercise your long distance running ability versus fifty AI controlled rivals in an extreme running mayhem!</desc>
+		<image>./mixart/Feisty Feet (USA).png</image>
+		<video>./snap/Feisty Feet (USA).mp4</video>
+		<marquee>./wheel/Feisty Feet (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120926T000000</releasedate>
+		<developer>iSquared Games Ltd.</developer>
+		<publisher>iSquared Games Ltd.</publisher>
+	</game>
+	<game>
+		<path>./Fieldrunners (USA).cso</path>
+		<name>Fieldrunners</name>
+		<desc>Defend your territory in Fieldrunners, a strategy game in the vein of Desktop Tower Defense.  Enemies begin to cross a field, and your goal is to prevent them from reaching the other side.  To do this, you are given cash to spend placing turrets, flamethrowers, rocket launchers and other defensive equipment across the field.  As you progress, you earn more money, which can be used to replace or upgrade existing equipment, or build more of it to increase your defensive power.</desc>
+		<image>./mixart/Fieldrunners (USA).png</image>
+		<video>./snap/Fieldrunners (USA).mp4</video>
+		<marquee>./wheel/Fieldrunners (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Subatomic Studios</developer>
+		<publisher>Subatomic Studios</publisher>
+	</game>
+	<game>
+		<path>./Fish Tank (USA).cso</path>
+		<name>Fish Tank</name>
+		<desc>Fish Tank is a first "Match-3" game that not only offers lots of fun with finding groups of fishes in the same colors on the grid, but also offers player way to navigate new swimming fishes into desired place on the grid. 
+Because of that you are not only entertained by normal matching game mechanics but also with dynamic, reflex based gameplay!</desc>
+		<image>./mixart/Fish Tank (USA).png</image>
+		<video>./snap/Fish Tank (USA).mp4</video>
+		<marquee>./wheel/Fish Tank (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110405T000000</releasedate>
+		<developer>iFun4all</developer>
+		<publisher>iFun4all</publisher>
+	</game>
+	<game>
+		<path>./Flick Fishing (USA).cso</path>
+		<name>Flick Fishing</name>
+		<desc>Lanza tu caña, espera a que piquen y recoge el anzuelo. Utiliza una hábil combinación de cebo, ubicación y técnica para pescar, y recoge sin que se te escape.
+Visita siete enclaves de pesca, utiliza nueve tipos de cebo y compite en 12 torneos diferentes.
+Pesca diferentes tipos de peces y no olvides que los más grandes son fuertes y no es tan fácil recogerlos.</desc>
+		<image>./mixart/Flick Fishing (USA).png</image>
+		<video>./snap/Flick Fishing (USA).mp4</video>
+		<marquee>./wheel/Flick Fishing (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101026T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>TBC</publisher>
+	</game>
+	<game>
+		<path>./Floating Cloud God Saves the Pilgrims (USA).cso</path>
+		<name>Floating Cloud God Saves The Pilgrims</name>
+		<desc>Floating Cloud God Saves the Pilgrims is a Playstation Mini game for PSP and Vita.  
+
+Floating Cloud God Saves the Pilgrims is exactly that, a 2D shooter built around the eponymous deity (controlled by the player) and his quest to protect eight pilgrims in their journey across perilous territories.
+
+Your own shots just knock their hats off, but getting hit by anything else will kill a pilgrim and send their spirit floating off with a sad little wail. This is bad not only because the pilgrims are a de facto health bar (losing them all ends the game) but powering up Cloud God depends on harvesting their love - juicy little hearts that pop up whenever you kill an enemy and increase in size as you blast more.
+
+You must get all of the love (given form as hearts) that they release, which then makes you much more powerful than you already are. You increase in size, look more menacing, and your attacks are more powerful. The pilgrims get the most excited when they witness ambushing ghosts and ghouls get annihilated by you. When they are excited, they produce more love, meaning more power to you.
+
+However, you have to be very careful when shooting. You grow weaker with every shot, so try not to channel your inner war-freak and have a little restraint, for the good of both yourself and the pilgrims. You also lose some of your steam if you get hit by enemy forces. And sometimes, the situation calls to for you to sacrifice your mightiness and provide cover to the pilgrims from the enemy assault with your own self.
+
+There are two types of attack: the normal shot (by pressing X), and the bomb shot (by pressing Circle). The direction of the normal shot depends on what direction you are pressing, so there is some strategy to what part of the screen you should be shooting from. Being too far from your pilgrims is very dangerous but allows you to cover more ground, while launching a full frontal assault can protect your pilgrims by absorbing all the incoming fire. You have to think through, in real time, what tactics you would like to employ. You can always get in the middle, then rush forward, then get to a safe distance; mix and match, and you got yourself going.
+
+The bomb shot is used if you are above the enemy. But thatâs not all, as some enemies canât be killed with the bomb shot, only with the normal shot, and vice versa. There are also enemies where you have to inflict bomb shot damage first before switching to the normal shot to take them out.
+
+Enemies are varied, and they look good, even if they are vile and evil. There are boss fights, too, to keep you on your toes.  The Cloud God's powers and the heart system mesh so well that any enemy can be destroyed in a blink - so they've got to be deceptive, sneaky, and sometimes numerous. Paper lanterns send out an arcing flame on death, red-eyed foxes hide in the scenery, imps swoop to carry off unlucky pilgrims and bobbing doll heads send out swarms of kisses. Hands start clawing up from the ground, crows dive-bomb your crew, and demons with phallic noses launch them as languorous, looping rockets. The cheeky oriental stylings are gorgeous, transforming symbols into everything from freaky momiji to dick-nosed devils.
+
+As this suggests, one of the reasons Floating Cloud God is such a pleasure to play is its visual inventiveness, which has room enough for everything from Wario tributes to what looks like a crying poo. This big lump of a thing, which is introduced in a level called The Saddest Enemy, explodes into gobbets of mini-poo that are very useful for building up a heart multiplier. Perhaps they're babies? That would explain the sadness.
+
+Floating Cloud God has bags more where that came from, and despite the Minis tag has plenty of room to breathe (there are seven worlds with 27 stages, including boss fights). And it keeps on surprising. The controls are simplicity itself: left stick to move, one button to shoot and one to bomb. But you soon realise the subtlety of how shooting affects movement and vice-versa, which fairly soon you're depending on against every enemy pattern. The pilgrims, too, are loosely tied to Cloud God during some sections, and learning how to manage their momentum is another little learning curve.
+
+The final touch is a minor detail that ties up everything. The pilgrims' hats can be improved. There's no in-game benefit to this, beyond looking much more awesome, and it's done by completing stages without losing a single pilgrim. Obviously, if you start this process on the first level and never lose a pilgrim, the hats just keep getting better.
+
+Seems like such a small thing, doesn't it? Soon nothing but a perfect run will do. The restart option is accessible, knowing, and tempting. Every time a pilgrim fell, it was too much to take - I didn't see their tiny spirit float off to heaven so much as all my future headwear ambitions. And to be fair, by that point I had four dudes with top hats, two with octopus heads and two with space hero helmets. You can't be replacing any of them with Norman and his brown cap just because some demon gets a lucky shot in.
+
+That's the best thing about Floating Cloud God Saves the Pilgrims. You do want to save them, and not just because they represent 'health'. The hats are a big part of it, but just as much is the sense of pride in being a badass god - harvesting power at the right moment to smash through oncoming waves, battling desperate rear-guard actions against hails of deadly kisses and throwing yourself in bodily as a last resort (which sometimes works!). The little yelp as a pilgrim goes down is a sharp reprimand, a blow to the daydreams of an all-conquering deity.
+
+This description was compiled from the following reviews:
+http://www.eurogamer.net/articles/2012-04-19-floating-cloud-god-saves-the-pilgrims-review
+http://www.pspminis.com/8859/floating-cloud-god-saves-the-pilgrims-review-if-the-indication-of-a-good-game-is-a-lengthy-title-then-that-rule-applies-here/</desc>
+		<image>./mixart/Floating Cloud God Saves the Pilgrims (USA).png</image>
+		<video>./snap/Floating Cloud God Saves the Pilgrims (USA).mp4</video>
+		<marquee>./wheel/Floating Cloud God Saves the Pilgrims (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120418T000000</releasedate>
+		<developer>Dakko Dakko</developer>
+		<publisher>Dakko Dakko</publisher>
+	</game>
+	<game>
+		<path>./Fly Fu (USA).cso</path>
+		<name>Fly Fu</name>
+		<desc>Fly Fu is a side-scrolling beat-'em-up game with characters designed from photographs of dead insects mixed with doodle art. 
+Your girlfriend, Kate Moth, a fluffy moth was kidnapped by evil spiders and dragged away to the suburb.
+You are not a common housefly but trained to fight. Being a Kung-Fu master, only you can save your love from the claws of the evil insects!</desc>
+		<image>./mixart/Fly Fu (USA).png</image>
+		<video>./snap/Fly Fu (USA).mp4</video>
+		<marquee>./wheel/Fly Fu (USA).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20100720T000000</releasedate>
+		<developer>Invictus</developer>
+		<publisher>Invictus</publisher>
+	</game>
+	<game>
+		<path>./Forest Puzzle (USA).cso</path>
+		<name>Forest Puzzle</name>
+		<desc>Forest Puzzle is the game in which you need to save strange creatures called Sparks on 60 challenging levels in 3 different game modes. Deadly creatures like Golems, Zombies, Firebats and Ghosts will be pursuing you.nn- Complete levels and save enough Sparks to unlock new, more challenging stages. nn- Find the way to Exit Portal through the numerous puzzles in Puzzle mode.</desc>
+		<image>./mixart/Forest Puzzle (USA).png</image>
+		<video>./snap/Forest Puzzle (USA).mp4</video>
+		<marquee>./wheel/Forest Puzzle (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100512T000000</releasedate>
+		<developer>IBA Group</developer>
+		<publisher>IBA Group</publisher>
+	</game>
+	<game>
+		<path>./Fort Commander - King's Gambit (USA).cso</path>
+		<name>Fort Commander : King's Gambit</name>
+		<desc>Fort Commander is a twist on the classic tower defense genre set in the Mogul conquest period. You play the role of the commander of the Mogul army. You must defeat two opposing kingdoms - Lodi and Sur - in a total of 14 missions including two Assault and two Survival. The gameplay is built around the strategy for expanding and controlling the Mogul empire. In Campaign mode, you defend your tower until the enemy population is depleted and then you conquer their tower. In Assault mode, you charge the enemy tower until you deplete their population.</desc>
+		<image>./mixart/Fort Commander - King's Gambit (USA).png</image>
+		<video>./snap/Fort Commander - King's Gambit (USA).mp4</video>
+		<marquee>./wheel/Fort Commander - King's Gambit (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101005T000000</releasedate>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game>
+		<path>./Fort Commander II - Counterattack (USA).cso</path>
+		<name>Fort Commander II : Counterattack</name>
+		<desc>Fort Commander is a twist on the classic tower defense genre set in the Mogul conquest period. You play the role of the commander of the Mogul army. You must defeat two opposing kingdoms - Malwa and Bengal - in a total of 14 missions including two Assault and two Survival. The game play is built around the strategy for expanding and controlling the Mogul empire. In Campaign mode, you defend your tower until the enemy population is depleted and then you conquer their tower. In Assault mode, you charge the enemy tower until you deplete their population.</desc>
+		<image>./mixart/Fort Commander II - Counterattack (USA).png</image>
+		<video>./snap/Fort Commander II - Counterattack (USA).mp4</video>
+		<marquee>./wheel/Fort Commander II - Counterattack (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101110T000000</releasedate>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game>
+		<path>./Fortix (USA).cso</path>
+		<name>Fortix</name>
+		<desc>Fortix is a Qix variant with a medieval fantasy theme. The game takes places in the land of Fortiana where the reign of evil forces have turned the place into a desolate wasteland. The player takes control of the heir of the late king, Knight Fortix in his attempt to reclaim the land from the dark ruler.</desc>
+		<image>./mixart/Fortix (USA).png</image>
+		<video>./snap/Fortix (USA).mp4</video>
+		<marquee>./wheel/Fortix (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Nemesys Team Studio</developer>
+		<publisher>Nemesys Team Studio</publisher>
+	</game>
+	<game>
+		<path>./Free Shot Frenzy (Europe).cso</path>
+		<name>Free Shot Frenzy</name>
+		<desc>Es un juego arcade de deportes, donde el jugador lanza pelotas de baloncesto en una sucesión rápida para tratar de obtener la mayor cantidad de canastas. El objetivo del juego es anotar el máximo número de canastas posibles. Los hoopsters se mueven por la pantalla para hacer el juego más difícil.</desc>
+		<image>./mixart/Free Shot Frenzy (Europe).png</image>
+		<video>./snap/Free Shot Frenzy (Europe).mp4</video>
+		<marquee>./wheel/Free Shot Frenzy (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Freekscape - Escape From Hell (USA).cso</path>
+		<name>Freekscape : Escape from Hell</name>
+		<desc>Freekscape: Escape from Hell is a 2.5D puzzle platformer. The protagonist is the horned demon Freek who is left behind in hell because he does not enjoy torturing souls. That is why he is tasked with housekeeping chores instead by his master Beel. Working alone, he discovers the key to the treasure room, steals a trident and attempts to escape hell to reach heaven. To complete levels the exit needs to be reached. Levels are accessed one by one on a large world map and they branch out at a certain point with multiple paths.</desc>
+		<image>./mixart/Freekscape - Escape From Hell (USA).png</image>
+		<video>./snap/Freekscape - Escape From Hell (USA).mp4</video>
+		<marquee>./wheel/Freekscape - Escape From Hell (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100408T000000</releasedate>
+		<developer>Kidguru</developer>
+		<publisher>Creat Studios</publisher>
+	</game>
+	<game>
+		<path>./Funky Punch (USA).cso</path>
+		<name>Funky Punch</name>
+		<desc>In the unique world of Funkyville, a musical power called the ?Funky Flow? has empowered some with amazing abilities. But Klyde has evil plans for the ?Funky Flow? and has built an army of Emoticons to do his bidding and control the flow for himself. Now the battle is at hand. Which side will you choose?</desc>
+		<image>./mixart/Funky Punch (USA).png</image>
+		<video>./snap/Funky Punch (USA).mp4</video>
+		<marquee>./wheel/Funky Punch (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Solus Games</developer>
+		<publisher>Solus Games</publisher>
+	</game>
+	<game>
+		<path>./Future Fight (Europe).cso</path>
+		<name>Future Fight</name>
+		<desc>Future Fight is tactic battle game in which all sides are performing their turns at the same time for true battle mayhem!nnIt is only tactic game in which you can reverse time to surprise your enemies! You can also try to bribe enemy units to leave from the battle.nnGame utilizes extremely simple point &amp; shoot interface so you can focus only on managing your army and lead it to glorious victory!</desc>
+		<image>./mixart/Future Fight (Europe).png</image>
+		<video>./snap/Future Fight (Europe).mp4</video>
+		<marquee>./wheel/Future Fight (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Bloober Team</developer>
+		<publisher>Bloober Team</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Galcon Labs (USA).cso</path>
+		<name>Galcon Labs</name>
+		<desc>Conquista la Galaxia como nunca antes! Galcon Labs es un impresionante juego de estrategia de arcade galáctica a gran velocidad. Envía enjambres de naves para derrotar planetas enemigos y conquistar el universo!</desc>
+		<image>./mixart/Galcon Labs (USA).png</image>
+		<video>./snap/Galcon Labs (USA).mp4</video>
+		<marquee>./wheel/Galcon Labs (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110927T000000</releasedate>
+		<developer>Hassey Enterprises</developer>
+		<publisher>Hassey Enterprises</publisher>
+	</game>
+	<game>
+		<path>./Gamocracy One - Legend of Robot (USA).cso</path>
+		<name>Gamocracy One - Legend Of Robot</name>
+		<desc>La Leyenda del Robot es algo muy especial. Es el producto del proyecto Gamocracia, en el que The Bearded Ladies invitó a los miembros del foro de la comunidad PlayStation® a diseñar un juego. El resultado es un increíble platformer con una mecánica de juego muy única y personajes coloridos.nnEn verdadero espíritu Gamocracia aquí está el lanzamiento de ventas de uno de los miembros del foro: nn¿Alguna vez has considerado cómo sería lanzar tu propia cabeza y usarla como plataforma o arma? ¿Qué tal convertir tus brazos en cánones de energía e imanes? En Legend of Robot puedes hacer todas estas cosas!</desc>
+		<image>./mixart/Gamocracy One - Legend of Robot (USA).png</image>
+		<video>./snap/Gamocracy One - Legend of Robot (USA).mp4</video>
+		<marquee>./wheel/Gamocracy One - Legend of Robot (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110815T000000</releasedate>
+		<developer>The Bearded Ladies Consulting</developer>
+		<publisher>Ayeware AB</publisher>
+	</game>
+	<game>
+		<path>./Golf Mania (USA).cso</path>
+		<name>Golf Mania</name>
+		<desc>Golf Mania features over 90 holes of golfing mayhem that is easy to learn but tough to master. 
+
+With single and multiplayer gaming on classic grass courses and modern courses built upon incredible gravity defying glass towers, Golf Mania offers hours of gameplay for the whole family.</desc>
+		<image>./mixart/Golf Mania (USA).png</image>
+		<video>./snap/Golf Mania (USA).mp4</video>
+		<marquee>./wheel/Golf Mania (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120411T000000</releasedate>
+		<developer>Icon Games Entertainment Ltd.</developer>
+		<publisher>Icon Games Entertainment Ltd.</publisher>
+	</game>
+	<game>
+		<path>./GreenTechPlus (Europe).cso</path>
+		<name>Green Tech Plus</name>
+		<desc>greenTech+ is a commercial version of the freeware game greenTech. Just like in the original game the player controls a hurricane in an attempt to steer polluted clouds into cleansing factories, to create cleaner air and thwart global warming. Polluted clouds are sent out gradually and these are drawn towards the hurricane that can move about freely on the screen. By moving the hurricane and keeping track of all pollution, the clouds need to be steered into the factories. Borrowing from the mechanics of Tower Defense games, the pollution needs to be moved away from high pressure zones. These zones immediately absorb the pollution and disperse it, adding 10% to the global warming percentage. Similarly, having pollution touch the hurricane yields a 20% percentage. When 100% is reached, Earth is destroyed and the game is over.</desc>
+		<image>./mixart/GreenTechPlus (Europe).png</image>
+		<video>./snap/GreenTechPlus (Europe).mp4</video>
+		<marquee>./wheel/GreenTechPlus (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110126T000000</releasedate>
+		<developer>Vertigo Games</developer>
+		<publisher>YoYo Games Ltd</publisher>
+	</game>
+	<game>
+		<path>./L.A. Gridlock (Europe).cso</path>
+		<name>Gridlock, La</name>
+		<image>./mixart/L.A. Gridlock (Europe).png</image>
+		<video>./snap/L.A. Gridlock (Europe).mp4</video>
+		<marquee>./wheel/L.A. Gridlock (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120411T000000</releasedate>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game>
+		<path>./Blast Off (USA).cso</path>
+		<name>Halfbrick Blast Off</name>
+		<desc>Blast Off is an interstellar arcade game featuring gravity fields, lost astronauts and bizarre planetary systems. Use your rocket ship to rescue astronauts and carry them through the warpgate to safety. But be careful! The ever-present force of gravity can help you on your journey, but can also bring you crashing down. 
+
+
+- 45 missions across four difficulty settings
+- Planets and Asteroids gravity attract the ship, allowing players to float around the level
+- Black Holes attract the ship with even more ferocity
+- White Holes have a reverse gravity field, pushing the ship away
+- Mission success is ranked on remaining fuel and air, astronauts collected
+- Awarded Silver, Gold or Brick medals based on final mission outcome 
+
+Good luck, and Blast Off!</desc>
+		<image>./mixart/Blast Off (USA).png</image>
+		<video>./snap/Blast Off (USA).mp4</video>
+		<marquee>./wheel/Blast Off (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20091126T000000</releasedate>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+	</game>
+	<game>
+		<path>./Hello Flowerz (USA).cso</path>
+		<name>Hello Flowerz</name>
+		<image>./mixart/Hello Flowerz (USA).png</image>
+		<video>./snap/Hello Flowerz (USA).mp4</video>
+		<marquee>./wheel/Hello Flowerz (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100625T000000</releasedate>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game>
+		<path>./Heracles Chariot Racing (USA).cso</path>
+		<name>Heracles Chariot Racing</name>
+		<desc>You can play as Heracles and help him return the sacred trophy, or play as one of the other varied mythological characters from Satyr to Poseidon and claim the prize for yourself!nnnnRace through 3 racing cups across 10 courses set in 5 mythic landscapes and use awesome fantasy weaponry to defeat your opponents: Zeus' lightning rods, tridents, fireballs and more!</desc>
+		<image>./mixart/Heracles Chariot Racing (USA).png</image>
+		<video>./snap/Heracles Chariot Racing (USA).mp4</video>
+		<marquee>./wheel/Heracles Chariot Racing (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20091210T000000</releasedate>
+		<developer>Neko Entertainment</developer>
+		<publisher>Neko Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Hero of Sparta (USA).cso</path>
+		<name>Hero Of Sparta</name>
+		<desc>Take up the fiercest challenge and fight from the Oracle's island to the summit of Olympus. Hero of Sparta features an innovative double-view system combining absolute action and platforming. Face legions of enemies across eight levels of action, with the most impressive mythical creatures standing in your path -- Cerberus, the Colossus, etc. Upgrade your equipment to gain the the Chronos Sword, the Medusa Shield, and more.</desc>
+		<image>./mixart/Hero of Sparta (USA).png</image>
+		<video>./snap/Hero of Sparta (USA).mp4</video>
+		<marquee>./wheel/Hero of Sparta (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+	</game>
+	<game>
+		<path>./Hotel Mogul (USA).cso</path>
+		<name>Hotel Mogul</name>
+		<desc>Buy, develop and sell commercial properties to make a profit build attractions that increase your income and keep your eye on the bottom line as you purchase materials and hire workers. The fun of Hotel Mogul will have you laughing all the way to the bank!</desc>
+		<image>./mixart/Hotel Mogul (USA).png</image>
+		<video>./snap/Hotel Mogul (USA).mp4</video>
+		<marquee>./wheel/Hotel Mogul (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20121205T000000</releasedate>
+		<developer>Alawar Entertainment, Inc.</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Hysteria Project (USA).cso</path>
+		<name>Hysteria Project</name>
+		<desc>In âHYSTERIA PROJECTâ, YOU are the hero! Step into the shoes of the main character and take part in an unforgettable adventure! Will you make the right decisions and make it out in one piece? 
+
+Hysteria Project is a groundbreaking gaming experience where you are the hero of an entirely filmed adventure. Keep a sharp eye on whatâs going on around you and most importantly of all â make the right choices at the right time. 
+
+Recommended for fans of new experiences and thrill-seekers. 
+
+Have you got the guts to be next on the list? 
+
+Â© 2009-2010 Bulkypix 
+
+Purchase or use of this item is subject to the PlayStationÂ®Network Terms of Service and User Agreement. If you do not wish to accept all these terms, do not purchase or use this item. This item has been sublicensed to you by Sony Computer Entertainment America. One-time license fee for downloads to up to 2 console systems and 2 portable systems that are associated with the purchasing account.</desc>
+		<image>./mixart/Hysteria Project (USA).png</image>
+		<video>./snap/Hysteria Project (USA).mp4</video>
+		<marquee>./wheel/Hysteria Project (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100408T000000</releasedate>
+		<developer>Bulkypix</developer>
+		<publisher>Sanuk Games</publisher>
+	</game>
+	<game>
+		<path>./Hysteria Project 2 (USA).cso</path>
+		<name>Hysteria Project 2</name>
+		<desc>You thought you had survived the nightmare... but you were wrong. nnnnIn the wake of Hysteria Project, which received the Milthon Award in 2009 for its originality, Hysteria Project 2 sticks with the same elements that made its predecessor a success, but pushes the experience even further.</desc>
+		<image>./mixart/Hysteria Project 2 (USA).png</image>
+		<video>./snap/Hysteria Project 2 (USA).mp4</video>
+		<marquee>./wheel/Hysteria Project 2 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Bulkypix</developer>
+		<publisher>Bulkypix</publisher>
+	</game>
+	<game>
+		<path>./I Must Run! (USA).cso</path>
+		<name>I Must Run!</name>
+		<desc>You have been convicted of a crime you didn't mean to commit. Your sentence was harsh despite the circumstances, and now you rot in jail. But those affected by your actions are not satisfied. Now, they are threatening to kill the one you love to exact revenge. And if you do not escape and reach the courthouse in 24 hours, she'll be gone. There are no other options. You must run.</desc>
+		<image>./mixart/I Must Run! (USA).png</image>
+		<video>./snap/I Must Run! (USA).mp4</video>
+		<marquee>./wheel/I Must Run! (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101214T000000</releasedate>
+		<developer>Gamelion Studios</developer>
+		<publisher>Gamelion Studios</publisher>
+	</game>
+	<game>
+		<path>./HISTORY - Ice Road Truckers (USA).cso</path>
+		<name>Ice Road Truckers</name>
+		<desc>The Ice Road Truckers is a racing game that captures the spirit and danger of the series by putting players in the driver's seat of an eighteen wheeler. Players face a number of challenges as they haul equipment and supplies to isolated outposts north of the Arctic Circle. Player take command of these huge 18-wheelers and drive their way across ice roads. Stay on the road, avoid obstacles, and reach the destination before time runs out. Quicker times earn you more money, but if you're late you won't advance !</desc>
+		<image>./mixart/HISTORY - Ice Road Truckers (USA).png</image>
+		<video>./snap/HISTORY - Ice Road Truckers (USA).mp4</video>
+		<marquee>./wheel/HISTORY - Ice Road Truckers (USA).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20100311T000000</releasedate>
+		<developer>Slitherine Software</developer>
+		<publisher>Slitherine Software</publisher>
+	</game>
+	<game>
+		<path>./Idiot Squad (USA).cso</path>
+		<name>Idiot Squad</name>
+		<desc>Idiot Squad est un puzzle-game sur PSP. Le joueur y incarne Ben le fermier et doit exfiltrer ses brebis de concours capturées par des voisins jaloux. 50 niveaux sont au programme.</desc>
+		<image>./mixart/Idiot Squad (USA).png</image>
+		<video>./snap/Idiot Squad (USA).mp4</video>
+		<marquee>./wheel/Idiot Squad (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20120328T000000</releasedate>
+		<developer>Hydravision</developer>
+		<publisher>Hydravision</publisher>
+	</game>
+	<game>
+		<path>./Influence (USA).cso</path>
+		<name>Influence</name>
+		<desc>Try your hand at INFLUENCEâ¢. A new puzzle game where you have the power to clear all obstacles in your way to achieve victory. Move your character across a double sided game board as you use your influence to clear out cubes in as few moves as possible. Flip the stage 180 degrees and and strategize your moves to take out multiple rows and levels in a single turn. How far does your influence extend?</desc>
+		<image>./mixart/Influence (USA).png</image>
+		<video>./snap/Influence (USA).mp4</video>
+		<marquee>./wheel/Influence (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100622T000000</releasedate>
+		<developer>G Game Workshop</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game>
+		<path>./International Snooker (Europe).cso</path>
+		<name>International Snooker</name>
+		<desc>Quite possibly the most realistic Snooker game to come to any gaming platform, working closely with Michaela Tabb the worlds most famous Snooker and Pool referee Big Head Games have crafted the ultimate cue sports simulation, with easy to pickup and play controls and months of gameplay as you fight through a pro players career.</desc>
+		<image>./mixart/International Snooker (Europe).png</image>
+		<video>./snap/International Snooker (Europe).mp4</video>
+		<marquee>./wheel/International Snooker (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20091222T000000</releasedate>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game>
+		<path>./Jane's Hotel (USA).cso</path>
+		<name>Jane's Hotel</name>
+		<desc>You start as a small 2 star hotel owner at the town suburbs and work your way to the top by upgrading accommodations and achieving an excellent reputation. Keep an eye on customer moods and make them happy by serving them fine drinks and dainty meals, or simply offering perfect room service. We will make your stay unforgettable!</desc>
+		<image>./mixart/Jane's Hotel (USA).png</image>
+		<video>./snap/Jane's Hotel (USA).mp4</video>
+		<marquee>./wheel/Jane's Hotel (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110112T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+	</game>
+	<game>
+		<path>./JellyCar 2 (USA).cso</path>
+		<name>Jellycar 2</name>
+		<desc>You'll want to drive JellyCar 2 all around town!
+
+JellyCar 2, the hit driving platform game is here and fully loaded with more than 30 levels, three game modes, and much more! Post high scores, best times and longest jumps in the Hall of Fame. With so much squishy goodness, youâll want to drive JellyCar 2 all around town!
+
+Classic:
+Drive your squishy car and use your special abilities to drive through squishy worlds!
+
+Factory:
+Where does all this squishy goodness come from? The Jelly Factory, of course! In this puzzle game your goal is to guide the falling parts into matching chutes. Tap the levers to open different pathways to guide each part down the conveyor belts.
+
+Long Jump:
+Youâre going for distance, so go for speed! Watch out for objects that can slow you down, and look for objects that can help give you a boost!</desc>
+		<image>./mixart/JellyCar 2 (USA).png</image>
+		<video>./snap/JellyCar 2 (USA).mp4</video>
+		<marquee>./wheel/JellyCar 2 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20110720T000000</releasedate>
+		<developer>Disney</developer>
+		<publisher>Disney</publisher>
+	</game>
+	<game>
+		<path>./Jelly Pops (USA).cso</path>
+		<name>Jellypops</name>
+		<desc>Lets face it... sometimes, videogames can be a bit weird. For example, who ever thought to mix colour matching with time trial style rally racing? And then to decide it should graphically look like something involing alien pond snakes and cellular life? Makes no sense, right? We at PomPom pride ourselves in making as little sense as possible. Hence our decision to do all the above. The result is JellyPops.
+
+
+It goes something like this: You control a strange snake creature, which resides in a strange pond in a strange world with some strange rules. The aim is to stay alive as long as possible. Staying alive drains your live force, so Snake needs to collect life force gems to keep it going. With time, life gems become more and more scarce, resulting in a desperate race to reach the next gem before its lights out.
+
+
+Between Snake and the life force gems are a myriad of other beasties that require special attention. Coloured Jellies which boost your gems value when collected as part of a combo. Teethy fish things that try to blast you with plasma. Spikey rocks and walls. Bouncing spherical cells that can be controlled and used as battering rams. Each level with its own unique mechanics to understand and master.
+
+Features :
+Available on PSP minis
+Endless survival gameplay
+8 ponds to traverse
+Fun, slippy slidey racing type gameplay
+Bonus Spirit and Boost unlockables
+Medals awarded for achievements
+Custom music which dynamically chages with gameplay
+Quick playtime. The perfect game for filling 5 minutes.</desc>
+		<image>./mixart/Jelly Pops (USA).png</image>
+		<video>./snap/Jelly Pops (USA).mp4</video>
+		<marquee>./wheel/Jelly Pops (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110907T000000</releasedate>
+		<developer>PomPom Games</developer>
+		<publisher>PomPom Games</publisher>
+	</game>
+	<game>
+		<path>./Jewel Keepers - Easter Island (USA).cso</path>
+		<name>Jewel Keepers : Easter Island</name>
+		<desc>Welcome to Jewel Keepers: Easter Island â an addictive match-three arcade action game with mind-blowing visuals and engaging storyline! This game will keep you entertained for hours, as you travel across Easter Island and help to unveil its mysteries.
+
+More fun from Nordcurrent: - 101-in-1 Games â a collection of 101 games in one app. Frequent chart topper in USA, UK, Australia, and many other countries! - Urbanix â an enhanced version of Xonix and Qix, with new modes of play, new worlds and enemies! - Robin Hood: Return of Richard â help Robin to defeat the villains and restore peace in this action game!</desc>
+		<image>./mixart/Jewel Keepers - Easter Island (USA).png</image>
+		<video>./snap/Jewel Keepers - Easter Island (USA).mp4</video>
+		<marquee>./wheel/Jewel Keepers - Easter Island (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101110T000000</releasedate>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game>
+		<path>./Kahoots (USA).cso</path>
+		<name>Kahoots</name>
+		<desc>The confused Kahoots need to find their way to their destination without being bothered by the cranky Cardborgs. Kahoots is a 50 level puzzle game where you swap tiles which form the floor of the levels to help your Kahoot to avoid obstacles and get to the exit.</desc>
+		<image>./mixart/Kahoots (USA).png</image>
+		<video>./snap/Kahoots (USA).mp4</video>
+		<marquee>./wheel/Kahoots (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Honeyslug</developer>
+		<publisher>Honeyslug</publisher>
+	</game>
+	<game>
+		<path>./Karimogi (USA).cso</path>
+		<name>Karimogi</name>
+		<desc>Karimogi is an alien that needs you! The situation is critical. Cranes are dropping bricks everywhere and Karimogi needs your help to push them around and put them in order or he will never see his spaceship again. Arrange the bricks into rows and they will then disappear. But be careful, you must stay very alert because any brick could crush you!</desc>
+		<image>./mixart/Karimogi (USA).png</image>
+		<video>./snap/Karimogi (USA).mp4</video>
+		<marquee>./wheel/Karimogi (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110216T000000</releasedate>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game>
+		<path>./Karoshi (Europe).cso</path>
+		<name>Karoshi</name>
+		<desc>Karoshi est un jeu de réflexion disponible sur le Playstation Store. Votre objectif sera ici de faire mourir Karoshi, un employé japonais déprimé, et ce par tous les moyens. Vous devrez donc résoudre divers casse-tête pour permettre au pauvre homme de mettre fin à sa vie de servitude sous le joug du capitalisme.</desc>
+		<image>./mixart/Karoshi (Europe).png</image>
+		<video>./snap/Karoshi (Europe).mp4</video>
+		<marquee>./wheel/Karoshi (Europe).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20110406T000000</releasedate>
+		<developer>YoYo Games</developer>
+		<publisher>YoYo Games</publisher>
+	</game>
+	<game>
+		<path>./Knight Fortix 2 (USA).cso</path>
+		<name>Knight Fortix 2</name>
+		<desc>In the next chapter crusader Fortix has to save the rest of the continent from an evil curse. On his journeys Fortix will be aided by his sister Floriana. Fortix 2 will be a 'funtasy' game, where you have to conquer dozens of hostile wastelands, deserts, swamps, and convert to lush landscapes. Savage wolfs will be turned to peaceful lambs, bloodthirsty dragons to seed-picking pigeons.</desc>
+		<image>./mixart/Knight Fortix 2 (USA).png</image>
+		<video>./snap/Knight Fortix 2 (USA).mp4</video>
+		<marquee>./wheel/Knight Fortix 2 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120418T000000</releasedate>
+		<developer>Nemesys Team Studio</developer>
+		<publisher>Nemesys Team Studio</publisher>
+	</game>
+	<game>
+		<path>./Labyrinth (USA).cso</path>
+		<name>Labyrinth</name>
+		<desc>Dans Labyrinth, un jeu d'arcade à télécharger sur Playstation Portable, les plantes carnivores ont été libérées ! Pour échapper à leur appétit insatiable, vous devez dévorer toutes les graines du labyrinthe, leur jouer des tours, changer de direction, accélérer, vous faufiler dans les passages secrets et manger tous les fruits magiques pour augmenter votre force et devenir le nouveau prédateur du labyrinthe.</desc>
+		<image>./mixart/Labyrinth (USA).png</image>
+		<video>./snap/Labyrinth (USA).mp4</video>
+		<marquee>./wheel/Labyrinth (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100728T000000</releasedate>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game>
+		<path>./Left to Die in Zombhai (Europe).cso</path>
+		<name>Left To Die In Zombhai</name>
+		<desc>Bienvenidos a Zombhai, una ciudad poblada de zombis! ¿cuanto tiempo sobreviviras? Ofreciendo una amplia gama de armas y lugares este juego traerá horas de diversión.</desc>
+		<image>./mixart/Left to Die in Zombhai (Europe).png</image>
+		<video>./snap/Left to Die in Zombhai (Europe).mp4</video>
+		<marquee>./wheel/Left to Die in Zombhai (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110831T000000</releasedate>
+		<developer>iSquared Games</developer>
+		<publisher>iSquared Games</publisher>
+	</game>
+	<game>
+		<path>./Legend of Kunoichi (USA).cso</path>
+		<name>Legend Of Kunoichi</name>
+		<desc>Play as Mai, a ninja warrior, to defend your Shogun against waves of ninja attackers. Throw hammers to take them out and hold them off as long as you can so your Shogun can escape in this easy-to-play, arcade-style minigame.</desc>
+		<image>./mixart/Legend of Kunoichi (USA).png</image>
+		<video>./snap/Legend of Kunoichi (USA).mp4</video>
+		<marquee>./wheel/Legend of Kunoichi (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Lumines.PBP</path>
+		<name>Lumines</name>
+		<desc>Bust blocks, solve puzzles, and play wirelessly with your friends. In Lumines, your objective is to clear the screen by connecting blocks of like colors together. A timeline wipes away your solid-color creations, which can also initiate combos and link moves. See if you have what it takes to advance through 24 levels, each with its own musical theme and sound effects. Lumines features four gameplay modes, including single-player and multiplayer.</desc>
+		<image>./mixart/Lumines.png</image>
+		<video>./snap/Lumines.mp4</video>
+		<marquee>./wheel/Lumines.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050901T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Ubisoft</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mahjong Solitaire (USA).cso</path>
+		<name>Mahjong Solitaire</name>
+		<desc>Mahjong Solitaire is fun &amp; simple game. Players remove matching pairs of tiles from an organized layering of tiles, trying to remove as many tiles as possible and as fast as they can.nnnnYou are presented with 144 mahjong tiles arranged in an organized, three-dimensional heap. The goal is to match open pairs of identical tiles and remove them from the board, exposing the tiles under them for play.</desc>
+		<image>./mixart/Mahjong Solitaire (USA).png</image>
+		<video>./snap/Mahjong Solitaire (USA).mp4</video>
+		<marquee>./wheel/Mahjong Solitaire (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100427T000000</releasedate>
+		<developer>Agetec</developer>
+		<publisher>Agetec</publisher>
+	</game>
+	<game>
+		<path>./Homerun Hitters (USA).cso</path>
+		<name>Make Drama Baseball</name>
+		<desc>Step up to the plate in Homerun Hitters. Play solo or against a friend as you launch fastballs, curveballs, shoots and more! Head out to the ballpark and choose from 4 teams and play up to 9 inning in this fun back to basics baseball game.</desc>
+		<image>./mixart/Homerun Hitters (USA).png</image>
+		<video>./snap/Homerun Hitters (USA).mp4</video>
+		<marquee>./wheel/Homerun Hitters (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100422T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Manic Monkey Mayhem (USA).cso</path>
+		<name>Manic Monkey Mayhem</name>
+		<desc>As with most fights, nobody really knows where, how or when this rivalry started, but this group of monkeys have not stopped battling for as long as they can remember. Their chosen fighting style is the ancient art of Banana Flinging and although their manic screams of rage may insinuate uncontrolled anger, they are in fact highly accurate and adept banana flingers.nnnnControlling one of eight monkeys you will compete in battle with a selection of others across eight different themed landscapes with several different game modes to excel in.</desc>
+		<image>./mixart/Manic Monkey Mayhem (USA).png</image>
+		<video>./snap/Manic Monkey Mayhem (USA).mp4</video>
+		<marquee>./wheel/Manic Monkey Mayhem (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100325T000000</releasedate>
+		<developer>The Code Monkeys</developer>
+		<publisher>The Code Monkeys</publisher>
+	</game>
+	<game>
+		<path>./Me Monstar - Hear Me Roar! (USA).cso</path>
+		<name>Me Monstar : Hear Me Roar !</name>
+		<desc>Action-packed ME MONSTAR: HEAR ME ROAR takes place in a world formed from people's dreams and imagination; where farts are deadly weapons and Fear is your enemy. As a monster embarking upon their rites of passage to become a MONSTAR; feed on Dreams, beat the opposition and grow in power to do battle with the invading Fears and Nightmares!</desc>
+		<image>./mixart/Me Monstar - Hear Me Roar! (USA).png</image>
+		<video>./snap/Me Monstar - Hear Me Roar! (USA).mp4</video>
+		<marquee>./wheel/Me Monstar - Hear Me Roar! (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110705T000000</releasedate>
+		<developer>Cohort Studios</developer>
+		<publisher>Cohort Studios</publisher>
+	</game>
+	<game>
+		<path>./Mecho Wars (USA).cso</path>
+		<name>Mecho Wars</name>
+		<desc>Mecho Wars is a turn-based strategy game, similar to the GBA title Advance Wars.nnThe game sports three gameplay modes: single player (campaign/stage select), a hot seat type multiplayer and multiplayer over Wi-Fi (scheduled to be released in an upcoming update).</desc>
+		<image>./mixart/Mecho Wars (USA).png</image>
+		<video>./snap/Mecho Wars (USA).mp4</video>
+		<marquee>./wheel/Mecho Wars (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120125T000000</releasedate>
+		<developer>Oyaji Games</developer>
+		<publisher>Oyaji Games</publisher>
+	</game>
+	<game>
+		<path>./Mighty Flip Champs! DX (USA).cso</path>
+		<name>Mighty Flip Champs! Dx</name>
+		<desc>Take control of multiple dimensions as Alta in Mighty Flip Champs! Navigate your way through different worlds and dimensions as you attempt to make your way to the exit. Use your Magical Warp Wand to switch to new dimensions, but watch the touch screen when you flip to a new dimension - or you might just get crushed!</desc>
+		<image>./mixart/Mighty Flip Champs! DX (USA).png</image>
+		<video>./snap/Mighty Flip Champs! DX (USA).mp4</video>
+		<marquee>./wheel/Mighty Flip Champs! DX (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>WayForward Technologies, Inc.</developer>
+		<publisher>WayForward Technologies, Inc.</publisher>
+	</game>
+	<game>
+		<path>./MiniSquadron (USA).cso</path>
+		<name>Minisquadron</name>
+		<desc>MiniSquadron is a side scrolling shooter where the player takes control of a tiny little plane in dogfights against wave after wave of other similar little planes. Gameplay is similar to games like Sopwith and Triplane Turmoil. The player can move freely around in all directions and do various aerobatic manoeuvres such as loops, turns and rolls. In addition to shooting at the enemy planes the player also has avoid crashing. Fly to high and the plane begins to stall and to avoid crashing into the ground the player needs to turn around the nose and dive to regain control. The player can pick up various power ups that fall from the sky.</desc>
+		<image>./mixart/MiniSquadron (USA).png</image>
+		<video>./snap/MiniSquadron (USA).mp4</video>
+		<marquee>./wheel/MiniSquadron (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110316T000000</releasedate>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game>
+		<path>./Monochrome Racing (USA).cso</path>
+		<name>Monochrome Racing</name>
+		<desc>Screeching tires, the smell of burned rubber, the rush of adrenaline and enemies that are left in the dust-these are the emotions that drive real racers. However there is much more than this in the world of Monochrome Racing-there is the passion for color! Color is everything here, it is what you strive for, in the world where everything is in black and white. Color is your fuel, color gives you speed, color makes you stronger and ultimately makes you the true leader of the monochrome racing world.</desc>
+		<image>./mixart/Monochrome Racing (USA).png</image>
+		<video>./snap/Monochrome Racing (USA).mp4</video>
+		<marquee>./wheel/Monochrome Racing (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110802T000000</releasedate>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game>
+		<path>./Monopoly (USA).cso</path>
+		<name>Monopoly</name>
+		<desc>There have been more than a dozen video game adaptations of Parker Brothers and Hasbro's highly successful board game Monopoly.</desc>
+		<image>./mixart/Monopoly (USA).png</image>
+		<video>./snap/Monopoly (USA).mp4</video>
+		<marquee>./wheel/Monopoly (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20100415T000000</releasedate>
+	</game>
+	<game>
+		<path>./Monsters (Probably) Stole My Princess (USA).cso</path>
+		<name>Monsters</name>
+		<desc>In this 2D platform game each level is monster encounter. The monster will try to flee up the screen and you will have to catch him using your double-jump ability. Hit the monster three times while double-jumping and it is defeated. Landing on platforms builds up your combo resulting in more advanced finishing moves when you reach the monster for the third time. Also, high combo score is crucial for progressing in the game as it will unlock trophies, scrapbook entries and a hidden level.</desc>
+		<image>./mixart/Monsters (Probably) Stole My Princess (USA).png</image>
+		<video>./snap/Monsters (Probably) Stole My Princess (USA).mp4</video>
+		<marquee>./wheel/Monsters (Probably) Stole My Princess (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100422T000000</releasedate>
+		<developer>Mediatonic</developer>
+		<publisher>Mediatonic</publisher>
+	</game>
+	<game>
+		<path>./M.O.Z.O.X. Space Salvager (USA).cso</path>
+		<name>MOZOX Space Salvager</name>
+		<desc>Welcome to Twisted Dragon Media's debut title, M.O.Z.O.X. Space Salvager, are you up for the challenge? A high action arcade style space shooter with infinite levels of play. Use a combination of 4 weapons, and high maneuverability to dodge, weave, and blast your way to the next level. In each level of play you will eliminate enemy ships, weave your way through astroid fields, and outsmart a boss ship. Collect special weapons, shields, debris orbs(points), and multipliers along the way to improve your chances to get a high score.</desc>
+		<image>./mixart/M.O.Z.O.X. Space Salvager (USA).png</image>
+		<video>./snap/M.O.Z.O.X. Space Salvager (USA).mp4</video>
+		<marquee>./wheel/M.O.Z.O.X. Space Salvager (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110401T000000</releasedate>
+		<developer>Twisted Dragon Media</developer>
+		<publisher>Twisted Dragon Media</publisher>
+	</game>
+	<game>
+		<path>./Mr. Hat and the Magic Cube (Europe).cso</path>
+		<name>Mr. Hat And The Magic Cube</name>
+		<desc>Join Mr Hat and his friends in a wonderful adventure to reunite the stolen pieces of his cube and get back home. nnAlong the way your child will learn the basics in: vocabulary, spelling, counting, memory, and coordination. All introduced with beautiful graphics, animations and videos that will keep you child (and you) entertained for hours!</desc>
+		<image>./mixart/Mr. Hat and the Magic Cube (Europe).png</image>
+		<video>./snap/Mr. Hat and the Magic Cube (Europe).mp4</video>
+		<marquee>./wheel/Mr. Hat and the Magic Cube (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110330T000000</releasedate>
+		<developer>Bravo Games Studios</developer>
+		<publisher>Bravo Games Studios</publisher>
+	</game>
+	<game>
+		<path>./Nova (USA).cso</path>
+		<name>N.o.v.a. (near Orbital Vanguard Alliance)</name>
+		<desc>Near Orbit Vanguard Alliance, better known as N.O.V.A. for short, is an action-adventure video game for the iPod and other Apple products made for Apple by Gameloft. It was released on December 17, 2009 for iOS, WebOS and is one of the games containing the Gameloft Live online gaming service.
+
+It was later released on the PlayStation Network for the PlayStation Portable and PlayStation 3 on December 21, 2010, just five days after the release of N.O.V.A. 2. The game's hostiles (known as "Xenos") are similar to those in the Metroid series as well as the Halo series.</desc>
+		<image>./mixart/Nova (USA).png</image>
+		<video>./snap/Nova (USA).mp4</video>
+		<marquee>./wheel/Nova (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101221T000000</releasedate>
+		<developer>Gameloft Inc.</developer>
+		<publisher>Gameloft Inc.</publisher>
+	</game>
+	<game>
+		<path>./Nocturnal (Europe).cso</path>
+		<name>Nocturnal - Boston Nightfall</name>
+		<desc>Nocturnal: Boston Nightfall is a standard hidden object game with mini-games between chapters. The main objective is to find all the objects listed at the bottom of the screen, on locations cluttered with scattered and assorted paraphernalia, within a time limit. Wrong clicks take away six seconds from the clock. The timer can be turned off at the main menu.</desc>
+		<image>./mixart/Nocturnal (Europe).png</image>
+		<video>./snap/Nocturnal (Europe).mp4</video>
+		<marquee>./wheel/Nocturnal (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111012T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Nom Nation (Europe).cso</path>
+		<name>Nom Nation</name>
+		<desc>Nom Nation is a delicious platform adventure.nnYou play as Chef on a mission to rescue the Book of Nom from Jabber the Gut, head of the McFatass Corporation. Only the Noms can help you succeed. Harnessing their hidden powers is the key ingredient.</desc>
+		<image>./mixart/Nom Nation (Europe).png</image>
+		<video>./snap/Nom Nation (Europe).mp4</video>
+		<marquee>./wheel/Nom Nation (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120516T000000</releasedate>
+		<developer>Playerthree</developer>
+		<publisher>Playerthree</publisher>
+	</game>
+	<game>
+		<path>./Numba (Europe).cso</path>
+		<name>Numba</name>
+		<desc>Numba is a puzzle game where you must link sequences of adjacent numbers to make blocks disappear and new blocks fall from the top of the screen. However, here you can match blocks in many ways -- for example, you can match blocks with the same repeated number (4-4-4, say), or you can make sequences of numbers like 3-4-5 or 2-4-6-8. Some special blocks add variety to the mix -- blocks that blink in and out of existence, fire blocks which become solid rock if neglected for too long, ice blocks which need to be thawed before used, and so on.</desc>
+		<image>./mixart/Numba (Europe).png</image>
+		<video>./snap/Numba (Europe).mp4</video>
+		<marquee>./wheel/Numba (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100602T000000</releasedate>
+		<developer>Cobra Mobile</developer>
+		<publisher>Cobra Mobile</publisher>
+	</game>
+	<game>
+		<path>./OMG-Z (USA).cso</path>
+		<name>Omg-z</name>
+		<desc>Alert! Alert! OMG-Z! The City of Redfield has been hit by an outbreak of exploding zombies! For cool and unimportant reasons these suckers literally explode when shot, showering their zombie brethren with gore and causing chain reactions of showering zombie gibs with just a single bullet!</desc>
+		<image>./mixart/OMG-Z (USA).png</image>
+		<video>./snap/OMG-Z (USA).mp4</video>
+		<marquee>./wheel/OMG-Z (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110802T000000</releasedate>
+		<developer>Laughing Jackal</developer>
+		<publisher>Laughing Jackal</publisher>
+	</game>
+	<game>
+		<path>./Pachisi (Europe).cso</path>
+		<name>Pachisi</name>
+		<desc>The game is played on a board shaped like a symmetrical cross. The big square in the center of the board called as ?Charkoni? is the starting and finishing position of the gotis or pawns. Player's objective is to move all the gotis around the board and then back to charkoni before other player does the same.</desc>
+		<image>./mixart/Pachisi (Europe).png</image>
+		<video>./snap/Pachisi (Europe).mp4</video>
+		<marquee>./wheel/Pachisi (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20091203T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>TBC</publisher>
+	</game>
+	<game>
+		<path>./Pallurikio (USA).cso</path>
+		<name>Pallurikio</name>
+		<desc>Jump and roll with Pallurikio, a fast-paced action platformer, easy to pick up, yet challenging to master.nnWhile playing a mysterious board game he found with his friends, Rusty is sucked up in a dimensional vortex and finds himself cast into a mystical and wondrous world, where he assumes the aspect of the round and bouncing Pallurikio.</desc>
+		<image>./mixart/Pallurikio (USA).png</image>
+		<video>./snap/Pallurikio (USA).mp4</video>
+		<marquee>./wheel/Pallurikio (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20100714T000000</releasedate>
+		<developer>Playstos Entertainment</developer>
+		<publisher>Playstos Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Paper Wars - Cannon Fodder (USA).cso</path>
+		<name>Paper Wars : Cannon Fodder</name>
+		<desc>Paper Wars Cannon Fodder is a tower defense video game developed by several Polish and Hungarian outsourced programmers of iFun4all team, in the cheapest way you can imagine. What's the so-called brilliant goal of the game? You would never guess. It is about destroying all enemies! The same well-known thrilling story, hordes of cold-blooded enemies trying to survive the Armageddon! There are some additional goals to be achieved in different missions and levels - watch your right! The game can be played by up to four players in co-op mode.</desc>
+		<image>./mixart/Paper Wars - Cannon Fodder (USA).png</image>
+		<video>./snap/Paper Wars - Cannon Fodder (USA).mp4</video>
+		<marquee>./wheel/Paper Wars - Cannon Fodder (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101006T000000</releasedate>
+		<developer>iFun4all</developer>
+		<publisher>iFun4all</publisher>
+	</game>
+	<game>
+		<path>./Phase Shift - Threats Beyond the Network (Asia).cso</path>
+		<name>Phase Shift - Threats Beyond The Network</name>
+		<image>./mixart/Phase Shift - Threats Beyond the Network (Asia).png</image>
+		<video>./snap/Phase Shift - Threats Beyond the Network (Asia).mp4</video>
+		<marquee>./wheel/Phase Shift - Threats Beyond the Network (Asia).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Pinball Dreams (USA).cso</path>
+		<name>Pinball Dreaming : Pinball Dreams</name>
+		<desc>The first in a line of pinball games from 21st Century and Digital Illusions, with four tables covering themes such as the wild west for Steel Wheel, space rockets for Ignition, a haunted graveyard for Nightmare and pop music for Beat Box.</desc>
+		<image>./mixart/Pinball Dreams (USA).png</image>
+		<video>./snap/Pinball Dreams (USA).mp4</video>
+		<marquee>./wheel/Pinball Dreams (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Cowboy Rodeo Ltd</developer>
+		<publisher>TBC</publisher>
+	</game>
+	<game>
+		<path>./Pinball Fantasies (USA).cso</path>
+		<name>Pinball Fantasies</name>
+		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
+		<image>./mixart/Pinball Fantasies (USA).png</image>
+		<video>./snap/Pinball Fantasies (USA).mp4</video>
+		<marquee>./wheel/Pinball Fantasies (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Cowboy Rodeo</developer>
+		<publisher>Cowboy Rodeo</publisher>
+	</game>
+	<game>
+		<path>./Pipe Madness (USA).cso</path>
+		<name>Pipe Madness</name>
+		<desc>Put together some pipes -- pronto! In Pipe Madness, you must rush to complete your pipeline before the liquid catches up with you or all of your hard work will be ruined. Combat the flowing liquid over endless levels and reach that unbeatable high score. Maximize your bonuses by building intricate pipe networks.</desc>
+		<image>./mixart/Pipe Madness (USA).png</image>
+		<video>./snap/Pipe Madness (USA).mp4</video>
+		<marquee>./wheel/Pipe Madness (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110104T000000</releasedate>
+		<developer>Ayeware AB</developer>
+		<publisher>Ayeware AB</publisher>
+	</game>
+	<game>
+		<path>./Pix'n Love Rush (USA).cso</path>
+		<name>Pix'n Love Rush</name>
+		<desc>Pix'n Love Rush is a retro-styled, jump'n'run platformer with over 125 levels of pure mayhem fun.</desc>
+		<image>./mixart/Pix'n Love Rush (USA).png</image>
+		<video>./snap/Pix'n Love Rush (USA).mp4</video>
+		<marquee>./wheel/Pix'n Love Rush (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110316T000000</releasedate>
+		<developer>Pastagames</developer>
+		<publisher>Bulkypix</publisher>
+	</game>
+	<game>
+		<path>./Piyotama (Europe).cso</path>
+		<name>Piyotama</name>
+		<desc>Hidden deep within the Hotai forest, you'll find a family of playful and mysteriously colored creatures known as Piyos. Every spring Mother Piyo ?PIYOMAMA? lays a few eggs to fill the forest with new colorful Piyos; however, this year she got too excited and laid too many eggs! Help her hatch the eggs before they overflow the nest!</desc>
+		<image>./mixart/Piyotama (Europe).png</image>
+		<video>./snap/Piyotama (Europe).mp4</video>
+		<marquee>./wheel/Piyotama (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100714T000000</releasedate>
+		<developer>Sony Computer Entertainment Japan</developer>
+		<publisher>SCEE</publisher>
+	</game>
+	<game>
+		<path>./Puzzle Scape (Europe).cso</path>
+		<name>Puzzlescape</name>
+		<desc>Puzzle Scape is a block busting game where the player arranges same colored blocks to 2x2 formations to explode them. All adjacent same colored blocks will also explode in a chain reaction. The player can move the blocks by swapping two adjacent blocks horizontally. There are several power-ups to aid the player. The game modes include two single player modes and several multiplayer modes including a co-op mode.</desc>
+		<image>./mixart/Puzzle Scape (Europe).png</image>
+		<video>./snap/Puzzle Scape (Europe).mp4</video>
+		<marquee>./wheel/Puzzle Scape (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20070715T000000</releasedate>
+		<developer>Farmind</developer>
+		<publisher>Got Game Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Quiz Animania (USA).cso</path>
+		<name>Quiz Animania</name>
+		<image>./mixart/Quiz Animania (USA).png</image>
+		<video>./snap/Quiz Animania (USA).mp4</video>
+		<marquee>./wheel/Quiz Animania (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Actual Crimes - Jack the Ripper (USA).cso</path>
+		<name>Real Crimes : Jack the Ripper</name>
+		<desc>Travel back to 1880s London to help Scotland Yard's detectives solve the crime of the century. Visit world-famous landmarks such as Piccadilly Circus and Buckingham Palace. Search crime scenes and solve mini puzzles in your hunt for clues.</desc>
+		<image>./mixart/Actual Crimes - Jack the Ripper (USA).png</image>
+		<video>./snap/Actual Crimes - Jack the Ripper (USA).mp4</video>
+		<marquee>./wheel/Actual Crimes - Jack the Ripper (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100901T000000</releasedate>
+		<developer>Sanuk Games</developer>
+		<publisher>Virtual Playground</publisher>
+	</game>
+	<game>
+		<path>./Red Bull X-Fighters (USA).cso</path>
+		<name>Red Bull X-fighters</name>
+		<desc>Les stars de la motocross se déchaînent dans ce Red Bull X-Fighters sur Playstation Portable. Sous le feu des projecteurs et dans d'immenses arènes, affrontez vos concurrents en faisant les figures les plus incroyables. Back flip, superman, vertical : à vous les plus beaux tricks... déchaînez-vous !</desc>
+		<image>./mixart/Red Bull X-Fighters (USA).png</image>
+		<video>./snap/Red Bull X-Fighters (USA).mp4</video>
+		<marquee>./wheel/Red Bull X-Fighters (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20091022T000000</releasedate>
+		<developer>Xendex Holding GMBH</developer>
+		<publisher>Xendex Holding GMBH</publisher>
+	</game>
+	<game>
+		<path>./Retro Cave Flyer (USA).cso</path>
+		<name>Retro Cave Flyer</name>
+		<desc>Guide your landing craft through 23 challenging levels, solving puzzles and avoiding hazards whilst finding and saving the stranded scientists. Get them all back to the mothership before the planet goes super nova. Great gameplay, perfect physics, vibrant visuals and a storming soundtrack make this the best lunar lander arcade puzzler available.</desc>
+		<image>./mixart/Retro Cave Flyer (USA).png</image>
+		<video>./snap/Retro Cave Flyer (USA).mp4</video>
+		<marquee>./wheel/Retro Cave Flyer (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100218T000000</releasedate>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game>
+		<path>./Revoltin' Youth (USA).cso</path>
+		<name>Revoltin' Youth</name>
+		<desc>The evil Big-Wig has covered the characters town in crummy marketing gibberish. It's up to you to control three rebellious characters through 50+ levels of headache inducing puzzles in Revoltin' Youth, a puzzle/platformer game featuring a unique pixel-art style and a robust soundtrack.</desc>
+		<image>./mixart/Revoltin' Youth (USA).png</image>
+		<video>./snap/Revoltin' Youth (USA).mp4</video>
+		<marquee>./wheel/Revoltin' Youth (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110914T000000</releasedate>
+		<developer>Open Emotions</developer>
+		<publisher>Open Emotions</publisher>
+	</game>
+	<game>
+		<path>./Robin Hood - The Return of Richard (USA).cso</path>
+		<name>Robin Hood : The Return of Richard</name>
+		<desc>While Richard, the true King of England, is absent from his throne, his country rages in chaos. England has been invaded, and enemies burn and destroy local towns and villages. After the house of expert archer and hunter Robin Hood was burned down, he, together with a group of free archers like himself, hides in Sherwood Forest and begins his fight for justice. The fate of the people now lies in your hands. Help Robin to defeat the villains and restore peace in this shooting game!</desc>
+		<image>./mixart/Robin Hood - The Return of Richard (USA).png</image>
+		<video>./snap/Robin Hood - The Return of Richard (USA).mp4</video>
+		<marquee>./wheel/Robin Hood - The Return of Richard (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100526T000000</releasedate>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game>
+		<path>./Ronnie O'Sullivan's Snooker (USA).cso</path>
+		<name>Ronnie O'sullivan's Snooker</name>
+		<desc>Here with Ronnie O'Sullivan's Snooker, you play through the highlights of Ronnie's career culminating in his most famous World Championship wins. Have you got what it takes to re-create his many stunning victories?nnRonnie guides you through the game, giving advice, even taking you back to his home table where you can refine your skills in his very own practice room.</desc>
+		<image>./mixart/Ronnie O'Sullivan's Snooker (USA).png</image>
+		<video>./snap/Ronnie O'Sullivan's Snooker (USA).mp4</video>
+		<marquee>./wheel/Ronnie O'Sullivan's Snooker (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20121003T000000</releasedate>
+		<developer>P1 Sports</developer>
+		<publisher>P1 Sports</publisher>
+	</game>
+	<game>
+		<path>./Route 66 (USA).cso</path>
+		<name>Route 66</name>
+		<desc>Route 66 is a straightforward hidden object game, where the objective is to find all the items from a list at the bottom of the screen, on picturesque locations around the United States filled with assorted paraphernalia. The hint button is a badge at the bottom-right, that shows the position of one of the required objects when activated.</desc>
+		<image>./mixart/Route 66 (USA).png</image>
+		<video>./snap/Route 66 (USA).mp4</video>
+		<marquee>./wheel/Route 66 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101101T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Rumble Trucks (USA).cso</path>
+		<name>Rumble Trucks</name>
+		<desc>An exciting side-scrolling stunt-racing challenge.
+
+Choose the best vehicle then race through different terrains. Perform tricks to gain boost and dash to the finish fast enough to unlock the next stage.</desc>
+		<image>./mixart/Rumble Trucks (USA).png</image>
+		<video>./snap/Rumble Trucks (USA).mp4</video>
+		<marquee>./wheel/Rumble Trucks (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111102T000000</releasedate>
+		<developer>Playerthree</developer>
+		<publisher>Playerthree</publisher>
+	</game>
+	<game>
+		<path>./Run Ghost Run (USA).cso</path>
+		<name>Run Ghost Run</name>
+		<desc>An infernal storm begins and you think that an old castle could be your salvation. You will soon discover that this is one of the worst decisions you have ever made. The doors close and you begin to try and find a way out, but what you don't know is that you will never be alone. Shoot, jump, run and try to avoid the hundreds of ghosts who never want you to leave. Enjoy 36 levels and 2 game modes of this fun and super addictive adventure. The longest night of your life has just begun...</desc>
+		<image>./mixart/Run Ghost Run (USA).png</image>
+		<video>./snap/Run Ghost Run (USA).mp4</video>
+		<marquee>./wheel/Run Ghost Run (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110615T000000</releasedate>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game>
+		<path>./Shift Extended (USA).cso</path>
+		<name>Shift Extended</name>
+		<desc>As a subject of a science experiment, you have to escape the 120 levels of the game and avoid all the carefully crafted traps. Fortunately you have a unique power called 'SHIFT': floor, ceiling, walls...everything is reversed by pressing a single button!</desc>
+		<image>./mixart/Shift Extended (USA).png</image>
+		<video>./snap/Shift Extended (USA).mp4</video>
+		<marquee>./wheel/Shift Extended (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110119T000000</releasedate>
+		<developer>Fishing Cactus</developer>
+		<publisher>Zallag</publisher>
+	</game>
+	<game>
+		<path>./Smashbreak (USA).cso</path>
+		<name>Smashbreak</name>
+		<desc>Use paddles on either side of the screen to deflect balls and break the blocks in the middle. Collect power-ups and use your SMASH ability to send the ball flying and break multiple blocks at once. Two-player mode lets two people play on a single PS3? system or PSP® system to play head to head.</desc>
+		<image>./mixart/Smashbreak (USA).png</image>
+		<video>./snap/Smashbreak (USA).mp4</video>
+		<marquee>./wheel/Smashbreak (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Sneezies (USA).cso</path>
+		<name>Sneezies</name>
+		<image>./mixart/Sneezies (USA).png</image>
+		<video>./snap/Sneezies (USA).mp4</video>
+		<marquee>./wheel/Sneezies (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111207T000000</releasedate>
+		<developer>Retro Dreamer</developer>
+		<publisher>Chillingo</publisher>
+	</game>
+	<game>
+		<path>./Snowy - The Bear's Adventures (USA).cso</path>
+		<name>Snowy : The Bear's Adventures</name>
+		<desc>Help the white bear Snowy to get to Arctic. Could it be possible for a little white bear to withstand a whole army of evil monsters? For sure, if we're talking about charming and fearless Snowy. Armed to the teeth with the snowballs, he is turning his enemies into large balls of snow and ice figures. But this snowballs throwing champion doesn't want to do any harm, he simply wants to get back home to Arctic and collect as many prizes and bonuses on his way as possible. And he will make it! But only with your help. Attention: During the game play, more then 10000 snowballs will be made. All of the monsters will be defrosted afterwards. No white bears will get hurt.</desc>
+		<image>./mixart/Snowy - The Bear's Adventures (USA).png</image>
+		<video>./snap/Snowy - The Bear's Adventures (USA).mp4</video>
+		<marquee>./wheel/Snowy - The Bear's Adventures (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110831T000000</releasedate>
+		<developer>Alawar Entertainment, Inc.</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Space Shooter for Two Bucks!, A (USA).cso</path>
+		<name>Space Shooter For Two Bucks!, A</name>
+		<desc>Since time immemorial, through eons of time and dozens of game consoles, one thing has remained true: humans love hopping into a spaceship to shoot up hordes of alien invaders! In A Space Shooter for Two Bucks! (a game with perhaps the most straightâforward title in history) you get to do just that.
+
+Take control of Commander P. Jefferson and go on an intergalactic shooting spree, hopping from galaxy to galaxy in your attempts to wipe out hordes of swarming alien baddies. With overâtheâtop, tongueâinâcheek humor from the gameâs wide cast of colorful characters (all of which are fully voicedâover) and loads of bodacious powerâups to ensure your ship has a fighting chance against the sea of enemy ships and bullets, A Space Shooter for Two Bucks! gives gamers everything they could ask for in a space shooter!</desc>
+		<image>./mixart/Space Shooter for Two Bucks!, A (USA).png</image>
+		<video>./snap/Space Shooter for Two Bucks!, A (USA).mp4</video>
+		<marquee>./wheel/Space Shooter for Two Bucks!, A (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20101221T000000</releasedate>
+		<developer>Frima Studio</developer>
+		<publisher>Frima Studio</publisher>
+	</game>
+	<game>
+		<path>./Spaceball Revolution (USA).cso</path>
+		<name>Spaceball Revolution</name>
+		<desc>Spaceball: Revolution will put your intelligence and skill to the test as you solve puzzles in a futuristic environment. You have to copy the figures that appear on the top screen, using energy balls that make the boxes used to construct the figure correctly change color. But it won't be an easy task... Different obstacles will be thrown into your path, making you polish your aim and think rapidly. Fifteen different levels are waiting for you in "Spaceball: Revolution." Are you up to the challenge? Only the very best players manage to reach the end!</desc>
+		<image>./mixart/Spaceball Revolution (USA).png</image>
+		<video>./snap/Spaceball Revolution (USA).mp4</video>
+		<marquee>./wheel/Spaceball Revolution (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100204T000000</releasedate>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game>
+		<path>./Speedball 2 - Evolution (USA).cso</path>
+		<name>Speedball 2 Evolution</name>
+		<desc>Various remakes of Speedball 2 have been released. Speedball 2100, released only for the PlayStation, is a 3D version of Speedball 2 with more options such as choosing and renaming any team, instead of having to play with Brutal Deluxe. This version, released in September 2000, failed to win over gamers and press because it lacked the speed and gameplay of the originals.[citation needed]
+
+Empire Interactive released Speedball 2: Brutal Deluxe onto Xbox Live Arcade on October 17, 2007.[14] The game features a 3D graphics mode in addition to the "classic" visuals, as well as additional teams and online play.[15] According to statements by the Bitmap Brothers, this version of the game takes place in the 24th century. It was eventually delisted from Xbox Live Arcade, but people who have already downloaded it are still able to play it.
+
+Frogster Interactive Pictures released a remake developed by Kylotonn, Speedball 2 Tournament onto Steam in November 2007.[16] In February 2011, Tower Studios released another updated version called Speedball 2: Evolution, developed by Vivid Games for iOS. The game features multiplayer support and achievements via Game Center.[17] It was also released for the PlayStation Portable and PlayStation 3.
+
+A remake for the PC titled Speedball 2 HD was released December 5, 2013 on Steam. It's developed by Vivid Games and directed by Jon Hare.[18]</desc>
+		<image>./mixart/Speedball 2 - Evolution (USA).png</image>
+		<video>./snap/Speedball 2 - Evolution (USA).mp4</video>
+		<marquee>./wheel/Speedball 2 - Evolution (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111019T000000</releasedate>
+		<developer>Tower Studios</developer>
+		<publisher>Vivid Games</publisher>
+	</game>
+	<game>
+		<path>./Spot the Differences! (USA).cso</path>
+		<name>Spot The Differences!</name>
+		<desc>Are your eyes keen enough to spot the difference, even if it's ever so slight, in a pair of pictures? This game gives you that classic puzzle challenge while also offering a journey through odd and picturesque scenes on various themes: travel, gastronomy, playground, sports, pets, wildlife.
+
+Three game modes are available in Spot The Differences! In Arcade Mode, images appear in a random sequence. Spot 5 differences in each picture! In Select Pictures Mode, play with pictures you choose. And in Time Attack Mode, spot one difference in each picture and then switch -- spot as many as you can while the timer runs!</desc>
+		<image>./mixart/Spot the Differences! (USA).png</image>
+		<video>./snap/Spot the Differences! (USA).mp4</video>
+		<marquee>./wheel/Spot the Differences! (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20091105T000000</releasedate>
+		<developer>Sanuk Games</developer>
+		<publisher>Sanuk Games</publisher>
+	</game>
+	<game>
+		<path>./Stand O'Food (USA).cso</path>
+		<name>Stand O'food</name>
+		<desc>Stand O'Food is a fastfood restaurant simulator with where you need to cook up veggie, omelet, beef, chicken or fish burgers, before the long line of impatient customers becomes too big. If you earn money for each session, you can upgrade your restaurant with music, dressings, faster cooking, and other improvements. This is a fast, instant play game with more than 100 levels and 80 different burger recipes.</desc>
+		<image>./mixart/Stand O'Food (USA).png</image>
+		<video>./snap/Stand O'Food (USA).mp4</video>
+		<marquee>./wheel/Stand O'Food (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091203T000000</releasedate>
+		<developer>Shape Games</developer>
+		<publisher>Shape Games</publisher>
+	</game>
+	<game>
+		<path>./Star Hammer Tactics (USA).cso</path>
+		<name>Star Hammer Tactics</name>
+		<desc>Battle the mysterious alien Nautilids and decide the fate of the planet Novus!nnStar Hammer Tactics is a tactical battle game that anyone can learn to play in minutes. Challenge the devious AI in single player mode, or compete against friends in local hotseat multiplayer.nnAchieve victory by outwitting your opponents, and blasting them to little pieces!</desc>
+		<image>./mixart/Star Hammer Tactics (USA).png</image>
+		<video>./snap/Star Hammer Tactics (USA).mp4</video>
+		<marquee>./wheel/Star Hammer Tactics (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100714T000000</releasedate>
+		<developer>Black Lab Games</developer>
+		<publisher>Black Lab Games</publisher>
+	</game>
+	<game>
+		<path>./Sudoku (USA).cso</path>
+		<name>Sudoku (ea Mobile)</name>
+		<image>./mixart/Sudoku (USA).png</image>
+		<video>./snap/Sudoku (USA).mp4</video>
+		<marquee>./wheel/Sudoku (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Super Fruitfall Deluxe (Europe).cso</path>
+		<name>Super Fruitfall Deluxe</name>
+		<desc>Super Fruitfall is a simple tile matching game. The playing field is a frame which is differently shaped in every level, e.g. sometimes a regular square or a tube. The interior space also features different forms. Fruits are spread out in this frame which the player can rotate either left, right or 180°. Then of course the fruits start falling and if multiple of the same kind touch each other they vanish. The goal of a level is to get rid of every fruit.</desc>
+		<image>./mixart/Super Fruitfall Deluxe (Europe).png</image>
+		<video>./snap/Super Fruitfall Deluxe (Europe).mp4</video>
+		<marquee>./wheel/Super Fruitfall Deluxe (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Slam Productions Ltd</developer>
+		<publisher>System 3 Software</publisher>
+	</game>
+	<game>
+		<path>./Supermarket Mania (USA).cso</path>
+		<name>Supermarket Mania</name>
+		<desc>Supermarket Mania, at its core, operates as a time management sim set in a grocery store. Or rather, five grocery stores. With a large 50-stage story mode, players take control of Nikki and must manage time and products to keep grocery stores stocked for customers. Besides just working to keep stores stocked, players have to deal with a competing grocery store. By working with speed and dedication, players earn enough cash to upgrade their grocery stores to better compete with the rival store.</desc>
+		<image>./mixart/Supermarket Mania (USA).png</image>
+		<video>./snap/Supermarket Mania (USA).mp4</video>
+		<marquee>./wheel/Supermarket Mania (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100526T000000</releasedate>
+		<developer>G5 Entertainment</developer>
+		<publisher>G5 Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Swap Zap (Europe).cso</path>
+		<name>Swap Zap!</name>
+		<desc>Pam can run and jump around in an increasingly hazardous space-truck, dodging falling blocks and dangers that slowly fill the cargo holds.nnEnemies pop out of the space-trucks nooks and corners to gnaw at our heroine.nnAs if that wasn´t enough Pam needs to collect all power cores in each level in order to start her ship.nnThe only tool available to her is the Swap-Zapper which enables its user to change places with anything it zaps!</desc>
+		<image>./mixart/Swap Zap (Europe).png</image>
+		<video>./snap/Swap Zap (Europe).mp4</video>
+		<marquee>./wheel/Swap Zap (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110216T000000</releasedate>
+		<developer>Plate-Forme</developer>
+		<publisher>Puzzle-Game</publisher>
+	</game>
+	<game>
+		<path>./Tehra - Dark Warrior (USA).cso</path>
+		<name>Tehra : Dark Warrior</name>
+		<desc>Tehra: Dark Warrior, is a thrilling 3D action and adventure game, immersing us in a fantasy world where Orcs, Undead, Mages, enormous Trolls and beasts unknown to man will walk through the lands of Sistar, with the single aim of destroying us.nnSeize special objects from powerful enemies to arm yourself. Release the demonic force within you and multiply your power to become Dark Warrior.</desc>
+		<image>./mixart/Tehra - Dark Warrior (USA).png</image>
+		<video>./snap/Tehra - Dark Warrior (USA).mp4</video>
+		<marquee>./wheel/Tehra - Dark Warrior (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100615T000000</releasedate>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game>
+		<path>./Tetraminos (USA).cso</path>
+		<name>Tetraminos</name>
+		<desc>So you thought you were the ?pro' of arcade games? Swot up on your classics!nn6 shapes of 4 blocks that drop without ever stopping, lines to complete and make vanish, 3 levels of difficulty, static blocks to hinder your progress and gradually increasing speed... There's nothing like a bit of quick thinking to get rid of the stress!</desc>
+		<image>./mixart/Tetraminos (USA).png</image>
+		<video>./snap/Tetraminos (USA).mp4</video>
+		<marquee>./wheel/Tetraminos (USA).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20100728T000000</releasedate>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game>
+		<path>./Tetris (USA).cso</path>
+		<name>Tetris</name>
+		<desc>TETRIS? iconic blocky shapes are just as effective at occupying every spare thought when you?re not playing as they were when they debuted in 1984. As the times have changed, so too has TETRIS itself, becoming more visually striking while retaining that classic infectious gameplay.</desc>
+		<image>./mixart/Tetris (USA).png</image>
+		<video>./snap/Tetris (USA).mp4</video>
+		<marquee>./wheel/Tetris (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Impressionware</developer>
+		<publisher>Electronic Arts</publisher>
+	</game>
+	<game>
+		<path>./Impossible Game, The (USA).cso</path>
+		<name>The Impossible Game</name>
+		<desc>The Impossible Game. With a title like that, you know it'll be a tough ride but The Impossible Game takes "difficulty" to a whole new level. It's fast-paced and brutal, but with near-instant respawning, the experience is as smooth as it is deadly.
+You play a humble orange square, racing against a serene blue background. The trick is that there are plenty of obstacles on this course: triangles are like deadly spikes, and squares can be jumped on top of but will kill you if you slam into them. Likewise, you can die if you fall through a hole in the floor. Your orange square will hurtle forward regardless of the danger, and your only control is simple tap to jump. Longer taps equal longer jumps, and you?ll need meticulous precision if you want to survive. The music syncs with your music, which is a very nifty effect that adds to the surreal quality of the whole thing.</desc>
+		<image>./mixart/Impossible Game, The (USA).png</image>
+		<video>./snap/Impossible Game, The (USA).mp4</video>
+		<marquee>./wheel/Impossible Game, The (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20110907T000000</releasedate>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game>
+		<path>./Marbians, The (USA).cso</path>
+		<name>The Marbians</name>
+		<desc>On a mission to collect precious moon rocks, the adorable aliens, the Marbians, have crash landed in a dusty attic in New Mexico left untouched since the '40s. Now you must help them find their way back to their UFO and gather as many moon rocks as possible on your way. The Marbians is a fun physics-based puzzle adventure that offers 72 levels of tricky timing, peculiar precision and tremendous brain teasing for the whole family.</desc>
+		<image>./mixart/Marbians, The (USA).png</image>
+		<video>./snap/Marbians, The (USA).mp4</video>
+		<marquee>./wheel/Marbians, The (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111005T000000</releasedate>
+		<developer>Osao</developer>
+		<publisher>Osao</publisher>
+	</game>
+	<game>
+		<path>./Mystery of the Crystal Portal, The (USA).cso</path>
+		<name>The Mystery of the Crystal Portal</name>
+		<desc>Journalist Nicole Rankvist receives a letter from Robert, her archaeologist father, describing the discovery of the key for a powerful artifact called the Crystal Portal. When he goes missing, Nicole must find the scattered pieces of the key around the world.
+
+The Mystery of the Crystal Portal is a hidden object that replaces the traditional list of objects names with a different gameplay mechanic. The player has to click on certain objects in the scenery that open a circle around it with photographs of items that must be found and dragged to it. After picking all the required stuff, some of these container objects disappear to reveal a key item underneath them.
+
+Some of the objects have to be collected in one screen to be used in another place (for example, finding matches outside the house to light a fireplace inside). At the end of each stage/location there's a unique logic puzzle game to be solved, involving some of the objects that the player picked up.</desc>
+		<image>./mixart/Mystery of the Crystal Portal, The (USA).png</image>
+		<video>./snap/Mystery of the Crystal Portal, The (USA).mp4</video>
+		<marquee>./wheel/Mystery of the Crystal Portal, The (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100630T000000</releasedate>
+		<developer>G5 Entertainment</developer>
+		<publisher>G5 Entertainment</publisher>
+	</game>
+	<game>
+		<path>./Thexder Neo (USA).PBP</path>
+		<name>Thexder Neo</name>
+		<desc>Thexder Neo is a enhanced remake of the original PC version of  Thexder, originally released in 1985.
+
+Maintaining the original gameplay, the game is a side-scroller shooter in which the player controls a jet transformable robot armed with a homing laser.
+
+The remake offers revamped 3d graphics, new and remixed music, an online mode which supports up to 6 players, and a new easier difficulty level.</desc>
+		<image>./mixart/Thexder Neo (USA).png</image>
+		<video>./snap/Thexder Neo (USA).mp4</video>
+		<marquee>./wheel/Thexder Neo (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20091001T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Game Arts</publisher>
+	</game>
+	<game>
+		<path>./This is Football Management (Europe).cso</path>
+		<name>This Is Football Management</name>
+		<desc>Easy to pick up and enjoy, This is Football Management? features a comprehensive ?Edit Mode' allowing you to customise proceedings and play how you want to play. And the 2D match engine simulates games, so you can follow each fixture, cheering as the goals go in and making substitutions and tactical decisions as you see fit.</desc>
+		<image>./mixart/This is Football Management (Europe).png</image>
+		<video>./snap/This is Football Management (Europe).mp4</video>
+		<marquee>./wheel/This is Football Management (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100107T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+	</game>
+	<game>
+		<path>./Tiger Trouble (Europe).cso</path>
+		<name>Tiger Trouble</name>
+		<desc>The game is played against asymmetrical opponents where one controls three Tigers and the other controls 15 Goats. Objective of the Tigers is to hunt down the Goats while the Goats attempt to lock the Tigers ability to move. nnnnPlayers can choose to be either Tiger or Goat. Both require different playing strategy. The arrangement of pieces, method of play and the rules of capture vary from game to game.</desc>
+		<image>./mixart/Tiger Trouble (Europe).png</image>
+		<video>./snap/Tiger Trouble (Europe).mp4</video>
+		<marquee>./wheel/Tiger Trouble (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20091222T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Tiny Hawk (Europe).cso</path>
+		<name>Tiny Hawk</name>
+		<desc>Tiny Hawk is a 2D platform game with simple controls and fast arcade feel, where the player must collect the higher number of soda cans in the shortest possible time. The difficulty comes with the impossibility to stop: player is only able to turn and jump.</desc>
+		<image>./mixart/Tiny Hawk (Europe).png</image>
+		<video>./snap/Tiny Hawk (Europe).mp4</video>
+		<marquee>./wheel/Tiny Hawk (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20120104T000000</releasedate>
+		<developer>Polygon Toys</developer>
+		<publisher>Polygon Toys</publisher>
+	</game>
+	<game>
+		<path>./Top Gun (USA).cso</path>
+		<name>Top Gun</name>
+		<desc>Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.nnnnThe action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.</desc>
+		<image>./mixart/Top Gun (USA).png</image>
+		<video>./snap/Top Gun (USA).mp4</video>
+		<marquee>./wheel/Top Gun (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Touch Racing Nitro (Europe).cso</path>
+		<name>Touch Racing Nitro</name>
+		<desc>Touch Racing Nitro is a racing game like no other. You will drive, drift, jump, launch nitros and fly over your opponents!3 DIFFERENT TOURNAMENTS AND RACING ENVIRONMENTS. Hone your Touch Racing skills in the Indoor Cup.nnMaster the 4x4 monster trucks of the Off-Road Cup, or for the speed lovers push your super car to the limit in the Supertrax Cup!</desc>
+		<image>./mixart/Touch Racing Nitro (Europe).png</image>
+		<video>./snap/Touch Racing Nitro (Europe).mp4</video>
+		<marquee>./wheel/Touch Racing Nitro (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110323T000000</releasedate>
+		<developer>Bravo</developer>
+		<publisher>Bravo</publisher>
+	</game>
+	<game>
+		<path>./Trailblazer (USA).cso</path>
+		<name>Trailblazer</name>
+		<desc>Thundering into the unknown at breakneck speed, are you agile enough to negotiate the perils of Trailblazer? nnRoll left and right to avoid the cracks and be careful not to fall off the edge of the path as you go. nnBe sure to identify and avoid the special tiles which will speed you up and slow you down, block your path or make you jump automatically.</desc>
+		<image>./mixart/Trailblazer (USA).png</image>
+		<video>./snap/Trailblazer (USA).mp4</video>
+		<marquee>./wheel/Trailblazer (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120118T000000</releasedate>
+		<developer>Ideas Pad Ltd</developer>
+		<publisher>Ideas Pad Ltd</publisher>
+	</game>
+	<game>
+		<path>./Twin Blades (USA).cso</path>
+		<name>Twin Blades</name>
+		<desc>Sister Angelika is not your average nun: she has purple hair, carries a large gun and a larger scythe, and spends her days fighting zombies. The town of Jalombe is under attack by such zombies, and she has been summoned to help exterminate them. Together with Father Richiardo at the monastery, she must find and destroy the source of the outbreak before Jalombe is destroyed.
+
+Twin Blades is a scrolling action game where the player must slaughter waves of zombies as they spring up from the ground, using both a variety of different guns and a very large scythe. Killing zombies nets the player zombie hearts, which can be exchanged at the monastery for weapon and power upgrades, including new guns, more health, and even new moves. There are several types of zombies, some of which are resistant to certain attacks, and every so often a much larger, more difficult boss creature will appear.
+
+The player can freely travel between open areas, and as stages are played, night will fall, which will cause zombie swarms on other stages to replenish and strengthen. In addition to the main story mode, there is also a survival mode where the player must survive 31 days against endless swarms of zombies.</desc>
+		<image>./mixart/Twin Blades (USA).png</image>
+		<video>./snap/Twin Blades (USA).mp4</video>
+		<marquee>./wheel/Twin Blades (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110202T000000</releasedate>
+		<developer>Press Start Studio</developer>
+		<publisher>Press Start Studio</publisher>
+	</game>
+	<game>
+		<path>./Urbanix (USA).cso</path>
+		<name>Urbanix</name>
+		<desc>Urbanix sur Playstation Portable (minis) s'inspire beaucoup du classique de l'arcade Qix. Vous devez encercler des zones de l'écran pour les valider et ainsi faire pousser des immeubles. Si par malheur un ennemi vous touche pendant la validation d'une zone, vous perdez une vie. Plusieurs ennemis, terrains de jeu et bonus vous attendent dans les 150 niveaux.</desc>
+		<image>./mixart/Urbanix (USA).png</image>
+		<video>./snap/Urbanix (USA).mp4</video>
+		<marquee>./wheel/Urbanix (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20101006T000000</releasedate>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game>
+		<path>./Vector TD (USA).cso</path>
+		<name>Vector Td</name>
+		<desc>In this entry in the popular tower defense genre, players aim to eliminate the Vectoid threat before they reach the end of the path. You do this by constructing towers along the path to attack oncoming Vectoids. Success is not based solely on the types of tower you select, but where you place them and what upgrade and bonus options you take.</desc>
+		<image>./mixart/Vector TD (USA).png</image>
+		<video>./snap/Vector TD (USA).mp4</video>
+		<marquee>./wheel/Vector TD (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20100121T000000</releasedate>
+		<developer>Candystand</developer>
+		<publisher>Candystand</publisher>
+	</game>
+	<game>
+		<path>./Velocity (USA).cso</path>
+		<name>Velocity</name>
+		<desc>Take control of the world's first quantum teleport craft in this innovative shooter, using a range of teleport controls to outsmart enemies, solve action puzzles and rescue survivors from their deep space hideaways. Featuring genre-busting game play and music from Joris de Man (Killzone), Velocity plays like a dream and sounds incredible!</desc>
+		<image>./mixart/Velocity (USA).png</image>
+		<video>./snap/Velocity (USA).mp4</video>
+		<marquee>./wheel/Velocity (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120516T000000</releasedate>
+		<developer>FuturLab</developer>
+		<publisher>FuturLab</publisher>
+	</game>
+	<game>
+		<path>./Vempire (USA).cso</path>
+		<name>Vempire</name>
+		<desc>Vempire is a puzzle game with added strategy and story elements to entrance gamers. At its heart Vempire is a puzzle game in which the player has to rotate squares of blocks (clockwise or counter-clockwise) with the aim to create rows or columns of four of more blocks of the same type. When this happens those blocks are destroyed and more blocks falls from the top. The aim of each level is to delete enough blocks before the time runs out.</desc>
+		<image>./mixart/Vempire (USA).png</image>
+		<video>./snap/Vempire (USA).mp4</video>
+		<marquee>./wheel/Vempire (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Impressionware</developer>
+		<publisher>Impressionware</publisher>
+	</game>
+	<game>
+		<path>./VT Tennis (USA).cso</path>
+		<name>Vt Tennis</name>
+		<desc>VT TennisTM is the most competitive and addictive tennis game for the PSP. Virtual Toys' experience in this kind of games will help you become the new international circuit champion. Train your budding tennis star to serve, lob and smash your way to victory with precision swipes in all directions, using its innovative controls! Advance your player statistics in this fast-paced tournament of game modes, featuring Quickmatch, Tennis School &amp; World Championship! Play a quick singles or doubles match on one of the available courts. In quick match mode, you can modify all the game settings such as the game difficulty, sex of your player and the number of games and sets per match. There are various locked courts which you can only play once you have progressed in career mode. The objective in career mode is to become number 1 in the world rankings. To do this, the player will have to unlock courts as he competes in championships all over the world. At the start of career mode, the player will see himself in last place in the rankings. From this moment on, you must battle your way up to be among the top players. You can play on all types of surface: grass, clay and hard courts and learn the best techniques for winning each tournament on the different surfaces. Seventeen tough courts, each more difficult than the last, stand between you and your final victory.</desc>
+		<image>./mixart/VT Tennis (USA).png</image>
+		<video>./snap/VT Tennis (USA).mp4</video>
+		<marquee>./wheel/VT Tennis (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20100526T000000</releasedate>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game>
+		<path>./Wackylands Boss (USA).cso</path>
+		<name>Wackylands Boss</name>
+		<desc>Stop the happy ending! Help Boss, your gigantic princess-eating monster, defeat the hordes of heroes, and show them who the boss really is in this action packed game. 
+</desc>
+		<image>./mixart/Wackylands Boss (USA).png</image>
+		<video>./snap/Wackylands Boss (USA).mp4</video>
+		<marquee>./wheel/Wackylands Boss (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110302T000000</releasedate>
+		<developer>Creat Studios</developer>
+		<publisher>Creat Studios</publisher>
+	</game>
+	<game>
+		<path>./War of Sonria (Europe).cso</path>
+		<name>War Of Sonria</name>
+		<desc>War of Sonria is a turn-based strategy game where you play the role as a battle commander.
+
+Create your own band of hand-picked soldiers and fight through a plethora of immersive environments. Choose from a large roster of unique characters and battle it out against vicious A.I. Or compete against a friend in intense hotseat battles!</desc>
+		<image>./mixart/War of Sonria (Europe).png</image>
+		<video>./snap/War of Sonria (Europe).mp4</video>
+		<marquee>./wheel/War of Sonria (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20121212T000000</releasedate>
+		<developer>Playgroundsquad</developer>
+		<publisher>Playgroundsquad</publisher>
+	</game>
+	<game>
+		<path>./Where is my Heart (USA).cso</path>
+		<name>Where Is My Heart?</name>
+		<desc>A family of three monsters go on a hike. Suddenly they notice that they're lost. They start fussing and only end up more confused. The family is left shattered by paranoia. In the woods the three monsters encounter many a strangeness. They enter the Land of the Fireflies; they meet the naively helpful Antler Ancestor; the friendly Rainbow Spirit of True Sorrow; and the ambivalent Bat King. The monsters try to overcome their negative craze and start making their way home. They gather up pink hearts to strengthen their family bond. Sometimes they can?t help but cast bitter green hearts of spite. Will the monsters survive as a family, or will they break up into a set of three lonely individuals?</desc>
+		<image>./mixart/Where is my Heart (USA).png</image>
+		<video>./snap/Where is my Heart (USA).mp4</video>
+		<marquee>./wheel/Where is my Heart (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20111102T000000</releasedate>
+		<developer>Die Gute Fabrik</developer>
+		<publisher>Die Gute Fabrik</publisher>
+	</game>
+	<game>
+		<path>./Wizorb (USA).cso</path>
+		<name>Wizorb</name>
+		<desc>Wizorb is a Breakout/Arkanoid action game (bounce an orb off a magic wand to break bricks), with a sprinkle of a Japanese-style RPG. Besides breaking bricks, there are monsters to kill, spells to cast and power-ups to buy. In total, there are about 60 levels on 5 worlds, plus some extra secret levels for good measure. Next to the classic gameplay, the player has access to a magic bar with limited supply to destroy bricks with fireballs.</desc>
+		<image>./mixart/Wizorb (USA).png</image>
+		<video>./snap/Wizorb (USA).mp4</video>
+		<marquee>./wheel/Wizorb (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Tribute Games</developer>
+		<publisher>Tribute Games</publisher>
+	</game>
+	<game>
+		<path>./World Ping Pong Championship (Europe).cso</path>
+		<name>World Ping Pong Championship</name>
+		<desc>Enter the World Ping Pong Championship to compete against the world's best to become the ultimate champion in this exciting arcade game. A tournament based games where you compete against 5 other countries for the champion's trophy. Play in practice mode to horn your skills against individual countries and then enter the world tournament to prove your might.</desc>
+		<image>./mixart/World Ping Pong Championship (Europe).png</image>
+		<video>./snap/World Ping Pong Championship (Europe).mp4</video>
+		<marquee>./wheel/World Ping Pong Championship (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20120215T000000</releasedate>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game>
+		<path>./Young Thor (USA).cso</path>
+		<name>Young Thor</name>
+		<desc>Have you ever dreamed of walking on a magnificent world with the feeling that nothing can stop you because of your power, of what you are? You are the young and mighty god of thunder and the fate of the universe is in your hand. Yggdrasil, the world tree, is dying. The three Norns, Skuld, Urd and Verdandi are missing and no one is tending the world tree.</desc>
+		<image>./mixart/Young Thor (USA).png</image>
+		<video>./snap/Young Thor (USA).mp4</video>
+		<marquee>./wheel/Young Thor (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100721T000000</releasedate>
+		<developer>Frima Studio</developer>
+		<publisher>Frima Studio</publisher>
+	</game>
+	<game>
+		<path>./Yummy Yummy Cooking Jam (USA).cso</path>
+		<name>Yummy Yummy Cooking Jam</name>
+		<desc>Dans Yummy Yummy Cooking Jam sur DS, vous devez préparer et servir à manger à plusieurs clients exigeants. Faites vite pour ne pas brûler la nourriture, ni faire perdre patience à vos gloutons ! Ce titre est à télécharger sur Playstation Store.</desc>
+		<image>./mixart/Yummy Yummy Cooking Jam (USA).png</image>
+		<video>./snap/Yummy Yummy Cooking Jam (USA).mp4</video>
+		<marquee>./wheel/Yummy Yummy Cooking Jam (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20091008T000000</releasedate>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game>
+		<path>./Zenonia (USA).cso</path>
+		<name>Zenonia</name>
+		<desc>Zenonia sur PSP est un jeu de rôle et d'aventure où vous contrôlez Regret, un chevalier en quête d'aventure. Le titre propose de nombreux lieux à visiter, des rencontres avec des personnages hauts en couleur et des quêtes variées. Le personnage principal dispose de talents spécifiques et vous pouvez ramasser plus d'une centaine d'objets durant votre quête pour le faire progresser. Le cycle jour/nuit est également géré.</desc>
+		<image>./mixart/Zenonia (USA).png</image>
+		<video>./snap/Zenonia (USA).mp4</video>
+		<marquee>./wheel/Zenonia (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20101012T000000</releasedate>
+		<developer>Gamevil</developer>
+		<publisher>Gamevil</publisher>
+	</game>
+	<game>
+		<path>./Zombie Racers (USA).cso</path>
+		<name>Zombie Racers</name>
+		<desc>Take on the best Zombie Racers in this automotive zombie bloodfest.
+
+Story Mode: race and kill zombies, use zombie kills to upgrade your car, come first to unlock the next track.
+Free Roaming Mode: go anywhere, use weapons on zombies and each other, compete in three new game modes, Dusk To Dawn, 666 Zombies and Every Last Drop.
+Unlock new cars and tracks.
+10 cars, from pickups and monster 4x4s to drift cars and even a golf cart.
+14 tracks, from a forest and a cornfield to an airport and shopping mall.
+Punk soundtrack from Bankrupt.</desc>
+		<image>./mixart/Zombie Racers (USA).png</image>
+		<video>./snap/Zombie Racers (USA).mp4</video>
+		<marquee>./wheel/Zombie Racers (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110607T000000</releasedate>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game>
+		<path>./Zombie Tycoon (USA).cso</path>
+		<name>Zombie Tycoon</name>
+		<desc>For those who avoid the stock market in times of recession, now you can apply your managerial skills to amassing live brains rather than cold, hard cash. In Zombie Tycoon, living dead videogame aficionados will encounter a completely new set of challenges in their role as zombie overlord. You are responsible for the overall strategy of attack and the well-being of your zombie troops as you attempt to spread the undead across the globe. Along with the fast-paced action found in games where players control more self-serving zombies, Frima Studios has added humorous strategies and managerial challenges into the gameplay for a new take on a classic genre.</desc>
+		<image>./mixart/Zombie Tycoon (USA).png</image>
+		<video>./snap/Zombie Tycoon (USA).mp4</video>
+		<marquee>./wheel/Zombie Tycoon (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20091029T000000</releasedate>
+		<developer>Frima Studio</developer>
+		<publisher>Frima Studio</publisher>
+	</game>
+	<game>
+		<path>./Reef Aquarium (USA).cso</path>
+		<name>Reef Aquarium</name>
+		<desc>Download the magnificent coral reefs of the deep blue to your console. Feel the atmosphere of the underwater world and watch its inhabitants swimming around you. You will see the most vivid ocean fishes there. Fish library will help you to find out more about these amazing creatures. And do not forget to feed fish and play with them ? fish are very easy to get upset.</desc>
+		<image>./mixart/Reef Aquarium (USA).png</image>
+		<video>./snap/Reef Aquarium (USA).mp4</video>
+		<marquee>./wheel/Reef Aquarium (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100429T000000</releasedate>
+		<developer>Biart Studio</developer>
+		<publisher>Biart Studio</publisher>
+	</game>
+	<game>
+		<path>./Car Jack Streets (USA).cso</path>
+		<name>Car Jack Streets</name>
+		<desc>Your debt to the mob is $1 million. They want $50,000 a week, every week, starting now. It's that simple punk! Do whatever you can to pay your dues, drive taxis, steal cars and assassinate gang members, hell you can even deliver pizzas if you have to. Just make that payment on time or it's all over. Car Jack Streets blends a large city based environment with real time casual game-play for the first time ever. Jack it up punk!</desc>
+		<image>./mixart/Car Jack Streets (USA).png</image>
+		<video>./snap/Car Jack Streets (USA).mp4</video>
+		<marquee>./wheel/Car Jack Streets (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100504T000000</releasedate>
+		<developer>Tag Games</developer>
+		<publisher>Tag Games</publisher>
+	</game>
+	<game>
+		<path>./Flying Hamster, The (USA).cso</path>
+		<name>Flying Hamster</name>
+		<desc>Take control of Newton, the flying hamster in this action-frenzy horizontal shooter. You will fly across six unique environments, from the sunflower fields to the big Japanese city or the crazy ancient Egypt. Eight freaky weapons are scattered among the levels, and you'll need them all to take on the more than 35 different enemies (sneaky penguins, anti-air cows, exploding foxes, ninja squirrels, toaster-robots...) as well as the six dreadful and unpredictable bosses.</desc>
+		<image>./mixart/Flying Hamster, The (USA).png</image>
+		<video>./snap/Flying Hamster, The (USA).mp4</video>
+		<marquee>./wheel/Flying Hamster, The (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20100908T000000</releasedate>
+		<developer>The Game Atelier</developer>
+		<publisher>The Game Atelier</publisher>
+	</game>
+	<game>
+		<path>./Age of Zombies (USA).cso</path>
+		<name>Age Of Zombies</name>
+		<desc>In the Age of Zombies, our hero Barry Steakfries employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs. Played as a top-down shooter and offering style and flair through humor, intense action and zombie blasting carnage, Age of Zombies puts Steakfries up against the zombie masses and says, "good luck!"</desc>
+		<image>./mixart/Age of Zombies (USA).png</image>
+		<video>./snap/Age of Zombies (USA).mp4</video>
+		<marquee>./wheel/Age of Zombies (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100225T000000</releasedate>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+	</game>
+	<game>
+		<path>./One Epic Game (USA).cso</path>
+		<name>One Epic Game</name>
+		<desc>The world needs saving... again. But this time, it needs protection from an alien invasion right in the middle of a zombie outbreak, in a fantasy land somewhere in a post-apocalyptic wasteland, with World War II also involved somehow! 
+
+And there's just one hero who can save us all. Unfortunately, he has something better to do, so it's all up to you now!</desc>
+		<image>./mixart/One Epic Game (USA).png</image>
+		<video>./snap/One Epic Game (USA).mp4</video>
+		<marquee>./wheel/One Epic Game (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20110720T000000</releasedate>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game>
+		<path>./Let's Golf (USA).cso</path>
+		<name>Let's Golf!</name>
+		<desc>As the name implies, Let's Golf! is a handheld-golf-game. The game features four fictitious golf courses in Fiji, England, USA and Scotland. The goal is of course to get the ball into the hole with the flag in as less strikes as possible. To make it harder for the players to meet that goal, the courses are littered with obstacles like hills and sand bunkers. In addition the wind decides too where the player's ball lands.
+
+As opposed to real life though, the player can influence the ball's flightpath during the flight by choosing in which direction it spins. This allows to compensate for wind and also for a bad angle at the strike. How hard the player hits the ball is decided by a gauge where the player needs to click at the right moment. The same goes for the angle. Although the game hands the player a club that it thinks fits the situation, he can also choose his own.</desc>
+		<image>./mixart/Let's Golf (USA).png</image>
+		<video>./snap/Let's Golf (USA).mp4</video>
+		<marquee>./wheel/Let's Golf (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091124T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+	</game>
+	<game>
+		<path>./20Q (Europe).cso</path>
+		<name>20Q</name>
+		<desc>20Q est l'adaptation sur PSP du petit appareil électronique capable de deviner avec précision l'objet ou l'animal auquel vous pensez. Répondez par oui ou par non aux 20 questions posées et soyez bluffé par la magie divinatoire de votre console !</desc>
+		<image>./mixart/20Q (Europe).png</image>
+		<video>./snap/20Q (Europe).mp4</video>
+		<marquee>./wheel/20Q (Europe).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20110420T000000</releasedate>
+	</game>
+	<game>
+		<path>./2D Adventures of Rotating Octopus Character, The (USA).cso</path>
+		<name>2d Adventures Of Rotating Octopus Character, The</name>
+		<desc>The 2D Adventures of Rotating Octopus Character is a platform game with a twist (a lot of twisting!). Stick to every surface and leap from wall to wall as you grab baby octopi and avoid evil hats, flying knives, exploding wasabi and a host of other meanies intent on Octopus Doom.</desc>
+		<image>./mixart/2D Adventures of Rotating Octopus Character, The (USA).png</image>
+		<video>./snap/2D Adventures of Rotating Octopus Character, The (USA).mp4</video>
+		<marquee>./wheel/2D Adventures of Rotating Octopus Character, The (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20110516T000000</releasedate>
+		<developer>Dakko Dakko Ltd.</developer>
+		<publisher>Dakko Dakko Ltd.</publisher>
+	</game>
+	<game>
+		<path>./5-in-1 Solitaire (USA).cso</path>
+		<name>5 In 1 Solitaire</name>
+		<desc>5 in 1 Solitaire est un jeu de cartes à télécharger sur PSP. Celui-ci propose 5 déclinaisons du célèbre jeu de solitaire à pratiquer, forcément, tout seul devant son écran.</desc>
+		<image>./mixart/5-in-1 Solitaire (USA).png</image>
+		<video>./snap/5-in-1 Solitaire (USA).mp4</video>
+		<marquee>./wheel/5-in-1 Solitaire (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111005T000000</releasedate>
+		<developer>Digital Leisure</developer>
+		<publisher>Digital Leisure</publisher>
+	</game>
+	<game>
+		<path>./5-in-1 Arcade Hits (USA).cso</path>
+		<name>5-in-1 Arcade Hits</name>
+		<desc>5-in-1 Arcade Hits from Grip Games is more truthfully described as 4 classic or traditional games and 1 arcade game. Itâs a bit of a puzzle why they called it that, because it seems like it would attract the wrong audience, and at the same time not attract the audience that would most appreciate the game.
+You could also make a case itâs more than 5 games, because some of the one player vs two player variations could be enough to be considered a whole different game. Regardless of the name, itâs an intriguing package.</desc>
+		<image>./mixart/5-in-1 Arcade Hits (USA).png</image>
+		<video>./snap/5-in-1 Arcade Hits (USA).mp4</video>
+		<marquee>./wheel/5-in-1 Arcade Hits (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100707T000000</releasedate>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game>
+		<path>./Aquattack! (USA).cso</path>
+		<name>Aquattack</name>
+		<desc>Aquattack est un jeu de réflexion disponible en téléchargement sur le Playstation Store de la Playstation Portable. Votre objectif sera ici d'aligner trois poissons de même couleur ou plus afin de les faire disparaître. Il vous appartiendra bien sûr de bien penser vos coups pour mettre au point des combos.</desc>
+		<image>./mixart/Aquattack! (USA).png</image>
+		<video>./snap/Aquattack! (USA).mp4</video>
+		<marquee>./wheel/Aquattack! (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100707T000000</releasedate>
+		<developer>Mere Mortals</developer>
+		<publisher>Mere Mortals</publisher>
+	</game>
+	<game>
+		<path>./Arcade Darts (USA).cso</path>
+		<name>Arcade Darts</name>
+		<desc>With authentic darts playing feel, prepare for fun as you control your throws precisely and easily with. Challenge over 20 different computer opponents with a range of playing skills or play against a friend.</desc>
+		<image>./mixart/Arcade Darts (USA).png</image>
+		<video>./snap/Arcade Darts (USA).mp4</video>
+		<marquee>./wheel/Arcade Darts (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20100623T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Poker (USA).cso</path>
+		<name>Battle Poker</name>
+		<desc>Battle Poker is a puzzle game in which you battling against the CPU and clock to make the best arrangement of five-card hands possible. 
+There are two modes: Shuffle Up âN Deal With It, in which you arrange the five-by-five grid of cards to make ten of the best possible poker hands, and Chain Reaction, where you simply have to make as many five-card poker hands within the time limit by selecting individual adjacent cards with X and then pressing X again to capture the hand.
+
+Battles are played across multiple rounds with points scored for each round based on the quality of the hands.</desc>
+		<image>./mixart/Battle Poker (USA).png</image>
+		<video>./snap/Battle Poker (USA).mp4</video>
+		<marquee>./wheel/Battle Poker (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20090720T000000</releasedate>
+		<developer>Left Field Productions</developer>
+		<publisher>Left Field Productions</publisher>
+	</game>
+	<game>
+		<path>./Bee Wars (Europe).cso</path>
+		<name>Bee Wars</name>
+		<desc>Bee Wars es un híbrido de estrategia basada en turnos y gestión de recursos. Tu objetivo es controlar un grupo de abejas que tienen diferentes habilidades y recoger más miel que los enemigos en un nivel dado, ¡pero ten cuidado! Las abejas opositoras atacarán a sus obreros y las abejas ladronas robarán la miel de su colmena. Usted debe optar por eliminarlos a todos ellos o superarlos recogiendo más miel hasta que todos los movimientos se agotan.
+Elaborar estrategias, asegurando a tus abejas obreras de las abejas ninja oponentes y recogiendo miel de las abejas ladronas oponentes. Al mismo tiempo, también puede contrarrestar con tu propio ladrón y abejas ninja para incapacitar su colección y ganar ventaja.</desc>
+		<image>./mixart/Bee Wars (Europe).png</image>
+		<video>./snap/Bee Wars (Europe).mp4</video>
+		<marquee>./wheel/Bee Wars (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>20111026T000000</releasedate>
+		<developer>GameShastra Solutions Pvt Ltd</developer>
+		<publisher>GameShastra Solutions Pvt Ltd</publisher>
+	</game>
+	<game>
+		<path>./Blimp - The Flying Adventures (USA).cso</path>
+		<name>Blimp : The Flying Adventures</name>
+		<desc>Originally released for iPhone, Blimp: The Flying Adventures puts the player in the shoes of a war veteran Zed Pelin, who has to once more get his hands dirty when a malevolent empire attacks a small, independent planet.
+
+The player must help the resistance movement by transporting passengers and goods, placing bombs, protecting valuable targets and, of course, decimating the enemy forces using the blimpâs airstrike attack.</desc>
+		<image>./mixart/Blimp - The Flying Adventures (USA).png</image>
+		<video>./snap/Blimp - The Flying Adventures (USA).mp4</video>
+		<marquee>./wheel/Blimp - The Flying Adventures (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20101208T000000</releasedate>
+		<developer>Craneballs</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game>
+		<path>./Bloons TD (USA).cso</path>
+		<name>Bloons Td</name>
+		<desc>Achieve total Bloon popping satisfaction with BloonsÂ® TD. This really is classic TD at its best. With a multitude of towers and weapons at your disposal can you pop all of the bloons before they escape? Battle your way through 50 challenging levels and 8 exciting tracks as your army of monkeys defend the never ending wave of bloons. Upgrade towers and traps to defeat the enemy and earn the gold medals to become the TD master!</desc>
+		<image>./mixart/Bloons TD (USA).png</image>
+		<video>./snap/Bloons TD (USA).mp4</video>
+		<marquee>./wheel/Bloons TD (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100623T000000</releasedate>
+		<developer>Digital Goldfish</developer>
+		<publisher>Digital Goldfish</publisher>
+	</game>
+	<game>
+		<path>./Archibald's Adventures (USA).cso</path>
+		<name>Archibald's Adventures</name>
+		<desc>Help Archie to overcome all of the pitfalls of a mad scientist's mansion in this funny action puzzle game! Archie and crazy professor Klumpfus are stuck in the professor's mansion. The latest experiment of the goofy scientist went all wrong, and weird lifeforms escaped from their containment. Now a paranoid central computer locked both heroes up!
+
+Archibald's Adventures offers gameplay mixed of action and puzzle elements with gradually rising complexity. The player starts as a boy on skateboard, but soon he will roll in robotic vehicle capable of riding on walls and ceilings, fly on jet device or remotely control mysterious floating bubble able to switch distant mechanism or transport objects in many tricky puzzles.</desc>
+		<image>./mixart/Archibald's Adventures (USA).png</image>
+		<video>./snap/Archibald's Adventures (USA).mp4</video>
+		<marquee>./wheel/Archibald's Adventures (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100714T000000</releasedate>
+		<developer>Rake In Grass</developer>
+		<publisher>Rake In Grass</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Jetpack Joyride (USA).cso</path>
+		<name>Jetpack Joyride</name>
+		<desc>En Jetpack Joyride el jugador controla a Barry, un joven que roba un jetpack experimental de científicos supuestamente malvados y tiene que escapar del laboratorio. El juego se desplaza automáticamente, haciendo que Barry avance de izquierda a derecha a una velocidad cada vez mayor. Los fondos se alternan aleatoriamente, intercalando laboratorios de ciencias con almacenes, jardines, etc.</desc>
+		<image>./mixart/Jetpack Joyride (USA).png</image>
+		<video>./snap/Jetpack Joyride (USA).mp4</video>
+		<marquee>./wheel/Jetpack Joyride (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20121121T000000</releasedate>
+		<developer>Beatshapers</developer>
+		<publisher>Beatshapers</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition (USA).cso</path>
+		<name>Pac-man Championship Edition</name>
+		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences.
+
+The game was designed by the creator of the classic original 1980 arcade game Pac-Man, and it was Iwatani's final game before his retirement.</desc>
+		<image>./mixart/Pac-Man Championship Edition (USA).png</image>
+		<video>./snap/Pac-Man Championship Edition (USA).mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Retro City Rampage DX (USA).PBP</path>
+		<name>Retro City Rampage Dx</name>
+		<desc>Retro City Rampage reimagines the open world crime genre in the '80s! Rampage the city, steal cars, or play over 60 story mode missions! 
+
+This remastered pop culture send-up features a full Story Mode of open world missions, along with Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.</desc>
+		<image>./mixart/Retro City Rampage DX (USA).png</image>
+		<video>./snap/Retro City Rampage DX (USA).mp4</video>
+		<marquee>./wheel/Retro City Rampage DX (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Sky Force (USA).cso</path>
+		<name>Sky Force</name>
+		<desc>Pick one of three ships and blast your way to victory in this ultimate classic arcade shooter! Sky Force brings you pure blasting action in 8 immersive levels filled with vicious enemies, big bosses, destructible objects and the good old Earth to save! Use various explosive weapons, useful power-ups, and unlockables such as heat-seeking missiles or the amazingly powerful laser attack! Sky Force is a breathtaking and action packed top-down scrolling shoot?em up which delivers fun and addictive gameplay that will keep you entertained for hours! Get this game now and stand up against the enemy - the Earth deserves its new hero!</desc>
+		<image>./mixart/Sky Force (USA).png</image>
+		<video>./snap/Sky Force (USA).mp4</video>
+		<marquee>./wheel/Sky Force (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>20110105T000000</releasedate>
+		<developer>Infinite Dreams</developer>
+		<publisher>Infinite Dreams</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Stellar Attack (USA).cso</path>
+		<name>Stellar Attack</name>
+		<desc>Stellar Attack expertly blends old-school deep space shoot-em-up action with classic puzzle gameplay. Use your skill and reflexes to destroy chains of colored orbs and deadly gun turrets. nnEliminate orbs with your colored lasers to expose the turrets and blow them out of orbit, but avoid the homing missiles and cannon fire that threaten your fragile ship.</desc>
+		<image>./mixart/Stellar Attack (USA).png</image>
+		<video>./snap/Stellar Attack (USA).mp4</video>
+		<marquee>./wheel/Stellar Attack (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100415T000000</releasedate>
+		<developer>Laughing Jackal Ltd.</developer>
+		<publisher>Laughing Jackal Ltd.</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Terminator, The (USA).cso</path>
+		<name>The Terminator</name>
+		<desc>The Terminator est un mini-jeu d'action futuriste disponible sur Playstation Portable. Le titre prend place en l'an 2029 où les machines tentent de détruire la planète. Incarnez Kyle Reese et partez à la recherche de John Connor pour sauver l'humanité de la colère de Skynet.</desc>
+		<image>./mixart/Terminator, The (USA).png</image>
+		<video>./snap/Terminator, The (USA).mp4</video>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>20100211T000000</releasedate>
+		<favorite>true</favorite>
+	</game>
+	<game id="142926" source="ScreenScraper.fr">
+		<path>./Pinball.Duel.cso</path>
+		<name>Pinball Duel</name>
+		<desc>Face off against the computer or a friend in the crazy frenetic world of double sided Pinball Duel. With two balls being catapulted around the pinball arena, nail the timing and use your flippers to smack them at just the right angle. Tag the bonus target marks to win big prizes, unleash more balls and work to reach the coveted 10,000 point mark. Trying to catch up, but running out of luck, be devious and tilt the board to gain an advantage!</desc>
+		<rating>0</rating>
+		<releasedate>20100429T000000</releasedate>
+		<developer>Sony Computer Entertaiment</developer>
+		<publisher>Sony Computer Entertaiment</publisher>
+		<genre>Pinball</genre>
+		<image>./mixart/Pinball.Duel.png</image>
+		<marquee>./wheel/Pinball.Duel.png</marquee>
+		<video>./snap/Pinball.Duel.mp4</video>
+	</game>
+	<game id="29353" source="ScreenScraper.fr">
+		<path>./Yeti Sports.cso</path>
+		<name>Yetisports : Pingu Throw</name>
+		<desc>Yetisports : Pingu Throw est l'adaptation sur Playstation Portable du célèbre jeu qui a fait le tour du net. Frappez un manchot avec une batte pour l'envoyer le plus loin possible. Ce titre fait partie de la gamme Minis, il est donc à télécharger sur le Playstation Store.</desc>
+		<rating>0.1</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Xendex Holding GMBH</developer>
+		<publisher>Xendex Holding GMBH</publisher>
+		<genre>Action</genre>
+		<image>./mixart/Yeti Sports.png</image>
+		<marquee>./wheel/Yeti Sports.png</marquee>
+		<video>./snap/Yeti Sports.mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Essentials Evolution (minis) (PSN) [NPUZ00258].cso</path>
+		<name>Arcade Essentials Evolution</name>
+		<desc>Arcade Essentials est une compilation de 5 jeux d'arcade à télécharger sur le Playstation Store pour PSP. Les jeux sont reliftés avec des graphismes plus lisses pour convenir au support actuel.</desc>
+		<image>./mixart/Arcade Essentials Evolution (minis) (PSN) [NPUZ00258].png</image>
+		<video>./snap/Arcade Essentials Evolution (minis) (PSN) [NPUZ00258].mp4</video>
+		<marquee>./wheel/Arcade Essentials Evolution (minis) (PSN) [NPUZ00258].png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20101208T000000</releasedate>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+		<genre>Compilation</genre>
+	</game>
+	<game>
+		<path>./Ninjamurai (USA).cso</path>
+		<name>Ninjamurai</name>
+		<desc>Takezou Nishimura is the offspring of a Ninja and Samurai and in his world he is seen as an aberration. He is known as "The Ninjamurai." Takezou must journey throughout the lands seeking out members of the evil Black Armor Corporation who are responsible for atrocities against his family and clan. Ninjamurai is an action platformer that contains over 20 levels, huge boss fights, various modes and difficulties, unlockable costumes and extra awards and statistics.</desc>
+		<image>./mixart/Ninjamurai (USA).png</image>
+		<video>./snap/Ninjamurai (USA).mp4</video>
+		<marquee>./wheel/Ninjamurai (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Open Emotions</developer>
+		<publisher>Open Emotions</publisher>
+	</game>
+</gameList>

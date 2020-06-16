@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Vectrex</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="58958" source="ScreenScraper.fr">
+		<path>./StarHawk (World).zip</path>
+		<name>Star Hawk</name>
+		<desc>Fasten your seatbelt... you're the pilot defending the sovereignty of your planet. Don't blink - you might miss one of the alien vessels.</desc>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Action-Shooter</genre>
+		<players>1-2</players>
+		<image>./mixart/StarHawk (World).png</image>
+		<marquee>./wheel/StarHawk (World).png</marquee>
+		<video>./snap/StarHawk (World).mp4</video>
+		<hidden>false</hidden>
+	</game>
+	<game>
+		<path>./HyperChase - Auto Race (World).zip</path>
+		<name>Hyperchase</name>
+		<desc>Watch our for the guardrail! You're behind the wheel of your formula one racer about to start the world's toughest grand prix. Try to stay alive through city streets and country roads. Start your engine - the start lights are counting down!</desc>
+		<image>./mixart/HyperChase - Auto Race (World).png</image>
+		<video>./snap/HyperChase - Auto Race (World).mp4</video>
+		<marquee>./wheel/HyperChase - Auto Race (World).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving / Race-Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mine Storm (World).zip</path>
+		<name>Mine Storm</name>
+		<desc>Bios imaage used to initialise the Vectrex and control it's functions.</desc>
+		<image>./mixart/Mine Storm (World).png</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Mine Storm II (USA) (Rev 2).zip</path>
+		<name>Mine Storm</name>
+		<desc>The game begins with a large enemy ship dropping mines onto the field as an ominous jingle plays, and moves from the top to the bottom of the screen, where it disappears. The player's ship starts in the middle of the field with 5 lives. Numerous mines then start popping up. The player must destroy all of the mines in order to progress to the next minefield. All of the mines can be destroyed with one shot, or hit with the player's ship, costing the player a life. There are 4 types of mines.
+This game came programmed onto the Vectrex.</desc>
+		<image>./mixart/Mine Storm II (USA) (Rev 2).png</image>
+		<video>./snap/Mine Storm II (USA) (Rev 2).mp4</video>
+		<marquee>./wheel/Mine Storm II (USA) (Rev 2).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Action-Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Polar Rescue (USA).zip</path>
+		<name>Polar Rescue</name>
+		<desc>Journey to the icy waters beneath the North Pole. As commander of a powerful and highly maneuverable submarine, you must rescue the survivors of an ill-fated expedition.
+Seek out the survivors on your sonar screen and pilot your sub to their rescue! To complete your mission, you must avoid deadly mine fields, enemy submarines and the terror of the maelstrom! Monitor your oxygen supply carefully and hurry! Lives are at stake!</desc>
+		<image>./mixart/Polar Rescue (USA).png</image>
+		<video>./snap/Polar Rescue (USA).mp4</video>
+		<marquee>./wheel/Polar Rescue (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rip Off (World).zip</path>
+		<name>Rip-Off</name>
+		<desc>Beware of scavenging pirates trying to steal your precious fuel cells! The more pirates you destroy, the faster their successors become. Guard your tanks carefully... you are always outnumbered!</desc>
+		<image>./mixart/Rip Off (World).png</image>
+		<video>./snap/Rip Off (World).mp4</video>
+		<marquee>./wheel/Rip Off (World).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Scramble (USA, Europe).zip</path>
+		<name>Scramble</name>
+		<desc>Watch out for that next mountain! Maneuver your ship over a rough terrain in an effort to destroy the enemy base. Careful piloting alone won't get you to your destination... You must brave rockets, UFOs, flamoids and some very tight tunnels. Few people have ever seen the enemy base, let alone destroy it. Will you be one of the select few?
+</desc>
+		<image>./mixart/Scramble (USA, Europe).png</image>
+		<video>./snap/Scramble (USA, Europe).mp4</video>
+		<marquee>./wheel/Scramble (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Solar Quest (World).zip</path>
+		<name>Solar Quest</name>
+		<desc>How many types of alien vessels will you be able to destroy? Seven different types are after you. You must first destroy them and then attempt to rescue the survivors before that float into the sun. Don't get your ship too close to the sun... its high temperatures can destroy you.</desc>
+		<image>./mixart/Solar Quest (World).png</image>
+		<video>./snap/Solar Quest (World).mp4</video>
+		<marquee>./wheel/Solar Quest (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Space Wars (World).zip</path>
+		<name>Space Wars</name>
+		<desc>Who says there are no rules in intergalactic warfare. Pick your own - bounce, expanded universe, black hole - as you embark on a deadly dogfight.</desc>
+		<image>./mixart/Space Wars (World).png</image>
+		<video>./snap/Space Wars (World).mp4</video>
+		<marquee>./wheel/Space Wars (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Star Castle (USA).zip</path>
+		<name>Star Castle</name>
+		<desc>You and other experienced intergalactic voyagers have heard about and shared the legend of Star Castle - a mysterious fortress in a far away galaxy filled with incredible riches and surrounded by revolving walls of shimmering solid gold. Yet no one, until now, has ever actually seen the Castle - or lived to tell about it!
+As you approach, you are overwhelmed with the beauty of the Castle but you suddenly realize that the golden walls hide a deadly arsenal. To survive you must destroy the walls and the powerful Energy Cannon they shield. Perhaps you will be the first to survive the Star Castle's arsenal and prove the legend true. Perhaps not!</desc>
+		<image>./mixart/Star Castle (USA).png</image>
+		<video>./snap/Star Castle (USA).mp4</video>
+		<marquee>./wheel/Star Castle (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Star Trek - The Motion Picture (USA).zip</path>
+		<name>Star Trek: The Motion Picture</name>
+		<desc>Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult, or take a shortcut through the Black Hole. Be careful ... the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!
+</desc>
+		<image>./mixart/Star Trek - The Motion Picture (USA).png</image>
+		<video>./snap/Star Trek - The Motion Picture (USA).mp4</video>
+		<marquee>./wheel/Star Trek - The Motion Picture (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Heads-Up - Action Soccer (USA).zip</path>
+		<name>Heads Up: Action Soccer</name>
+		<desc>Take the ultimate soccer challenge... without ever leaving your seat! Play with a friend or tackle the computer itself in an action-packed soccer game that takes all the concentration, strategy and split-second reactions of the real thing! You're in control as the realistic, dimensional players get the ball down the field by passing, bouncing and kicking it back and forth to one another - just like a real soccer game!
+HEADS-UP! And get ready for an exciting and demanding soccer tournament... complete with the roar of the crowd!</desc>
+		<image>./mixart/Heads-Up - Action Soccer (USA).png</image>
+		<video>./snap/Heads-Up - Action Soccer (USA).mp4</video>
+		<marquee>./wheel/Heads-Up - Action Soccer (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./3D Narrow Escape (USA).zip</path>
+		<name>3D Narrow Escape</name>
+		<desc>Enter the stellar fortress of a 23rd century warlord whose evil intent is to dominate your home star system and enslave all its inhabitants.
+Your mission is to navigate through the narrow and fast-moving passages of the fortress and destroy the warlord's defense forces and his powerful arsenal. Beware... the passages of the fortress will encircle you in 3-D terror while the warlord's defense systems will become increasingly more menacing. Will you succumb to the evil of the warlord or destroy him and make a Narrow Escape?!</desc>
+		<image>./mixart/3D Narrow Escape (USA).png</image>
+		<video>./snap/3D Narrow Escape (USA).mp4</video>
+		<marquee>./wheel/3D Narrow Escape (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./WebWars (USA).zip</path>
+		<name>Web Wars</name>
+		<desc>Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.
+You become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</desc>
+		<image>./mixart/WebWars (USA).png</image>
+		<video>./snap/WebWars (USA).mp4</video>
+		<marquee>./wheel/WebWars (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bedlam (USA, Europe).zip</path>
+		<name>Bedlam</name>
+		<desc>Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!
+You have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.
+
+The future of the galaxy rests on your shoulders. Good luck!</desc>
+		<image>./mixart/Bedlam (USA, Europe).png</image>
+		<video>./snap/Bedlam (USA, Europe).mp4</video>
+		<marquee>./wheel/Bedlam (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Cosmic Chasm (World).zip</path>
+		<name>Cosmic Chasm</name>
+		<desc>Can you save the galaxy by blowing up the alien-inhabited planet ... and get off the planet before you explode too? You must burrow deep inside, finding your way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!</desc>
+		<image>./mixart/Cosmic Chasm (World).png</image>
+		<video>./snap/Cosmic Chasm (World).mp4</video>
+		<marquee>./wheel/Cosmic Chasm (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
+		<image>./mixart/Pole Position (USA).png</image>
+		<video>./snap/Pole Position (USA).mp4</video>
+		<marquee>./wheel/Pole Position (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./Spin ball (USA).zip</path>
+		<name>Spin Ball</name>
+		<desc>Get ready for even more excitement and split-second action than traditional arcade pinball. SpinBall's special features like a ball splitter, drop targets and ball savers will give you the ultimate pinball challenge. It even TILTS!
+SpinBall's action moves fast and furious. You'll need your sharpest reflexes to keep the ball in play and rack up bonus points.
+</desc>
+		<image>./mixart/Spin ball (USA).png</image>
+		<video>./snap/Spin ball (USA).mp4</video>
+		<marquee>./wheel/Spin ball (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Pinball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Armor..Attack (World).zip</path>
+		<name>Armor Attack</name>
+		<desc>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead . . . no place is safe from this treacherous enemy.</desc>
+		<image>./mixart/Armor..Attack (World).png</image>
+		<video>./snap/Armor..Attack (World).mp4</video>
+		<marquee>./wheel/Armor..Attack (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Spike (USA, Europe).zip</path>
+		<name>Spike</name>
+		<desc>The dastardly villain, Spud, has kidnapped our heroine, the lovely and oh so innocent, Molly, and taken her far away to his secret hideout. "Eek! Help, Spike!"
+Spike, our courageous hero and Molly's true love, races to her rescue. He'll be relying on your skills and split-second timing to help him in his quest to save poor Molly. Maneuver Spike through treacherous obstacles and avoid the dangerous creatures along the way to Spud's hideout. If you're successful, Spike can rescue Molly and the two will live happily ever after - that is until Spud strikes again. "Oh. No!"</desc>
+		<image>./mixart/Spike (USA, Europe).png</image>
+		<video>./snap/Spike (USA, Europe).mp4</video>
+		<marquee>./wheel/Spike (USA, Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Action-Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Fortress of Narzod (USA, Europe).zip</path>
+		<name>Fortress of Narzod</name>
+		<desc>A long time ago, before our history began, wizards - both good and evil - battled for supremacy of the earth. It was a time of magic and adventure when all men possessed special powers.
+The most evil wizard, Narzod, gained the power to enslave all mankind. You are the only remaining honorable wizard with the knowledge to harness all the forces of good to defeat Narzod and destroy his sinister fortress. But Narzod has prepared for your approach and guards his realm with deadly creatures of darkness, including the Mystic Hurler. Beware, and approach the Fortress of Narzod with great caution!</desc>
+		<image>./mixart/Fortress of Narzod (USA, Europe).png</image>
+		<video>./snap/Fortress of Narzod (USA, Europe).mp4</video>
+		<marquee>./wheel/Fortress of Narzod (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./3D Mine Storm (USA).zip</path>
+		<name>3D Mine Storm</name>
+		<desc>In 3D Mine Storm, the player controls a ship through multiple mine fields destroying all mines on each field to progress to the next field. The game will start with the enemy minelayer seeding the first mine field. Mines are left in 3 different levels or planes per field. The player's ship will come into view after all the mines have been activated and the minelayer has left the field.</desc>
+		<image>./mixart/3D Mine Storm (USA).png</image>
+		<video>./snap/3D Mine Storm (USA).mp4</video>
+		<marquee>./wheel/3D Mine Storm (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Berzerk (World).zip</path>
+		<name>Berzerk</name>
+		<desc>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
+future groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</desc>
+		<image>./mixart/Berzerk (World).png</image>
+		<video>./snap/Berzerk (World).mp4</video>
+		<marquee>./wheel/Berzerk (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Blitz! - Action Football (USA, Europe).zip</path>
+		<name>Blitz! Action Football</name>
+		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
+		<image>./mixart/Blitz! - Action Football (USA, Europe).png</image>
+		<video>./snap/Blitz! - Action Football (USA, Europe).mp4</video>
+		<marquee>./wheel/Blitz! - Action Football (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Clean Sweep (World).zip</path>
+		<name>Clean Sweep</name>
+		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</desc>
+		<image>./mixart/Clean Sweep (World).png</image>
+		<video>./snap/Clean Sweep (World).mp4</video>
+		<marquee>./wheel/Clean Sweep (World).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

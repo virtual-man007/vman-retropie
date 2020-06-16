@@ -1,0 +1,1770 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="" source="">
+		<path>./Alphabet Zoo (USA).zip</path>
+		<name>Alphabet Zoo</name>
+		<desc>Alphabet Zoo is a series of ten-minute programmes for young children, produced by Granada Television and was broadcast on ITV for two series in 1983 and 1984. It was presented by singer Ralph McTell and actress Nerys Hughes. Each episode is dedicated to a letter of the alphabet.
+
+The second series was directed by Lorne Magory (Press Gang, Life Force, Emmerdale etc.)
+
+Nearly a decade after Alphabet Zoo came to an end, the format was revived by ITV Carlton on the similarly named series Alphabet Castle which ran from September 1993 to December 1995.</desc>
+		<publisher>Spinnaker</publisher>
+		<image>./mixart/Alphabet Zoo (USA).png</image>
+		<marquee>./wheel/Alphabet Zoo (USA).png</marquee>
+		<video>./snap/Alphabet Zoo (USA).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Amazing Bumpman (USA).zip</path>
+		<name>Amazing Bumpman</name>
+		<desc>Amazing Bumpman is an Action game, developed by VSS and published by Telegames, Inc., which was released in 1984.</desc>
+		<publisher>Telegames</publisher>
+		<developer>VSS</developer>
+		<image>./mixart/Amazing Bumpman (USA).png</image>
+		<marquee>./wheel/Amazing Bumpman (USA).png</marquee>
+		<video>./snap/Amazing Bumpman (USA).mp4</video>
+		<releasedate>19840101T000000</releasedate>
+		<genre>Action</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Antarctic Adventure (USA, Europe).zip</path>
+		<name>Antarctic Adventure</name>
+		<desc>All dressed up and no place to go? Not so with Frostbite Freddie! He's on a goodwill mission, visiting as many bases as he can before time runs out! Catch fish and collect flags for bonus points! And be on the lookout for curious seals and holes in the ice! Speed counts! Is time on your side?</desc>
+		<publisher>Coleco</publisher>
+		<developer>Konami</developer>
+		<image>./mixart/Antarctic Adventure (USA, Europe).png</image>
+		<marquee>./wheel/Antarctic Adventure (USA, Europe).png</marquee>
+		<video>./snap/Antarctic Adventure (USA, Europe).mp4</video>
+		<releasedate>19840803T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Aquattack (USA).zip</path>
+		<name>Aquattack</name>
+		<desc>Aquattack is an action game with four levels which partly have varying gameplay mechanics. In level one and two, the player mans a motor boat which needs to travel a certain distance from left to right. Of course there is a lot of enemy opposition which needs to be avoided. Some enemies can be shot while others are out of reach. Fuel is limited and needs to replenished by collecting refreshments dropped by allied planes. Level three is similar; the player uses a hang glider now. There are different enemies to fight and no fuel to collect. In level four, there is a guarded energy field to cross in order to bring four bombs to the other side. However, only one bomb can be transported at once and there is a time limit.
+
+After beating all four levels, they loop with more difficult enemies and faster playing speed. The player can take nine hits and the overall goal is to earn as many points as possible before the unavoidable final death occurs.</desc>
+		<publisher>Interphase</publisher>
+		<developer>Interphase</developer>
+		<image>./mixart/Aquattack (USA).png</image>
+		<marquee>./wheel/Aquattack (USA).png</marquee>
+		<video>./snap/Aquattack (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./BC's Quest for Tires (USA, Europe).zip</path>
+		<name>BC's Quest for Tires</name>
+		<desc />
+		<image>./mixart/BC's Quest for Tires (USA, Europe).png</image>
+		<marquee>./wheel/BC's Quest for Tires (USA, Europe).png</marquee>
+		<video>./snap/BC's Quest for Tires (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./BC's Quest for Tires II - Grog's Revenge (USA, Europe).zip</path>
+		<name>BC's Quest for Tires II - Grog's Revenge</name>
+		<desc />
+		<image>./mixart/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png</image>
+		<marquee>./wheel/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png</marquee>
+		<video>./snap/BC's Quest for Tires II - Grog's Revenge (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Blockade Runner (USA).zip</path>
+		<name>Blockade Runner</name>
+		<desc />
+		<image>./mixart/Blockade Runner (USA).png</image>
+		<marquee>./wheel/Blockade Runner (USA).png</marquee>
+		<video>./snap/Blockade Runner (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Boulder Dash (USA).zip</path>
+		<name>Boulder Dash</name>
+		<desc>The ultimate underground journey, but be forewarned - nothing less than perfection is required! Boulder Dash will challenge your mind and reflexes like no other game. The objective is to search throughout each cave and collect as many jewels in as short a time as possible. Once the indicated amount has been collected, the door to the mysterious escape tunnel is revealed and you go to the next level. Boulders drop predictably enough, but you and Rockford also have to block growing amoebas, transform butterflies, outmaneuver fireflies, and overcome other numerous obstacles.</desc>
+		<developer>Micro Fun</developer>
+		<image>./mixart/Boulder Dash (USA).png</image>
+		<marquee>./wheel/Boulder Dash (USA).png</marquee>
+		<video>./snap/Boulder Dash (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Brain Strainers (USA, Europe).zip</path>
+		<name>Brain Strainers</name>
+		<desc />
+		<image>./mixart/Brain Strainers (USA, Europe).png</image>
+		<marquee>./wheel/Brain Strainers (USA, Europe).png</marquee>
+		<video>./snap/Brain Strainers (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Bump 'N' Jump (USA, Europe).zip</path>
+		<name>Bump 'N' Jump</name>
+		<desc />
+		<image>./mixart/Bump 'N' Jump (USA, Europe).png</image>
+		<marquee>./wheel/Bump 'N' Jump (USA, Europe).png</marquee>
+		<video>./snap/Bump 'N' Jump (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./BurgerTime (USA, Europe).zip</path>
+		<name>BurgerTime</name>
+		<desc>Your chef is battling for his life in the fast-paced world of fast food. He scurries up ladders and across planks in a frantic effort to build delicious hamburgers. Horrible hot dogs, evil eggs, and perilous pickles constantly try to surround and trap him. Dust those nasties with a pinch of pepper and stop them in their tracks. Gulp some coffee or gobble some fries and you store some extra pepper. Get through the seventh maze and you are a certified burger-maniac.
+
+Pickles, eggs, and hot dogs relentlessly chase your chef through the maze. Be smart and be quick but most of all, carry plenty of pepper.
+
+Give nasties a ride on a falling bun to score the big points. Watch out though! These nasties never die.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Data East</developer>
+		<image>./mixart/BurgerTime (USA, Europe).png</image>
+		<marquee>./wheel/BurgerTime (USA, Europe).png</marquee>
+		<video>./snap/BurgerTime (USA, Europe).mp4</video>
+		<releasedate>19831125T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Cabbage Patch Kids - Adventures in the Park (USA, Europe).zip</path>
+		<name>Cabbage Patch Kids - Adventures in the Park</name>
+		<desc />
+		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</image>
+		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</marquee>
+		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Cabbage Patch Kids Picture Show (USA, Europe).zip</path>
+		<name>Cabbage Patch Kids Picture Show</name>
+		<desc />
+		<image>./mixart/Cabbage Patch Kids Picture Show (USA, Europe).png</image>
+		<marquee>./wheel/Cabbage Patch Kids Picture Show (USA, Europe).png</marquee>
+		<video>./snap/Cabbage Patch Kids Picture Show (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Centipede (USA).zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented shoot 'em up arcade game produced by Atari, Inc. in 1981. The game was designed by Ed Logg and Dona Bailey. The player defends against centipedes, spiders, scorpions and fleas, completing a round after eliminating the centipede that winds down the playing field.
+
+
+The player is represented by a small, "somewhat humanoid head"[1] at the bottom of the screen, later depicted as a caped, elf-like character on the Atari 2600, Atari 5200 and Atari 7800 cartridge graphics (though described as being a garden gnome in the trivia section of the cell phone interpretation). The player moves the character about the bottom area of the screen with a trackball and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.
+
+The centipede starts at the top of the screen, traveling either left or right. When it hits a mushroom or the edge of the screen, it drops one level and switches direction. Thus, more mushrooms on the screen cause the centipede to descend more rapidly. The player can destroy mushrooms by shooting them, but each takes four hits to destroy.
+
+
+Centipede-Arcade
+If the centipede reaches the bottom of the screen, it moves back and forth within the player area and one-segment "head" centipedes are periodically added. This continues until the player has eliminated both the original centipede and all heads. When all the centipede's segments are destroyed, a new centipede forms at the top of the screen. Every time a centipede is eliminated, however, the next one is one segment shorter and is accompanied by one additional, fast-moving "head" centipede.
+
+The player is also menaced by other creatures besides the centipedes. Fleas drop vertically, leaving additional mushrooms in their path; they appear when fewer than five mushrooms are in the player movement area, though the number required increases with level of difficulty. Spiders move across the player area in a zig-zag fashion and occasionally eat some of the mushrooms. Scorpions move horizontally across the screen and poison every mushroom they touch, but these never appear in the player movement region. A centipede touching a poisoned mushroom hurtles straight down toward the player area, then returns to normal behavior upon reaching it.
+
+A player loses a life when hit by a centipede or another enemy, such as a spider or a flea, after which any poisoned or partially damaged mushrooms revert to normal. Points are awarded for each regenerated mushroom.</desc>
+		<image>./mixart/Centipede (USA).png</image>
+		<marquee>./wheel/Centipede (USA).png</marquee>
+		<video>./snap/Centipede (USA).mp4</video>
+		<releasedate />
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Choplifter (USA, Europe).zip</path>
+		<name>Choplifter</name>
+		<desc />
+		<image>./mixart/Choplifter (USA, Europe).png</image>
+		<marquee>./wheel/Choplifter (USA, Europe).png</marquee>
+		<video>./snap/Choplifter (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Congo Bongo (USA, Europe).zip</path>
+		<name>Congo Bongo</name>
+		<desc>Congo Bongo is an isometric platform arcade game released by Sega in 1983 and on the Colecovision in 1984. The player takes the role of a red-nosed safari hunter who tries to catch an ape named Bongo. The hunter seeks Bongo to exact revenge for an apparent practical joke in which Bongo set fire to the hunter's tent, giving him a literal "hotfoot." The game was named by Peter W. Gorrie who was the CFO of Sega at that time.
+
+The game's ROM contains a message indicating it was likely coded at least in part by the company Ikegami Tsushinki.
+
+Congo Bongo's gameplay is similar that of Donkey Kong and Frogger, but levels are viewed in an isometric perspective, or oblique perspective in some ports. The protagonist has no offensive abilities and must move or jump to avoid enemies and obstacles to complete a level.</desc>
+		<publisher>Sega</publisher>
+		<developer>Sega</developer>
+		<image>./mixart/Congo Bongo (USA, Europe).png</image>
+		<marquee>./wheel/Congo Bongo (USA, Europe).png</marquee>
+		<video>./snap/Congo Bongo (USA, Europe).mp4</video>
+		<releasedate>19840101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Cosmic Avenger (USA, Europe).zip</path>
+		<name>Cosmic Avenger</name>
+		<desc>In this futuristic air and sea battle game, you command a space fighter in combat against an alien civilization. Using the control, you direct it over the cities and down through the sea caverns. The alien installations must be destroyed! But the aliens employ ships and submarines that fire missiles and release bombs with unrelenting force! You've got to maintain a close watch on the radar screen, observe their positions and retaliate to stay alive!</desc>
+		<publisher>Universal</publisher>
+		<developer>SEGA</developer>
+		<image>./mixart/Cosmic Avenger (USA, Europe).png</image>
+		<marquee>./wheel/Cosmic Avenger (USA, Europe).png</marquee>
+		<video>./snap/Cosmic Avenger (USA, Europe).mp4</video>
+		<releasedate>19810807T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Cosmic Crisis (USA).zip</path>
+		<name>Cosmic Crisis</name>
+		<desc />
+		<image>./mixart/Cosmic Crisis (USA).png</image>
+		<marquee>./wheel/Cosmic Crisis (USA).png</marquee>
+		<video>./snap/Cosmic Crisis (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Dam Busters, The (USA, Europe).zip</path>
+		<name>Dam Busters, The</name>
+		<desc />
+		<image>./mixart/Dam Busters, The (USA, Europe).png</image>
+		<marquee>./wheel/Dam Busters, The (USA, Europe).png</marquee>
+		<video>./snap/Dam Busters, The (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Dance Fantasy (USA).zip</path>
+		<name>Dance Fantasy</name>
+		<desc />
+		<image>./mixart/Dance Fantasy (USA).png</image>
+		<marquee>./wheel/Dance Fantasy (USA).png</marquee>
+		<video>./snap/Dance Fantasy (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Defender (USA).zip</path>
+		<name>Defender</name>
+		<desc>Defender is an arcade video game developed and released by Williams Electronics in February 1981.[1] A shooting game featuring two-dimensional (2D) graphics, the game is set on a fictional planet where the player must defeat waves of invading aliens while protecting astronauts. Development was led by Eugene Jarvis, a pinball programmer at Williams; Defender was Jarvis' first video game project and drew inspiration from Space Invaders and Asteroids. Williams planned to display the game at the Amusement &amp; Music Operators Association (AMOA) trade show, though development delays resulted in the team working on the game up until the show started.
+
+Defender was one of the most important titles of the Golden Age of Video Arcade Games, selling over 55,000 units to become the company's best selling game and one of the highest-grossing arcade games ever. Praise among critics focused on the game's audio-visuals and gameplay. It is frequently listed as one of Jarvis' best contributions to the video game industry, as well as one of the most difficult video games. Defender was ported to numerous platforms, inspired the development of other games, and was followed by sequels and many imitations.</desc>
+		<image>./mixart/Defender (USA).png</image>
+		<marquee>./wheel/Defender (USA).png</marquee>
+		<video>./snap/Defender (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Destructor (USA, Europe).zip</path>
+		<name>Destructor</name>
+		<desc />
+		<image>./mixart/Destructor (USA, Europe).png</image>
+		<marquee>./wheel/Destructor (USA, Europe).png</marquee>
+		<video>./snap/Destructor (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Donkey Kong (USA, Europe).zip</path>
+		<name>Donkey Kong</name>
+		<desc>In this engaging game, Donkey Kong the ape has captured Mario's girlfriend, and has taken her to the top of a steel fortress. You've got to get Mario to the top to save her! But - as he runs across the girders and up the ladders, the ape throws barrels at him to prevent his progress. Mario must jump the barrels to get to the top and rescue his girlfriend!</desc>
+		<publisher>Coleco</publisher>
+		<developer>Ikegami Tsushinki</developer>
+		<image>./mixart/Donkey Kong (USA, Europe).png</image>
+		<marquee>./wheel/Donkey Kong (USA, Europe).png</marquee>
+		<video>./snap/Donkey Kong (USA, Europe).mp4</video>
+		<releasedate>19830714T000000</releasedate>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe).zip</path>
+		<name>Dr. Seuss's Fix-Up The Mix-Up Puzzler</name>
+		<desc />
+		<image>./mixart/Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe).png</image>
+		<marquee>./wheel/Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe).png</marquee>
+		<video>./snap/Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./DragonFire (USA).zip</path>
+		<name>DragonFire</name>
+		<desc>The king's treasures have been stolen! As the daring young prince, your goal is to recover them all. The treasures are being kept in various castles, each one guarded by a fire breathing dragon. Each level in the game has two parts; first you will need to cross the castle's drawbridge. You will have to jump and duck the dragons fireballs as well as avoid flying arrows to reach the other side! In the second part you need to collect all of the treasures on the screen and make it to the exit while avoiding the dragon who runs across the bottom of the screen. The dragons on each level have different patterns of movement and firing, and as the levels progress will become faster and trickier.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>./mixart/DragonFire (USA).png</image>
+		<marquee>./wheel/DragonFire (USA).png</marquee>
+		<video>./snap/DragonFire (USA).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Dukes of Hazzard, The (USA, Europe).zip</path>
+		<name>Dukes of Hazzard, The</name>
+		<desc />
+		<image>./mixart/Dukes of Hazzard, The (USA, Europe).png</image>
+		<marquee>./wheel/Dukes of Hazzard, The (USA, Europe).png</marquee>
+		<video>./snap/Dukes of Hazzard, The (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Evolution (USA).zip</path>
+		<name>Evolution</name>
+		<desc />
+		<image>./mixart/Evolution (USA).png</image>
+		<marquee>./wheel/Evolution (USA).png</marquee>
+		<video>./snap/Evolution (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Facemaker (USA).zip</path>
+		<name>Facemaker</name>
+		<desc />
+		<image>./mixart/Facemaker (USA).png</image>
+		<marquee>./wheel/Facemaker (USA).png</marquee>
+		<video>./snap/Facemaker (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Fathom (USA).zip</path>
+		<name>Fathom</name>
+		<desc />
+		<image>./mixart/Fathom (USA).png</image>
+		<marquee>./wheel/Fathom (USA).png</marquee>
+		<video>./snap/Fathom (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Flipper Slipper (USA).zip</path>
+		<name>Flipper Slipper</name>
+		<desc>It is a water-themed Breakout-like game, with the unique mechanic of having curved paddles, which can cause the ball to roll off them and bounce off at unconventional angles.</desc>
+		<publisher>Spectravision</publisher>
+		<developer>Spectravision</developer>
+		<image>./mixart/Flipper Slipper (USA).png</image>
+		<marquee>./wheel/Flipper Slipper (USA).png</marquee>
+		<video>./snap/Flipper Slipper (USA).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game id="" source="">
+		<path>./Fortune Builder (USA, Europe).zip</path>
+		<name>Fortune Builder</name>
+		<desc />
+		<image>./mixart/Fortune Builder (USA, Europe).png</image>
+		<marquee>./wheel/Fortune Builder (USA, Europe).png</marquee>
+		<video>./snap/Fortune Builder (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Fraction Fever (USA).zip</path>
+		<name>Fraction Fever</name>
+		<desc />
+		<image>./mixart/Fraction Fever (USA).png</image>
+		<marquee>./wheel/Fraction Fever (USA).png</marquee>
+		<video>./snap/Fraction Fever (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Frantic Freddy (USA).zip</path>
+		<name>Frantic Freddy</name>
+		<desc />
+		<image>./mixart/Frantic Freddy (USA).png</image>
+		<marquee>./wheel/Frantic Freddy (USA).png</marquee>
+		<video>./snap/Frantic Freddy (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Frenzy! (USA, Europe).zip</path>
+		<name>Frenzy!</name>
+		<desc />
+		<image>./mixart/Frenzy! (USA, Europe).png</image>
+		<marquee>./wheel/Frenzy! (USA, Europe).png</marquee>
+		<video>./snap/Frenzy! (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Frogger (USA).zip</path>
+		<name>Frogger</name>
+		<desc>Frogger (フロッガー) is a 1981 arcade game developed by Konami and licensed for North American distribution by Sega-Gremlin. It is regarded as a classic from the golden age of video arcade games, noted for its novel gameplay and theme. The object of the game is to direct frogs to their homes one by one by crossing a busy road and navigating a river full of hazards. The Frogger coin-op is an early example of a game with more than one CPU, as it used two Z80 processors.[4]
+
+By 2005, Frogger in its various home video game incarnations had sold 20 million copies worldwide, including 5 million in the United States.[5]</desc>
+		<image>./mixart/Frogger (USA).png</image>
+		<marquee>./wheel/Frogger (USA).png</marquee>
+		<video>./snap/Frogger (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Frogger II - ThreeDeep! (USA).zip</path>
+		<name>Frogger II - ThreeDeep!</name>
+		<desc />
+		<image>./mixart/Frogger II - ThreeDeep! (USA).png</image>
+		<marquee>./wheel/Frogger II - ThreeDeep! (USA).png</marquee>
+		<video>./snap/Frogger II - ThreeDeep! (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./From Out Of The Jungle - Tarzan (USA).zip</path>
+		<name>From Out Of The Jungle - Tarzan</name>
+		<desc />
+		<image>./mixart/From Out Of The Jungle - Tarzan (USA).png</image>
+		<marquee>./wheel/From Out Of The Jungle - Tarzan (USA).png</marquee>
+		<video>./snap/From Out Of The Jungle - Tarzan (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Frontline (USA, Europe).zip</path>
+		<name>Frontline</name>
+		<desc />
+		<image>./mixart/Frontline (USA, Europe).png</image>
+		<marquee>./wheel/Frontline (USA, Europe).png</marquee>
+		<video>./snap/Frontline (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Galaxian (USA).zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian (ギャラクシアン Gyarakushian?) is an arcade game that was developed by Namco and released in October 1979. It was published by Namco in Japan and imported to North America by Midway that December. A fixed shooter game in which the player controls a spaceship at the bottom of the screen, and shoots enemies descending in various directions, it was designed to compete with Taito Corporation's successful earlier game Space Invaders (which was released in the previous year, and also imported to the US by Midway Games).
+
+The game was highly popular for Namco upon its release, and has been a focus of competitive gaming ever since. It spawned a successful sequel, Galaga, in 1981, and the lesser known Gaplus and Galaga '88 in 1984 and 1987 respectively, as well as many later ports and adaptations. Along with its immediate sequel, it was one of the most popular games during the golden age of arcade video games.</desc>
+		<image>./mixart/Galaxian (USA).png</image>
+		<marquee>./wheel/Galaxian (USA).png</marquee>
+		<video>./snap/Galaxian (USA).mp4</video>
+		<releasedate />
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Gateway to Apshai (USA).zip</path>
+		<name>Gateway to Apshai</name>
+		<desc />
+		<image>./mixart/Gateway to Apshai (USA).png</image>
+		<marquee>./wheel/Gateway to Apshai (USA).png</marquee>
+		<video>./snap/Gateway to Apshai (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Gorf (USA, Europe).zip</path>
+		<name>Gorf</name>
+		<desc>The game itself consists of four levels:
+•The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship &amp; shield on one side and the aliens on the other side;
+
+•The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;
+
+•The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading "towards" your destination. Alien vessels flying in circular formation try to stop you;
+
+•The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.</desc>
+		<publisher>CBS</publisher>
+		<developer>Bally Midway</developer>
+		<image>./mixart/Gorf (USA, Europe).png</image>
+		<marquee>./wheel/Gorf (USA, Europe).png</marquee>
+		<video>./snap/Gorf (USA, Europe).mp4</video>
+		<releasedate />
+		<genre>Action</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Gust Buster (USA).zip</path>
+		<name>Gust Buster</name>
+		<desc>Navigate your way through videogame's most colorful amusement park without the use of the joystick. Keep an eye on the windsocks since they indicate the force and direction of wind gusts that will blow you around the park.</desc>
+		<publisher>Sunrise</publisher>
+		<developer>Sunrise</developer>
+		<image>./mixart/Gust Buster (USA).png</image>
+		<marquee>./wheel/Gust Buster (USA).png</marquee>
+		<video>./snap/Gust Buster (USA).mp4</video>
+		<releasedate>19840817T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Gyruss (USA).zip</path>
+		<name>Gyruss</name>
+		<desc>Gyruss (ジャイラス Jairasu?) is a shoot 'em up arcade game designed by Yoshiki Okamoto and released by Konami in 1983. Gyruss was licensed to Centuri in the United States, and was ported to contemporary home systems.
+
+The gameplay is similar to that of Galaga but presented in a forced 3D perspective, with the player's ship facing 'into' the screen and able to move around the perimeter of an implicit circle. The scrolling starfield of earlier space shooter games is arranged to fit the 3D perspective, with the stars coming into view at the centre of the screen and flying outward, giving the impression of the player's ship moving through space.
+
+Gyruss is the second and last game Yoshiki Okamoto designed for Konami, after Time Pilot. Due to pay disputes, he was fired after the release of this game, and soon joined Capcom, where he would write 1942 and the first Street Fighter game.
+
+The game's background music is an electronic, uptempo arrangement of J. S. Bach's Toccata and Fugue in D minor, BWV 565; this particular track is similar to "Toccata", a rock arrangement by the UK-based instrumentalist group Sky. Gyruss is notable for using stereo sound, which according to the bonus material for Konami Arcade Classics, was achieved by utilizing discrete audio circuits.
+
+Gyruss was released in both upright and cocktail cabinets.[2]</desc>
+		<image>./mixart/Gyruss (USA).png</image>
+		<marquee>./wheel/Gyruss (USA).png</marquee>
+		<video>./snap/Gyruss (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./H.E.R.O (USA).zip</path>
+		<name>H.E.R.O</name>
+		<desc />
+		<image>./mixart/H.E.R.O (USA).png</image>
+		<marquee>./wheel/H.E.R.O (USA).png</marquee>
+		<video>./snap/H.E.R.O (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Heist, The (USA).zip</path>
+		<name>Heist, The</name>
+		<desc />
+		<image>./mixart/Heist, The (USA).png</image>
+		<marquee>./wheel/Heist, The (USA).png</marquee>
+		<video>./snap/Heist, The (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Illusions (USA, Europe).zip</path>
+		<name>Illusions</name>
+		<desc>Illusions is a surreal ColecoVision video game in which the player maneuvers blobs around the screen, trying to get them to merge, or, alternatively, split apart. At times, lizards may chase the blobs around. The water bucket, when spilled, can cause the lizard to turn into a fish. If the fish remains there too long, however, it turns into a bird. The game was created by Nice Ideas, a division of Mattel that was located midway between Cannes and Nice.</desc>
+		<publisher>Coleco</publisher>
+		<image>./mixart/Illusions (USA, Europe).png</image>
+		<marquee>./wheel/Illusions (USA, Europe).png</marquee>
+		<video>./snap/Illusions (USA, Europe).mp4</video>
+		<releasedate>19840101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Its Only Rock 'N' Roll (USA).zip</path>
+		<name>Its Only Rock 'N' Roll</name>
+		<desc />
+		<image>./mixart/Its Only Rock 'N' Roll (USA).png</image>
+		<marquee>./wheel/Its Only Rock 'N' Roll (USA).png</marquee>
+		<video>./snap/Its Only Rock 'N' Roll (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./James Bond (USA).zip</path>
+		<name>James Bond</name>
+		<desc />
+		<image>./mixart/James Bond (USA).png</image>
+		<marquee>./wheel/James Bond (USA).png</marquee>
+		<video>./snap/James Bond (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Juke Box (USA).zip</path>
+		<name>Juke Box</name>
+		<desc />
+		<image>./mixart/Juke Box (USA).png</image>
+		<marquee>./wheel/Juke Box (USA).png</marquee>
+		<video>./snap/Juke Box (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Ken Uston's Blackjack-Poker (USA, Europe).zip</path>
+		<name>Ken Uston's Blackjack-Poker</name>
+		<desc />
+		<image>./mixart/Ken Uston's Blackjack-Poker (USA, Europe).png</image>
+		<marquee>./wheel/Ken Uston's Blackjack-Poker (USA, Europe).png</marquee>
+		<video>./snap/Ken Uston's Blackjack-Poker (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Keystone Kapers (USA).zip</path>
+		<name>Keystone Kapers</name>
+		<desc>Keystone Kapers is a video game published by Activision for the Atari 2600 in 1983, and later ported to the Atari 5200, Atari 8-bit family, ColecoVision, and MSX. Inspired by Mack Sennett's slapstick Keystone Cops series of silent films, the object of the game is for Officer Keystone Kelly (the player) to catch Harry Hooligan before he can escape from a department store.</desc>
+		<image>./mixart/Keystone Kapers (USA).png</image>
+		<marquee>./wheel/Keystone Kapers (USA).png</marquee>
+		<video>./snap/Keystone Kapers (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Lady Bug (USA, Europe).zip</path>
+		<name>Lady Bug</name>
+		<desc>Lady Bug is an insect-themed maze chase arcade game produced by Universal Entertainment Corporation and released in 1981. Its gameplay is similar to Pac-Man, with the primary addition to the formula being gates that change the layout of the maze when used. The arcade original was relatively obscure, but the game found wider recognition and success as a launch title for the ColecoVision console.
+
+The goal of Lady Bug is to eat all "flowers", hearts and letters in the maze while avoiding other insects. The player is represented by a red, yellow, and green character resembling a ladybug while the enemy insects' appearance varies by level. The border of the maze acts as timer, with each circuit signaling the release of an enemy insect from the central area, up to (generally) a maximum of four. The speed of the circuit increases on stages 2 and 5.</desc>
+		<publisher>Universal</publisher>
+		<developer>Universal</developer>
+		<image>./mixart/Lady Bug (USA, Europe).png</image>
+		<marquee>./wheel/Lady Bug (USA, Europe).png</marquee>
+		<video>./snap/Lady Bug (USA, Europe).mp4</video>
+		<releasedate>19920601T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Learning With Leeper (USA).zip</path>
+		<name>Learning With Leeper</name>
+		<publisher>Sierra Entertainment</publisher>
+		<developer>Sierra Entertainment</developer>
+		<image>./mixart/Learning With Leeper (USA).png</image>
+		<marquee>./wheel/Learning With Leeper (USA).png</marquee>
+		<video>./snap/Learning With Leeper (USA).mp4</video>
+		<releasedate>19841208T000000</releasedate>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game id="" source="">
+		<path>./Linking Logic (USA).zip</path>
+		<name>Linking Logic</name>
+		<desc />
+		<image>./mixart/Linking Logic (USA).png</image>
+		<marquee>./wheel/Linking Logic (USA).png</marquee>
+		<video>./snap/Linking Logic (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Logic Levels (USA).zip</path>
+		<name>Logic Levels</name>
+		<desc />
+		<image>./mixart/Logic Levels (USA).png</image>
+		<marquee>./wheel/Logic Levels (USA).png</marquee>
+		<video>./snap/Logic Levels (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Looping (USA, Europe).zip</path>
+		<name>Looping</name>
+		<desc />
+		<image>./mixart/Looping (USA, Europe).png</image>
+		<marquee>./wheel/Looping (USA, Europe).png</marquee>
+		<video>./snap/Looping (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Memory Manor (USA).zip</path>
+		<name>Memory Manor</name>
+		<desc />
+		<image>./mixart/Memory Manor (USA).png</image>
+		<marquee>./wheel/Memory Manor (USA).png</marquee>
+		<video>./snap/Memory Manor (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Meteoric Shower (USA).zip</path>
+		<name>Meteoric Shower</name>
+		<desc />
+		<image>./mixart/Meteoric Shower (USA).png</image>
+		<marquee>./wheel/Meteoric Shower (USA).png</marquee>
+		<video>./snap/Meteoric Shower (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Miner 2049er (USA).zip</path>
+		<name>Miner 2049er</name>
+		<desc>As Bounty Bob, the player's goal is to inspect every section of each mine in search of the evil Yukon Yohan while avoiding the various radioactive creatures that inhabit the mine. As Bounty Bob walks over a section of flooring, it fills with color. To complete the level, every section of flooring must be colored. There are ten mines in total (eleven in the ColecoVision port). Each level is timed and must be completed before the player runs out of oxygen.
+Along the way, Bob encounters many objects left behind by past miners. By collecting these, bonus points are achieved and the radioactive creatures smile and turn green. While in this state, Bob can collect them and earn extra points.
+Various obstacles in each mine aid and hinder Bob's progress. Ladders allow him to climb up or down to the next platform, Matter transporters teleport him to other matter transporters in that mine, chutes slide Bob off a platform (often against his will), and pulverizers crush Bob if he gets in their way.
+Most levels contain some custom element, which varies from level to level. Pressing the space bar for several seconds skips a level. On the Atari 800, the player can key in the phone number on the title screen, followed by a level number to skip to that level.</desc>
+		<image>./mixart/Miner 2049er (USA).png</image>
+		<marquee>./wheel/Miner 2049er (USA).png</marquee>
+		<video>./snap/Miner 2049er (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Monkey Academy (USA, Europe).zip</path>
+		<name>Monkey Academy</name>
+		<publisher>Coleco Industries</publisher>
+		<developer>Konami</developer>
+		<image>./mixart/Monkey Academy (USA, Europe).png</image>
+		<marquee>./wheel/Monkey Academy (USA, Europe).png</marquee>
+		<video>./snap/Monkey Academy (USA, Europe).mp4</video>
+		<releasedate>19840101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Montezuma's Revenge (USA).zip</path>
+		<name>Montezuma's Revenge</name>
+		<desc />
+		<image>./mixart/Montezuma's Revenge (USA).png</image>
+		<marquee>./wheel/Montezuma's Revenge (USA).png</marquee>
+		<video>./snap/Montezuma's Revenge (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Moonsweeper (USA).zip</path>
+		<name>Moonsweeper</name>
+		<desc />
+		<image>./mixart/Moonsweeper (USA).png</image>
+		<marquee>./wheel/Moonsweeper (USA).png</marquee>
+		<video>./snap/Moonsweeper (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Mousetrap (USA, Europe).zip</path>
+		<name>Mousetrap</name>
+		<desc />
+		<image>./mixart/Mousetrap (USA, Europe).png</image>
+		<marquee>./wheel/Mousetrap (USA, Europe).png</marquee>
+		<video>./snap/Mousetrap (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Mr Do!'s Castle (USA).zip</path>
+		<name>Mr Do!'s Castle</name>
+		<desc />
+		<image>./mixart/Mr Do!'s Castle (USA).png</image>
+		<marquee>./wheel/Mr Do!'s Castle (USA).png</marquee>
+		<video>./snap/Mr Do!'s Castle (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Nova Blast (USA).zip</path>
+		<name>Nova Blast</name>
+		<desc />
+		<image>./mixart/Nova Blast (USA).png</image>
+		<marquee>./wheel/Nova Blast (USA).png</marquee>
+		<video>./snap/Nova Blast (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Omega Race (USA, Europe).zip</path>
+		<name>Omega Race</name>
+		<desc>Omega Race is an arcade game programmed by Ron Haliburton[1] and released in 1981 by Midway. It is the only arcade game with vector graphics Midway created.
+
+Omega Race was ported to the VIC-20 and Commodore 64 in 1982 and sold by Commodore. In 1983, a ColecoVision port was released by Coleco and an Atari 2600 version by CBS Electronics. The 2600 cartridge came bundled with a special 2-button, "booster grip" controller.[2]</desc>
+		<image>./mixart/Omega Race (USA, Europe).png</image>
+		<marquee>./wheel/Omega Race (USA, Europe).png</marquee>
+		<video>./snap/Omega Race (USA, Europe).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./One on One (USA).zip</path>
+		<name>One on One</name>
+		<desc />
+		<image>./mixart/One on One (USA).png</image>
+		<marquee>./wheel/One on One (USA).png</marquee>
+		<video>./snap/One on One (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Pepper II (USA, Europe).zip</path>
+		<name>Pepper II</name>
+		<desc>Pepper II is an arcade game programmed by Exidy and published in 1982, and, despite its name, there was no predecessor named Pepper or Pepper I.[1][2] Its gameplay is similar to the game Amidar by Konami and Stern.
+
+The game featured Gounod's "Funeral March of a Marionette" when gameplay started.
+
+Gameplay[edit]
+There are four mazes per level in Pepper II. Each maze has exits leading to 3 other mazes. All four mazes must be filled to advance to the next level. To fill in a maze, the player maneuvers "Pepper" around different segments of the maze. As Pepper travels, he leaves a "zipper". Once he encloses or "zips" a segment, it fills in and points are awarded. If Pepper backtracks on an uncompleted segment, it unzips.
+
+The character "Pepper" is an angel. There are two types of enemies that must be avoided: "Roaming Eyes" and the " Whippersnapper" who unzips all uncompleted, zipped segments by moving over them. Pepper's one defense is to enclose an area containing a pitchfork "energizer", which turns him into a devil for approximately four seconds. At that time he can go after all Roaming Eyes for points. At the same time, the Whippersnapper freezes. There are four pitchforks in the corners of every maze. A deluxe energizer is located in the center of each maze. This energizer alternates between being a pitchfork and a halo symbol. If Pepper encloses the middle area when the energizer is a halo, the Whippersnapper will disappear from the maze.
+
+Points are made for enclosing a segment, consuming a pair of roaming eyes when energized by the pitchfork (similar to Pac-Man), obtaining prizes, completing a maze, and completing 4 mazes. A bonus turn is awarded at 40,000, 50,000, 70,000 or 90,000 points, depending on the dip switch settings.
+
+Each maze also contains a prize in one of the segments. The player must enclose the area it appears in to gain the prize and points, and then the prize is shown beneath the maze.
+
+Pepper II was ported to the ColecoVision home system.[1]</desc>
+		<image>./mixart/Pepper II (USA, Europe).png</image>
+		<marquee>./wheel/Pepper II (USA, Europe).png</marquee>
+		<video>./snap/Pepper II (USA, Europe).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Pitstop (USA).zip</path>
+		<name>Pitstop</name>
+		<desc>Pitstop is a 1983 racing video game developed and published by Epyx for the Atari 8-bit family, ColecoVision, Coleco Adam, and Commodore 64. Pitstop was noted for its implementation of a pit stop, a concept not featured in many other racing video games at the time.
+
+Pitstop is played from a first-person perspective, placing the player in the driver's seat of a race car. The game features three difficulty modes and three gameplay modes: Single, Mini-Circuit, and Grand Circuit. In Single, the player can choose from one of six tracks and learn how to play the game. In the game's Circuit modes, the player races against other drivers and earns a certain amount of points and money depending on the place finished in each race. The Mini-Circuit features only three tracks, while the Grand Circuit features all six.
+
+Color-based damage is shown on the player's car whenever it hits another vehicle or a wall on the track, both of which wear out the tires. The player also has a fuel meter that gradually depletes during each race. If the player's vehicle displays a red color from taking too much damage, or if it is running low on fuel, it must make a pit stop. Unlike other racing video games, the pit crew is fully controlled by the player, who must refuel the vehicle and replace its worn-out tires. Up to four players can play by taking alternating turns.
+
+he Coleco version utilizes the ColecoVision's Expansion Module #2 steering wheel/pedal peripheral. The Coleco version features lighter colors and billboards alongside the road rather than trees.</desc>
+		<publisher>Epyx</publisher>
+		<developer>Epyx</developer>
+		<image>./mixart/Pitstop (USA).png</image>
+		<marquee>./wheel/Pitstop (USA).png</marquee>
+		<video>./snap/Pitstop (USA).mp4</video>
+		<releasedate>19830601T000000</releasedate>
+		<genre>Racing</genre>
+		<players>4+</players>
+	</game>
+	<game id="" source="">
+		<path>./Popeye (USA).zip</path>
+		<name>Popeye</name>
+		<desc>Climb aboard and join Popeye as you race him through a crazy maze in pursuit of Olive Oyl's falling hearts. The more hearts you help him catch, the higher your score. Of course, it won't be easy with Brutus and the Sea Hag around! Lead Popeye to his spinach in time and it's curtains for this pesky pair. If not - it's into the briny deep for this sailor!</desc>
+		<publisher>Parker Brothers</publisher>
+		<developer>Parker Brothers</developer>
+		<image>./mixart/Popeye (USA).png</image>
+		<marquee>./wheel/Popeye (USA).png</marquee>
+		<video>./snap/Popeye (USA).mp4</video>
+		<releasedate>19831005T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Q-bert (USA).zip</path>
+		<name>Q-bert</name>
+		<desc />
+		<image>./mixart/Q-bert (USA).png</image>
+		<marquee>./wheel/Q-bert (USA).png</marquee>
+		<video>./snap/Q-bert (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Q-bert II (USA).zip</path>
+		<name>Q-bert II</name>
+		<desc />
+		<image>./mixart/Q-bert II (USA).png</image>
+		<marquee>./wheel/Q-bert II (USA).png</marquee>
+		<video>./snap/Q-bert II (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Quest for Quintana Roo (USA).zip</path>
+		<name>Quest for Quintana Roo</name>
+		<publisher>Sunrise Software</publisher>
+		<developer>VSS inc.</developer>
+		<image>./mixart/Quest for Quintana Roo (USA).png</image>
+		<marquee>./wheel/Quest for Quintana Roo (USA).png</marquee>
+		<video>./snap/Quest for Quintana Roo (USA).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Robin Hood (USA).zip</path>
+		<name>Robin Hood</name>
+		<desc>You are Robin Hood in Medieval England and you are trying to enter the Sheriff of Nottingham's castle. Inside the castle, lovely Maid Marian is being held captive by the evil Sheriff, and the Sheriff's gold is locked away in a vault.</desc>
+		<publisher>Xonox</publisher>
+		<developer>Xonox</developer>
+		<image>./mixart/Robin Hood (USA).png</image>
+		<marquee>./wheel/Robin Hood (USA).png</marquee>
+		<video>./snap/Robin Hood (USA).mp4</video>
+		<releasedate>19840906T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Roc 'N Rope (USA, Europe).zip</path>
+		<name>Roc 'N Rope</name>
+		<desc />
+		<image>./mixart/Roc 'N Rope (USA, Europe).png</image>
+		<marquee>./wheel/Roc 'N Rope (USA, Europe).png</marquee>
+		<video>./snap/Roc 'N Rope (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Rock 'N' Bolt (USA).zip</path>
+		<name>Rock 'N' Bolt</name>
+		<desc />
+		<image>./mixart/Rock 'N' Bolt (USA).png</image>
+		<marquee>./wheel/Rock 'N' Bolt (USA).png</marquee>
+		<video>./snap/Rock 'N' Bolt (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Rolloverture (USA).zip</path>
+		<name>Rolloverture</name>
+		<desc />
+		<image>./mixart/Rolloverture (USA).png</image>
+		<marquee>./wheel/Rolloverture (USA).png</marquee>
+		<video>./snap/Rolloverture (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Sammy Lightfoot (USA).zip</path>
+		<name>Sammy Lightfoot</name>
+		<desc />
+		<image>./mixart/Sammy Lightfoot (USA).png</image>
+		<marquee>./wheel/Sammy Lightfoot (USA).png</marquee>
+		<video>./snap/Sammy Lightfoot (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Sector Alpha (USA).zip</path>
+		<name>Sector Alpha</name>
+		<desc>SECTOR ALPHA is a three-dimensional arcade-type search and destroy game. Robot penetrator space craft are invading from three directions and you must face and destroy them in each direction of the playing field.</desc>
+		<publisher>Spectravision</publisher>
+		<developer>Spectravision</developer>
+		<image>./mixart/Sector Alpha (USA).png</image>
+		<marquee>./wheel/Sector Alpha (USA).png</marquee>
+		<video>./snap/Sector Alpha (USA).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Sewer Sam (USA).zip</path>
+		<name>Sewer Sam</name>
+		<desc>It's a lovely day and Sam is waiting in Central Park to meet his girlfriend Sally. He sees her and walks to her. He only has eyes for her and before he realizes it he finds himself in the New York sewer system.
+
+Three Russian submarines have been located in the New York sewer system and they have blocked off the system. Sam's only way out of the sewer system is to destroy the Russian submarines. Luckily, Sam carries his revolver. Sam can't go back... once he's gone through the City Sewer Department seals the tunnel. Luckily, Sam carries his revolver.</desc>
+		<publisher>Interphase Technologies</publisher>
+		<developer>Interphase Technologies</developer>
+		<image>./mixart/Sewer Sam (USA).png</image>
+		<marquee>./wheel/Sewer Sam (USA).png</marquee>
+		<video>./snap/Sewer Sam (USA).mp4</video>
+		<releasedate>19840308T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Sir Lancelot (USA).zip</path>
+		<name>Sir Lancelot</name>
+		<desc />
+		<image>./mixart/Sir Lancelot (USA).png</image>
+		<marquee>./wheel/Sir Lancelot (USA).png</marquee>
+		<video>./snap/Sir Lancelot (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Skiing (USA).zip</path>
+		<name>Skiing</name>
+		<desc />
+		<image>./mixart/Skiing (USA).png</image>
+		<marquee>./wheel/Skiing (USA).png</marquee>
+		<video>./snap/Skiing (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Slither (USA).zip</path>
+		<name>Slither</name>
+		<desc />
+		<image>./mixart/Slither (USA).png</image>
+		<marquee>./wheel/Slither (USA).png</marquee>
+		<video>./snap/Slither (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Slurpy (USA).zip</path>
+		<name>Slurpy</name>
+		<desc>You control a strange green blob of a creature with a long trunk sticking out the front, moving it around in a one-screen, non-scrolling, open cave. In every level, your goal is to eat ten floating seeds. Meanwhile, of course, the game does its best to prevent you from doing so, by throwing a multitude of different monsters against you. Fortunately nearly every monster in the game can be eaten as well. If an enemy touches Slurpy, you can kiss one of your precious lives goodbye; but woe to the enemy that strays in front of Slurpy's trunk and is caught by his amazing suction power!</desc>
+		<publisher>Xonox</publisher>
+		<developer>Emag</developer>
+		<image>./mixart/Slurpy (USA).png</image>
+		<marquee>./wheel/Slurpy (USA).png</marquee>
+		<video>./snap/Slurpy (USA).mp4</video>
+		<releasedate>19840920T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Space Fury (USA, Europe).zip</path>
+		<name>Space Fury</name>
+		<desc>Space Fury (J:スペースフューリー) is a multi-directional shooter arcade game created by Sega and released on June 17, 1981. The game was an early example of color vector graphics and it also featured speech synthesis.[1]</desc>
+		<image>./mixart/Space Fury (USA, Europe).png</image>
+		<marquee>./wheel/Space Fury (USA, Europe).png</marquee>
+		<video>./snap/Space Fury (USA, Europe).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Space Panic (USA, Europe).zip</path>
+		<name>Space Panic</name>
+		<desc />
+		<image>./mixart/Space Panic (USA, Europe).png</image>
+		<marquee>./wheel/Space Panic (USA, Europe).png</marquee>
+		<video>./snap/Space Panic (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Spectron (USA).zip</path>
+		<name>Spectron</name>
+		<desc />
+		<image>./mixart/Spectron (USA).png</image>
+		<marquee>./wheel/Spectron (USA).png</marquee>
+		<video>./snap/Spectron (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Spy Hunter (USA, Europe).zip</path>
+		<name>Spy Hunter</name>
+		<desc>Spy Hunter is a 1983 arcade game developed and released by Bally Midway.[1]
+
+The game draws inspiration from the James Bond films and was originally supposed to carry the James Bond license. The object of the game is to drive down roads in the technologically advanced "Interceptor" car and destroy various enemy vehicles with a variety of onboard weapons. Spy Hunter was produced in both sit-down and standard upright versions with the latter being more common.[1] The game's controls consist of a steering wheel in the form of a futuristic aircraft-style yoke with several special-purpose buttons, a two-position stick shift (offering 'low' and 'high' gears), and a pedal used for acceleration.
+
+Spy Hunter was also ported to various home computers and video game systems. The game was followed by a pinball spin-off, a sequel that added two-player split-screen play and a successor series of games bearing the Spy Hunter name.</desc>
+		<publisher>Coleco</publisher>
+		<developer>Midway</developer>
+		<image>./mixart/Spy Hunter (USA, Europe).png</image>
+		<marquee>./wheel/Spy Hunter (USA, Europe).png</marquee>
+		<video>./snap/Spy Hunter (USA, Europe).mp4</video>
+		<releasedate>19840101T000000</releasedate>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game id="" source="">
+		<path>./Squish 'Em Sam! (USA).zip</path>
+		<name>Squish 'Em Sam!</name>
+		<desc />
+		<image>./mixart/Squish 'Em Sam! (USA).png</image>
+		<marquee>./wheel/Squish 'Em Sam! (USA).png</marquee>
+		<video>./snap/Squish 'Em Sam! (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Star Trek (USA, Europe).zip</path>
+		<name>Star Trek</name>
+		<desc />
+		<image>./mixart/Star Trek (USA, Europe).png</image>
+		<marquee>./wheel/Star Trek (USA, Europe).png</marquee>
+		<video>./snap/Star Trek (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Star Wars (USA).zip</path>
+		<name>Star Wars</name>
+		<desc />
+		<image>./mixart/Star Wars (USA).png</image>
+		<marquee>./wheel/Star Wars (USA).png</marquee>
+		<video>./snap/Star Wars (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Strike It! (USA).zip</path>
+		<name>Strike It!</name>
+		<desc />
+		<image>./mixart/Strike It! (USA).png</image>
+		<marquee>./wheel/Strike It! (USA).png</marquee>
+		<video>./snap/Strike It! (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Subroc (USA, Europe).zip</path>
+		<name>Subroc</name>
+		<desc />
+		<image>./mixart/Subroc (USA, Europe).png</image>
+		<marquee>./wheel/Subroc (USA, Europe).png</marquee>
+		<video>./snap/Subroc (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Super Action Baseball (USA, Europe).zip</path>
+		<name>Super Action Baseball</name>
+		<desc>Colecovision's only baseball game and first of the Super Action series, Super Action Baseball was specially designed to work with the Super Action controllers.
+Batting is done with an angled view wherein you see your batter in the bottom-left of the screen and the pitcher at center-right. The top part of the screen is reserved for keeping an eye on the bases. As the ball approaches, your player attempts to hit the ball with his bat to send it flying. A successful hit will result in your player having to run around the bases. Running is done with the "wheel" on the top of the Super Action Controllers. Stealing is also possible.
+
+Fielding is simple, using the Super Action controllers, players have 4 buttons to correspond to each base. Thus the ball can be thrown at any of the bases instantly.
+Box art is fan made.</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>./mixart/Super Action Baseball (USA, Europe).png</image>
+		<marquee>./wheel/Super Action Baseball (USA, Europe).png</marquee>
+		<video>./snap/Super Action Baseball (USA, Europe).mp4</video>
+		<releasedate>19830601T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Super Action Football (USA, Europe).zip</path>
+		<name>Super Action Football</name>
+		<desc>Another game in the Super Action series that makes use of Coleco's Super Action Controllers. Play against the computer or go head-to-head with a friend over 4 quarters of football action. Step back and throw the long bomb to your wide receiver dancing in the end zone, kick the field goal, or lay down a bone-crunching tackle as you control one of 3 offensive or 3 defensive players. What victory dance will you do as you dive across the goal line in the final seconds of the game?</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>./mixart/Super Action Football (USA, Europe).png</image>
+		<marquee>./wheel/Super Action Football (USA, Europe).png</marquee>
+		<video>./snap/Super Action Football (USA, Europe).mp4</video>
+		<releasedate>19840601T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Super Action Soccer (USA, Europe).zip</path>
+		<name>Super Action Soccer</name>
+		<desc />
+		<image>./mixart/Super Action Soccer (USA, Europe).png</image>
+		<marquee>./wheel/Super Action Soccer (USA, Europe).png</marquee>
+		<video>./snap/Super Action Soccer (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Super Cobra (USA).zip</path>
+		<name>Super Cobra</name>
+		<desc>Super Cobra (スーパーコブラ Sūpā Kobura?) is a 1981 arcade game, the sequel to popular horizontally scrolling shooter Scramble, Super Cobra was developed by Konami and manufactured and distributed by Stern in North America. It is similar in concept to its predecessor, but much more difficult.
+
+The game was a success, selling 12,337 video game arcade cabinets in the United States in four months, by October 2, 1981, becoming Stern's third best-selling arcade classic after Berzerk and Scramble. Scramble sold 15,136 cabinets in the US in five months earlier that year, adding up to 27,473 US cabinet sales for both.[1]
+
+Super Cobra was widely ported by Parker Brothers, and there was an Adventure Vision handheld version from Entex.</desc>
+		<publisher>Parker Brothers</publisher>
+		<developer>Konami</developer>
+		<image>./mixart/Super Cobra (USA).png</image>
+		<marquee>./wheel/Super Cobra (USA).png</marquee>
+		<video>./snap/Super Cobra (USA).mp4</video>
+		<releasedate>19840101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Super Cross Force (USA).zip</path>
+		<name>Super Cross Force</name>
+		<desc />
+		<image>./mixart/Super Cross Force (USA).png</image>
+		<marquee>./wheel/Super Cross Force (USA).png</marquee>
+		<video>./snap/Super Cross Force (USA).mp4</video>
+		<releasedate>19831201T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Tank Wars (USA).zip</path>
+		<name>Tank Wars</name>
+		<desc />
+		<image>./mixart/Tank Wars (USA).png</image>
+		<marquee>./wheel/Tank Wars (USA).png</marquee>
+		<video>./snap/Tank Wars (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Tapper (USA, Europe).zip</path>
+		<name>Tapper</name>
+		<desc />
+		<image>./mixart/Tapper (USA, Europe).png</image>
+		<marquee>./wheel/Tapper (USA, Europe).png</marquee>
+		<video>./snap/Tapper (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Telly Turtle (USA, Europe).zip</path>
+		<name>Telly Turtle</name>
+		<desc />
+		<image>./mixart/Telly Turtle (USA, Europe).png</image>
+		<marquee>./wheel/Telly Turtle (USA, Europe).png</marquee>
+		<video>./snap/Telly Turtle (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Threshold (USA).zip</path>
+		<name>Threshold</name>
+		<desc />
+		<image>./mixart/Threshold (USA).png</image>
+		<marquee>./wheel/Threshold (USA).png</marquee>
+		<video>./snap/Threshold (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Tomarc the Barbarian (USA).zip</path>
+		<name>Tomarc the Barbarian</name>
+		<desc>In Tomarc the Barbarian Senta is being held captive in a magical cage, and Tomarc needs to rescue her! In this action game you will control both Tomarc and Senta simultaneously. Tomarc is lost in a series of caves somewhere searching for his magic sword, and then must locate Senta to set her free. Deadly rats and other dangers must be avoided as you run and jump around the caves. Meanwhile, Senta must defend herself from giant bats and other creatures while trapped in the cage; although she can't move, she is capable of firing magic at enemies to destroy them.</desc>
+		<publisher>Xonox</publisher>
+		<developer>Xonox</developer>
+		<image>./mixart/Tomarc the Barbarian (USA).png</image>
+		<marquee>./wheel/Tomarc the Barbarian (USA).png</marquee>
+		<video>./snap/Tomarc the Barbarian (USA).mp4</video>
+		<releasedate>19840410T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Tournament Tennis (USA).zip</path>
+		<name>Tournament Tennis</name>
+		<desc />
+		<image>./mixart/Tournament Tennis (USA).png</image>
+		<marquee>./wheel/Tournament Tennis (USA).png</marquee>
+		<video>./snap/Tournament Tennis (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Turbo (USA, Europe).zip</path>
+		<name>Turbo</name>
+		<desc>Turbo by Sega included with Expansion Module #2. 
+You're in control of a high performance race car. Use the steering wheel, accelerator foot pedal, and gearshift to drive to victory! The course includes city streest, tunnels, bridges, and coutry roads. Shift into high gear--accelerate--change lanes! Negotiate twisting curves, pass other cars, avoid spin outs, oil slicks, and other hazards to make it into the winner's circle!</desc>
+		<publisher>Sega Enterprises, Inc.</publisher>
+		<developer>Sega</developer>
+		<image>./mixart/Turbo (USA, Europe).png</image>
+		<marquee>./wheel/Turbo (USA, Europe).png</marquee>
+		<video>./snap/Turbo (USA, Europe).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Tutankham (USA).zip</path>
+		<name>Tutankham</name>
+		<desc>Tutankham (ッ夕ンカ一ン) is a 1982 arcade game developed by Konami and released by Stern in the US. The game was originally titled Tutankhamen, but it was discovered that the full name could not fit on the arcade cabinet, so the title was shortened.[citation needed]
+
+Tutankham is one of six games chosen to appear in the LIFE magazine photo-session conducted at Twin Galaxies on November 7, 1982, featuring video game record holders of the 1982-era, gathered for a group photograph. The Tutankham champion in the photo is Mark Robichek of Mountain View, California.</desc>
+		<image>./mixart/Tutankham (USA).png</image>
+		<marquee>./wheel/Tutankham (USA).png</marquee>
+		<video>./snap/Tutankham (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Up 'N Down (USA).zip</path>
+		<name>Up 'N Down</name>
+		<desc />
+		<image>./mixart/Up 'N Down (USA).png</image>
+		<marquee>./wheel/Up 'N Down (USA).png</marquee>
+		<video>./snap/Up 'N Down (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Venture (USA, Europe).zip</path>
+		<name>Venture</name>
+		<desc>Venture is an action game in which you control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon</desc>
+		<developer>Exidy, Inc.</developer>
+		<image>./mixart/Venture (USA, Europe).png</image>
+		<marquee>./wheel/Venture (USA, Europe).png</marquee>
+		<video>./snap/Venture (USA, Europe).mp4</video>
+		<releasedate>19820406T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Victory (USA, Europe).zip</path>
+		<name>Victory</name>
+		<desc />
+		<image>./mixart/Victory (USA, Europe).png</image>
+		<marquee>./wheel/Victory (USA, Europe).png</marquee>
+		<video>./snap/Victory (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./War Games (USA, Europe).zip</path>
+		<name>War Games</name>
+		<desc />
+		<image>./mixart/War Games (USA, Europe).png</image>
+		<marquee>./wheel/War Games (USA, Europe).png</marquee>
+		<video>./snap/War Games (USA, Europe).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./War Room (USA).zip</path>
+		<name>War Room</name>
+		<desc />
+		<image>./mixart/War Room (USA).png</image>
+		<marquee>./wheel/War Room (USA).png</marquee>
+		<video>./snap/War Room (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Wizard of Id's Wizmath (USA).zip</path>
+		<name>Wizard of Id's Wizmath</name>
+		<desc />
+		<image>./mixart/Wizard of Id's Wizmath (USA).png</image>
+		<marquee>./wheel/Wizard of Id's Wizmath (USA).png</marquee>
+		<video>./snap/Wizard of Id's Wizmath (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Word Feud (USA).zip</path>
+		<name>Word Feud</name>
+		<desc />
+		<image>./mixart/Word Feud (USA).png</image>
+		<marquee>./wheel/Word Feud (USA).png</marquee>
+		<video>./snap/Word Feud (USA).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Zaxxon (USA, Europe).zip</path>
+		<name>Zaxxon</name>
+		<desc>This fantastic 3-dimensional space battle game puts you in control of a futuristic spaceship! Your ship zooms over an alien asteroid, and dives down to attack the enemy's installations. Your ship must avoid hazardous walls, enemy fire, and other unforeseen dangers! Can you survive and score?</desc>
+		<publisher>Sega</publisher>
+		<developer>Sega</developer>
+		<image>./mixart/Zaxxon (USA, Europe).png</image>
+		<marquee>./wheel/Zaxxon (USA, Europe).png</marquee>
+		<video>./snap/Zaxxon (USA, Europe).mp4</video>
+		<releasedate>19820601T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Zenji (USA).zip</path>
+		<name>Zenji</name>
+		<desc>Zenji is an action/strategy game where you control a rolling face throughout a maze. Each section of the maze can be rotated by the face. The goal is to turn the entire maze green by connecting each section of the maze to the source at the center of the screen. After all sections of the maze have been connected, you can move on to the next, more challenging level. In addition to having a time limit to complete your task, you need to avoid the flames and sparks which wander about the maze. From time to time a number will appear in a maze section and count down from 9 to 0. If you touch the number before it disappears, bonus points are earned. As the levels progress, the mazes become larger, trickier and more flames will appear.</desc>
+		<publisher>Activision</publisher>
+		<developer>Activision</developer>
+		<image>./mixart/Zenji (USA).png</image>
+		<marquee>./wheel/Zenji (USA).png</marquee>
+		<video>./snap/Zenji (USA).mp4</video>
+		<releasedate />
+		<genre />
+	</game>
+	<game>
+		<path>./Smurf Paint 'n Play Workshop (USA, Europe).zip</path>
+		<name>Smurf Paint 'n Play Workshop</name>
+		<image>./mixart/Smurf Paint 'n Play Workshop (USA, Europe).png</image>
+		<video>./snap/Smurf Paint 'n Play Workshop (USA, Europe).mp4</video>
+		<marquee>./wheel/Smurf Paint 'n Play Workshop (USA, Europe).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Smurf Rescue (USA, Europe).zip</path>
+		<name>Smurf Rescue</name>
+		<image>./mixart/Smurf Rescue (USA, Europe).png</image>
+		<video>./snap/Smurf Rescue (USA, Europe).mp4</video>
+		<marquee>./wheel/Smurf Rescue (USA, Europe).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./2010 - The Graphic Action Game (USA, Europe).zip</path>
+		<name>2010 - The Graphic Action Game</name>
+		<image>./mixart/2010 - The Graphic Action Game (USA, Europe).png</image>
+		<video>./snap/2010 - The Graphic Action Game (USA, Europe).mp4</video>
+		<marquee>./wheel/2010 - The Graphic Action Game (USA, Europe).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Chuck Norris - Super Kicks (USA).zip</path>
+		<name>Chuck Norris - Super Kicks</name>
+		<image>./mixart/Chuck Norris - Super Kicks (USA).png</image>
+		<video>./snap/Chuck Norris - Super Kicks (USA).mp4</video>
+		<marquee>./wheel/Chuck Norris - Super Kicks (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Pitfall! (USA).zip</path>
+		<name>Pitfall!</name>
+		<desc>The player must maneuver a character known as Pitfall Harry through a maze-like jungle in an attempt to recover 32 treasures in a 20-minute time period. Along the way, he must negotiate numerous hazards, including pits, quicksand, rolling logs, fire, rattlesnakes, scorpions, and crocodiles. Harry may jump over or otherwise avoid these obstacles by climbing, running, or swinging on a vine to avoid them. Treasure includes gold and silver bars, diamond rings, and bags of money. Under the jungle there is a tunnel which Harry can access through ladders found at various places. This is required to get around some surface areas that have no way across otherwise. The tunnels are filled with dead-ends blocked by brick walls, forcing the player return to the surface at one of the ladders, and try to find a way around again. The tunnels also contain treasure and scorpions Harry must jump over.</desc>
+		<image>./mixart/Pitfall! (USA).png</image>
+		<video>./snap/Pitfall! (USA).mp4</video>
+		<marquee>./wheel/Pitfall! (USA).png</marquee>
+		<releasedate />
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>No</players>
+	</game>
+	<game>
+		<path>./Mr. Do! (USA, Europe).zip</path>
+		<name>Mr. Do!</name>
+		<image>./mixart/Mr. Do! (USA, Europe).png</image>
+		<video>./snap/Mr. Do! (USA, Europe).mp4</video>
+		<marquee>./wheel/Mr. Do! (USA, Europe).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Campaign '84 (USA).zip</path>
+		<name>Campaign '84</name>
+		<image>./mixart/Campaign '84 (USA).png</image>
+		<video>./snap/Campaign '84 (USA).mp4</video>
+		<marquee>./wheel/Campaign '84 (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Decathlon (USA).zip</path>
+		<name>Decathlon</name>
+		<image>./mixart/Decathlon (USA).png</image>
+		<video>./snap/Decathlon (USA).mp4</video>
+		<marquee>./wheel/Decathlon (USA).png</marquee>
+		<releasedate />
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre />
+	</game>
+	<game>
+		<path>./Alcazar - The Forgotten Fortress (USA).zip</path>
+		<name>Alcazar - The Forgotten Fortress</name>
+		<image>./mixart/Alcazar - The Forgotten Fortress (USA).png</image>
+		<video>./snap/Alcazar - The Forgotten Fortress (USA).mp4</video>
+		<marquee>./wheel/Alcazar - The Forgotten Fortress (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Donkey Kong Jr (USA, Europe).zip</path>
+		<name>Donkey Kong Jr</name>
+		<image>./mixart/Donkey Kong Jr (USA, Europe).png</image>
+		<video>./snap/Donkey Kong Jr (USA, Europe).mp4</video>
+		<marquee>./wheel/Donkey Kong Jr (USA, Europe).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Rocky Super-Action Boxing (USA, Europe).zip</path>
+		<name>Rocky Super-Action Boxing</name>
+		<image>./mixart/Rocky Super-Action Boxing (USA, Europe).png</image>
+		<video>./snap/Rocky Super-Action Boxing (USA, Europe).mp4</video>
+		<marquee>./wheel/Rocky Super-Action Boxing (USA, Europe).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Pitfall II - Lost Caverns (USA).zip</path>
+		<name>Pitfall II - Lost Caverns</name>
+		<image>./mixart/Pitfall II - Lost Caverns (USA).png</image>
+		<video>./snap/Pitfall II - Lost Caverns (USA).mp4</video>
+		<marquee>./wheel/Pitfall II - Lost Caverns (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Oil's Well (USA).zip</path>
+		<name>Oil's Well</name>
+		<image>./mixart/Oil's Well (USA).png</image>
+		<video>./snap/Oil's Well (USA).mp4</video>
+		<marquee>./wheel/Oil's Well (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Wing War (USA).zip</path>
+		<name>Wing War</name>
+		<image>./mixart/Wing War (USA).png</image>
+		<video>./snap/Wing War (USA).mp4</video>
+		<marquee>./wheel/Wing War (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Artillery Duel (USA).zip</path>
+		<name>Artillery Duel</name>
+		<desc>In this two player game each player controls an artillery gun set in a mountain landscape with the goal of destroying the other player. Players take turns firing at each other; on each turn you have a limited amount of time in which the barrel angle and powder level can be set in order to control the direction and distance of the shot. When deciding on your shot, you will need to take the current conditions into account, which includes wind speed/direction and any mountains that may get in your way. Successfully destroying your opponents gun will earn you a point, and the first player to reach the set number of points wins the game. There are multiple skill levels available which set the amount of time you have to make a shot.</desc>
+		<image>./mixart/Artillery Duel (USA).png</image>
+		<video>./snap/Artillery Duel (USA).mp4</video>
+		<marquee>./wheel/Artillery Duel (USA).png</marquee>
+		<releasedate>19830316T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Time Pilot (USA, Europe).zip</path>
+		<name>Time Pilot</name>
+		<desc>Time Pilot (夕イム・パイ口ツ卜) is a multi-directional scrolling shooter and free-roaming aerial combat arcade game designed by Yoshiki Okamoto, released by Konami in 1982, and distributed in the United States by Centuri. Debuting in the golden age of video arcade games, it is a time travel themed game that allowed the player's plane to freely move across open air space that can scroll indefinitely in all directions.[3][4][5] The Killer List of Videogames included Time Pilot in its list of top 100 arcade games of all time.[6</desc>
+		<image>./mixart/Time Pilot (USA, Europe).png</image>
+		<video>./snap/Time Pilot (USA, Europe).mp4</video>
+		<marquee>./wheel/Time Pilot (USA, Europe).png</marquee>
+		<releasedate />
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Carnival (USA, Europe).zip</path>
+		<name>Carnival</name>
+		<desc>This game captures the fun, excitement, and sounds of an old-time shooting gallery. Blaze away at clay pipes, dancing bears and sitting ducks. But watch out, those aren't ordinary sitting ducks. They come to life when they reach the end of the gallery, and avenge themselves by eating from your limited supply of ammunition. How many can you shoot down?</desc>
+		<image>./mixart/Carnival (USA, Europe).png</image>
+		<video>./snap/Carnival (USA, Europe).mp4</video>
+		<marquee>./wheel/Carnival (USA, Europe).png</marquee>
+		<releasedate>19800605T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Coleco</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./River Raid (USA).zip</path>
+		<name>River Raid</name>
+		<desc>The player controls an airplane in a top-down view over a river and gets points for shooting down enemy planes, helicopters, ships and balloons (for versions after the Atari 2600). By flying over fuel-stations, the plane's tank can be refilled. The player can shift side to side and change the speed of the plane. Sections of the river are marked by bridges.</desc>
+		<image>./mixart/River Raid (USA).png</image>
+		<video>./snap/River Raid (USA).mp4</video>
+		<marquee>./wheel/River Raid (USA).png</marquee>
+		<releasedate>19840606T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Motocross Racer (USA).zip</path>
+		<name>Motocross Racer</name>
+		<desc>Motorcycle racing in three events. Qualify in Desert Scramble, Hill Climb and Beach Sprint. Race against time and avoid obstacles in this fast paced game.</desc>
+		<image>./mixart/Motocross Racer (USA).png</image>
+		<video>./snap/Motocross Racer (USA).mp4</video>
+		<marquee>./wheel/Motocross Racer (USA).png</marquee>
+		<releasedate>19840808T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Mountain King (USA).zip</path>
+		<name>Mountain King</name>
+		<image>./mixart/Mountain King (USA).png</image>
+		<video>./snap/Mountain King (USA).mp4</video>
+		<marquee>./wheel/Mountain King (USA).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./M.A.S.H (Europe).zip</path>
+		<name>M.A.S.H</name>
+		<desc>M.A.S.H. is loosely based off of the hit TV show of the same name. It is actually two separate games that can be played four different ways. In each game you play Hawkeye and play against Trapper who is either player 2 or the computer. The object of either game is to get 1,000 points first.
+
+The first game is a Choplifter style game where you must maneuver your helicopter through the jungles of Korea picking up the wounded until your chopper is full and then return them safely to base. You will have to compete with Trapper in collecting the limited number of wounded while navigating through the trees and past tanks who are trying to shoot your copter down.
+
+In the second game you're in the operating room and must remove the bullets from your fallen comrades without further injuring him, much like the board game Operation.
+
+Style one is Welcome to Korea which features both styles of game switching back and forth. Style two is Operating Room which is just the Operation challenge. Style three is Chopper Challenge is just the Choplifter style game. Style four is Heavy Flak which is just like style three but with many more injured to rescue and more tanks to avoid.</desc>
+		<image>./mixart/M.A.S.H (Europe).png</image>
+		<video>./snap/M.A.S.H (Europe).mp4</video>
+		<marquee>./wheel/M.A.S.H (Europe).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>Coleco</publisher>
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
+		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Jumpman Junior (USA).zip</path>
+		<name>Jumpman Junior</name>
+		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
+
+Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
+		<image>./mixart/Jumpman Junior (USA).png</image>
+		<video>./snap/Jumpman Junior (USA).mp4</video>
+		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Jungle Hunt (USA).zip</path>
+		<name>Jungle Hunt</name>
+		<desc>JUNGLE HUNT! Now you can play the arcade hit in your own home. The graphics and gameplay are so realistic, you'll think you're on your own video safari! You'll find yourself hanging by your fingertips from slippery ropes, fighting off tooth crocodiles, and dodging huge bouncing boulders. Hurry up and rescure your sweetie from the hungry cannibals - it's almost dinnertime!</desc>
+		<image>./mixart/Jungle Hunt (USA).png</image>
+		<video>./snap/Jungle Hunt (USA).mp4</video>
+		<marquee>./wheel/Jungle Hunt (USA).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Beamrider (USA).zip</path>
+		<name>Beamrider</name>
+		<desc>A web of iridescent blue beams engulfs Earth-Space. You stand watching. Mesmerized at first, you now realize the beams support weapons, frightening creations in different forms. Will you just watch or will you take action? Action??!! Then roll up your sleeves, mount these beams and... ride! Animated graphics create a 3D perspective that virtually pulls you into the screen. Pulsating sound effects intensify the action as a dizzying array of objects zips from beam to beam.</desc>
+		<image>./mixart/Beamrider (USA).png</image>
+		<video>./snap/Beamrider (USA).mp4</video>
+		<marquee>./wheel/Beamrider (USA).png</marquee>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre></genre>
+	</game>
+</gameList>

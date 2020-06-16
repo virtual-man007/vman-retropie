@@ -1,0 +1,1795 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>ScummVM</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Blue Force (CD DOS).svm</path>
+		<name>Blue Force</name>
+		<desc>May 15 1984. In a bar, shortly after a shady deal took place two men enter the bar. They are undercover cops, and once the criminal notices them, he flees the bar, and as his motorcycle skims past town, the pick-up truck used by the undercover cops isn't capable of keeping up when the criminal goes past a fence into an open field. However, while escaping, he left something very important behind. Three days later, someone breaks one of the agents' house. Inside, John and Jackie Ryan are brutally assassinated by an unknown hitman. Their son Jake witnesses everything hidden from the closet in his parent's room.
+
+11 years pass by, and Jake Ryan, living with his grandmother since the incident, joins the Academy and graduates with flying colours. His parents' death turned into a cold case, despite the best attempts by Lyle Jamison, one of John's closest friends and P.I. to bring the criminals into justice. As he is assigned to the local Jackson Beach PD, he learns that stolen National Guard weapons are suspected to be circulating in the area, and one night something catches Jake's eye that might bring him closer to the truth...</desc>
+		<image>./mixart/blueforce.png</image>
+		<video>./snap/blueforce.mp4</video>
+		<marquee>./wheel/blueforce.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>TSUNAMI</developer>
+		<publisher>TSUNAMI MEDIA, INC.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Castle of Dr. Brain (CD DOS).svm</path>
+		<name>Castle of Dr. Brain</name>
+		<desc>Castle of Dr. Brain is the first game in the Dr. Brain series of educational puzzle adventure games. The game consists of puzzles relating to logic and math. Once you have completed all of these puzzles, you are granted a job at Dr. Brain's castle.</desc>
+		<image>./mixart/castlebrain.png</image>
+		<video>./snap/castlebrain.mp4</video>
+		<marquee>./wheel/castlebrain.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Cruise for a Corpse (VGA DOS).svm</path>
+		<name>Cruise for a Corpse</name>
+		<desc>The year is 1927, and you play Inspector Raoul Dusentier, a Frenchman - but don't let that put you off; it's a good game! One day, you receive a letter inviting you on a cruise. It seems some rich man named Niklos Karaboudjan has refurbished an old pirate ship. Yar! Not only that, but it's rumoured that an old pirate treasure is still hidden somewhere on board: a sunny cruise, a treasure hunt and ? a murder!
+
+Yes, shortly after you arrive, your generous host Niklos is murdered, and found dead in his room by his butler. When you arrive at the scene of the crime, you are knocked out by someone. After a few hours you wake up again, and you can start investigating.</desc>
+		<image>./mixart/cruise.png</image>
+		<video>./snap/cruise.mp4</video>
+		<marquee>./wheel/cruise.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Discworld 1 (CD DOS v2).svm</path>
+		<name>Discworld</name>
+		<desc>Atop the flying disk planet known as Discworld, flying along in infinite space, foul things are transpiring in the famous city of Ahnk-Morpork. A dark guild have brought back a great beast, one that no one really believes in. But they will before long. Not standing still, the wizards of Unseen University send their most expendable wizard to destroy the threat. Rincewind, the wizzard, er, I mean wizard, is the worlds most inept wizard. He'd much rather run away from the dragon than confront and destroy it, and it doesn't make things any better that the evil bad guys and even Death him-self are all right on his tail. Can Rincewind keep all of Ahnk-Morpork from becoming nice little fried Morporkians? Play this delightful little adventure and find out for yourself.</desc>
+		<image>./mixart/dw.png</image>
+		<video>./snap/dw.mp4</video>
+		<marquee>./wheel/dw.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Perfect Entertainment</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./ecoquest2.svm</path>
+		<name>Lost Secret of the Rainforest</name>
+		<desc>Lost Secret of the Rainforest is a trek through lush jungles, mysterious caverns, and ancient ruins atop craggy, mistcovered peaks. This Sierra adventure requires that you defeat the real-life dangers threatening the rainforests of South America.
+As you explore this exotic ecosystem, you will encounter endangered animal species, rare flora, and remote native cultures. Your challenge is to prevent their extinction by poachers and other outlaws who would destroy the environment to satisfy their greed. If you're successful, you will learn the amazing truth that lies behind the enigmatic face of the rainforest.
+Lost Secret of the Rainforest is based on scientifically accurate information. It takes you to one of the most exciting worlds ever presented in an educational game. As in EcoQuest 1: The Search for Cetus, you will once again be adventuring with Adam.</desc>
+		<image>./mixart/ecoquest2.png</image>
+		<video>./snap/ecoquest2.mp4</video>
+		<marquee>./wheel/ecoquest2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Eye of the Beholder (CD DOS).svm</path>
+		<name>Eye Of The Beholder</name>
+		<desc>Jurri the Rogue fingers his lockpicks and deftly slips one into the lock. It's trapped, but Jurri is skilled... with a soft click, the trap is disarmed. The door creaks open, revealing a dimly lit corridor.
+Without warning, skeletons leap from the shadows and slash at the party! Swords flash, spells sizzle, then... all is quiet, and the corridor is littered with bones.
+Legend has it there's a criminal conspiracy hiding in the Waterdeep sewers. Is this true? These locks and traps are too good, and someone sent those skeletons. Well, if someone's hiding down here, we're going to find them... and destroy them!
+So begins the quest that heralds the first graphically based AD&amp;D® computer fantasy role-playing saga - the Legend Series!
+In Eye of the Beholder, you control four PCs and two NPCs of six character races and six character classes. You and your party may aspire to become High Priests, Lords, Paladins, Ranger Lords, Wizards and Master Thieves!
+Easy to use "point-and-click" commands and 3-D point of view create that "you are there" feeling!
+Experience AD&amp;D® computer fantasy role-playing like never before as you and your party of adventures explore the dark, slimy underside of Waterdeep!</desc>
+		<image>./mixart/eob.png</image>
+		<video>./snap/eob.mp4</video>
+		<marquee>./wheel/eob.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./gob1cd-us.svm</path>
+		<name>Gobliins</name>
+		<desc>Guide these three comical goblins on their quest to find a remedy for their King's illness - he's gone raving mad! Steer them through strange countries scattered with puzzling challenges by selecting one at a time and making the best use of his skills. One is a magician who casts spells, one is a warrior who hits with his fists and the other a technician who makes use of the objects he collects on his way. Become completely spellbound with the exceptionally humorous and addictive action-adventure!</desc>
+		<image>./mixart/gob1.png</image>
+		<video>./snap/gob1.mp4</video>
+		<marquee>./wheel/gob1.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Island of Dr. Brain (Floppy DOS).svm</path>
+		<name>Island of Dr. Brain, The</name>
+		<desc>In the sequel to Castle of Dr. Brain, you will have to assist Dr. Brain in retrieving a battery for one of his experiments - the plans for which were stolen by Dr. Brain's archrival scientist. In order to beat the scientist, you will have to tour the Island of Dr. Brain in search of the elusive battery. On your way you will have to solve a plethora of puzzles in various difficulty levels, and even find use for a bunch of pink flamingoes!</desc>
+		<image>./mixart/islandbrain.png</image>
+		<video>./snap/islandbrain.mp4</video>
+		<marquee>./wheel/islandbrain.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./King's Quest 5 - Absence Makes the Heart go Yonder (CD DOS).svm</path>
+		<name>King's Quest V: Absence Makes the Heart Go Yonder</name>
+		<desc>On a beautiful sunny day, King Graham of Daventry decides to take a stroll in the woods surrounding his castle.  When he returns, he discovers with horror that his home, Daventry Castle, has completely disappeared!  Graham is at a loss, and wonders how this could have happened, when a talking owl named Cedric appears.  He tells him that he saw the whole thing, and that an evil wizard named Mordack whisked the entire castle away, along with Graham's family in it.  Cedric offers to take him to his homeland, Serenia, where his master, the wizard Crispin resides.  Surely Crispin will be able to help King Graham rescue his family from Mordack's clutches.King's Quest V: Absence Makes the Heart Go Yonder is an adventure game, and the first from Sierra to use a point-and-click mouse interface.  Rather than typing commands on a keyboard to interact with the game world and use the arrow keys to walk around, King's Quest V instead simplifies all actions down to base commands.  To access the different cursors, the player can move the mouse to the top of the screen, revealing a hidden menu with each of the different actions, as well as game options and the inventory bag.  By clicking the "Walk" cursor on the screen, Graham will walk as close as he can to the appropriate area.  Clicking the "Eye" cursor on items will provide a description, the same as typing "Look at".  The "Hand" cursor is a multipurpose cursor that can be used to push, pull, interact with and pick up objects.  The "Head" cursor is used to talk to people (and in the strange world of King's Quest, often objects and animals, too).  Players can also right-click to cycle through the different available cursors.  Inventory that Graham picks up now gets placed into a bag.  By clicking on the bag, this opens up a sub-window that displays all the inventory that Graham currently has.  In here, players can look at or interact with objects, combine them with other objects, or pick them up to use them in the game environment as another cursor.As with most Sierra games, it is quite possible to die.  Bumping into witches, poisonous scorpions, falling off edges of cliffs, dying of thirst in the desert, and many other objects, locations and characters will send Graham to an untimely demise.  The player must be cautious as they explore Serenia - frequent game saving across multiple files is usually the best course of action to make sure that you don't get stuck or have to start right from the game's very beginning.</desc>
+		<image>./mixart/kq5.png</image>
+		<video>./snap/kq5.mp4</video>
+		<marquee>./wheel/kq5.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./The Legend of Kyrandia 3 Malcolm's Revenge (CD DOS, Multilanguage).svm</path>
+		<name>Legend of Kyrandia - Book Three - Malcolm's Revenge, The</name>
+		<desc>Everyone blamed evil jester Malcolm for his deeds, how he turned everyone to stone, and how he killed King and the Queen (you'll find out in this game whether it was true or not). Brandon eventually turned Malcolm himself into stone (as he did to every villager on this island); but now, finally, the moment of glory comes. The thunderbolt strikes the jester, and pushes him pretty far. But at least he is alive, and with a full bag of tricks. Now it's his turn to tell the world his version of the truth. He will be helped by two sides of your personality: the "good" and the "evil" one. Take a few necessary things from the nearby garbage, and visit Kyrandia again. Have fun!
+
+Malcolm's Revenge is the third entry in the Legend of Kyrandia adventure series. The basic gameplay is similar to the previous entries: the "smart cursor" is responsible for all the actions in the game - taking, using, talking, etc. During conversations, it is possible to control Malcolm's level of truthfulness as well as his "good" and "bad" attitude. Many puzzles in the game have multiple solutions, though the main story remains unchanged for the most part.</desc>
+		<image>./mixart/kyra3.png</image>
+		<video>./snap/kyra3.mp4</video>
+		<marquee>./wheel/kyra3.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Virgin Interactive Entertainment (Europe) Ltd.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./The Legend of Kyrandia 1 (CD DOS).svm</path>
+		<name>The Legend of Kyrandia: Book One</name>
+		<desc>The Legend of Kyrandia is the first in a trilogy of adventure games by Westwood. In this game the player controls Brandon, grandson of Kallak - a wizard of the realm of Kyrandia. Malcolm, a psychotic jester imprisoned in the past by Kallak, has broken free and wishes to take over the land as well as lay down his revenge. He turns Kallak into stone leaving him with only his eyes, so that Kallak is not denied his tears for Kyrandia's sake.
+
+This is where Brandon steps in; returning home shortly afterwards only to find that his grandfather has been turned into stone, Brandon is being told by a messenger from the Realm of the Land that he has been chosen to embark on a journey that will rid this realm of Malcolm and his evil. He has to prove himself not only a hero, but a worthy heir to the crown and ultimately of becoming a king.
+
+Throughout the journey Brandon will collect many items and also learn how to master magic. Available spells include disappearing, healing yourself, summoning ice upon fire and shifting into a wisp. Interaction with the environment is confined to highlighted items, and a single cursor is used for all actions, without differentiating precise commands.</desc>
+		<image>./mixart/kyra1.png</image>
+		<video>./snap/kyra1.mp4</video>
+		<marquee>./wheel/kyra1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Westwood Studios, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./lsl5.svm</path>
+		<name>Leisure Suit Larry 5 - Passionate Patti Does Some Undercover Work</name>
+		<desc>The absence of a "Leisure Suit Larry 4" forms the basis of this newest installment, as Julius Biggs has stolen the 'missing floppies' of the game and caused Larry Laffer to become amnesiac. Larry is now in the adult film industry, working for a Mafia-connected company known as PornProdCorp. His boss sends him across the United States to scout for models to appear in "America's Sexiest Home Videos".
+
+Meanwhile, Patti is recruited by the FBI to dig up incriminating evidence on two record companies which are suspected of hiding subliminal messages in their songs. At the same time, PornProdCorp schemes to eliminate the competition in their industry by donating money to CANE (Conservatives Against Nearly Everything).</desc>
+		<image>./mixart/lsl5.png</image>
+		<video>./snap/lsl5.mp4</video>
+		<marquee>./wheel/lsl5.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910907T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Leisure Suit Larry 6 - Shape Up or Slip Out (CD DOS).svm</path>
+		<name>Leisure Suit Larry 6: Shape Up or Slip Out!</name>
+		<desc>Shape Up or Slip Out! is the fifth game in Al Lowes Leisure Suit Larry series. All the events from the previous games are forgotten. Larry is once again single, and again his goal is to capture the interest of various ladies. By sheer coincidence, Larry finds himself on a TV Game Show called Stallions. He wins a weekend at the Spa Resort, La Costa Lotta. Naturally, there are some beautiful women in the spa who are just dreaming about such a wonderful, handsome man as Larry! Uh... or is it really so? It is the players goal to find out!
+
+This instalment focuses more on conversations with women and puzzles than on the storyline. The entire game is spent at La Costa Lotta. There are plenty of traditional inventory-based puzzles to solve in the game. Larry can die, but the player is allowed to try again every time that happens, without the need to restore a saved game. This is also the first Larry game with SVGA graphics, and voice-overs in the CD version.</desc>
+		<image>./mixart/lsl6.png</image>
+		<video>./snap/lsl6.mp4</video>
+		<marquee>./wheel/lsl6.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Lure of the Temptress (Floppy DOS).svm</path>
+		<name>Lure Of The Temptress</name>
+		<desc>Lure of the Temptress is Revolution Softwares debut point-and-click adventure game published by Virgin Interactive Entertainment. It was released in June 1992 for Atari ST, MS-DOS and Amiga. The player assumes the role of a young peasant named Diermot who has to overthrow an evil sorceress. Lure of the Temptress is the first game built with the Virtual Theatre engine, which Revolution used in the subsequent games Beneath a Steel Sky and the first two games in the Broken Sword series. It was received favourably by critics, a commercial success and re-released as freeware on April 1, 2003.</desc>
+		<image>./mixart/lure.png</image>
+		<video>./snap/lure.mp4</video>
+		<marquee>./wheel/lure.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Revolution Software Ltd.</developer>
+		<publisher>Virgin Games, Ltd.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Maniac Mansion (Amiga).svm</path>
+		<name>Maniac Mansion</name>
+		<desc>Maniac Mansion is a 1987 graphic adventure video game developed and published by Lucasfilm Games. It follows teenage protagonist Dave Miller as he attempts to rescue his girlfriend from a mad scientist, whose mind has been enslaved by a sentient meteor. The player uses a point-and-click interface to guide Dave and two of his six playable friends through the scientists mansion while solving puzzles and avoiding dangers. Gameplay is non-linear, and the game must be completed in different ways based on the players choice of characters. Initially released for the Commodore 64 and Apple II, Maniac Mansion was Lucasfilm Games first self-published product.</desc>
+		<image>./mixart/maniac.png</image>
+		<video>./snap/maniac.mp4</video>
+		<marquee>./wheel/maniac.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./pq3.svm</path>
+		<name>Police Quest 3: The Kindred</name>
+		<desc>The game follows recently promoted Sonny Bonds, as he has to deal with rampant crime, drug proliferation, cults, and a corrupt partner.</desc>
+		<image>./mixart/pq3.png</image>
+		<video>./snap/pq3.mp4</video>
+		<marquee>./wheel/pq3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Simon the Sorcerer 1 (CD Windows).svm</path>
+		<name>Simon The Sorcerer</name>
+		<desc>Simon the Sorcerer is an adventure game that was released by Adventure Soft on 2 January 1993 for Amiga and MS-DOS formats. The game's name comes from the account of Simon the Sorceror in Acts 8. The story begins with the protagonist, Simon, as an ordinary teenager. His dog, "Chippy", discovers a chest in the loft of his house containing a spellbook titled "Ye Olde Spellbooke" (which Simon derisively reads as "Ye old-ee spellbook-ee"). Simon throws the book onto the floor in contempt, but a portal opens above it. Chippy goes through the portal and Simon follows.
+
+After entering the portal, Simon finds himself in another world. After escaping from some goblins who intended to eat him, he discovers that he has been brought on a quest to rescue the wizard Calypso from the evil sorcerer Sordid.</desc>
+		<image>./mixart/simon1.png</image>
+		<video>./snap/simon1.mp4</video>
+		<marquee>./wheel/simon1.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930102T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Simon the Sorcerer 2 (CD Windows).svm</path>
+		<name>Simon The Sorcerer 2 - The Lion, The Wizard And The Wardrobe</name>
+		<desc>The Evil wizard Sordid is brought back to life when a magic-book of his is set ablaze and thrown into the middle of a chalkboard pentagram by the father of Runt, a young boy wanting to become a mighty sorcerer. Sordid promises him that he can become his apprentice if he helps him exact his vengeance on Simon.
+
+Several months later, Sordid's Fortress of Doom is reconstructed and Sordid has a new robotic body. He sends a magical wardrobe to fetch Simon but it accidentally ends up on the doorstep of Calypso, the wizard Simon had to save in the last game. Simon then starts to look for a fuel called mucusade which he needs to power the wardrobe in order to get home.</desc>
+		<image>./mixart/simon2.png</image>
+		<video>./snap/simon2.mp4</video>
+		<marquee>./wheel/simon2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950102T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./sq5.svm</path>
+		<name>Space Quest 5 - The Next Mutation</name>
+		<desc>After travelling back and forth through time in the previous game, Roger Wilco is back in the Starfleet Acadamy, serving as both a cadet and a janitor. Cheating his way through the Starfleet Aptitude Test, Roger is finally given the rank of captain, his own ship (a garbage scow) and a mission: to explore strange new worlds (which no man in his right mind would explore), to seek out new life and new civilizations (which grew out of the massive amounts of trash Roger will collect on his way), to boldly go where no man has gone before. Step by step Roger will have to unveil a galaxy-wide biohazardous material dumping scheme, solve the mystery of the disappearance of a fellow Starfleet captain and his ship, and confront an agent of an old nemesis.</desc>
+		<image>./mixart/sq5.png</image>
+		<video>./snap/sq5.mp4</video>
+		<marquee>./wheel/sq5.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Gobliins 2 (CD DOS).svm</path>
+		<name>Gobliins 2: The Prince Buffoon</name>
+		<desc>The second in the series of adventure-puzzle games. In this installation, you only have two imps to control instead of three.
+
+Someone has kidnapped the prince and it's up to you and two hilarious sidekicks, Winkle and Fingus, to rescue him. Winkle is a reckless jokester, while Fingus is careful and has a gift for solving puzzles. Luckily, they're blessed with extraordinary vitality. In other words, they never die. That'll sure come in handy when you're up against Wily Wizard's traps, maniacal monsters, and twisted and perplexing puzzles.</desc>
+		<image>./mixart/gob2.png</image>
+		<video>./snap/gob2.mp4</video>
+		<marquee>./wheel/gob2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Touche - The Adventures of the Fifth Musketeer (CD DOS).svm</path>
+		<name>Touché: The Adventures of the Fifth Musketeer</name>
+		<desc>Geoffroi Le Brun, ensign in His Majestyâs musketeers, arrives in the middle of the night in 16th century Rouen, France, to start his new posting at the musketeer headquarters. At the moment he arrives, the unfortunate Comte dâItee, William de Peuple, is attacked by bandits and his precious will is stolen. Geoffroi offers him, just before he dies, his assistance to find his will.
+
+Of course, getting it back will not be easy, and he must travel back and forth across France to accomplish his quest, visiting the cities of Amiens, St Quentin, Le Mans, Paris, and Le Havre. However, he is assisted by a clever manservant, called Henri, who will be a great help, without any doubt. With some luck, he will hunt the murderer(s) down and find the will. And who knows, maybe he will meet a beautiful lady or find a fortune on the way.
+
+TouchÃ©: The Adventures of the Fifth Musketeer is a humorous, inventory-based point and click adventure game. By right-clicking on a hotspot a context-sensitive action interface pops up, showing the relevant actions. The game is a full talkie with captions, music and sound effects. It features a progressive traveling map, which allows to visit new locations after having solved various puzzles.</desc>
+		<image>./mixart/touche.png</image>
+		<video>./snap/touche.mp4</video>
+		<marquee>./wheel/touche.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Clipper Software</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Zak McKracken and the Alien Mindbenders (Amiga).svm</path>
+		<name>Zak Mckracken And The Alien Mindbenders</name>
+		<desc>Zak McKracken and the Alien Mindbenders is a 1988 graphic adventure game by Lucasfilm Games. It was the second game to use the SCUMM engine, after Maniac Mansion. The project was led by David Fox, with Matthew Alan Kane as the co-designer and co-programmer.</desc>
+		<image>./mixart/zak.png</image>
+		<video>./snap/zak.mp4</video>
+		<marquee>./wheel/zak.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Eye of the Beholder II - The Legend of Darkmoon (CD DOS).svm</path>
+		<name>Eye Of The Beholder 2 - The Legend Of Darkmoon</name>
+		<desc>Through a clearing in the haunted forest, three massive towers rise into the night sky - the dread Temple Darkmoon is just ahead! Like a siren, it inexorably draws you into its nightmarish depths...
+
+The exciting sequel to Eye of the Beholder is here! Eye of the Beholder II: The Legend of Darkmoon is a graphically based AD&amp;D computer fantasy role-playing saga. You'll love the stunning pictures, realistic animation and 3-D "you-are-there" point of view.</desc>
+		<image>./mixart/eob2.png</image>
+		<video>./snap/eob2.mp4</video>
+		<marquee>./wheel/eob2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Day Of The Tentacle (CD Dos).svm</path>
+		<name>Maniac Mansion: Day of the Tentacle</name>
+		<desc>Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure which features cartoon-style animation and over 100 zany sound effects.</desc>
+		<image>./mixart/tentacle.png</image>
+		<video>./snap/tentacle.mp4</video>
+		<marquee>./wheel/tentacle.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./EcoQuest 1 - The Search for Cetus (CD DOS).svm</path>
+		<name>EcoQuest: The Search for Cetus</name>
+		<desc>Set out on a challenging undersea odyssey as you discover the delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the important environmental issues facing each of us today. You'll also have the adventure of your life.
+Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the sunken ruins of ancient civilizations and rescue sea creatures who are hurt or poisoned by pollution.
+Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards.</desc>
+		<image>./mixart/ecoquest.png</image>
+		<video>./snap/ecoquest.mp4</video>
+		<marquee>./wheel/ecoquest.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./camelot.svm</path>
+		<name>Conquests Of Camelot - The Search For The Grail</name>
+		<desc>The holy Grail. It is the most famous and sought-after object in the world. It is the stuff that dreams and legends are made of. It is the one thing that will heal the heart of a king and breathe life into a dying land. More than all these things, it is a symbol of the trials of body, mind and spirit that all people face in their search for meaning and truth. Come with us to Camelot as the legendary King Arthur sets out on his ultimate quest.</desc>
+		<image>./mixart/camelot.png</image>
+		<video>./snap/camelot.mp4</video>
+		<marquee>./wheel/camelot.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./longbow.svm</path>
+		<name>Conquests Of The Longbow - The Legend Of Robin Hood</name>
+		<desc>This game is set in medieval England. You play as Robin Hood. Your objective is to free King Richard from the French by raising money for his ransome. There are many different endings depending on the score you get. The game uses a mouse interface. There are arcade sequences built into the story, but their difficulty can be adjusted, or they can be completely turned off.</desc>
+		<image>./mixart/longbow.png</image>
+		<video>./snap/longbow.mp4</video>
+		<marquee>./wheel/longbow.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./kq3.svm</path>
+		<name>King's Quest 3 - To Heir Is Human</name>
+		<desc>Become Gwydion, young slave to the evil wizard Manannan of Llewdor. Discover the wizard's secret spells and use his magic to free yourself from his thrall. Embark upon a dangerous voyage to another land. Scale snowy peaks and brave a terrible monster to free a kingdom from its ravages!</desc>
+		<image>./mixart/kq3.png</image>
+		<video>./snap/kq3.mp4</video>
+		<marquee>./wheel/kq3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kq2.svm</path>
+		<name>King's Quest II: Romancing the Throne</name>
+		<desc>Journey with King Graham, inheritor of the Daventry throne. Help him unlock the secrets that may lead him to the enchanted maiden for whom he longs. Muster up all your wit and perseverance, for this is a Sierra adventure - a challenge to your ingenuity. Featuring animated characters that come alive - they walk, run, climb and even swim; Incredible 3D graphics; Multiple solutions, variable scoring.</desc>
+		<image>./mixart/kq2.png</image>
+		<video>./snap/kq2.mp4</video>
+		<marquee>./wheel/kq2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./lsl2.svm</path>
+		<name>Leisure Suit Larry Goes Looking For Love</name>
+		<desc>Leisure Suit Larry Goes Looking for Love (In Several Wrong Places) is the second game in Al Lowes Leisure Suit Larry series. Continuing the plot of the previous game, the swinging single Larry Laffer has finally found his true love and is happily living with her. Right? Wrong!.. Because Larry is mercilessly thrown out by his great love and is left all alone, penniless, and womanless, in Los Angeles. Accidentally, Larry comes into contact with KGB agents who will pursue him all over the globe from now on. And there is also the evil doctor Noontonyt plotting evil schemes on a remote tropical island... Looks like Larry will have to forget about his women-related problems for now... or is it so?
+
+The second game in the series introduces an improved engine (allowing for full-screen graphics and mouse control for movement). As opposed to the first game, which relied on exploration of one large area, the sequel has a more linear progression, the player being continuously taken to new locations as dictated by the plot. There are less puzzles in this installment than in the previous game; however, the number of ways to die has increased, danger awaiting Larry in most places he visits.</desc>
+		<image>./mixart/lsl2.png</image>
+		<video>./snap/lsl2.mp4</video>
+		<marquee>./wheel/lsl2.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19880202T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./lsl3.svm</path>
+		<name>Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals</name>
+		<desc>Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals is the third entry in the Leisure Suit Larry series of graphical adventure games published by Sierra On-Line. It was developed for multiple platforms including DOS, Atari ST and Amiga. The game utilizes Sierras Creative Interpreter (SCI0), resulting in a graphic style similar to its immediate predecessor, as well as a larger repertoire of MIDI music.</desc>
+		<image>./mixart/lsl3.png</image>
+		<video>./snap/lsl3.mp4</video>
+		<marquee>./wheel/lsl3.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19890409T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./mh1.svm</path>
+		<name>Manhunter - New York</name>
+		<desc>The Earth has been invaded by the Orb Alliance, and a tightly restricted regime instituted for the humans that remain. Brown monk robes are the only garments allowed, speaking is a capital offense, and every human has been implanted with a tracking chip recording their every move. To track down criminals, the Orbs enlist Manhunters - humans given access to advanced technology and selected to be a combination of police officers and bounty hunters. The player controls one such Manhunter as he unravels a conspiracy inside the decaying heart of the New York ruins, and a mysterious serial killer on the loose.
+
+Each chapter begins with the Orbs assigning the players nameless Manhunter with a crime (such as murder) or target to investigate. The player gains leads through the use of the MAD computer, which displays the logs of all civilian movement in an area in an overhead map view. By starting with the victim and following the people who encountered him that day, the player can then go to a first-person investigation view at various New York landmarks to find clues to the suspects identity. At the end of the day, the player must report the correct name of their suspect to the Orbs.
+
+Manhunter uses a modified version of Sierras AGI interpreter, with a rudimentary point-and-click interface used to locate and uncover clues at the investigation sites. At various times throughout the investigation, the player will also have to directly control the Manhunter in arcade-style challenges, like dodging gang attacks or throwing knives between a bar patrons fingers.</desc>
+		<image>./mixart/mh1.png</image>
+		<video>./snap/mh1.mp4</video>
+		<marquee>./wheel/mh1.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Evryware</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./mh2.svm</path>
+		<name>Manhunter 2 - San Francisco</name>
+		<desc>Manhunter 2: San Francisco is a post-apocalyptic adventure game designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published in 1989 by Sierra On-Line. It is the sequel to Manhunter: New York, developed by the same authors.</desc>
+		<image>./mixart/mh2.png</image>
+		<video>./snap/mh2.mp4</video>
+		<marquee>./wheel/mh2.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Evryware</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./pq2.svm</path>
+		<name>Police Quest 2: The Vengeance</name>
+		<desc>A cold-blooded murderer is on the loose. He has killed once, and he's not afraid to kill again. In fact, he's stalking someone this very moment... and that someone is you!! Fast and furious, Police Quest II is police drama on the razor's edge as you race against time in pursuit of a ruthless cop killer bent on revenge. Face the tension of split-second decisions as you call the shots... you make the moves. Take plenty of target practice, because every shot counts when you hit the streets to face the most violent criminal this city has witnessed - Jessie Bains, "The Death Angel!"</desc>
+		<image>./mixart/pq2.png</image>
+		<video>./snap/pq2.mp4</video>
+		<marquee>./wheel/pq2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./qfg2.svm</path>
+		<name>Quest for Glory II: Trial by Fire</name>
+		<desc>Trial by Fire is the sequel to Hero's Quest: So You Want To Be A Hero. It takes place in the town Shapeir and the desert surrounding it, in a Middle East-like environment. It seems that the powerful elemental spirits have been troubling the Shapeir folk recently. Something, or someone, is behind those troubles. It is the hero's task to find out what is going on, get acquainted with the many inhabitants of Shapeir, and prove once more that he is worthy of his heroic title.Like its predecessor, Trial by Fire is a hybrid game that incorporates elements from adventure and role-playing genres. It has a text-based interface, puzzles to solve, inventory items, characters to talk to, as well as pure RPG elements such as character growth system and battles. Player character can be either a fighter, a thief, or a wizard, and can also become a paladin during the course of the game if he follows a strict moral code.Real-time combat is presented on separate screens and offers more options than the previous title. There are several types of high, mid-level, and low attacks, as well as parrying and dodging. The hero raises his combat proficiency and other skills by fighting enemies, training, and performing various actions that influence the corresponding parameters.</desc>
+		<image>./mixart/qfg2.png</image>
+		<video>./snap/qfg2.mp4</video>
+		<marquee>./wheel/qfg2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./sq2.svm</path>
+		<name>Space Quest 2 - Vohaul's Revenge</name>
+		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
+		<image>./mixart/sq2.png</image>
+		<video>./snap/sq2.mp4</video>
+		<marquee>./wheel/sq2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./sq3.svm</path>
+		<name>Space Quest 3 - The Pirates Of Pestulon</name>
+		<desc>Narrowly escaping the events of Space Quest II: Vohaul's Revenge, Roger Wilco's escape pod floats through space. As just another metallic item of junk, it's soon picked up by an interstellar garbage hauler. Waking up in a pile of trash, quite familiar for this janitor-turned-hero, Roger Wilco must somehow escape. Once given access to the rest of the galaxy, he'll soon find himself having to avoid a collections cyborg for payments overdue, dealing with the corporate prison of software company Scummsoft, and having to digest the greasy food from the galaxy's finest hamburger joint.</desc>
+		<image>./mixart/sq3.png</image>
+		<video>./snap/sq3.mp4</video>
+		<marquee>./wheel/sq3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19890322T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./iceman.svm</path>
+		<name>Codename - Iceman</name>
+		<desc>Action and intrigue combine with the latest in simulation technology to create a thrilling adventure! The scenario: A kidnapped U.S. ambassador and the only man who can save him - Codename: Iceman. Oil shortages, international politics and radical terrorists form the backdrop for a powerful story of world crisis, superpower conflict and high tech escapades. Use authentic naval intelligence charts to pilot a nuclear submarine into enemy territory in a race against time.</desc>
+		<image>./mixart/iceman.png</image>
+		<video>./snap/iceman.mp4</video>
+		<marquee>./wheel/iceman.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./qfg1vga.svm</path>
+		<name>Hero's Quest</name>
+		<desc>Quest for Glory I: So You Want To Be A Hero is a remake of Heros Quest: So You Want To Be A Hero.
+
+The remake features 256-color VGA graphics. Locations have been re-drawn, and character portraits appear during conversations. This version also has an icon-based interface instead of the text input of the original, very similar to the one used by Sierra for their adventure titles. The player selects dialogue choices from a dialogue menu, as opposed to typing in conversation topics in the earlier release. A few changes have been made to the dialogue, adding (or altering) some of the easter eggs and references to other games.
+
+Combat now features clay models for the enemies and stop-motion animation. The perspective has been switched to an over-the-shoulder view farther away from the player. Battle commands (two types of attacks, parry, and dodge) are displayed as icons on a shield in the corner of the screen. The player can switch to the spell menu at any time, and also click the middle of the screen to escape from combat.</desc>
+		<image>./mixart/qfg1vga.png</image>
+		<video>./snap/qfg1vga.mp4</video>
+		<marquee>./wheel/qfg1vga.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Lost in Time (CD DOS, Multilanguage).svm</path>
+		<name>Lost In Time</name>
+		<desc>In 1992, a woman exploring a shipwreck has mysteriously been transported back in time to 1840 when the ship was still intact, she has no choice but to explore. Her sleuthing leads to revelations about her past.</desc>
+		<image>./mixart/lit.png</image>
+		<video>./snap/lit.mp4</video>
+		<marquee>./wheel/lit.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./King's Quest 6 - Heir Today, Gone Tomorrow (CD DOS, Windows).svm</path>
+		<name>King's Quest VI: Heir Today, Gone Tomorrow</name>
+		<desc>For months Prince Alexander of Daventry has shut himself away from the world, thinking only of Princess Cassima, who he met while imprisoned in the previous game. Eventually he can take it no longer, and he hires a ship to search for the Land of the Green Isles located on the edge of the world. After months of searching he finally sets sight upon the island kingdom, only for a freak storm to strike the ship, destroying it and leaving him the only survivor. His troubles are far from over, however, as he soon finds out that the King and Queen have passed away, the Greens Isles are on the brink of war, and his beloved Princess Cassima may even be held prisoner by the royal vizier.Like its predecessors in the series, King's Quest VI: Heir Today, Gone Tomorrow is a third-person puzzle-solving adventure game. For Alexander to save the Isles, he must travel between the Land's four magical islands, each based on myth and fables, and encounter people and strange beasts that will either help or hinder him. Alexander must be careful as well, because, as with all the King's Quest games, poor choices or missteps will often prove fatal for the Prince. Puzzles are solved linearly, although late in the game there are two completely different paths to take to reach the final confrontation. Like the previous game, actions are performed using a point-and-click interface with icons that represent verbs ("walk", "examine", "use", "talk", etc.). The CD-ROM version of the game includes both DOS and Windows versions, full speech, a pre-rendered introduction, and the Girl in the Tower theme song.</desc>
+		<image>./mixart/kq6.png</image>
+		<video>./snap/kq6.mp4</video>
+		<marquee>./wheel/kq6.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./The Legend of Kyrandia 2 The Hand of Fate (CD DOS).svm</path>
+		<name>The Legend of Kyrandia: Hand of Fate</name>
+		<desc>Years later, Zanthia, a young female alchemist and wizard encountered in the first game, discovers that the kingdom of Kyrandia is in great danger, disappearing piece by piece. The Mystics hold a meeting, and The Hand (a giant glove serving as an assistant to Marko, one of the Mystics) formulates a plan, which requires a magic anchor stone from the center of the world. He chooses Zanthia to be the one who shall recover the stone. As it turns out, however, the quest for the anchor stone is a snipe hunt, used by The Hand to distract Zanthia and the other Mystics while it enacts its evil deeds. The Hand, supposedly a fragment of a long-deceased gigantic evil sorcerer, is the games true villain, and Zanthia must defeat him by the end. This game was characterized by far more whimsical humor than its predecessor.</desc>
+		<image>./mixart/kyra2.png</image>
+		<video>./snap/kyra2.mp4</video>
+		<marquee>./wheel/kyra2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Virgin Games, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./toon.svm</path>
+		<name>Toonstruck</name>
+		<desc>Drew Blanc is a cartoon animator and the original creator of the Fluffy Fluffy Bun Bun Show. This show has been an unprecedented ten year success for his company, but in reality the many cute talking rabbits that star in the show sicken him. His self-revered creation, Flux Wildly, a wise-talking and sarcastic small purple character, has been denied the chance of starring in his own show. Drew's boss, Sam Schmaltz (played by Ben Stein), sets him the task of designing more bunnies to co-star in the Fluffy Fluffy Bun Bun Show by the next morning. However, the depressed animator soon nods off, suffering from acute artist's block. He wakes early the next morning to inexplicably find his television switched on, announcing the Fluffy Fluffy Bun Bun Show. Suddenly, Drew is mysteriously drawn into the television screen and transported to an idyllic two-dimensional cartoon world populated by his own creations, among many other cartoon characters. He soon befriends Flux Wildly (Dan Castellaneta), and discovers that this fictional paradise is being ravaged by a ruthless new character with a devastating weapon of evil, a flying machine equipped with a ray beam that mutates the pleasant, childish landscape and its inhabitants into dark, twisted and mean counterpart versions of themselves. He is tasked with hunting down and stopping this madman, thereby restoring peace and harmony to the land, in return for safe passage back to three-dimensional reality.</desc>
+		<image>./mixart/toon.png</image>
+		<video>./snap/toon.mp4</video>
+		<marquee>./wheel/toon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Burst</developer>
+		<publisher>Virgin</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./dig.svm</path>
+		<name>Dig, The</name>
+		<desc>The Dig is a point-and-click adventure game developed by LucasArts and released in 1995 as a CD-ROM for PC and Macintosh computers. Like other LucasArts adventure games, it uses the SCUMM video game engine. It also features a full voice-acting cast, including notable voice actors Robert Patrick and Steven Blum, and a digital orchestral score. The game uses a combination of drawn two-dimensional artwork and limited, pre-rendered three-dimensional movies, with the latter created by Industrial Light &amp; Magic.</desc>
+		<image>./mixart/dig.png</image>
+		<video>./snap/dig.mp4</video>
+		<marquee>./wheel/dig.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./sword25.svm</path>
+		<name>Broken Sword 2.5 - The Return Of The Templars</name>
+		<desc>Broken Sword 2.5: The Return of the Templars is a fan made sequel to continue the storyline after the first two games in the Broken Sword adventure series, and ties up the events leading up to the third game. Like the first two games, a 2d view is used with point-and-click gameplay instead of the full 3d from the later games.The series' protagonist George Stobbart leaves Nico for one year because of an important trip to the USA. During that time, his grandfather dies of cancer. While in the USA, he receives a telegram from France detailing the death of Nico. Bewildered, he hastily travels back to France only to discover Nico is still alive and not surprised about the telegram at all. The unexpected reunion does not please her and she asks him to leave immediately. While at Cafe della Chandelle Verte in Paris trying to put everything together, George receives an alarming message from French inspector André Lobineau about Nico. It may turn out the Neo-Templars still exist.Familiar locations all over the world are mixed with new settings and characters. George, Nico and André all return, but new ones such as Christophe Brai and English historian Jimmy McLaugh also play an important role. Movement is done with the mouse, while the cursor changes automatically to an available action when hovering over a hotspot. Items are stored in an inventory and dialogues trees are shown as icons representing items or characters. Players will control George and Nico intermittently throughout the story. It is also possible to die in the game.Although it is a tribute to the original series, the production values are high with entirely new environments, characters, rendered cut-scenes, sounds and a storyline that match the original games. Some people involved with the original game have contributed and there is full German (with a few of the voices of the original games) and English voice acting </desc>
+		<image>./mixart/sword25.png</image>
+		<video>./snap/sword25.mp4</video>
+		<marquee>./wheel/sword25.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>mindFactory</developer>
+		<publisher>mindFactory</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Police Quest 4 - Open Season (CD DOS).svm</path>
+		<name>Daryl F. Gates Police Quest: Open Season</name>
+		<desc>Police Quest: Open Season is the fourth installment in the Police Quest series. It abandons the story arc of the previous three games, introducing a new setting and a new protagonist, homicide detective John Carey of the Los Angeles Police Department. Carey finds his best friend and ex-partner, Officer Bob Hickman, murdered in an alley in the Southern part of the city. An eight-year-old boy named Bobby Washington has been murdered as well. Carey begins an investigation that leads him deep into the criminal life of the city and a hunt for a maniacal murderer.The game utilizes Sierra's traditional icon-based interface for interaction with the environment and generally follows an adventure format. However, it focuses on realistic police procedures even more than the previous games in the series. Much of the gameplay is dedicated to examining crime scenes, questioning suspects, and conducting a by-the-book investigation. There is a considerable degree of freedom in the interaction, allowing the player to perform actions not connected to the main story, some of which will, however, lead to the protagonist's death. The game utilizes digitized photorealistic images for its visuals.</desc>
+		<image>./mixart/pq4.png</image>
+		<video>./snap/pq4.mp4</video>
+		<marquee>./wheel/pq4.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./ihnm.svm</path>
+		<name>I Have No Mouth, And I Must Scream</name>
+		<desc>The game is based on a collection of short stories by Harlan Ellison. After the Cold War, the computers of the USA, Russia and China take over the world and wipe out almost the entire human race. The Allied Mastercomputer (called AM) holds the last five humans as prisoners to torture them. Any of them has to face his or her past in a virtual adventure AM has designed for them. There they encounter their fears and weaknesses.The player can choose which of the protagonists he wants to be but in fact he has to complete all of the six stories in order to solve the game. 
+There are different ways of completing the game depending on the humanity the player shows.The voice acting features Harlan Ellison as AM.</desc>
+		<image>./mixart/ihnm.png</image>
+		<video>./snap/ihnm.mp4</video>
+		<marquee>./wheel/ihnm.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>The Dreamers Guild</developer>
+		<publisher>Cyberdreams</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./The Journeyman Project - Pegasus Prime (CD Mac).svm</path>
+		<name>Journeyman Project - Pegasus Prime, The</name>
+		<desc>The Journeyman Project: Pegasus Prime is a remake of the earlier The Journeyman Project. The game's graphics and sound have been updated, the game has been modified to be more like the second game in the series Buried in Time and the third game (not released yet then) Legacy of Time. The story is the same as "The Journeyman Project (Turbo!)" and for the first time in the original story Agent 5 is called "Gage Blackwood".</desc>
+		<image>./mixart/pegasus.png</image>
+		<video>./snap/pegasus.mp4</video>
+		<marquee>./wheel/pegasus.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Presto Studios, Inc.</developer>
+		<publisher>Bandai Digital Entertainment Corp.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./King's Quest 7 - The Princeless Bride (CD DOS).svm</path>
+		<name>King's Quest 7 - The Princeless Bride</name>
+		<desc>The name of this entry, The Princeless Bride, is a pun on the title of the novel and film The Princess Bride. Like most Kings Quest titles, it is also a reference to the plot: Princess Rosella is soon to be a bride, but ends up in another world shortly before her marriage. It is the only entry in the series to feature Queen Valanice in a major role, and also the only one in which King Graham is not shown or mentioned at all (with one minor exception in version 1.4).[note 1] Sierra marketed the game as an improvement in the series by stating that completion of earlier KQ adventures was not necessary to fully enjoy the game, even though the final chapter revealed a strong connection to the events of Kings Quest IV.</desc>
+		<image>./mixart/kq7.png</image>
+		<video>./snap/kq7.mp4</video>
+		<marquee>./wheel/kq7.png</marquee>
+		<rating>1</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./kq4sci.svm</path>
+		<name>King's Quest IV: The Perils of Rosella</name>
+		<desc>King's Quest IV: The Perils of Rosella, released in 1988, was</desc>
+		<image>./mixart/kq4sci.png</image>
+		<video>./snap/kq4sci.mp4</video>
+		<marquee>./wheel/kq4sci.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Lands of Lore - The Throne of Chaos (CD DOS, Multilanguage).svm</path>
+		<name>Lands Of Lore - The Throne Of Chaos</name>
+		<desc>The Dark Army is on the move again, led by the evil sorceress Scotia. Her goal is obvious: to destroy Gladstone Keep and its ruler King Richard. Scotia herself has recently become more powerful after acquiring "the Mask" from the Urban Mines, gaining the ability to shape-shift. She is virtually unstoppable and able to infiltrate Gladstone Keep, poisoning King Richard. If it were not for the intervention of Sorceress Dawn, the monarch would surely be dead. In order to find a cure for the King's illness, a band of heroes must set out on an adventure, and keep themselves alive from the Dark Army forces.Lands of Lore: Throne of Chaos is a real-time dungeon-crawling role-playing game viewed from a first-person perspective. Players begin by choosing one of the four available protagonists: the Dracoid Ak'shel (high magic power), the Huline Kieran (high speed), and two humans: Michael (high strength) and Conrad (balanced character). Each has his weaknesses and strengths, but all abilities in the game can be eventually upgraded.Much of the game consists of exploring pseudo-3D maze-like dungeons. Most of them contain secret areas and it is sometimes necessary to solve puzzles to advance. Real-time combat involves clicking on either the attack or magic icon for each character. Depending on their speed attribute they will need a certain amount of cooldown time before the player can activate them again. The point-and-click interface allows interaction with some background objects, sometimes eliciting comments from the protagonist or his companions.The game does not feature manual character development, introducing instead a semi-automatic form of leveling up, where skills of the hero and the companions are divided into Fighting, Magic and Rogue skills. Each skill level will increase when killing enemies using a particular type of attack: melee weapons increase the Fighting skills, magic increases the Magic skill, and ranged weapons increase the Rogue skills. In the course of the game players will form a party of up to three heroes in the quest for the cure. The player is able to equip these characters with new weapons and armor in a "paper doll" styled interface. The CD version includes full speech.</desc>
+		<image>./mixart/lol.png</image>
+		<video>./snap/lol.mp4</video>
+		<marquee>./wheel/lol.png</marquee>
+		<rating>1</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Virgin Games, Ltd.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./lsl1sci.svm</path>
+		<name>Leisure Suit Larry in the Land of the Lounge Lizar</name>
+		<desc>Lascivious Larry Laffer begins his trek through the annals of computer history with the release of Leisure Suit Larry in the Land of the Lounge Lizards, created by Mark Crowe (of Space Quest fame), humorist Al Lowe, and designed by Chuck Benton. Larry's m</desc>
+		<image>./mixart/lsl1sci.png</image>
+		<video>./snap/lsl1sci.mp4</video>
+		<marquee>./wheel/lsl1sci.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./neverhood.svm</path>
+		<name>Neverhood, The</name>
+		<desc>You are Klaymen. Klaymen wakes up in a building in the strangely empty world of Neverhood. Initially, he does not know where he is or what he has to do, but as he explores the area, he finds mysterious disks. Each disk contains a fragment of a recording; gradually, the backstory is revealed as Klaymen finds more and more disks. It would spoil too much to reveal the exact plot, as finding it out is part of the game. The Neverhood is a point-and-click adventure game, notable for its claymation graphics. It uses a simple interface: you move and interact with the world by clicking on the screen. There is no inventory screen, though Klaymen can find a few items he can pick up. There are few inventory-based puzzles; most of the puzzles involve solving riddles and interacting with the environment. Generally, the game is seen from a 3rd person perspective, but when moving between locales, you see the world through Klaymen's eyes (but you have a limited freedom of movement). </desc>
+		<image>./mixart/neverhood.png</image>
+		<video>./snap/neverhood.mp4</video>
+		<marquee>./wheel/neverhood.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Neverhood, Inc., The</developer>
+		<publisher>DreamWorks Interactive L.L.C.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./qfg4.svm</path>
+		<name>Quest for Glory: Shadows of Darkness</name>
+		<desc>Shadows of Darkness is the fourth Quest for Glory game. It is a journey into the land of Mordavia - a setting influenced by Eastern Europe, particularly its Slavic areal. The hero had just begun to enjoy his victory in Tarna, when a spell zapped him into parts unknown, without a weapon, items, or even a source of light. Shortly after finding his way out of the dark cave, the hero meets a mysterious woman named Katrina. He traverses the swamps in the dark forest and finally reaches the town. However, the town is also engulfed by a foreboding atmosphere, and the hero cannot allow himself to relax. He must find out what is going on, why the town inhabitants are so hesitant and reluctant to help him, and what horrors are lurking outside of its walls. Life has never been quite so dangerous for our hero. He'll discover his quest soon enough - that is, if he lives.Like the previous Quest For Glory titles, the game is a combination of puzzle-solving adventure and role-playing. The player character can be a fighter, a thief, a magician, or a paladin. Importing a character from a preceding installment of the series is also possible. Once again the hero improves his skills by repeatedly using them (like throwing stones at a tree to improve the throwing ability, which might be needed to solve a puzzle). Combat system in this installment has undergone a major change. Battles are viewed from a side-scrolling perspective and are action-oriented. The protagonist is able to move freely, jump, and execute attacks and defensive moves, similarly to fighting games. The CD version of the game adds voice-overs to conversations as well as narrator's voice to text descriptions.</desc>
+		<image>./mixart/qfg4.png</image>
+		<video>./snap/qfg4.mp4</video>
+		<marquee>./wheel/qfg4.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+	</game>
+	<game>
+		<path>./RAMA (CD Windows).svm</path>
+		<name>Rama</name>
+		<desc>Nobody has expected it - but one day, something entered the solar system from outside. The mysterious object appeared to be a gigantic cylinder with unknown properties. The International Space Agency (ISA) sent the special Newton Team onto the object, which they dubbed "Rama". The scientists soon discovered that Rama was, in fact, a huge biomechanical collector of alien species and their cities. One of the explorers, Valeriy Borzov, dies under mysterious circumstances. Another astronaut is sent to replace him, investigate the circumstanced that led to his death, and perhaps uncover the mystery of Rama.Rama is a puzzle-solving adventure game based on Arthur C. Clarke's series of science fiction novels. Visually and gameplay-wise, it mostly follows the template of Myst, consisting of pre-rendered backgrounds and live action scenes, and focusing almost entirely on complex logic puzzles. The player character has a special device called "wristcomp", which includes communicative, automapping, and teleporting abilities. A personal android provides descriptions of objects and comments on the events of the game.</desc>
+		<image>./mixart/rama.png</image>
+		<video>./snap/rama.mp4</video>
+		<marquee>./wheel/rama.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Dynamix, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Return to Ringworld (CD DOS).svm</path>
+		<name>Return to Ringworld</name>
+		<desc>After saving the puppeteer race from extermination and uncovering some powerful ancient technology in the first game, Quinn, Seeker of Vengeance and Miranda Rees find themselves searched as fugitives by all three major species, so they go to Ringworld to hide. Once in Ringworld they'll try to uncover some evidence to clear their names, but they stumble across another universe-threatening plot. This time U.N. general Carson Teal is out to rule the universe by uncovering Ringworld's secrets, and you must stop him.Return to Ringworld is the sequel to the Ringworld: Revenge of the Patriarch. Like its predecessor, it is based on Larry Niven's Known Space series of novels. Once again this game is a puzzle-solving point-and-click adventure. This game is much larger than its predecessor, with hundreds of screens, mazes, etc. The player can control three characters throughout the game, a la Day of the Tentacle.</desc>
+		<image>./mixart/ringworld2.png</image>
+		<video>./snap/ringworld2.mp4</video>
+		<marquee>./wheel/ringworld2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Tsunami Media, Inc.</developer>
+		<publisher>Tsunami Media, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Shivers (CD, Windows).svm</path>
+		<name>Shivers</name>
+		<desc>In Shivers, an adventure puzzle game designed by Marcia Bales, the player takes a dare from friends to spend a night in professor Windlenots Museum of the Strange and Unusual. The museum had yet to be opened and has been abandoned and forgotten ever since the professor has mysteriously disappeared 15 years ago, along with 2 students who are suspected to have wandered inside the museum. A collection of ancient South American vessels, believed to contain evil spirits, are removed from their display, opened and scattered all around the museum, with the spirits lurking in every corner. It is your task to find all the matching vessel parts, and capture them again before they can entirely drain your life essence. However, the task becomes harder as the entire museum is covered with puzzles which need to be solved in order to proceed.</desc>
+		<image>./mixart/shivers.png</image>
+		<video>./snap/shivers.mp4</video>
+		<marquee>./wheel/shivers.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Quest 6 - The Spinal Frontier (CD DOS).svm</path>
+		<name>Space Quest 6: Roger Wilco in the Spinal Frontier</name>
+		<desc>Roger Wilco, the brave interstellar janitor who has already saved the universe from many great dangers, is now in a very embarrassing position. His commanders show no respect for his courageous actions in the previous game. Instead, he is being accused of all kinds of violations against the galactic law, is deprived of all the honors he got in the previous game, and as a token of mercy, is allowed to return to his old job - cleaning closets... But those unfortunate events are just the beginning of much bigger troubles Roger will get into. Once again, the future of galaxy depends on him!Space Quest 6 is the first game in the series to be released exclusively on a CD ROM. The game continues the humorous tradition of the series and is especially inclined towards parody of popular sci-fi movies. It features SVGA graphics and voice-overs for conversations and text descriptions. The interface is slightly different from icon-based system used by Sierra in many other adventure games: the player chooses verbs from a menu that appears at the bottom of the screen, similarly to earlier LucasArts titles. Unlike all previous Space Quest installments, the game allows the player to retry immediately in case Roger dies, without the need to restore a previously saved game.</desc>
+		<image>./mixart/sq6.png</image>
+		<video>./snap/sq6.mp4</video>
+		<marquee>./wheel/sq6.png</marquee>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./sq1sci.svm</path>
+		<name>Space Quest I: Roger Wilco in the Sarien Encounter</name>
+		<desc>Six years after its first appearance, the classic sci-fi send-up is back with a vengeance. Equipped with an all-mouse game system, and shrill Nineties graphics is sets out to enrapture the next generation of players.
+
+Prepare to save the world, well Xenon, our heros home planet, as Roger Wilco tumbles into The Sarien Encounter. Inconveniently for Roger - hes in the middle of a nap - the universe has chosen this exact moment to begin falling apart. No more sleep for Roger.
+
+Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of recent adventures to shame. It should be an integral part of every ambitious collection, if you have an A3000. Everyone else will be sorely tired by long loading sessions, slow animation and gritty graphics. Sci-fi fanatics must play it, others still can, though Sierra should do their homework and deliver versions that are as much fun on a standard Amiga because they deserve to remain classics.</desc>
+		<image>./mixart/sq1sci.png</image>
+		<video>./snap/sq1sci.mp4</video>
+		<marquee>./wheel/sq1sci.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Voyeur (CD DOS).svm</path>
+		<name>Voyeur</name>
+		<desc>Reed Hawke is the CEO of a powerful corporation known as Hawke Industries. He has gathered his extended family together for a weekend, preparing for an official announcement that he will be competing in the election for the President of the United States.</desc>
+		<image>./mixart/voyeur.png</image>
+		<video>./snap/voyeur.mp4</video>
+		<marquee>./wheel/voyeur.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Entertainment Software Partners</developer>
+		<publisher>Interplay Productions</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Bud Tucker in Double Trouble (CD DOS).svm</path>
+		<name>Bud Tucker In Double Trouble</name>
+		<desc>This wacky adventure puts the player in the shoes of Bud Tucker, a pizza delivery boy during the day and lab assistant at nights. One day, Bud found the Professor missing and later learns he's been kidnapped by the evil Dick Tate! Tate, an insane, whiny sob wishes to create a world filled with the people he loves most...himself.  To do that, he plans to use one of the Professor's invention and clone a billion versions of himself to populate the world.  It's up to Bud Tucker to track down the loon and the Professor before Barryville becomes Tate Town.Bud Tucker in Double Trouble is a point &amp; click adventure where the player explores and uncovers clues in a town called Barryville.  The game play consists of picking up items and using it when necessary. The player can perform various actions (pick up, use, etc) which can be displayed in words as well as icons,   The game is divided into three parts beginning with Bud Tucker locked up in a crumbly hotel in Seedy Street.  Speech is available in the game as well as subtitles. 
+</desc>
+		<image>./mixart/tucker.png</image>
+		<video>./snap/tucker.mp4</video>
+		<marquee>./wheel/tucker.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Merit Studios Limited</developer>
+		<publisher>Topware Interactive</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./kq1sci.svm</path>
+		<name>King's Quest I: Quest for the Crown</name>
+		<desc>The Kingdom of Daventry is in serious trouble because its precious magical items have been stolen: a mirror which tells the future, a shield which protects its wearer against danger and a chest always filled with gold. King Edward the Benevolent (who has </desc>
+		<image>./mixart/kq1sci.png</image>
+		<video>./snap/kq1sci.mp4</video>
+		<marquee>./wheel/kq1sci.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./lgop2.svm</path>
+		<name>Leather Goddesses of Phobos! 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X</name>
+		<desc>Almost twenty years passed since the inhabitants of Earth defeated the Leather Goddesses of Phobos. The year now is 1958, and the scientific world is excited at the news of the discovery of a new planet in the Solar System, a so-called "Planet X". One night, a spaceship crash-lands in the small town of Atom City, Nevada, home to a military base and a nuclear power plant. The alien Barth, a self-described "Pulsating Inconvenience" from Planet X, brings terrible news to the people of Earth: the Goddesses have conquered Planet X and forced its denizens to become sex slaves. Gas Pump Girls is the sequel to Leather Goddesses of Phobos. The player can choose between three different protagonists: the alien Barth, the gas station owner Zeke, or Lydia, the daughter of the astronomer who discovered Planet X. Barth's scenario involves different tasks, while the humans' gameplay is largely identical, with the exception of different dialogues. Unlike the previous game, the sequel is a graphical adventure without any text input. The player interacts with the environment in a point-and-click fashion, with a "smart cursor" that automatically changes its shape depending on the possible action that can be executed with a person or an object. The game has multiple-choice conversations, many of which are optional.</desc>
+		<image>./mixart/lgop2.png</image>
+		<video>./snap/lgop2.mp4</video>
+		<marquee>./wheel/lgop2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Infocom, Inc.</developer>
+		<publisher>Activision, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Flight of the Amazon Queen (CD DOS).svm</path>
+		<name>Flight Of The Amazon Queen</name>
+		<desc>Flight of the Amazon Queen follows a pilot for hire named Joe King who is hired to fly a famous actress to her next job, but ends up in a lightning storm and crashes deep in the Amazon Jungle. In the jungle, Joe uncovers a plot by a mad scientist to take over the world by creating an army of dinosaur women created from Amazon women.</desc>
+		<image>./mixart/queen.png</image>
+		<video>./snap/queen.mp4</video>
+		<marquee>./wheel/queen.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Interactive Binary Illusions</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./versailles.svm</path>
+		<name>Versailles 1685</name>
+		<desc>Versailles 1685 (also known as Versailles: A Game of Intrigue) is a point and click adventure game that revolves around Lalande, a young valet de chambre, who is called by Alexandre Bontemps in the early morning of the summer solstice 1685 after a strange pamphlet is discovered (which at the bottom figures a title of Aesop's fables: 'the frogs and Jupiter'), written by a schemer who threatens to set fire to the castle, all-the-while littering it with satirical pamphlets and clues which, if correctly pieced together could save the castle from its potential fate; the player has until nightfall to investigate the castle and surrounding areas.    In association with French national institution Réunion des Musées Nationaux and Canal+Multimédia, Cryo Interactive recreated the Parisian palace in pre-rendered 3D panoramas using Omni-3D technology, which allows you to turn yourself in 360 degrees. Populated with about 30 characters modeled after historic figures and portraits, a lot of detail went into the recreation with over 200 paintings to view, music true to the period, and a database of information about the art, history, and people.</desc>
+		<image>./mixart/versailles.png</image>
+		<video>./snap/versailles.mp4</video>
+		<marquee>./wheel/versailles.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Canal+ Multimedia</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Ween The Prophecy (Amiga).svm</path>
+		<name>Ween - The Prophecy</name>
+		<desc>This point and click adventure takes a fantasy setting, in which you play a Wizard deemed to be taking on a less good one. To fulfill the prophecy you have been given in a limited time of 3 days, he must go on 3 quests, solving various puzzles along the way to be rewarded 3 grains of sand, that he must place in a hourglass to kill an evil wizard. Objects around the levels are always detected by the cursor, making each screen and the challenges within quick to comprehend. Generally you have to solve each puzzle in sequence.
+
+Like the companys Gobliins Series, the interface is simplified, and the game has a heavier focus on self-sufficient puzzles than other traditional adventures. The game experiments with the toning of the graphics, using a faux-sepia style outside and some bright colours inside, which changes the atmosphere somewhat.</desc>
+		<image>./mixart/ween.png</image>
+		<video>./snap/ween.mp4</video>
+		<marquee>./wheel/ween.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19700101T000000</releasedate>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Inherit the Earth - Quest for the Orb (CD Windows-Linux-DOS).svm</path>
+		<name>Inherit the Earth - Quest for the Orb (CD Windows-Linux-DOS)</name>
+	</game>
+	<game>
+		<path>./ite-cd.svm</path>
+		<name>Inherit the Earth: Quest for the Orb</name>
+		<desc>Join Rif the Fox and his companions Okk and Eeah on the adventure of your life! Inherit the Earth will transport you to a world of beauty and intrigue... Earth! The Orb of Storms has been stolen and Rif is accused. You have only days to help Rif get to the bottom of the mystery of the missing Orb. Your journey takes you to the Wild Lands, through hostile territories and ultimately to the ancient ruins of the legendary Humans.
+
+*   Scores of Interactive Conversations.
+*   Multiple 3-D Scrolling Maps.
+*   Dozens of Challenging Puzzles.
+*    Simple Point and Click Interface.
+*    Cinematic Full Screen Animation.
+    Terrific Musical Scores and Sound Effects.</desc>
+		<image>./mixart/ite-cd.png</image>
+		<video>./snap/ite-cd.mp4</video>
+		<marquee>./wheel/ite-cd.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>New World Computing</developer>
+		<publisher>New World Computing</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./sword1.svm</path>
+		<name>Broken Sword: The Shadow of the Templars</name>
+		<desc>George Stobbart is an American tourist on holiday in Paris in the autumn. The story opens with George's quiet coffee at a café rudely interrupted by the explosion of a bomb planted by a man dressed up as a clown. He sets off investigating the explosion and, gradually, he and photo-journalist Nico Collard are drawn into a globe-trotting adventure involving conspiracies, cults and murder, all revolving around the Knights Templar.
+
+The game, which was a critical and commercial success, was released as Circle of Blood in the United States.</desc>
+		<image>./mixart/sword1.png</image>
+		<video>./snap/sword1.mp4</video>
+		<marquee>./wheel/sword1.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Space Quest 4 - Roger Wilco and the Time Rippers (CD DOS).svm</path>
+		<name>Space Quest IV: Roger Wilco and the Time Rippers</name>
+		<image>./mixart/sq4.png</image>
+		<video>./snap/sq4.mp4</video>
+		<marquee>./wheel/sq4.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./t7g.svm</path>
+		<name>The 7th Guest</name>
+		<desc>Henry Stauf's mansion had been abandoned for as long as anyone dare remember. Stauf was a master toy maker, a maker of amazing puzzles and this strange house was his greatest creation. Now, the mansion stands empty, rotting ever since the children started dying, ever since the six guests came. Now there are only the eerie lights and the terrible sing-song rhymes of the children...
+And suddenly, you are in the house. You move from room to haunted room, step by terrifying step, as scenes from that night of horror come to life. Because Stauf's game isn't over. There were six guests the world knew about - and there was one other. Stauf's mad mansion lives again. And only you can end the nightmare and learn the secret of The 7th Guest.</desc>
+		<image>./mixart/t7g.png</image>
+		<video>./snap/t7g.mp4</video>
+		<marquee>./wheel/t7g.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Trilobyte</developer>
+		<publisher>Virgin</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Waxworks (Amiga).svm</path>
+		<name>Waxworks</name>
+		<desc>Twenty years after your twin brother Alex disappeared into the mine tunnels beneath Vista Forge, you discover that not only is he still alive, but he's been possessed and has plans to unleash on the world the horror of undead villains culled from history.</desc>
+		<image>./mixart/waxworks.png</image>
+		<video>./snap/waxworks.mp4</video>
+		<marquee>./wheel/waxworks.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Horrorsoft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./fascination.svm</path>
+		<name>Fascination</name>
+		<desc>Fascination is the third and final game from Coktel Vision containing (somewhat) erotic content. In 1992, it was also the first game Coktel Vision created on CD. The main character is Doralice, who reappears in Lost in Time.</desc>
+		<image>./mixart/Fascination (CD DOS, Multilanguage).png</image>
+		<video>./snap/Fascination (CD DOS, Multilanguage).mp4</video>
+		<marquee>./wheel/Fascination (CD DOS, Multilanguage).png</marquee>
+		<rating>0.8</rating>
+		<releasedate />
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Leisure Suit Larry 7 - Love for Sail (CD DOS).svm</path>
+		<name>Leisure Suit Larry 7 - Love For Sail!</name>
+		<desc>Will Larry hit bottom or dock his little dinghy? Drop a world-class lounge lizard onto a cruise ship filled with gorgeous women and what do you get? Side-splitting slapstick? A bawdy bevy of beauties? The Lust Boat? Actually, youve got it right in your hands! Its Leisure Suit Larry in Love for Sail! This trip, Al Lowe sets his wacky sense of humor to full speed ahead in the latest, greatest chapter in the hapless, hopeless life of softwares best-loved loser. Its nautical, but nice!
+
+While believing hed spend the best night of his life in La Costa Lotta with the ultra delicious babe of Leisure Suit Larry 6, Shamara reveals herself to be turned on be only one thing: money. Leaving Larry, handcuffed on the bed and with a cigaret in his mouth, the penthouse soon catches fire. After a miraculous escape, involving a jump from the 40th floor, Larry had just about enough and decides to go on a cruise on the PMS Bouncy. The cruise ship has a weekly contest, involving various games ranging from a cooking competition to a best-dressed competition and even a sexual performance competition. The big prize? Spending a week under the hot curvy captain in her cabin. Of course Larry wants the big prize, and hell win it too, even if he has to cheat and trick other beautiful babes into eh... improving his performance.</desc>
+		<image>./mixart/lsl7.png</image>
+		<video>./snap/lsl7.mp4</video>
+		<marquee>./wheel/lsl7.png</marquee>
+		<rating>1</rating>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure-Point and Click</genre>
+	</game>
+	<game>
+		<path>./urban-us.svm</path>
+		<name>Urban Runner</name>
+		<desc>Urban Runner (originally subtitled Lost In Town) is a French produced computer game developed by Coktel Vision and published by Sierra On-line.</desc>
+		<image>./mixart/Urban Runner (Windows, CD).png</image>
+		<video>./snap/Urban Runner (Windows, CD).mp4</video>
+		<marquee>./wheel/Urban Runner (Windows, CD).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./hoyle3.svm</path>
+		<name>Hoyle's Official Book Of Games - Volume 3</name>
+		<desc>Six board games are transformed to the computer screen in the third Hoyles release. Snakes &amp; Ladders, Backgammon, Yacht / Yahtzee, Checkers, Dominoes and Pachisi / Parcheesi all feature, with animated graphics and sound effects. As there is no time-sensitive action, and the game rules are familiar, these packs were designed to appeal to a wider range of people than most computer games.
+
+At least one human player is required - other players can be human or computer. The 18 computer opponents from the first Hoyles game return, many of them modeled on other Sierra characters such as Larry Laffer, and again some play good and some play evil.</desc>
+		<image>./mixart/hoyle3.png</image>
+		<video>./snap/hoyle3.mp4</video>
+		<marquee>./wheel/hoyle3.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Board game</genre>
+	</game>
+	<game>
+		<path>./qfg3.svm</path>
+		<name>Quest for Glory III: Wages of War</name>
+		<desc>Wages of War is the third game in the Quest for Glory series. It is set in the Africa-like world of Tarna, where the hero travels with paladin Rakeesh, his new Liontaur friend he has met in the previous game. Shortly after his arrival, the hero learns about the conflict between the human Simbani tribe and the seemingly malevolent neighboring Leopardmen. It is now time for our hero to become a skillful diplomat and prevent an upcoming war between the two nations. The basic gameplay system is similar to that of the two preceding games. The game has an adventure-like structure and gameplay elements, including puzzles to solve, inventory items to use, and characters to talk to, as well as a role-playing system with combat and character development. As in the predecessors, the player character can be either a fighter, a thief, or a mage; in this installment, the paladin class is selectable from the beginning of the game (unlike the previous game, where the hero could only earn the title of a paladin during the course of the story). Saved characters from the previous game can be imported.Like in the earlier Quest for Glory games, the main character's parameters increase directly after battles or by repeatedly performing various actions. New to the series is an overworld map on which the hero travels between locations. Hostile encounters may occur randomly while traversing the map. Combat system is similar to the predecessors, with real-time battles where the player selects various offensive and defensive options. Graphics engine and interface in this installment are the same as in the remake of the first game: it has 256-color graphics and an icon-based interface which was used by Sierra for their contemporary adventure games.</desc>
+		<image>./mixart/qfg3.png</image>
+		<video>./snap/qfg3.mp4</video>
+		<marquee>./wheel/qfg3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Ringworld - Revenge of the Patriarch (CD DOS).svm</path>
+		<name>Ringworld: Revenge of the Patriarch</name>
+		<desc>A graphical adventure set in Larry Niven's "Known Space" universe. The centerpiece of the Known Space universe is the Ringworld, an artificially created planet that is actually an immense band orbiting a distant star (Halo borrows this idea for its setting). If you aren't familiar with Niven's series, go out and pick up any one of the dozens of Known Space books and you won't be far from having to track down all of them.
+
+In Revenge of the Patriarch, the player must travel to the Ringworld to uncover information which could prevent the alien Kzinti from starting another war with humanity. It follows the standard point and click formula for adventure games.</desc>
+		<image>./mixart/ringworld.png</image>
+		<video>./snap/ringworld.mp4</video>
+		<marquee>./wheel/ringworld.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tsunami Media, Inc.</developer>
+		<publisher>Tsunami Media, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Broken Sword 2 The Smoking Mirror (CD Windows).svm</path>
+		<name>Broken Sword II: The Smoking Mirror</name>
+		<desc>Widely acknowledged as one of the best point and click adventures ever written, the game pitches intrepid adventurers George Stobbart and Nico Collard into a mysterious escapade of intrigue and deceit, in which they must overcome powerful forces and antagonists who will stop at nothing to fulfill their evil ambitions.
+The chance discovery of a sinister crime ring reveals an arcane power of an ancient civilization. Torment and terror, sacrificial rituals, and bloody massacre is unearthed beneath a veil of Mayan mystery. Kidnap, stolen treasure, astronomy, and deadly drug baron are the least of the duo's worries, as divine forces threaten to annihilate mankind! Nerve, cunning and guile are essential in order to conquer in this compelling adventure, guaranteed to leave you with an aching brain and a beating heart.</desc>
+		<image>./mixart/sword2.png</image>
+		<video>./snap/sword2.mp4</video>
+		<marquee>./wheel/sword2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Revolution Software Ltd.</developer>
+		<publisher>Virgin Interactive Entertainment (Europe) Ltd.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Sam and Max Hit the Road (CD DOS).svm</path>
+		<name>Sam &amp; Max Hit the Road</name>
+		<desc>Grab your nightstick, squeal like a siren and Hit the Road with Sam &amp; Max, Freelance Police, as they attempt to crack their toughest case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure!
+
+Help our frightening, furry flatfoots find the fugitive freak! Do it now!</desc>
+		<image>./mixart/samnmax.png</image>
+		<video>./snap/samnmax.mp4</video>
+		<marquee>./wheel/samnmax.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Future Wars (CD DOS).svm</path>
+		<name>Future Wars: Adventures In Time</name>
+		<desc>In the year 1989, a simple window cleaner is working outside of a skyscraper. Intending to play a prank on his angry boss, the unlikely hero discovers a secret passage leading to a time machine along with mysterious alien documents. Operating the device transports the protagonist to the year 1304, where he is given a seemingly ordinary task of rescuing a lady in danger. However, he soon finds out about a much more serious threat of a global alien invasion. The hero has to travel to the remote future of the 44th century and eventually to the even more remote past of the Cretaceous period to foil their plans.Future Wars is a graphic adventure game, and the first to use Delphine's proprietary Cinematique point-and-click interface. A right click brings up the verb menu. After choosing one of the six commands, the player points the mouse over the desired target and executes the action with a left click. Small objects are depicted by enlarged drawings once they have been discovered; however, many of them are well-hidden and often require precise positioning on the part of the player character to discover. The game has a linear story advancement, and it is possible to die or become irrevocably stuck by failing to locate a crucial item in one of the previous locations.
+</desc>
+		<image>./mixart/fw.png</image>
+		<video>./snap/fw.mp4</video>
+		<marquee>./wheel/fw.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Palace Software, Ltd.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./bladerunner-win.svm</path>
+		<name>Blade Runner</name>
+		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
+		<image>./mixart/bladerunner-win.png</image>
+		<video>./snap/bladerunner-win.mp4</video>
+		<marquee>./wheel/bladerunner-win.png</marquee>
+		<rating>1</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Dreamweb (CD DOS).svm</path>
+		<name>Dreamweb</name>
+		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions, until one night a figure in monk attire appears to him, and tells h</desc>
+		<image>./mixart/dreamweb.png</image>
+		<video>./snap/dreamweb.mp4</video>
+		<marquee>./wheel/dreamweb.png</marquee>
+		<rating>1</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Creative Reality</developer>
+		<publisher>Empire Interactive Entertainment</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./bbvs-win.svm</path>
+		<name>Beavis and Butt-head in Virtual Stupidity</name>
+		<desc>Beavis and Butt-Head in Virtual Stupidity is an adventure game starring the duo from the animated series Beavis and Butt-Head. The object of the game is to get Todd to admit Beavis and Butt-Head into his gang.</desc>
+		<image>./mixart/bbvs-win.png</image>
+		<video>./snap/bbvs-win.mp4</video>
+		<marquee>./wheel/bbvs-win.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>1995</releasedate>
+		<developer>Viacom New Media</developer>
+		<publisher>Viacom New Media</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./sky.svm</path>
+		<name>Beneath a Steel Sky</name>
+		<desc>Beneath A Steel Sky (BASS) is set in a post-apocalyptic Australia where you're an orphan living with a tribe in the wastelands the 'gap' when a helicopter comes to take you to the enormous Union City. The game starts with the helicopter crashing down in the city and you making your escape into one of the large tall plants. Your goal? To discover who you really are and why you were taken to the city.</desc>
+		<image>./mixart/sky.png</image>
+		<video>./snap/sky.mp4</video>
+		<marquee>./wheel/sky.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Monkey Island 2 - LeChuck's Revenge.svm</path>
+		<name>Monkey Island 2 - LeChuck's Revenge</name>
+	</game>
+	<game>
+		<path>./The Secret of Monkey Island (CD DOS VGA).svm</path>
+		<name>The Secret of Monkey Island</name>
+		<desc>The Monkey Island saga is known throughout the gaming world as one of the best point and click adventures, and The Secret of Monkey Island is the game that started it all. Play as Guybrush Threepwood as he tries to become a pirate. Meet the lovely Elaine Marley, the evil ghost pirate LeChuck, a three headed monkey, and more! Have Guybrush engage in insult sword fighting, look for buried treasure, evade deadly piranha poodles, and attempt to discover The Secret of Monkey Island!</desc>
+		<image>./mixart/monkey.png</image>
+		<video>./snap/monkey.mp4</video>
+		<marquee>./wheel/monkey.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Gabriel Knight Sins Of The Fathers (CD DOS).svm</path>
+		<name>Gabriel Knight - Sins Of The Fathers</name>
+		<desc>Gabriel Knight is a wise-cracking bookstore owner and would-be author. He is the last in a long line of Shadow Hunters, those fated to fight supernatural forces of evil. Tormented by terrifying nightmares, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. One day, a blood-chilling murder shocks the inhabitants of the city. The police detective assigned to investigate the crime is Gabriels friend. In the beginning Gabriel collects evidence in hope of using the material for his new novel; but soon he finds himself personally involved in the investigation, and plunges deeper into the world of secret societies and murderous cults.
+
+Gabriel Knight: Sins of the Fathers is a third-person puzzle-solving adventure game. Created by Jane Jensen, the game differs from Sierras Quest games (e.g. Space Quest) by having a realistic setting and focusing (despite its supernatural elements and humor) on mature themes and detective work. In this way it is more similar to the companys earlier Laura Bow games. 
+
+The games icon-based interface is the same as in Sierras previous titles, with verb commands that allow interaction with the game world and its inhabitants. Though the game still has plenty of inventory-based puzzles characteristic for classic adventure, its gameplay is heavily inclined towards dialogue. Typically, Gabriel will have to interrogate other characters, choosing conversation topics and thus gradually finding clues and advancing towards the mysterys solution.
+
+The games locations are done in hand-painted style. The CD version of the game adds full voice-overs to the dialogues, as well as narrators voice to text descriptions.</desc>
+		<image>./mixart/gk1.png</image>
+		<video>./snap/gk1.mp4</video>
+		<marquee>./wheel/gk1.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./monkey2.svm</path>
+		<name>Monkey Island 2: LeChuck's Revenge</name>
+		<desc>LeChucks Revenge is set in the fictional Tri-Island Area of the Caribbean, several months after The Secret of Monkey Island. The game opens in medias res as Guybrush Threepwood hangs on a rope above a hole, narrating to Elaine Marley on a separate rope the events that led to this situation. The flashback sequence starts on Scabb Island and constitutes most of the playable games setting. During it, Guybrush also visits Phatt Island, Booty Island, and Dinky Island, voyaging on two different pirate ships.</desc>
+		<image>./mixart/monkey2.png</image>
+		<video>./snap/monkey2.mp4</video>
+		<marquee>./wheel/monkey2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./monkey.svm</path>
+		<name>The Secret of Monkey Island</name>
+		<desc>The Monkey Island saga is known throughout the gaming world as one of the best point and click adventures, and The Secret of Monkey Island is the game that started it all. Play as Guybrush Threepwood as he tries to become a pirate. Meet the lovely Elaine Marley, the evil ghost pirate LeChuck, a three headed monkey, and more! Have Guybrush engage in insult sword fighting, look for buried treasure, evade deadly piranha poodles, and attempt to discover The Secret of Monkey Island!</desc>
+		<image>./mixart/monkey.png</image>
+		<video>./snap/monkey.mp4</video>
+		<marquee>./wheel/monkey.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./grim.rvm</path>
+		<name>Grim Fandango</name>
+		<desc>The game follows Manny Calavera, a grim reaper for the Department of Death in the Land of the Dead. He learns that the system he works for is corrupt, after a woman who led a great life, Mercedes (Meche) Colomar, doesn't get to go straight to the seventh level of the afterlife, the land of eternal rest. Manny must take a four year journey to find out who's behind the corruption, find Meche, and earn himself a place in the land of eternal rest.</desc>
+		<image>./mixart/grim.png</image>
+		<video>./snap/grim.mp4</video>
+		<marquee>./wheel/grim.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19981030T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The Curse Of Monkey Island (CD Windows).svm</path>
+		<name>Curse of Monkey Island, The</name>
+		<desc>The Curse Of Monkey Island is the third game in the Monkey Island series. In this game, Guybrush Threepwood, Mighty Pirate has proposed to his girlfriend Elaine, with a cursed diamond ring from the evil pirate LeChuck's ship and she has turned into a gold statue. Now, Guybrush has to find someway to turn Elaine back into a human, where it all leads up to another confrontation with LeChuck.</desc>
+		<image>./mixart/comi.png</image>
+		<video>./snap/comi.mp4</video>
+		<marquee>./wheel/comi.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./loom-vga.svm</path>
+		<name>Loom</name>
+		<desc>Loom is based on a serious and complex fantasy story. With its experimental interface, it eschewed the traditional paradigm of graphical adventures, where puzzles usually involve interactions between the game character, the environment, and multiple items the character can take into their possession.
+
+Loom's gameplay centers instead around magical four-note tunes (drafts) that the protagonist, Bobbin Threadbare, can play on his distaff. Each draft is a spell that has an effect of a certain type, such as "Opening" or "Night Vision". Drafts can be learned by observing an object that possess the qualities of the relevant draft; for example, examining a blade while it is being sharpened gives the player the "Sharpening" draft.</desc>
+		<image>./mixart/loom.png</image>
+		<video>./snap/loom.mp4</video>
+		<marquee>./wheel/loom.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./monkey4-win.rvm</path>
+		<name>Escape From Monkey Island</name>
+		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
+		<image>./mixart/monkey4.png</image>
+		<video>./snap/monkey4.mp4</video>
+		<marquee>./wheel/monkey4.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20001108T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game id="99489" source="ScreenScraper.fr">
+		<path>./bargon.svm</path>
+		<name>Bargon Attack</name>
+		<desc>Bargon Attack is one of the less known adventures from Coktel Vision, though it was one of the first that introduced the unique interface that was used in many Coktel games that followed. It was also one of the first of Coktel's games to use FMV technolog</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/bargon.png</image>
+		<marquee>./wheel/bargon.png</marquee>
+		<video>./snap/bargon.mp4</video>
+	</game>
+	<game id="99521" source="ScreenScraper.fr">
+		<path>./tucker.svm</path>
+		<name>Bud Tucker In Double Trouble</name>
+		<desc>This wacky adventure puts the player in the shoes of Bud Tucker, a pizza delivery boy during the day and lab assistant at nights. One day, Bud found the Professor missing and later learns he's been kidnapped by the evil Dick Tate! Tate, an insane, whiny sob wishes to create a world filled with the people he loves most...himself.  To do that, he plans to use one of the Professor's invention and clone a billion versions of himself to populate the world.  It's up to Bud Tucker to track down the loon and the Professor before Barryville becomes Tate Town.Bud Tucker in Double Trouble is a point &amp; click adventure where the player explores and uncovers clues in a town called Barryville.  The game play consists of picking up items and using it when necessary. The player can perform various actions (pick up, use, etc) which can be displayed in words as well as icons,   The game is divided into three parts beginning with Bud Tucker locked up in a crumbly hotel in Seedy Street.  Speech is available in the game as well as subtitles.   </desc>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Merit Studios Limited</developer>
+		<publisher>Topware Interactive</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/tucker.png</image>
+		<marquee>./wheel/tucker.png</marquee>
+		<video>./snap/tucker.mp4</video>
+	</game>
+	<game id="99756" source="ScreenScraper.fr">
+		<path>./lure.svm</path>
+		<name>Lure Of The Temptress</name>
+		<desc>Lure of the Temptress is Revolution Softwares debut point-and-click adventure game published by Virgin Interactive Entertainment. It was released in June 1992 for Atari ST, MS-DOS and Amiga. The player assumes the role of a young peasant named Diermot who has to overthrow an evil sorceress. Lure of the Temptress is the first game built with the Virtual Theatre engine, which Revolution used in the subsequent games Beneath a Steel Sky and the first two games in the Broken Sword series. It was received favourably by critics, a commercial success and re-released as freeware on April 1, 2003.</desc>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Revolution Software Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/lure.png</image>
+		<marquee>./wheel/lure.png</marquee>
+		<video>./snap/lure.mp4</video>
+	</game>
+	<game>
+		<path>./dimp-win.svm</path>
+		<name>Simon the Sorcerer's Puzzle Pack  D.I.M.P. (CD Windows)</name>
+		<image>./mixart/dimp-win.png</image>
+		<marquee>./wheel/dimp-win.png</marquee>
+		<video>./snap/dimp-win.mp4</video>
+	</game>
+	<game>
+		<path>./laurabow2-cd.svm</path>
+		<name>Laura Bow 2  The Dagger of AmonRa (CD DOS)</name>
+		<image>./mixart/laurabow2-cd.png</image>
+		<marquee>./wheel/laurabow2-cd.png</marquee>
+		<video>./snap/laurabow2-cd.mp4</video>
+	</game>
+	<game>
+		<path>./jungle-win.svm</path>
+		<name>Let's Explore the Jungle with Buzzy (CD Windows)</name>
+		<image>./mixart/jungle-win.png</image>
+		<marquee>./wheel/jungle-win.png</marquee>
+		<video>./snap/jungle-win.mp4</video>
+	</game>
+	<game>
+		<path>./bc.svm</path>
+		<name>The Black Cauldron</name>
+		<desc>The Black Cauldron, a 3D animated adventure game. Loaded with great features such as: Over 1,000 cells of animation, including 30 animated characters that walk, talk, run, climb and even swim; 70 3D screens more detailed than any seen before, in up to 16 colors; Six built-in arcade sequences and mazes, including a moat teeming with hungry alligators, a slippery castle wall with guards tossing boulders down, and teetery rocks that form a path across a treacherous swamp; Over 30 different items to obtain and use, including a "truthful" harp, a handful of fairy dust, and a magic sword; Eight different musical tunes, in different areas of the game, all from the musical score of The Black Cauldron movie; Multiple solutions and variable scoring.</desc>
+		<image>./mixart/bc.png</image>
+		<video>./snap/bc.mp4</video>
+		<marquee>./wheel/bc.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./elvira1.svm</path>
+		<name>Elvira - Mistress Of The Dark</name>
+		<desc>"Can somebody help me find my chest? No really, I'm serious! See, I've been remodeling this cold and moldy castle, right? So how was I to know that I'd wake up Queen Emelda - especially since the old bat croaked hundreds of years ago! Anyway, Queenie-dearie wants to come back from the dead and rule the world - and the only way I can stop her and her monstrous minions is to find a secret scroll of spells, hidden in a big chest somewhere in this huge 800-room castle. Won't you help your poor, innocent little Mistress?" Yours cruelly - Elvira</desc>
+		<image>./mixart/elvira1.png</image>
+		<video>./snap/elvira1.mp4</video>
+		<marquee>./wheel/elvira1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Horrorsoft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./elvira2.svm</path>
+		<name>Elvira 2 - The Jaws Of Cerberus</name>
+		<desc>An evil force has penetrated our universe, possessing Black Widow Productions in Hollywood. The studio owner, Elvira herself, has vanished. Now three cavernous movie sets - a graveyard, a haunted house, and catacombs - are erupting with the most hideous monsters of gothic horror. Your quest? Find and rescue Elvira from these three craven worlds then fight a final cataclysmic battle with a netherworld entity of awesome dimension and fury!</desc>
+		<image>./mixart/elvira2.png</image>
+		<video>./snap/elvira2.mp4</video>
+		<marquee>./wheel/elvira2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Horrorsoft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./+Start ResidualVM.sh</path>
+		<name>+Start ResidualVM</name>
+	</game>
+	<game>
+		<path>./jumble-win.svm</path>
+		<name>Simon the Sorcerer's Puzzle Pack  Jumble (CD Windows)</name>
+		<image>./mixart/jumble-win.png</image>
+		<marquee>./wheel/jumble-win.png</marquee>
+		<video>./snap/jumble-win.mp4</video>
+	</game>
+	<game>
+		<path>./hoyle1.svm</path>
+		<name>Hoyle's Official Book Of Games - Volume 1</name>
+		<desc>Play six different card games (Crazy Eights, Old Maid, Hearts, Gin Rummy, Cribbage, and Klondike Solitaire) against 0-3 computer opponents (as appropriate for each game).    There are 18 available computer opponents, including characters from other Sierra games (Colonel Henry Dijon, Shelly LeBlanc, Officer Sonny Bonds, Larry Laffer, King Graham, Roger Wilco and Princess Rosella), Sierra employees (Warren Schwader and Jerry Moore) and their children, and others. The different opponents play the different games at different skill levels, and are broken up into Serious and Not-So-Serious categories. All the opponents will taunt you (in character) as you play (though you can turn off in-game conversation if its too distracting).</desc>
+		<image>./mixart/hoyle1.png</image>
+		<video>./snap/hoyle1.mp4</video>
+		<marquee>./wheel/hoyle1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./hoyle2.svm</path>
+		<name>Hoyle's Official Book Of Games - Volume 2</name>
+		<desc>The sequel to Hoyles Book Of Games. There are lots of games in this edition, but all of them are Solitare games. So if you like playing many different versions of solitare, buy volume 2 of hoyles book of games!</desc>
+		<image>./mixart/hoyle2.png</image>
+		<video>./snap/hoyle2.mp4</video>
+		<marquee>./wheel/hoyle2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Playing cards</genre>
+	</game>
+	<game>
+		<path>./laurabow2-cd.svm</path>
+		<name>Laura Bow 2  The Dagger of AmonRa (CD DOS)</name>
+		<image>./mixart/laurabow2-cd.png</image>
+		<video>./snap/laurabow2-cd.mp4</video>
+		<marquee>./wheel/laurabow2-cd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+	</game>
+	<game>
+		<path>./feeble-win.svm</path>
+		<name>The Feeble Files</name>
+		<desc>This is a humorous point and click adventure game from the creator of the Simon the Sorcerer series of games. You play an alien called Feeble (who is voiced by Robert Llewyllyn, best known for his role in the science-fiction sitcom, Red Dwarf). He lives in a world controlled by the Omni-Brain, which aims to keep everybody happy and successful. As such, unhappy people are killed, and over a million laws exist.Feeble works for the Ministry of Galactic Uncertainty's crop-circle division, which involves creating crop circles on less advanced planets than his own, as a way to cause panic on those planets and stifle their intellectual development.As Feeble, your goal is to overthrow this system. Devious behaviour is required to achieve this. Over 5000 lines of spoken dialogue are included, as well as 80 locations.</desc>
+		<image>./mixart/feeble-win.png</image>
+		<video>./snap/feeble-win.mp4</video>
+		<marquee>./wheel/feeble-win.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./pepper.svm</path>
+		<name>Pepper's Adventures In Time</name>
+		<desc>This point n' click adventure game is actually an edutainment (entertainment leading to education) title developed by Sierra, who were also responsible for other games such as the EcoQuest and Dr. Brain series. The object of this game is to help a little girl called Pepper, solve puzzles based on history and logic, so that she can fix the mess caused by Dr. Fred's time machine. At certain points in the game, the player is even allowed to control her pet dog, Lockjaw.The game consists of an educational factor where the player can learn about many important facts concerning the colonial times of the United States. It is divided into Acts in which the player has to reach given goals and, apart from other, typical for adventure games things, learn about facts listed in the opening. To do it the special TRUTH icon has to be used. When the act is concluded, the player is challenged with a quiz about the things he learned. For each correct answer he receives progress points.Cartoonish graphics similar to the style in Day of the Tentacle were used in order to appeal to younger audiences.</desc>
+		<image>./mixart/pepper.png</image>
+		<video>./snap/pepper.mp4</video>
+		<marquee>./wheel/pepper.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./teenagent.svm</path>
+		<name>Teenagent</name>
+		<desc>You take the role of Mark Hopper, an ordinary teenager who gets hired by the RGB intelligence (he was selected by a fortune teller) to solve the mystery of gold disappearing from the Mega Bank. But first you're sent to the RGB training camp where you'll have to pass the three trials!    Teenagent is a humorous point-and-click adventure, originally available as shareware, but the DOS version was later re-released as freeware. You control Mark Hopper with a mouse - click on where you want him to go, left-click on objects and people to look at them, and right-click on them to interact with them. By moving the cursor to the top of the screen, you bring up your inventory.</desc>
+		<image>./mixart/teenagent.png</image>
+		<video>./snap/teenagent.mp4</video>
+		<marquee>./wheel/teenagent.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Metropolis Software House</developer>
+		<publisher>Metropolis Software House</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./kyra3.svm</path>
+		<name>The Legend of Kyrandia: Book III - Malcolm's Revenge</name>
+		<desc>Everyone blamed evil jester Malcolm for his deeds, how he turned everyone to stone, and how he killed King and the Queen (you'll find out in this game whether it was true or not). Brandon eventually turned Malcolm himself into stone (as he did to every villager on this island); but now, finally, the moment of glory comes. The thunderbolt strikes the jester, and pushes him pretty far. But at least he is alive, and with a full bag of tricks. Now it's his turn to tell the world his version of the truth. He will be helped by two sides of your personality: the "good" and the "evil" one. Take a few necessary things from the nearby garbage, and visit Kyrandia again. Have fun!    Malcolm's Revenge is the third entry in the Legend of Kyrandia adventure series. The basic gameplay is similar to the previous entries: the "smart cursor" is responsible for all the actions in the game - taking, using, talking, etc. During conversations, it is possible to control Malcolm's level of truthfulness as well as his "good" and "bad" attitude. Many puzzles in the game have multiple solutions, though the main story remains unchanged for the most part.</desc>
+		<image>./mixart/kyra3.png</image>
+		<video>./snap/kyra3.mp4</video>
+		<marquee>./wheel/kyra3.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./draci.svm</path>
+		<name>Dragon History</name>
+		<desc>Bert is a young dragon that lives with his parents Berta and Herbert in a magical land, where dragons got civilized, started to wear clothes and live peacefully with humans. One day, Herbert suddenly disappears, with rumors saying the he left his wife and son behind to search for a lost treasure. Meanwhile, a magical wand called Eveline decides to rule the world out of boredom, using Bert to cast a petrifying spell on the marionettes of a traveling puppeteer and cause other mischief among the local population. Now, Bert must fix all the trouble caused by Eveline, and search for his missing father.Dra?í Historie is a Czech point-and-click adventure game, originally the first Czech CD game ever to be published in 1995, and later released as open-source freeware in 2006 by the original developer. It follows the standards of the genre, where the main objective is to collect a series of scenery objects and use them to solve puzzles. The inventory shows the interior of a brown sack, and can be accessed by placing the cursor on the top of the screen. A map showing an overhead view of the land can be summoned by positioning the cursor at the bottom. New places are automatically added to the map as the player explores the surroundings, allowing instantaneous travel to any of the previously visited locations.The dialogue with other characters uses the branching tree system implemented by several other games, where multiple questions and answers appear listed as options at the bottom and the player has to select one of them. There is no menu with verbs, instead all the actions are performed with the right mouse button, while the left one is used to get descriptions of objects and portions of the scenery.</desc>
+		<image>./mixart/draci.png</image>
+		<video>./snap/draci.mp4</video>
+		<marquee>./wheel/draci.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>NoSense</developer>
+		<publisher>Vochozka Trading</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./drascula.svm</path>
+		<name>Dráscula: The Vampire Strikes Back</name>
+		<desc>You are John Hacker, a common guy sent by a British property company to speak with 'Count DrÃ¡scula' about some lands. By chance you meet a gorgeous blond girl who is kidnapped by the Count himself, and you, John Hacker, set on a fun yet dangerous quest t</desc>
+		<image>./mixart/drascula.png</image>
+		<video>./snap/drascula.mp4</video>
+		<marquee>./wheel/drascula.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960630T000000</releasedate>
+		<developer>Alcachofa Soft</developer>
+		<publisher>Digital Dream Inc.</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./freddypharkas-cd.svm</path>
+		<name>Freddy Pharkas: Frontier Pharmacist</name>
+		<desc>The year is 1888; the setting, post-Gold Rush California. As Freddy Pharkas, Frontier Pharmacist, you uncover a treacherous plot to turn your once-thriving metropolis into a ghost town. With pestles and pistols, you defend your bucolic burg from one catastrophe after another: arson, stampedes, hired guns, riverboat gamblers...even terminal flatulence!    Al Lowe has stolen...er, immortalized...every Hollywood Western cliché and character, adding his own perverse twists to produce his funniest game yet! You'll meet the pretty-but-shy Schoolmarm, the Madame with a Heart-of-Gold, the faithful Indian sidekick, and a cast of the most memorable characters ever to grace your monitor's silver screen.</desc>
+		<image>./mixart/freddypharkas.png</image>
+		<video>./snap/freddypharkas.mp4</video>
+		<marquee>./wheel/freddypharkas.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./gob3cd.svm</path>
+		<name>Goblins Quest 3 (CD DOS)</name>
+		<image>./mixart/gob3cd.png</image>
+		<video>./snap/gob3cd.mp4</video>
+		<marquee>./wheel/gob3cd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+	</game>
+	<game>
+		<path>./goldrush.svm</path>
+		<name>Gold Rush!</name>
+		<desc>The gold rush is on! Sell your land, pack your bags, and grab the next ride out, because fortune lies just 2,500 miles away. Become Jerrod, a young man earning a meager living in Brooklyn, New York. Travel with Jerrod as he joins the mad rush for riches in sunny California. Joining the ranks of Sierra's greatest adventures, Gold Rush! recreates an unpredictably treacherous path paved with graves of many who never saw the gleam of California gold. Over 150 scenes, including realistic onscreen maps of early American travel routes. Historically accurate - face the same obstacles and travel the same routes as our early American forefathers. Great for home or school use - discover the American frontier!</desc>
+		<image>./mixart/goldrush.png</image>
+		<video>./snap/goldrush.mp4</video>
+		<marquee>./wheel/goldrush.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Indiana Jones and the Fate of Atlantis (CD DOS).svm</path>
+		<name>Indiana Jones and the Fate of Atlantis</name>
+		<desc>Indiana Jones and the Fate of Atlantis is a point-and-click adventure game by LucasArts originally released in 1992. Almost a year later, it was reissued on CD-ROM as an enhanced talkie edition with full voice acting and digitized sound effects. In 2009, this version was also released as an unlockable extra of the Wii action game Indiana Jones and the Staff of Kings, and as a digitally distributed Steam title. The seventh game to use the script language SCUMM, Fate of Atlantis has the player explore environments and interact with objects and characters by using commands constructed with predetermined verbs. It features three unique paths to select, influencing story development, gameplay and puzzles. The game used an updated SCUMM engine and required a 286-based PC, although it still runs as a real-mode DOS application. The CD talkie version required EMS memory enabled to load the voice data.</desc>
+		<image>./mixart/atlantis.png</image>
+		<video>./snap/atlantis.mp4</video>
+		<marquee>./wheel/atlantis.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Indiana Jones and the Last Crusade (FM Towns).svm</path>
+		<name>Indiana Jones and the Last Crusade</name>
+		<desc>Europe, 1938. The Lost Ark was just a warm-up! Now Adolf Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones. And this time, he has his dad with him. The bad guys are in your face all the way - Nazis, mercenaries, traitors and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you just might earn a higher I.Q. (Indy Quotient) than the man with the whip and the hat.</desc>
+		<image>./mixart/indy3.png</image>
+		<video>./snap/indy3.mp4</video>
+		<marquee>./wheel/indy3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./manhole-cd.svm</path>
+		<name>Manhole, The  Enhanced (CD Windows)</name>
+		<image>./mixart/manhole-cd.png</image>
+		<video>./snap/manhole-cd.mp4</video>
+		<marquee>./wheel/manhole-cd.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T010000</releasedate>
+	</game>
+	<game>
+		<path>./personalnightmare.svm</path>
+		<name>Personal Nightmare</name>
+		<desc>A horror adventure from Horrosoft. 
+Your father is the pastor of your village. A strange letter from him made you decide to return to your village, only to find out your father is no where to be found, and everyone is being hostile and strange.
+After a while you will find out evil forces have taken over the people of the village and your job is to find out how to kill some devil creatures ( like a vampire ) and figure out what truly is going on.
+</desc>
+		<image>./mixart/pn.png</image>
+		<video>./snap/pn.mp4</video>
+		<marquee>./wheel/pn.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Horror Soft Ltd.</developer>
+		<publisher>Horror Soft Ltd.</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Torins Passage (CD Windows).svm</path>
+		<name>Torin's Passage</name>
+		<desc>Torin is a young boy who lives in a little country house on a planet called Strata with his parents and with his purple cat-like friend Boogle. One day he returns home, only to find out his parents were imprisoned in a magical spell. Apparently, the spell was cast by a sorceress named Lycentia. He must now travel to distant lands to find a way to remove the spell and confront the sorceress. What he doesn't know is that this journey will also help him to discover his true origins and his true purpose in life...Created by Al Lowe of Leisure Suit Larry fame, Torin's Passage is a fairy tale-like humorous adventure with cartoon-style graphics and animations. Torin interacts with characters and objects in a point-and-click fashion, and can also use Boogle's special shape-shifting abilities. During their journey, Boogle will learn how to turn into a variety of objects, which is essential for solving many of the game's puzzles. The game also has many traditional inventory-based tasks as well as other types of puzzles. To facilitate the puzzle-solving, the game has a built-in hint system; using the hints will deduce points from the player's score.</desc>
+		<image>./mixart/torin.png</image>
+		<video>./snap/torin.mp4</video>
+		<marquee>./wheel/torin.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./troll.svm</path>
+		<name>Troll's Tale</name>
+		<desc>Trolls Tale challenges children to locate 16 missing treasures hidden by the awesome Troll.    Skill Focus:   Identifying details  Making inferences  Predicting outcomes  Drawing conclusions    Fosters reading comprehensions</desc>
+		<image>./mixart/troll.png</image>
+		<video>./snap/troll.mp4</video>
+		<marquee>./wheel/troll.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./zgi-win.svm</path>
+		<name>Zork: Grand Inquisitor</name>
+		<desc>Magic is banned in the Great Underground Empire, and the Grand Inquisitor Yannick (with the kind help of Frobozz Electric) has a stranglehold on the world of Zork, establishing a totalitarian regime. According to his own words, the goal of the new state is to "shun magic, shun the appearance of magic, shun everything, and then shun shunning." Any opposing forces will be "totemized", which is apparently a rather unpleasant procedure. The player character in the game is just that - the player character: Ageless, Faceless, Gender-Neutral, Culturally-Ambiguous Adventure Person (abbreviated AFGNCAAP), as the politically correct designation by the Dungeon Master Dalboz defines him/her (it?). Naturally, it is the hero's duty to save the world by collecting a Cube of Foundation, the Skull of Yoruk, and the Coconut of Quendor, so that magic can return to the land and the Grand Inquisitor falls victim to his own shunning policies.Zork: Grand Inquisitor is the third in the row of graphical Zork games. It utilizes the same engine as its  predecessor, with first-person perspective, 180 degree camera rotation, pre-rendered backgrounds, and live actors. Compared to the previous game, it is more similar in tone to the early, predominantly humorous Zork adventures, containing plenty of references to them.The gameplay is puzzle-oriented; most of the puzzles are inventory-based, though there are also a few that require manipulating the game's environment. Casting magical spells is an important element of the gameplay. The protagonist discovers spell scrolls and learns spells from them, which must be frequently used on objects and items to solve puzzles. The spells range from simple magic that can open locked doors to exotic variations such as "making all purple things invisible". The player can also cast spells backwards, in which case they will have an opposite effect; in the aforementioned examples, casting the reversed spells will lock a door or magically make an object visible, provided it was purple before that condition was inflicted upon it.</desc>
+		<image>./mixart/Zork - Grand Inquisitor (DVD Windows).png</image>
+		<video>./snap/Zork - Grand Inquisitor (DVD Windows).mp4</video>
+		<marquee>./wheel/Zork - Grand Inquisitor (DVD Windows).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./gk2.svm</path>
+		<name>Beast Within - A Gabriel Knight Mystery, The</name>
+		<desc>The Beast Within is a point-and-click adventure game, played from a third-person perspective. The game is divided into six chapters and the player controls Gabriel and Grace alternately between the chapters. They conduct their investigations separately for the most of the game, only joining forces in the finale.</desc>
+		<image>./mixart/gk2.png</image>
+		<video>./snap/gk2.mp4</video>
+		<marquee>./wheel/gk2.png</marquee>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./tlj-win.rvm</path>
+		<name>The Longest Journey</name>
+		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
+		<image>./mixart/tlj.png</image>
+		<video>./snap/tlj.mp4</video>
+		<marquee>./wheel/tlj.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Funcom</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./+Start ScummVM.sh</path>
+		<name>+Start ScummVM</name>
+	</game>
+	<game>
+		<path>./comi.svm</path>
+		<name>Curse of Monkey Island, The</name>
+		<desc>The Curse Of Monkey Island is the third game in the Monkey Island series. In this game, Guybrush Threepwood, Mighty Pirate has proposed to his girlfriend Elaine, with a cursed diamond ring from the evil pirate LeChuck's ship and she has turned into a gold statue. Now, Guybrush has to find someway to turn Elaine back into a human, where it all leads up to another confrontation with LeChuck.</desc>
+		<image>./mixart/comi.png</image>
+		<video>./snap/comi.mp4</video>
+		<marquee>./wheel/comi.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./fairytales.svm</path>
+		<name>Mixed-up Fairy Tales</name>
+		<desc>Bookend has been mixing up Bookwyrm's fairy tales and you have to set things right by aiding well known fairy tale characters such as Cinderella and Snow White.    To set things right, you will need to go around acquiring objects, such as Jack's magical beans, to give to Jack so that he can raise a beanstock.    The game is designed with younger gamers in mind, and features a simple VGA interface with two actions, "Do" and "See"; rather than the full hidden icon bar used in other Sierra games.</desc>
+		<image>./mixart/fairytales.png</image>
+		<video>./snap/fairytales.mp4</video>
+		<marquee>./wheel/fairytales.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./myst3-win.rvm</path>
+		<name>Myst 3 - Exile</name>
+		<desc>Myst III Exile takes place 10 years after Riven. You go to Tomahna, Atrus' new home. Atrus offers to show you Releeshahn, the age where the remaining D'ni have established. Before that can happen, a man appears and steals the linking book. You go after him through several ages, and try to understand who he is.</desc>
+		<image>./mixart/myst3.png</image>
+		<video>./snap/myst3.mp4</video>
+		<marquee>./wheel/myst3.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20010508T000000</releasedate>
+		<developer>Presto Studios</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./nippon.svm</path>
+		<name>Nippon Safes, Inc.</name>
+		<desc>Nippon Safes, Inc. is the predecessor to Big Red Adventure, both being cartoon adventure games by Italian developer Dynabyte. As in its followup, here players take the role of three different heroes (though, opposite to Goblins series, one at time). They are Doug, the smart safe cracker; Dino, the strong, but dumb, boxer; and Donna, the sexy club dancer.     The game takes place in Tokyo. While all three characters explore almost the same areas, each of the heroes has its own story to follow and puzzles to solve. You can choose which character would you like to play first, and which - lastly. When you have finished all three sub-plots, youll get a final with all three characters acting altogether.    The game features cartoonish, comics-style graphics, unique icon-based interface and non-linear plot. It is also full of Italian humor, and the game is played more like a comedy, rather then crime-based adventure.</desc>
+		<image>./mixart/nippon.png</image>
+		<video>./snap/nippon.mp4</video>
+		<marquee>./wheel/nippon.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Dynabyte Software</developer>
+		<publisher>Dynabyte Software</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Phantasmagoria (CD, Windows).svm</path>
+		<name>Phantasmagoria</name>
+		<desc>A writer named Adrienne Delaney has just moved into an old mansion with her photographer husband Donald. Shortly after moving in, Adrienne begins to experience horrifying nightmares and have odd encounters inside the creepy old abode. Furthermore, the house is having a severe effect on her husband, changing him for the worse. Adrienne must discover the secret of the house before the unknown force consumes her husband, and unravel the terrible events that have happened in the past.
+
+Phantasmagoria is an adventure game that places heavy emphasis on full motion video for exposition and cutscenes at various junctures to advance the storyline. Adrienne is represented as a digitized character roaming around pre-rendered settings in the house. She inspects various rooms, finds items, adds them to her inventory, finds places to use the items, and triggers advancements in the plot. 
+
+Puzzle-solving element is present, though reduced compared to most other adventure games made by Sierra. There are seven chapters in the game, as well as a status screen that tracks the players progress within the chapter. If the player happens to get stuck in the game, a talking skull icon who identifies himself as the hintkeeper can supply the player with hints on request. It is possible to start playing the game from any chapter.</desc>
+		<image>./mixart/phantasmagoria.png</image>
+		<video>./snap/phantasmagoria.mp4</video>
+		<marquee>./wheel/phantasmagoria.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950824T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./phantasmagoria2.svm</path>
+		<name>Phantasmagoria: A Puzzle of Flesh</name>
+		<desc>Phantasmagoria: A Puzzle of Flesh (also known as Phantasmagoria 2) is an interactive movie point-and-click adventure game released in 1996 by Sierra On-Line. Though technically a sequel to Roberta Williams' 1995 game Phantasmagoria, Puzzle of Flesh shares no connections with its predecessor in plot nor characters, as Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment of a different story and style. While not a commercial success, A Puzzle of Flesh, like its predecessor Phantasmagoria, is remembered for its controversial violent and sexual content, which led the game to being heavily censored or banned outright in several European and Oceanic countries.</desc>
+		<image>./mixart/phantasmagoria2.png</image>
+		<video>./snap/phantasmagoria2.mp4</video>
+		<marquee>./wheel/phantasmagoria2.png</marquee>
+		<rating>1</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./pq1sci.svm</path>
+		<name>Police Quest 1: In Pursuit of the Death Angel VGA</name>
+		<desc>Guide the life of Sonny Bonds as you chase wanted felons, respond to calls, and hunt a drug baron known onl</desc>
+		<image>./mixart/pq1sci.png</image>
+		<video>./snap/pq1sci.mp4</video>
+		<marquee>./wheel/pq1sci.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./woodruff-gb.svm</path>
+		<name>Bizarre Adventures Of Woodruff And The Schnibble, The</name>
+		<desc>Woodruff and the Schnibble of Azimuth (marketed in North America as The Bizarre Adventures of Woodruff and the Schnibble) is a 1994 French adventure game developed by Coktel Vision. The game was created and written by artist Pierre Gilhodes, the creator of the Gobliiins series, of which Woodruff shares its visual style, gameplay and offbeat humor, though is not an official part of the Gobliiins series or canon.    Woodruff was distributed in North America in 1995 by Sierra Entertainment.</desc>
+		<image>./mixart/woodruff.png</image>
+		<video>./snap/woodruff.mp4</video>
+		<marquee>./wheel/woodruff.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950407T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Full Throttle (CD DOS).svm</path>
+		<name>Full Throttle</name>
+		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher...</desc>
+		<image>./mixart/ft.png</image>
+		<video>./snap/ft.mp4</video>
+		<marquee>./wheel/ft.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20200530T204217</lastplayed>
+	</game>
+</gameList>

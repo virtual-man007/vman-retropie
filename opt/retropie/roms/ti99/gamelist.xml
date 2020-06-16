@@ -1,0 +1,636 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./A-Maze-Ing.ctg</path>
+		<name>A-Maze-Ing</name>
+		<image>./mixart/A-Maze-Ing.png</image>
+		<marquee>./wheel/A-Maze-Ing.png</marquee>
+		<video>./snap/A-Maze-Ing.mp4</video>
+	</game>
+	<game>
+		<path>./Alpiner.ctg</path>
+		<name>Alpiner</name>
+		<image>./mixart/Alpiner.png</image>
+		<marquee>./wheel/Alpiner.png</marquee>
+		<video>./snap/Alpiner.mp4</video>
+	</game>
+	<game>
+		<path>./Ambulance.ctg</path>
+		<name>Ambulance</name>
+		<image>./mixart/Ambulance.png</image>
+		<marquee>./wheel/Ambulance.png</marquee>
+		<video>./snap/Ambulance.mp4</video>
+	</game>
+	<game>
+		<path>./Ant Colony.ctg</path>
+		<name>Ant Colony</name>
+		<image>./mixart/Ant Colony.png</image>
+		<marquee>./wheel/Ant Colony.png</marquee>
+		<video>./snap/Ant Colony.mp4</video>
+	</game>
+	<game>
+		<path>./Ant-Eater.ctg</path>
+		<name>Ant-Eater</name>
+		<image>./mixart/Ant-Eater.png</image>
+		<marquee>./wheel/Ant-Eater.png</marquee>
+		<video>./snap/Ant-Eater.mp4</video>
+	</game>
+	<game>
+		<path>./Astro Fighter.ctg</path>
+		<name>Astro Fighter</name>
+		<image>./mixart/Astro Fighter.png</image>
+		<marquee>./wheel/Astro Fighter.png</marquee>
+		<video>./snap/Astro Fighter.mp4</video>
+	</game>
+	<game>
+		<path>./Barrage.ctg</path>
+		<name>Barrage</name>
+		<image>./mixart/Barrage.png</image>
+		<marquee>./wheel/Barrage.png</marquee>
+		<video>./snap/Barrage.mp4</video>
+	</game>
+	<game>
+		<path>./Blackjack and Poker.ctg</path>
+		<name>Blackjack and Poker</name>
+		<image>./mixart/Blackjack and Poker.png</image>
+		<marquee>./wheel/Blackjack and Poker.png</marquee>
+		<video>./snap/Blackjack and Poker.mp4</video>
+	</game>
+	<game>
+		<path>./Blasto.ctg</path>
+		<name>Blasto</name>
+		<image>./mixart/Blasto.png</image>
+		<marquee>./wheel/Blasto.png</marquee>
+		<video>./snap/Blasto.mp4</video>
+	</game>
+	<game>
+		<path>./Burgertime.ctg</path>
+		<name>Burgertime</name>
+		<image>./mixart/Burgertime.png</image>
+		<marquee>./wheel/Burgertime.png</marquee>
+		<video>./snap/Burgertime.mp4</video>
+	</game>
+	<game>
+		<path>./Car Wars.ctg</path>
+		<name>Car Wars</name>
+		<image>./mixart/Car Wars.png</image>
+		<marquee>./wheel/Car Wars.png</marquee>
+		<video>./snap/Car Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Card Sharp.ctg</path>
+		<name>Card Sharp</name>
+		<image>./mixart/Card Sharp.png</image>
+		<marquee>./wheel/Card Sharp.png</marquee>
+		<video>./snap/Card Sharp.mp4</video>
+	</game>
+	<game>
+		<path>./Centipede.ctg</path>
+		<name>Centipede</name>
+		<image>./mixart/Centipede.png</image>
+		<marquee>./wheel/Centipede.png</marquee>
+		<video>./snap/Centipede.mp4</video>
+	</game>
+	<game>
+		<path>./Chicken Coop.ctg</path>
+		<name>Chicken Coop</name>
+		<image>./mixart/Chicken Coop.png</image>
+		<marquee>./wheel/Chicken Coop.png</marquee>
+		<video>./snap/Chicken Coop.mp4</video>
+	</game>
+	<game>
+		<path>./Chisholm Trail.ctg</path>
+		<name>Chisholm Trail</name>
+		<image>./mixart/Chisholm Trail.png</image>
+		<marquee>./wheel/Chisholm Trail.png</marquee>
+		<video>./snap/Chisholm Trail.mp4</video>
+	</game>
+	<game>
+		<path>./Computer War.ctg</path>
+		<name>Computer War</name>
+		<image>./mixart/Computer War.png</image>
+		<marquee>./wheel/Computer War.png</marquee>
+		<video>./snap/Computer War.mp4</video>
+	</game>
+	<game>
+		<path>./Connect Four.ctg</path>
+		<name>Connect Four</name>
+		<image>./mixart/Connect Four.png</image>
+		<marquee>./wheel/Connect Four.png</marquee>
+		<video>./snap/Connect Four.mp4</video>
+	</game>
+	<game>
+		<path>./Crossfire.ctg</path>
+		<name>Crossfire</name>
+		<image>./mixart/Crossfire.png</image>
+		<marquee>./wheel/Crossfire.png</marquee>
+		<video>./snap/Crossfire.mp4</video>
+	</game>
+	<game>
+		<path>./Defender.ctg</path>
+		<name>Defender</name>
+		<image>./mixart/Defender.png</image>
+		<marquee>./wheel/Defender.png</marquee>
+		<video>./snap/Defender.mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug.ctg</path>
+		<name>Dig Dug</name>
+		<image>./mixart/Dig Dug.png</image>
+		<marquee>./wheel/Dig Dug.png</marquee>
+		<video>./snap/Dig Dug.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong.ctg</path>
+		<name>Donkey Kong</name>
+		<image>./mixart/Donkey Kong.png</image>
+		<marquee>./wheel/Donkey Kong.png</marquee>
+		<video>./snap/Donkey Kong.mp4</video>
+	</game>
+	<game>
+		<path>./Driving Demon.ctg</path>
+		<name>Driving Demon</name>
+		<image>./mixart/Driving Demon.png</image>
+		<marquee>./wheel/Driving Demon.png</marquee>
+		<video>./snap/Driving Demon.mp4</video>
+	</game>
+	<game>
+		<path>./Espial.ctg</path>
+		<name>Espial</name>
+		<image>./mixart/Espial.png</image>
+		<marquee>./wheel/Espial.png</marquee>
+		<video>./snap/Espial.mp4</video>
+	</game>
+	<game>
+		<path>./Fantasy.ctg</path>
+		<name>Fantasy</name>
+		<image>./mixart/Fantasy.png</image>
+		<marquee>./wheel/Fantasy.png</marquee>
+		<video>./snap/Fantasy.mp4</video>
+	</game>
+	<game>
+		<path>./Fathom.ctg</path>
+		<name>Fathom</name>
+		<image>./mixart/Fathom.png</image>
+		<marquee>./wheel/Fathom.png</marquee>
+		<video>./snap/Fathom.mp4</video>
+	</game>
+	<game>
+		<path>./Football.ctg</path>
+		<name>Football</name>
+		<image>./mixart/Football.png</image>
+		<marquee>./wheel/Football.png</marquee>
+		<video>./snap/Football.mp4</video>
+	</game>
+	<game>
+		<path>./Frogger.ctg</path>
+		<name>Frogger</name>
+		<image>./mixart/Frogger.png</image>
+		<marquee>./wheel/Frogger.png</marquee>
+		<video>./snap/Frogger.mp4</video>
+	</game>
+	<game>
+		<path>./Germ Patrol.ctg</path>
+		<name>Germ Patrol</name>
+		<image>./mixart/Germ Patrol.png</image>
+		<marquee>./wheel/Germ Patrol.png</marquee>
+		<video>./snap/Germ Patrol.mp4</video>
+	</game>
+	<game>
+		<path>./Hen Pecked.ctg</path>
+		<name>Hen Pecked</name>
+		<image>./mixart/Hen Pecked.png</image>
+		<marquee>./wheel/Hen Pecked.png</marquee>
+		<video>./snap/Hen Pecked.mp4</video>
+	</game>
+	<game>
+		<path>./Hopper.ctg</path>
+		<name>Hopper</name>
+		<image>./mixart/Hopper.png</image>
+		<marquee>./wheel/Hopper.png</marquee>
+		<video>./snap/Hopper.mp4</video>
+	</game>
+	<game>
+		<path>./Hunt The Wumpus.ctg</path>
+		<name>Hunt The Wumpus</name>
+		<image>./mixart/Hunt The Wumpus.png</image>
+		<marquee>./wheel/Hunt The Wumpus.png</marquee>
+		<video>./snap/Hunt The Wumpus.mp4</video>
+	</game>
+	<game>
+		<path>./Hustle.ctg</path>
+		<name>Hustle</name>
+		<image>./mixart/Hustle.png</image>
+		<marquee>./wheel/Hustle.png</marquee>
+		<video>./snap/Hustle.mp4</video>
+	</game>
+	<game>
+		<path>./Jawbreaker II.ctg</path>
+		<name>Jawbreaker II</name>
+		<image>./mixart/Jawbreaker II.png</image>
+		<marquee>./wheel/Jawbreaker II.png</marquee>
+		<video>./snap/Jawbreaker II.mp4</video>
+	</game>
+	<game>
+		<path>./Jungle Hunt.ctg</path>
+		<name>Jungle Hunt</name>
+		<image>./mixart/Jungle Hunt.png</image>
+		<marquee>./wheel/Jungle Hunt.png</marquee>
+		<video>./snap/Jungle Hunt.mp4</video>
+	</game>
+	<game>
+		<path>./King of the Castle.ctg</path>
+		<name>King of the Castle</name>
+		<image>./mixart/King of the Castle.png</image>
+		<marquee>./wheel/King of the Castle.png</marquee>
+		<video>./snap/King of the Castle.mp4</video>
+	</game>
+	<game>
+		<path>./Lasso.ctg</path>
+		<name>Lasso</name>
+		<image>./mixart/Lasso.png</image>
+		<marquee>./wheel/Lasso.png</marquee>
+		<video>./snap/Lasso.mp4</video>
+	</game>
+	<game>
+		<path>./M.A.S.H.ctg</path>
+		<name>M.A.S.H</name>
+		<image>./mixart/M.A.S.H.png</image>
+		<marquee>./wheel/M.A.S.H.png</marquee>
+		<video>./snap/M.A.S.H.mp4</video>
+	</game>
+	<game>
+		<path>./Micro Tennis.ctg</path>
+		<name>Micro Tennis</name>
+		<image>./mixart/Micro Tennis.png</image>
+		<marquee>./wheel/Micro Tennis.png</marquee>
+		<video>./snap/Micro Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Microsurgeon.ctg</path>
+		<name>Microsurgeon</name>
+		<image>./mixart/Microsurgeon.png</image>
+		<marquee>./wheel/Microsurgeon.png</marquee>
+		<video>./snap/Microsurgeon.mp4</video>
+	</game>
+	<game>
+		<path>./Milton Bradley Gamevision.ctg</path>
+		<name>Milton Bradley Gamevision</name>
+		<image>./mixart/Milton Bradley Gamevision.png</image>
+		<marquee>./wheel/Milton Bradley Gamevision.png</marquee>
+		<video>./snap/Milton Bradley Gamevision.mp4</video>
+	</game>
+	<game>
+		<path>./Miner 2049er.ctg</path>
+		<name>Miner 2049er</name>
+		<image>./mixart/Miner 2049er.png</image>
+		<marquee>./wheel/Miner 2049er.png</marquee>
+		<video>./snap/Miner 2049er.mp4</video>
+	</game>
+	<game>
+		<path>./Mission X.ctg</path>
+		<name>Mission X</name>
+		<image>./mixart/Mission X.png</image>
+		<marquee>./wheel/Mission X.png</marquee>
+		<video>./snap/Mission X.mp4</video>
+	</game>
+	<game>
+		<path>./Moon Mine.ctg</path>
+		<name>Moon Mine</name>
+		<image>./mixart/Moon Mine.png</image>
+		<marquee>./wheel/Moon Mine.png</marquee>
+		<video>./snap/Moon Mine.mp4</video>
+	</game>
+	<game>
+		<path>./Moon Patrol.ctg</path>
+		<name>Moon Patrol</name>
+		<image>./mixart/Moon Patrol.png</image>
+		<marquee>./wheel/Moon Patrol.png</marquee>
+		<video>./snap/Moon Patrol.mp4</video>
+	</game>
+	<game>
+		<path>./Moonsweeper.ctg</path>
+		<name>Moonsweeper</name>
+		<image>./mixart/Moonsweeper.png</image>
+		<marquee>./wheel/Moonsweeper.png</marquee>
+		<video>./snap/Moonsweeper.mp4</video>
+	</game>
+	<game>
+		<path>./Mousk-Attack.ctg</path>
+		<name>Mousk-Attack</name>
+		<image>./mixart/Mousk-Attack.png</image>
+		<marquee>./wheel/Mousk-Attack.png</marquee>
+		<video>./snap/Mousk-Attack.mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man.ctg</path>
+		<name>Ms. Pac-Man</name>
+		<image>./mixart/Ms. Pac-Man.png</image>
+		<marquee>./wheel/Ms. Pac-Man.png</marquee>
+		<video>./snap/Ms. Pac-Man.mp4</video>
+	</game>
+	<game>
+		<path>./Munch Man II.ctg</path>
+		<name>Munch Man II</name>
+		<image>./mixart/Munch Man II.png</image>
+		<marquee>./wheel/Munch Man II.png</marquee>
+		<video>./snap/Munch Man II.mp4</video>
+	</game>
+	<game>
+		<path>./Munch Man.ctg</path>
+		<name>Munch Man</name>
+		<image>./mixart/Munch Man.png</image>
+		<marquee>./wheel/Munch Man.png</marquee>
+		<video>./snap/Munch Man.mp4</video>
+	</game>
+	<game>
+		<path>./Munchmobile.ctg</path>
+		<name>Munchmobile</name>
+		<image>./mixart/Munchmobile.png</image>
+		<marquee>./wheel/Munchmobile.png</marquee>
+		<video>./snap/Munchmobile.mp4</video>
+	</game>
+	<game>
+		<path>./Othello.ctg</path>
+		<name>Othello</name>
+		<image>./mixart/Othello.png</image>
+		<marquee>./wheel/Othello.png</marquee>
+		<video>./snap/Othello.mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man.ctg</path>
+		<name>Pac-Man</name>
+		<image>./mixart/Pac-Man.png</image>
+		<marquee>./wheel/Pac-Man.png</marquee>
+		<video>./snap/Pac-Man.mp4</video>
+	</game>
+	<game>
+		<path>./Picnic Paranoia.ctg</path>
+		<name>Picnic Paranoia</name>
+		<image>./mixart/Picnic Paranoia.png</image>
+		<marquee>./wheel/Picnic Paranoia.png</marquee>
+		<video>./snap/Picnic Paranoia.mp4</video>
+	</game>
+	<game>
+		<path>./Pole Position.ctg</path>
+		<name>Pole Position</name>
+		<image>./mixart/Pole Position.png</image>
+		<marquee>./wheel/Pole Position.png</marquee>
+		<video>./snap/Pole Position.mp4</video>
+	</game>
+	<game>
+		<path>./Popeye.ctg</path>
+		<name>Popeye</name>
+		<image>./mixart/Popeye.png</image>
+		<marquee>./wheel/Popeye.png</marquee>
+		<video>./snap/Popeye.mp4</video>
+	</game>
+	<game>
+		<path>./Princess and Frog.ctg</path>
+		<name>Princess and Frog</name>
+		<image>./mixart/Princess and Frog.png</image>
+		<marquee>./wheel/Princess and Frog.png</marquee>
+		<video>./snap/Princess and Frog.mp4</video>
+	</game>
+	<game>
+		<path>./Q-Bert.ctg</path>
+		<name>Q-Bert</name>
+		<image>./mixart/Q-Bert.png</image>
+		<marquee>./wheel/Q-Bert.png</marquee>
+		<video>./snap/Q-Bert.mp4</video>
+	</game>
+	<game>
+		<path>./Rabbit Trail.ctg</path>
+		<name>Rabbit Trail</name>
+		<image>./mixart/Rabbit Trail.png</image>
+		<marquee>./wheel/Rabbit Trail.png</marquee>
+		<video>./snap/Rabbit Trail.mp4</video>
+	</game>
+	<game>
+		<path>./Return to Pirate's Isle.ctg</path>
+		<name>Return to Pirate's Isle</name>
+		<image>./mixart/Return to Pirate's Isle.png</image>
+		<marquee>./wheel/Return to Pirate's Isle.png</marquee>
+		<video>./snap/Return to Pirate's Isle.mp4</video>
+	</game>
+	<game>
+		<path>./River Rescue.ctg</path>
+		<name>River Rescue</name>
+		<image>./mixart/River Rescue.png</image>
+		<marquee>./wheel/River Rescue.png</marquee>
+		<video>./snap/River Rescue.mp4</video>
+	</game>
+	<game>
+		<path>./Rotor Raiders.ctg</path>
+		<name>Rotor Raiders</name>
+		<image>./mixart/Rotor Raiders.png</image>
+		<marquee>./wheel/Rotor Raiders.png</marquee>
+		<video>./snap/Rotor Raiders.mp4</video>
+	</game>
+	<game>
+		<path>./Saguaro City.ctg</path>
+		<name>Saguaro City</name>
+		<image>./mixart/Saguaro City.png</image>
+		<marquee>./wheel/Saguaro City.png</marquee>
+		<video>./snap/Saguaro City.mp4</video>
+	</game>
+	<game>
+		<path>./Schnoz-ola.ctg</path>
+		<name>Schnoz-ola</name>
+		<image>./mixart/Schnoz-ola.png</image>
+		<marquee>./wheel/Schnoz-ola.png</marquee>
+		<video>./snap/Schnoz-ola.mp4</video>
+	</game>
+	<game>
+		<path>./Shamus.ctg</path>
+		<name>Shamus</name>
+		<image>./mixart/Shamus.png</image>
+		<marquee>./wheel/Shamus.png</marquee>
+		<video>./snap/Shamus.mp4</video>
+	</game>
+	<game>
+		<path>./Simon Says.ctg</path>
+		<name>Simon Says</name>
+		<image>./mixart/Simon Says.png</image>
+		<marquee>./wheel/Simon Says.png</marquee>
+		<video>./snap/Simon Says.mp4</video>
+	</game>
+	<game>
+		<path>./Sneggit.ctg</path>
+		<name>Sneggit</name>
+		<image>./mixart/Sneggit.png</image>
+		<marquee>./wheel/Sneggit.png</marquee>
+		<video>./snap/Sneggit.mp4</video>
+	</game>
+	<game>
+		<path>./Soccer.ctg</path>
+		<name>Soccer</name>
+		<image>./mixart/Soccer.png</image>
+		<marquee>./wheel/Soccer.png</marquee>
+		<video>./snap/Soccer.mp4</video>
+	</game>
+	<game>
+		<path>./Springer.ctg</path>
+		<name>Springer</name>
+		<image>./mixart/Springer.png</image>
+		<marquee>./wheel/Springer.png</marquee>
+		<video>./snap/Springer.mp4</video>
+	</game>
+	<game>
+		<path>./St. Nick.ctg</path>
+		<name>St. Nick</name>
+		<image>./mixart/St. Nick.png</image>
+		<marquee>./wheel/St. Nick.png</marquee>
+		<video>./snap/St. Nick.mp4</video>
+	</game>
+	<game>
+		<path>./Star Trek.ctg</path>
+		<name>Star Trek</name>
+		<image>./mixart/Star Trek.png</image>
+		<marquee>./wheel/Star Trek.png</marquee>
+		<video>./snap/Star Trek.mp4</video>
+	</game>
+	<game>
+		<path>./Submarine Battle.ctg</path>
+		<name>Submarine Battle</name>
+		<image>./mixart/Submarine Battle.png</image>
+		<marquee>./wheel/Submarine Battle.png</marquee>
+		<video>./snap/Submarine Battle.mp4</video>
+	</game>
+	<game>
+		<path>./Submarine Commander.ctg</path>
+		<name>Submarine Commander</name>
+		<image>./mixart/Submarine Commander.png</image>
+		<marquee>./wheel/Submarine Commander.png</marquee>
+		<video>./snap/Submarine Commander.mp4</video>
+	</game>
+	<game>
+		<path>./Super Storm.ctg</path>
+		<name>Super Storm</name>
+		<image>./mixart/Super Storm.png</image>
+		<marquee>./wheel/Super Storm.png</marquee>
+		<video>./snap/Super Storm.mp4</video>
+	</game>
+	<game>
+		<path>./The Attack.ctg</path>
+		<name>The Attack</name>
+		<image>./mixart/The Attack.png</image>
+		<marquee>./wheel/The Attack.png</marquee>
+		<video>./snap/The Attack.mp4</video>
+	</game>
+	<game>
+		<path>./TI Invaders.ctg</path>
+		<name>TI Invaders</name>
+		<image>./mixart/TI Invaders.png</image>
+		<marquee>./wheel/TI Invaders.png</marquee>
+		<video>./snap/TI Invaders.mp4</video>
+	</game>
+	<game>
+		<path>./Tombstone City - 21st Century.ctg</path>
+		<name>Tombstone City - 21st Century</name>
+		<image>./mixart/Tombstone City - 21st Century.png</image>
+		<marquee>./wheel/Tombstone City - 21st Century.png</marquee>
+		<video>./snap/Tombstone City - 21st Century.mp4</video>
+	</game>
+	<game>
+		<path>./Treasure Island.ctg</path>
+		<name>Treasure Island</name>
+		<image>./mixart/Treasure Island.png</image>
+		<marquee>./wheel/Treasure Island.png</marquee>
+		<video>./snap/Treasure Island.mp4</video>
+	</game>
+	<game>
+		<path>./Tunnels of Doom.ctg</path>
+		<name>Tunnels of Doom</name>
+		<image>./mixart/Tunnels of Doom.png</image>
+		<marquee>./wheel/Tunnels of Doom.png</marquee>
+		<video>./snap/Tunnels of Doom.mp4</video>
+	</game>
+	<game>
+		<path>./Video Chess.ctg</path>
+		<name>Video Chess</name>
+		<image>./mixart/Video Chess.png</image>
+		<marquee>./wheel/Video Chess.png</marquee>
+		<video>./snap/Video Chess.mp4</video>
+	</game>
+	<game>
+		<path>./Video Games 1.ctg</path>
+		<name>Video Games 1</name>
+		<image>./mixart/Video Games 1.png</image>
+		<marquee>./wheel/Video Games 1.png</marquee>
+		<video>./snap/Video Games 1.mp4</video>
+	</game>
+	<game>
+		<path>./Video Games 2 - Mind Challengers.ctg</path>
+		<name>Video Games 2 - Mind Challengers</name>
+		<image>./mixart/Video Games 2 - Mind Challengers.png</image>
+		<marquee>./wheel/Video Games 2 - Mind Challengers.png</marquee>
+		<video>./snap/Video Games 2 - Mind Challengers.mp4</video>
+	</game>
+	<game>
+		<path>./Video Vegas.ctg</path>
+		<name>Video Vegas</name>
+		<image>./mixart/Video Vegas.png</image>
+		<marquee>./wheel/Video Vegas.png</marquee>
+		<video>./snap/Video Vegas.mp4</video>
+	</game>
+	<game>
+		<path>./Wing War.ctg</path>
+		<name>Wing War</name>
+		<image>./mixart/Wing War.png</image>
+		<marquee>./wheel/Wing War.png</marquee>
+		<video>./snap/Wing War.mp4</video>
+	</game>
+	<game>
+		<path>./Zero Zap.ctg</path>
+		<name>Zero Zap</name>
+		<image>./mixart/Zero Zap.png</image>
+		<marquee>./wheel/Zero Zap.png</marquee>
+		<video>./snap/Zero Zap.mp4</video>
+	</game>
+	<game>
+		<path>./Demon Attack.ctg</path>
+		<name>Demon Attack</name>
+		<image>./mixart/Demon Attack.png</image>
+		<video>./snap/Demon Attack.mp4</video>
+		<marquee>./wheel/Demon Attack.png</marquee>
+	</game>
+	<game>
+		<path>./Slymoids.ctg</path>
+		<name>Slymoids</name>
+		<image>./mixart/Slymoids.png</image>
+		<video>./snap/Slymoids.mp4</video>
+		<marquee>./wheel/Slymoids.png</marquee>
+	</game>
+	<game>
+		<path>./E.T..ctg</path>
+		<name>E.T.</name>
+		<image>./mixart/E.T..png</image>
+		<video>./snap/E.T..mp4</video>
+		<marquee>./wheel/E.T..png</marquee>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet of Zoom.ctg</path>
+		<name>Buck Rogers - Planet of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet of Zoom.png</image>
+		<video>./snap/Buck Rogers - Planet of Zoom.mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet of Zoom.png</marquee>
+	</game>
+	<game>
+		<path>./Parsec.ctg</path>
+		<name>Parsec</name>
+		<image>./mixart/Parsec.png</image>
+		<video>./snap/Parsec.mp4</video>
+		<marquee>./wheel/Parsec.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Congo Bongo.ctg</path>
+		<name>Congo Bongo</name>
+		<image>./mixart/Congo Bongo.png</image>
+		<video>./snap/Congo Bongo.mp4</video>
+		<marquee>./wheel/Congo Bongo.png</marquee>
+	</game>
+</gameList>
