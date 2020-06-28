@@ -200,6 +200,9 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2010/*.* /opt/retropie/
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2016/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2016/
 cp -rf ./opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/*.* /opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/
 cp -rf ./opt/retropie/configs/all/retroarch/config/MAME/*.* /opt/retropie/configs/all/retroarch/config/MAME/
+# 2020-06-28 Updated PlayBox USB-Extend core scripts fixes-enhancements (supports these ART folders/tags (skraper, VirtualMan...) by 2play!
+cp -rf ./home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
+chmod +x /home/pi/RetroPie/retropiemen/System/USB/usb-ext.sh
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
