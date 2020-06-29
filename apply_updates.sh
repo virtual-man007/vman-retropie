@@ -203,7 +203,7 @@ cp -rf ./opt/retropie/configs/all/retroarch/config/MAME/*.* /opt/retropie/config
 # 2020-06-28 Updated PlayBox USB-Extend core scripts fixes-enhancements (supports these ART folders/tags (skraper, VirtualMan...) by 2play!
 cp -rf ./home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
 chmod +x /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
-
+# 2020 kinst optimization must change rom as per instructions
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
