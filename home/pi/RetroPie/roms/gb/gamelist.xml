@@ -3525,22 +3525,6 @@ Because there are 12 tribes, and you can switch between them at any point, you h
 		<marquee>./wheel/Lemmings 2 - The Tribes (Europe).png</marquee>
 		<video>./snap/Lemmings 2 - The Tribes (Europe).mp4</video>
 	</game>
-	<game id="3057" source="ScreenScraper.fr">
-		<path>./Lemmings (USA).7z</path>
-		<name>Lemmings</name>
-		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
-
-You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
-		<rating>0.6</rating>
-		<releasedate />
-		<developer>DMA Design Limited</developer>
-		<publisher>Ocean of America, Inc.</publisher>
-		<genre>Puzzle-Game-Strategy</genre>
-		<players>1</players>
-		<image>./mixart/Lemmings (USA).png</image>
-		<marquee>./wheel/Lemmings (USA).png</marquee>
-		<video>./snap/Lemmings (USA).mp4</video>
-	</game>
 	<game id="68986" source="ScreenScraper.fr">
 		<path>./Lethal Weapon (USA).7z</path>
 		<name>Lethal Weapon</name>
@@ -6618,20 +6602,6 @@ Gameplay consists of standard platform action spiced up with some slightly diffe
 		<marquee>./wheel/Super Star Wars - Return of the Jedi (USA, Europe).png</marquee>
 		<video>./snap/Super Star Wars - Return of the Jedi (USA, Europe).mp4</video>
 	</game>
-	<game id="70693" source="ScreenScraper.fr">
-		<path>./Superman (USA, Europe).7z</path>
-		<name>Superman</name>
-		<desc>The Man of Steel takes flight in his first video game adaptation. When Lex Luthor destroys the Metropolis bridge, Clark Kent must run to the nearest phone booth to become Superman and save the day.  Along the way, Superman must be wary of thugs, a helicopter that can either help or hinder him, three Kryptonite satellites, and even Lex Luthor himself.  If Superman meets with one of Luthor's Kryptonite traps, he becomes unable to fly, unless he can find Lois Lane for help.  Repair the bridge, put the crooks in jail, then get back to the Daily Planet in time for the next adventure.</desc>
-		<rating>1</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Atari, Inc.</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Superman (USA, Europe).png</image>
-		<marquee>./wheel/Superman (USA, Europe).png</marquee>
-		<video>./snap/Superman (USA, Europe).mp4</video>
-	</game>
 	<game id="70700" source="ScreenScraper.fr">
 		<path>./Swamp Thing (USA, Europe).7z</path>
 		<name>Swamp Thing</name>
@@ -8011,17 +7981,6 @@ In a change from the original Wario Land, Wario is now immortal, to a certain po
 		<marquee>./wheel/Wario Land II (USA, Europe).png</marquee>
 		<video>./snap/Wario Land II (USA, Europe).mp4</video>
 	</game>
-	<game id="71137" source="ScreenScraper.fr">
-		<path>./Water World (Europe).7z</path>
-		<name>Water World</name>
-		<desc>The sun. For millions of years the source of life. But for one planet the source of it's demise. The temperature climbed, the vast pools of ice at it's poles melted, and the oceans rose. Centuries later, few people remained on this planet, once called Earth. A lone mariner sails the expanse of water, trading to survive. For survival, is all these people do, in this place they know only as Waterworld.</desc>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Ocean</publisher>
-		<image>./mixart/Water World (Europe).png</image>
-		<marquee>./wheel/Water World (Europe).png</marquee>
-		<video>./snap/Water World (Europe).mp4</video>
-	</game>
 	<game id="71139" source="ScreenScraper.fr">
 		<path>./Wave Race (USA, Europe).7z</path>
 		<name>Wave Race</name>
@@ -9056,4 +9015,65 @@ In addition to the single player adventure, there is a 2-player mode that allows
 		<publisher>Sony Imagesoft</publisher>
 		<genre>Sports</genre>
 	</game>
+	<game>
+		<path>./Water World (Europe).7z</path>
+		<name>Water World</name>
+		<desc>The sun. For millions of years the source of life. But for one planet the source of it's demise. The temperature climbed, the vast pools of ice at it's poles melted, and the oceans rose. Centuries later, few people remained on this planet, once called Earth. A lone mariner sails the expanse of water, trading to survive. For survival, is all these people do, in this place they know only as Waterworld.</desc>
+		<image>./mixart/Water World (Europe).png</image>
+		<video>./snap/Water World (Europe).mp4</video>
+		<marquee>./wheel/Water World (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Ocean</publisher>
+	</game>
+	<game>
+		<path>./Lemmings (USA).7z</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
+
+You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+		<image>./mixart/Lemmings (USA).png</image>
+		<video>./snap/Lemmings (USA).mp4</video>
+		<marquee>./wheel/Lemmings (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate />
+		<developer>DMA Design Limited</developer>
+		<publisher>Ocean of America, Inc.</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200624T190737</lastplayed>
+	</game>
+	<game>
+		<path>./Super_Mario_Land_DX.7z</path>
+		<name>'☆Super Mario Land DX</name>
+		<image>./mixart/Super Mario Land DX.jpg</image>
+		<video>./snap/Super Mario Land DX.mp4</video>
+		<marquee>./wheel/Super Mario Land DX.png</marquee>
+		<rating>0</rating>
+		<releasedate>20190101T010000</releasedate>
+	</game>
+	<game>
+		<path>./Superman (USA, Europe).7z</path>
+		<name>Superman</name>
+		<desc>The Man of Steel takes flight in his first video game adaptation. When Lex Luthor destroys the Metropolis bridge, Clark Kent must run to the nearest phone booth to become Superman and save the day.  Along the way, Superman must be wary of thugs, a helicopter that can either help or hinder him, three Kryptonite satellites, and even Lex Luthor himself.  If Superman meets with one of Luthor's Kryptonite traps, he becomes unable to fly, unless he can find Lois Lane for help.  Repair the bridge, put the crooks in jail, then get back to the Daily Planet in time for the next adventure.</desc>
+		<image>./mixart/Superman (USA, Europe).png</image>
+		<video>./snap/Superman (USA, Europe).mp4</video>
+		<marquee>./wheel/Superman (USA, Europe).png</marquee>
+		<rating>1</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Atari, Inc.</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200629T202150</lastplayed>
+	</game>
+	<game>
+        <path>./Super_Mario_Land_2_-_6_Golden_Coins_DX.7z</path>
+        <name>'☆Super Mario Land 2 - 6 Golden Coins DX</name>
+        <image>./mixart/Super Mario Land 2 DX.jpg</image>
+        <video>./snap/Super Mario Land 2 DX.mp4</video>
+        <marquee>./wheel/Super Mario Land 2 DX.png</marquee>
+        <rating>0</rating>
+        <releasedate>20190101T010000</releasedate>
+    </game>
 </gameList>

@@ -1329,21 +1329,6 @@ After most levels the Bionic Commando will recieve items. Often these items are 
 		<video>./snap/Blackjack (USA) (Unl).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="1514" source="ScreenScraper.fr">
-		<path>./Blades of Steel (USA).zip</path>
-		<name>Blades of Steel</name>
-		<desc>Based on the arcade game, Blades Of Steel is a hockey arcade action game (gameplay doesn't require the need to worry about statistics or provide the ability to customize teams.) Two players can play against each other, or one player against the computer. In one player mode there are single game and tournament mode options.  From time to time a fight may break out, which will provide a close up view of the two players. The player has control during the miniature fight game sequence, with the loser having to spend time in the penalty box.  The referee will break up fights that go on too long, and calls a few penalties such as icing. Several short clips of digitized voices are also featured.</desc>
-		<rating>0.75</rating>
-		<releasedate>19881202T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<image>./mixart/Blades of Steel (USA).png</image>
-		<marquee>./wheel/Blades of Steel (USA).png</marquee>
-		<video>./snap/Blades of Steel (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="18601" source="ScreenScraper.fr">
 		<path>./Bo Jackson Baseball (USA).zip</path>
 		<name>Bo Jackson Baseball</name>
@@ -13725,21 +13710,6 @@ Included in the game is the normal mode, a time trial, and a two player battle m
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Ice Hockey (USA).zip</path>
-		<name>Ice Hockey</name>
-		<desc>Ice Hockey is an action game for one or two players. Start of by selecting a team and customizing your players. Each team member can be one of three player types: small and skinny (very fast, but not good at checking or shooting), very large (slow, but with a strong body check and outstanding shooting strength) or average (medium speed, with average checking and shooting strength). After the teams are set up, it's time to play some ice hockey! Gameplay features a scrolling screen to follow the action, and lets you choose which of the players you wish to control when on defense (on offense you always control the player with the puck). Fights can break out between players, and the loser may end up in the penalty box. There are five different speed settings for the game, and periods can be either 7, 10, or 15 minutes long.</desc>
-		<image>./mixart/Ice Hockey (USA).png</image>
-		<video>./snap/Ice Hockey (USA).mp4</video>
-		<marquee>./wheel/Ice Hockey (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19880302T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Jordan vs Bird - One On One (USA).zip</path>
 		<name>Jordan vs Bird : One On One</name>
 		<desc>Two of the greatest icons of the Golden Age of the NBA match up in this game. On one side, the spectacular dunks of Michael Jordan of the Chicago Bulls; on the other, Larry Bird's incredible accuracy from the outside. 
@@ -13910,241 +13880,241 @@ A notable item about this game is its use of squeaky, comical, digitized voices 
 		<developer>Square</developer>
 		<genre>Race, Driving</genre>
 	</game>
-  <game id="18670" source="ScreenScraper.fr">
-    <path>./Fire Hawk (USA) (Unl).zip</path>
-    <name>Fire Hawk</name>
-    <desc>The President of the United States has put you in charge of stopping  the trafficking of drugs into the United States. To accomplish this, you pilot a Firehawk helicopter gunship through seven missions that involve rescuing agents and destroying drug producing facilities. When flying you survey the whole landscape from a top down view. However, this view changes to a 3rd person perspective when you are extracting an agent with your helicopter winch.</desc>
-    <rating>0</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Codemasters</developer>
-    <publisher>Camerica</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Fire Hawk (USA) (Unl).png</image>
-    <marquee>./wheel/Fire Hawk (USA) (Unl).png</marquee>
-    <video>./snap/Fire Hawk (USA) (Unl).mp4</video>
-  </game>
-  <game id="1420" source="ScreenScraper.fr">
-    <path>./Top Gun (USA).zip</path>
-    <name>Top Gun</name>
-    <desc>Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.  The action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.  Enemy aircraft either overshoot the players's plane from behind and can be easily taken down, or they come from the front and fire guns and missiles. Sometimes, an enemy plane will position itself on the player's six. It should be lost quickly by steering left and right, or instant death follows.  Halfway through missions two through four comes a refueling sequence where the fuel plane's nozzle must be aligned with one's aircraft.  Every mission (except the first one) features a final mission target, which can take a lot more damage than regular targets.  Each mission concludes with a landing attempt on the aircraft carrier. To successfully land, the player's plane must have a certain altitude and speed. Successfully landing gives bonus points, but crashing the plane doesn't end the game - it simply costs a life.</desc>
-    <rating>0.5</rating>
-    <releasedate>19871102T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Top Gun (USA).png</image>
-    <marquee>./wheel/Top Gun (USA).png</marquee>
-    <video>./snap/Top Gun (USA).mp4</video>
-  </game>
-  <game id="1342" source="ScreenScraper.fr">
-    <path>./Hudson's Adventure Island (USA).zip</path>
-    <name>Adventure Island</name>
-    <desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.  The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
-    <rating>0.6</rating>
-    <releasedate>19880902T000000</releasedate>
-    <developer>Hudson</developer>
-    <publisher>Hudson</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Hudson's Adventure Island (USA).png</image>
-    <marquee>./wheel/Hudson's Adventure Island (USA).png</marquee>
-    <video>./snap/Hudson's Adventure Island (USA).mp4</video>
-  </game>
-  <game id="71312" source="ScreenScraper.fr">
-    <path>./Penguin &amp; Seal, The (Australia) (Unl).zip</path>
-    <name>Arctic Adventure, Penguin &amp; Seal</name>
-    <desc>Go North to the Arctic and meet Mr. Penguin. He is one of the great pioneers of the icy climate and if I may say so, a survivor.  His game is collecting diamonds scattered in the coldest corners of the globe. Guide Mr. Penguin through each round and help him with his diamond collection.  You must collect all the diamonds and stash them safely in your igloo. Watch out! Those nasty seals have tusks as sharp as blades. If you can't crush them with a block of ice I suggest you dive out of their way.  Hang on! This is only round No. 1. Now let's try getting through to round No. 50. If you manage to get through all of that, how about constructing your own personal custom-tailored round. Good luck!</desc>
-    <rating>0</rating>
-    <releasedate>19890101T000000</releasedate>
-    <developer>Thin Chen Enterprise</developer>
-    <publisher>Home Entertainment Suppliers</publisher>
-    <genre>Action-Various</genre>
-    <players>1-2</players>
-    <image>./mixart/Penguin &amp; Seal, The (Australia) (Unl).png</image>
-    <marquee>./wheel/Penguin &amp; Seal, The (Australia) (Unl).png</marquee>
-    <video>./snap/Penguin &amp; Seal, The (Australia) (Unl).mp4</video>
-  </game>
-  <game id="1786" source="ScreenScraper.fr">
-    <path>./Aussie Rules Footy (Australia).zip</path>
-    <name>Aussie Rules Footy</name>
-    <desc>It's not hard to understand what this game is about, judging by its title: a simulation of Australian football, a code of football that is little known outside of Australia but is very popular in certain areas of the country. You can either train your players (one, two, or three players at a time), play a single match, or participate in an Australian tournament, choosing one team and leading it to victory.</desc>
-    <rating>1</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Laser Beam Entertainment</developer>
-    <publisher>Beam Software</publisher>
-    <genre>Sports</genre>
-    <players>1-2</players>
-    <image>./mixart/Aussie Rules Footy (Australia).png</image>
-    <marquee>./wheel/Aussie Rules Footy (Australia).png</marquee>
-    <video>./snap/Aussie Rules Footy (Australia).mp4</video>
-  </game>
-  <game id="1649" source="ScreenScraper.fr">
-    <path>./Banana Prince (Germany-Eng).zip</path>
-    <name>Banana Prince</name>
-    <desc>In the great Banana kingdom, the Banana nation possesses a great symbol of prosperity - a big banana. One day, the Prince is engaged in a conversation with the Dragonmaster, when the evil Paprika Dragon flies over, saying "quack, quack!", and... oh horror - steals the holy banana! The Dragonmaster is desperate. "Fear not", - says the Prince, - "for I shall embark on the perilous journey and return our dearest possession to the folk". And that is exactly what he does!  "Banana Prince" in an action platformer. You travel between locations on the world map in a linear fashion, entering various platform levels - forests, caves, towers, etc. The Prince will find various weapons during his journey and use them to take care of the numerous enemies. You can also collect rings scattered everywhere and use them as currency in shops, where you can acquire various items.</desc>
-    <rating>0.7</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Kid</developer>
-    <publisher>Takara</publisher>
-    <genre>Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Banana Prince (Germany-Eng).png</image>
-    <marquee>./wheel/Banana Prince (Germany-Eng).png</marquee>
-    <video>./snap/Banana Prince (Germany-Eng).mp4</video>
-  </game>
-  <game id="143218" source="ScreenScraper.fr">
-    <path>./Battle Kid - Fortress of Peril (USA) (Unl).zip</path>
-    <name>Battle Kid: Fortress Of Peril</name>
-    <desc>Battle Kid: Fortress Of Peril is a 2D platform video game, released in February 2010 for the Nintendo Entertainment System, created by American developer Sivak Games, and published through Retrozone with the cover art designed by Larry Bundy Jr. Unlike most games in the modern era, Battle Kid is available for purchase only on a physical NES cartridge. While there has been a demand for a downloadable version, the developer has stated that the game is currently not planned to be released on any other formats due to a contract with Retrozone.</desc>
-    <rating>0</rating>
-    <releasedate>20100222T000000</releasedate>
-    <developer>Sivak Games</developer>
-    <publisher>Retrozone</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-    <image>./mixart/Battle Kid - Fortress of Peril (USA) (Unl).png</image>
-    <marquee>./wheel/Battle Kid - Fortress of Peril (USA) (Unl).png</marquee>
-    <video>./snap/Battle Kid - Fortress of Peril (USA) (Unl).mp4</video>
-  </game>
-  <game id="117223" source="ScreenScraper.fr">
-    <path>./Bio Hazard (Asia) (Unl).zip</path>
-    <name>Bio Hazard</name>
-    <desc>Based on Resident Evil for the PlayStation. The plot follows the original game scripts, although just Jill is a playable character and the game is in Chinese. This game impresses because of the small details. The beginning of the game brings the introduction of Resident Evil 1, originally a video, adapted to sprites.  There are two ROMs available; one of them freezes and makes the gameplay almost impossible in most emulators, but the second one (extracted from a WXN pack) doesn't freeze and works only in selected emulators. Also, the original cartridge doesn't have many bugs and the gameplay is completely viable. Unlike the original game, this port removes the Black Widow and Giant Snake boss battles. However, the Plant 42 boss is intact.  A Zapper or a generic pistol can be used to shoot the enemies during the battle screen.</desc>
-    <rating>0</rating>
-    <releasedate>20030101T000000</releasedate>
-    <developer>Waixing</developer>
-    <publisher>Waixing</publisher>
-    <genre>Action / Adventure-Action</genre>
-    <players>1</players>
-    <image>./mixart/Bio Hazard (Asia) (Unl).png</image>
-    <marquee>./wheel/Bio Hazard (Asia) (Unl).png</marquee>
-    <video>./snap/Bio Hazard (Asia) (Unl).mp4</video>
-  </game>
-  <game id="78516" source="ScreenScraper.fr">
-    <path>./Duck Maze (Australia) (Unl).zip</path>
-    <name>Duck Maze</name>
-    <desc>Jack the duck is no ordinary quacker. He is witty and rather clever, but this is not enough to get his precious egg to safety. He needs your help and ingenuity to get through the 20 mind-boggling mazes! Beware of the hidden dangers: the foxes, the traps. But most of all, let those sleeping bulldogs lie. Start your adventure in level 1 and challenge your way through to level 20, or if you are feeling vigorous, go straight into a higher level. But whatever you do, DON'T CRACK THE EGG!</desc>
-    <rating>0</rating>
-    <releasedate>19900101T000000</releasedate>
-    <developer>Bit Corp.</developer>
-    <publisher>Home Entertainment Suppliers</publisher>
-    <genre>Puzzle-Game-Platform</genre>
-    <players>1</players>
-    <image>./mixart/Duck Maze (Australia) (Unl).png</image>
-    <marquee>./wheel/Duck Maze (Australia) (Unl).png</marquee>
-    <video>./snap/Duck Maze (Australia) (Unl).mp4</video>
-  </game>
-  <game id="88101" source="ScreenScraper.fr">
-    <path>./Fun Blaster Pak (Australia) (Unl).zip</path>
-    <name>Fun Blaster Pak</name>
-    <desc>Compilation of four games:    PIPEMANIA: A totally radical game entrenched in a deep underground maze of pipes.    TWIN EAGLE: Twin fun with simultaneous two-player shooting action.    METAL FIGHTER: You are Joyvan Kid and must save the planet Earth from alien occupation.    LITTLE RED HOOD: Solve the mysteries of the forest with eight levels of enchanted fun.</desc>
-    <rating>0</rating>
-    <releasedate>19900101T000000</releasedate>
-	<developer>Bit Corp.</developer>
-    <publisher>Home Entertainment Suppliers</publisher>
-    <image>./mixart/Fun Blaster Pak (Australia) (Unl).png</image>
-    <marquee>./wheel/Fun Blaster Pak (Australia) (Unl).png</marquee>
-    <video>./snap/Fun Blaster Pak (Australia) (Unl).mp4</video>
-  </game>
-  <game id="18718" source="ScreenScraper.fr">
-    <path>./Hot Slots (Asia) (Unl).zip</path>
-    <name>Hot Slots</name>
-    <desc>This is a simple slot machine simulation. What makes it different are the erotic pictures of naked or half-naked girls, which you get if you successfully complete a casino round and win a lot of money. There are three casinos you can play in, each one leading to different girls and different short scenes and comments from them.</desc>
-    <rating>0</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Hacker International</developer>
-    <publisher>Panesian</publisher>
-    <genre>Simulation-Casino / Slot machine-Casino</genre>
-    <players>1</players>
-    <image>./mixart/Hot Slots (Asia) (Unl).png</image>
-    <marquee>./wheel/Hot Slots (Asia) (Unl).png</marquee>
-    <video>./snap/Hot Slots (Asia) (Unl).mp4</video>
-  </game>
-  <game id="71422" source="ScreenScraper.fr">
-    <path>./Indiana Jones and the Last Crusade (USA) (UBI Soft).zip</path>
-    <name>Indiana Jones and the Last Crusade</name>
-    <desc>Indiana Jones and the Last Crusade differs from the two other games with the same name as it is a hybrid of various genres such as platform action, motorcycle racing, puzzle solving and even some adventure elements.  In Indiana Jones and the Last Crusade you play Indy's role in his search for the Holy Grail, but this time it is you who chooses which step he will take at each part of his quest. For example, in the very beginning you receive a diary about the Grail from Indy's father, who is in Venice. At the same time, you receive a telegram from Marcus saying that the Cross of Coronado is in Portugal on a ship called Coronado, and that he'll meet Indy there. So you have to choose what you'll do first: go to Venice and check about the Grail and your father, or go to Portugal to find Marcus and the Cross of Coronado.  In the entire game you'll be prompted with these choices, each one leading to different stages throughout the game. Each stage presents different game genres. For example, in Venice you find a scrambled picture of the Grail, and you have to try to put it back together, just like you'd do with the pieces of a puzzle. Besides, in the platform stages, Indy has plenty of movements, as he can punch, kick, walk, run, jump and use his whip.  The game presents bitmapped pictures of the real movie actors, such as Harrison Ford and Sean Connery.</desc>
-    <rating>0.85</rating>
-    <releasedate>19931201T000000</releasedate>
-    <developer>NMS Software</developer>
-    <publisher>Ubisoft</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Indiana Jones and the Last Crusade (USA) (UBI Soft).png</image>
-    <marquee>./wheel/Indiana Jones and the Last Crusade (USA) (UBI Soft).png</marquee>
-    <video>./snap/Indiana Jones and the Last Crusade (USA) (UBI Soft).mp4</video>
-  </game>
-  <game id="71423" source="ScreenScraper.fr">
-    <path>./International Cricket (Australia).zip</path>
-    <name>International Cricket</name>
-    <desc>HOWZAT!!? Your teammates let out a loud cry of appeal to the umpire. It seems like an eternity before he raises his arm to indicate the batsman is out. Out LBW for a duck! Your fast bowlers have been deadly accurate. Let's hope your batsmen can perform as well when it's your team's turn to bat. Warning! This is not a spectator sport. International Cricket puts you in total control of bowling, batting and fielding skills. Choose your team from the international line-up, select the best players for the day and may the best team win. International Cricket is a multi-player game that allows you to choose to play a single match or series of matches. Practice in the nets or go straight into the game. Whether you are batting or fielding, your skills will make the difference between winning and losing.</desc>
-    <rating>0</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Beam Software</developer>
-    <publisher>Laser Beam Entertainment</publisher>
-    <genre>Sports</genre>
-    <players>2</players>
-    <image>./mixart/International Cricket (Australia).png</image>
-    <marquee>./wheel/International Cricket (Australia).png</marquee>
-    <video>./snap/International Cricket (Australia).mp4</video>
-  </game>
-  <game id="1800" source="ScreenScraper.fr">
-    <path>./Jeopardy! (USA).zip</path>
-    <name>Jeopardy!</name>
-    <desc>Gametek's faithful NES recreation of the long-running international quiz show. Up to three contestants can play at once, with gaps optionally filled in by computer AI. If three human players are engaged, then Player 1 and 2 share the first controller, with the second controller going to Player 3.    For the first two rounds, six categories with five questions each are randomly selected by the computer to populate the game board. The contestant who answered the last question correctly gets to pick the category and a dollar value, with harder questions being worth more money. Players have ten seconds from the time a question appears to "ring in" with the appropriate controller button and answer. </desc>
-    <rating>0.75</rating>
-    <releasedate>19880901T000000</releasedate>
-    <developer>Rare, Ltd.</developer>
-    <publisher>GameTek</publisher>
-    <genre>Educational</genre>
-    <players>1-3</players>
-    <image>./mixart/Jeopardy! (USA).png</image>
-    <marquee>./wheel/Jeopardy! (USA).png</marquee>
-    <video>./snap/Jeopardy! (USA).mp4</video>
-  </game>
-  <game id="88442" source="ScreenScraper.fr">
-    <path>./Battle Kid 2 - Mountain of Torment (USA) (Unl).zip</path>
-    <name>Battle Kid 2: Mountain of Torement</name>
-    <desc>Dr. Tina Byers, a scientist who works at Disch Corporation receives a transmission about a group of unknown origin taking base and building a Supermech, a kind of robot that has many weapon systems at Fortress Il' Akab, a fortress once inhabited by a wizard race who planted monsters and traps inside. Fearing that the Supermech may be a threat, Dr. Byers informs Timmy about the transmission and introduces him to a prototype combat suit. Wearing the suit, Timmy goes out on his ship to stop the production of the Supermech.</desc>
-    <rating>7</rating>
-    <releasedate>20100222T000000</releasedate>
-	<developer>Sivak Games</developer>
-    <publisher>Retrozone</publisher>
-    <image>./mixart/Battle Kid 2 - Mountain of Torment (USA) (Unl).png</image>
-    <marquee>./wheel/Battle Kid 2 - Mountain of Torment (USA) (Unl).png</marquee>
-    <video>./snap/Battle Kid 2 - Mountain of Torment (USA) (Unl).mp4</video>
-  </game>
-  <game id="71445" source="ScreenScraper.fr">
-    <path>./Little Red Hood (Australia) (Unl).zip</path>
-    <name>Little Red Hood</name>
-    <desc>This is no ordinary forest. Then again, this is no ordinary Little Red Riding Hood. She can sure throw a kick, and let me tell you, she needs it to get to grandma safely. The forest is filled with wicked goblins, snakes, scorpions, bears and of course, the WOLF. Team up with her faithful dog and help LITTLE RED RIDING HOOD collect fruit, candy and magic potions so that she can fight these evil beasts and save grandma!</desc>
-    <rating>0.4</rating>
-    <releasedate>19890101T000000</releasedate>
-    <developer>Sachen</developer>
-    <publisher>Sachen</publisher>
-    <genre>Action</genre>
-    <players>1-2</players>
-    <image>./mixart/Little Red Hood (Australia) (Unl).png</image>
-    <marquee>./wheel/Little Red Hood (Australia) (Unl).png</marquee>
-    <video>./snap/Little Red Hood (Australia) (Unl).mp4</video>
-  </game>
-  <game id="88516" source="ScreenScraper.fr">
-    <path>./Mind Blower Pak (Australia) (Unl).zip</path>
-    <name>Mind Blower Pak</name>
-    <desc>Four games in one cartridge! MATH QUIZ: Test your mathematical skills and have fun at the same time. JACKPOT: Play the pokies in the comfort of your lounge room. ARCTIC ADVENTURE: Go North into 50 levels of puzzling adventures with Mr. Penguin. GALACTIC CRUSADER: The ultimate shoot-'em-up game with multi-level excitement.</desc>
-    <rating>0</rating>
-    <releasedate>19920101T000000</releasedate>
-    <publisher>Home Entertainment Suppliers</publisher>
-    <image>./mixart/Mind Blower Pak (Australia) (Unl).png</image>
-    <marquee>./wheel/Mind Blower Pak (Australia) (Unl).png</marquee>
-    <video>./snap/Mind Blower Pak (Australia) (Unl).mp4</video>
-  </game>
-  <game id="1617" source="ScreenScraper.fr">
-    <path>./Ms. Pac-Man (USA) (Tengen) (Unl).zip</path>
-    <name>Ms. Pac-man (Tengen)</name>
-    <desc>At first, the game appears to be identical to the arcade original. The player navigates Ms. Pac-Man through the maze, collecting dots and avoiding the Ghosts. It is a near-perfect rendition of the original, and is rather technically impressive for NES hardware.
+	<game id="18670" source="ScreenScraper.fr">
+		<path>./Fire Hawk (USA) (Unl).zip</path>
+		<name>Fire Hawk</name>
+		<desc>The President of the United States has put you in charge of stopping  the trafficking of drugs into the United States. To accomplish this, you pilot a Firehawk helicopter gunship through seven missions that involve rescuing agents and destroying drug producing facilities. When flying you survey the whole landscape from a top down view. However, this view changes to a 3rd person perspective when you are extracting an agent with your helicopter winch.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Camerica</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Fire Hawk (USA) (Unl).png</image>
+		<marquee>./wheel/Fire Hawk (USA) (Unl).png</marquee>
+		<video>./snap/Fire Hawk (USA) (Unl).mp4</video>
+	</game>
+	<game id="1420" source="ScreenScraper.fr">
+		<path>./Top Gun (USA).zip</path>
+		<name>Top Gun</name>
+		<desc>Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.  The action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.  Enemy aircraft either overshoot the players's plane from behind and can be easily taken down, or they come from the front and fire guns and missiles. Sometimes, an enemy plane will position itself on the player's six. It should be lost quickly by steering left and right, or instant death follows.  Halfway through missions two through four comes a refueling sequence where the fuel plane's nozzle must be aligned with one's aircraft.  Every mission (except the first one) features a final mission target, which can take a lot more damage than regular targets.  Each mission concludes with a landing attempt on the aircraft carrier. To successfully land, the player's plane must have a certain altitude and speed. Successfully landing gives bonus points, but crashing the plane doesn't end the game - it simply costs a life.</desc>
+		<rating>0.5</rating>
+		<releasedate>19871102T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Top Gun (USA).png</image>
+		<marquee>./wheel/Top Gun (USA).png</marquee>
+		<video>./snap/Top Gun (USA).mp4</video>
+	</game>
+	<game id="1342" source="ScreenScraper.fr">
+		<path>./Hudson's Adventure Island (USA).zip</path>
+		<name>Adventure Island</name>
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.  The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880902T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Hudson's Adventure Island (USA).png</image>
+		<marquee>./wheel/Hudson's Adventure Island (USA).png</marquee>
+		<video>./snap/Hudson's Adventure Island (USA).mp4</video>
+	</game>
+	<game id="71312" source="ScreenScraper.fr">
+		<path>./Penguin &amp; Seal, The (Australia) (Unl).zip</path>
+		<name>Arctic Adventure, Penguin &amp; Seal</name>
+		<desc>Go North to the Arctic and meet Mr. Penguin. He is one of the great pioneers of the icy climate and if I may say so, a survivor.  His game is collecting diamonds scattered in the coldest corners of the globe. Guide Mr. Penguin through each round and help him with his diamond collection.  You must collect all the diamonds and stash them safely in your igloo. Watch out! Those nasty seals have tusks as sharp as blades. If you can't crush them with a block of ice I suggest you dive out of their way.  Hang on! This is only round No. 1. Now let's try getting through to round No. 50. If you manage to get through all of that, how about constructing your own personal custom-tailored round. Good luck!</desc>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Home Entertainment Suppliers</publisher>
+		<genre>Action-Various</genre>
+		<players>1-2</players>
+		<image>./mixart/Penguin &amp; Seal, The (Australia) (Unl).png</image>
+		<marquee>./wheel/Penguin &amp; Seal, The (Australia) (Unl).png</marquee>
+		<video>./snap/Penguin &amp; Seal, The (Australia) (Unl).mp4</video>
+	</game>
+	<game id="1786" source="ScreenScraper.fr">
+		<path>./Aussie Rules Footy (Australia).zip</path>
+		<name>Aussie Rules Footy</name>
+		<desc>It's not hard to understand what this game is about, judging by its title: a simulation of Australian football, a code of football that is little known outside of Australia but is very popular in certain areas of the country. You can either train your players (one, two, or three players at a time), play a single match, or participate in an Australian tournament, choosing one team and leading it to victory.</desc>
+		<rating>1</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Laser Beam Entertainment</developer>
+		<publisher>Beam Software</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./mixart/Aussie Rules Footy (Australia).png</image>
+		<marquee>./wheel/Aussie Rules Footy (Australia).png</marquee>
+		<video>./snap/Aussie Rules Footy (Australia).mp4</video>
+	</game>
+	<game id="1649" source="ScreenScraper.fr">
+		<path>./Banana Prince (Germany-Eng).zip</path>
+		<name>Banana Prince</name>
+		<desc>In the great Banana kingdom, the Banana nation possesses a great symbol of prosperity - a big banana. One day, the Prince is engaged in a conversation with the Dragonmaster, when the evil Paprika Dragon flies over, saying "quack, quack!", and... oh horror - steals the holy banana! The Dragonmaster is desperate. "Fear not", - says the Prince, - "for I shall embark on the perilous journey and return our dearest possession to the folk". And that is exactly what he does!  "Banana Prince" in an action platformer. You travel between locations on the world map in a linear fashion, entering various platform levels - forests, caves, towers, etc. The Prince will find various weapons during his journey and use them to take care of the numerous enemies. You can also collect rings scattered everywhere and use them as currency in shops, where you can acquire various items.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Kid</developer>
+		<publisher>Takara</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Banana Prince (Germany-Eng).png</image>
+		<marquee>./wheel/Banana Prince (Germany-Eng).png</marquee>
+		<video>./snap/Banana Prince (Germany-Eng).mp4</video>
+	</game>
+	<game id="143218" source="ScreenScraper.fr">
+		<path>./Battle Kid - Fortress of Peril (USA) (Unl).zip</path>
+		<name>Battle Kid: Fortress Of Peril</name>
+		<desc>Battle Kid: Fortress Of Peril is a 2D platform video game, released in February 2010 for the Nintendo Entertainment System, created by American developer Sivak Games, and published through Retrozone with the cover art designed by Larry Bundy Jr. Unlike most games in the modern era, Battle Kid is available for purchase only on a physical NES cartridge. While there has been a demand for a downloadable version, the developer has stated that the game is currently not planned to be released on any other formats due to a contract with Retrozone.</desc>
+		<rating>0</rating>
+		<releasedate>20100222T000000</releasedate>
+		<developer>Sivak Games</developer>
+		<publisher>Retrozone</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Battle Kid - Fortress of Peril (USA) (Unl).png</image>
+		<marquee>./wheel/Battle Kid - Fortress of Peril (USA) (Unl).png</marquee>
+		<video>./snap/Battle Kid - Fortress of Peril (USA) (Unl).mp4</video>
+	</game>
+	<game id="117223" source="ScreenScraper.fr">
+		<path>./Bio Hazard (Asia) (Unl).zip</path>
+		<name>Bio Hazard</name>
+		<desc>Based on Resident Evil for the PlayStation. The plot follows the original game scripts, although just Jill is a playable character and the game is in Chinese. This game impresses because of the small details. The beginning of the game brings the introduction of Resident Evil 1, originally a video, adapted to sprites.  There are two ROMs available; one of them freezes and makes the gameplay almost impossible in most emulators, but the second one (extracted from a WXN pack) doesn't freeze and works only in selected emulators. Also, the original cartridge doesn't have many bugs and the gameplay is completely viable. Unlike the original game, this port removes the Black Widow and Giant Snake boss battles. However, the Plant 42 boss is intact.  A Zapper or a generic pistol can be used to shoot the enemies during the battle screen.</desc>
+		<rating>0</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Waixing</developer>
+		<publisher>Waixing</publisher>
+		<genre>Action / Adventure-Action</genre>
+		<players>1</players>
+		<image>./mixart/Bio Hazard (Asia) (Unl).png</image>
+		<marquee>./wheel/Bio Hazard (Asia) (Unl).png</marquee>
+		<video>./snap/Bio Hazard (Asia) (Unl).mp4</video>
+	</game>
+	<game id="78516" source="ScreenScraper.fr">
+		<path>./Duck Maze (Australia) (Unl).zip</path>
+		<name>Duck Maze</name>
+		<desc>Jack the duck is no ordinary quacker. He is witty and rather clever, but this is not enough to get his precious egg to safety. He needs your help and ingenuity to get through the 20 mind-boggling mazes! Beware of the hidden dangers: the foxes, the traps. But most of all, let those sleeping bulldogs lie. Start your adventure in level 1 and challenge your way through to level 20, or if you are feeling vigorous, go straight into a higher level. But whatever you do, DON'T CRACK THE EGG!</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Bit Corp.</developer>
+		<publisher>Home Entertainment Suppliers</publisher>
+		<genre>Puzzle-Game-Platform</genre>
+		<players>1</players>
+		<image>./mixart/Duck Maze (Australia) (Unl).png</image>
+		<marquee>./wheel/Duck Maze (Australia) (Unl).png</marquee>
+		<video>./snap/Duck Maze (Australia) (Unl).mp4</video>
+	</game>
+	<game id="88101" source="ScreenScraper.fr">
+		<path>./Fun Blaster Pak (Australia) (Unl).zip</path>
+		<name>Fun Blaster Pak</name>
+		<desc>Compilation of four games:    PIPEMANIA: A totally radical game entrenched in a deep underground maze of pipes.    TWIN EAGLE: Twin fun with simultaneous two-player shooting action.    METAL FIGHTER: You are Joyvan Kid and must save the planet Earth from alien occupation.    LITTLE RED HOOD: Solve the mysteries of the forest with eight levels of enchanted fun.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Bit Corp.</developer>
+		<publisher>Home Entertainment Suppliers</publisher>
+		<image>./mixart/Fun Blaster Pak (Australia) (Unl).png</image>
+		<marquee>./wheel/Fun Blaster Pak (Australia) (Unl).png</marquee>
+		<video>./snap/Fun Blaster Pak (Australia) (Unl).mp4</video>
+	</game>
+	<game id="18718" source="ScreenScraper.fr">
+		<path>./Hot Slots (Asia) (Unl).zip</path>
+		<name>Hot Slots</name>
+		<desc>This is a simple slot machine simulation. What makes it different are the erotic pictures of naked or half-naked girls, which you get if you successfully complete a casino round and win a lot of money. There are three casinos you can play in, each one leading to different girls and different short scenes and comments from them.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hacker International</developer>
+		<publisher>Panesian</publisher>
+		<genre>Simulation-Casino / Slot machine-Casino</genre>
+		<players>1</players>
+		<image>./mixart/Hot Slots (Asia) (Unl).png</image>
+		<marquee>./wheel/Hot Slots (Asia) (Unl).png</marquee>
+		<video>./snap/Hot Slots (Asia) (Unl).mp4</video>
+	</game>
+	<game id="71422" source="ScreenScraper.fr">
+		<path>./Indiana Jones and the Last Crusade (USA) (UBI Soft).zip</path>
+		<name>Indiana Jones and the Last Crusade</name>
+		<desc>Indiana Jones and the Last Crusade differs from the two other games with the same name as it is a hybrid of various genres such as platform action, motorcycle racing, puzzle solving and even some adventure elements.  In Indiana Jones and the Last Crusade you play Indy's role in his search for the Holy Grail, but this time it is you who chooses which step he will take at each part of his quest. For example, in the very beginning you receive a diary about the Grail from Indy's father, who is in Venice. At the same time, you receive a telegram from Marcus saying that the Cross of Coronado is in Portugal on a ship called Coronado, and that he'll meet Indy there. So you have to choose what you'll do first: go to Venice and check about the Grail and your father, or go to Portugal to find Marcus and the Cross of Coronado.  In the entire game you'll be prompted with these choices, each one leading to different stages throughout the game. Each stage presents different game genres. For example, in Venice you find a scrambled picture of the Grail, and you have to try to put it back together, just like you'd do with the pieces of a puzzle. Besides, in the platform stages, Indy has plenty of movements, as he can punch, kick, walk, run, jump and use his whip.  The game presents bitmapped pictures of the real movie actors, such as Harrison Ford and Sean Connery.</desc>
+		<rating>0.85</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>NMS Software</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Indiana Jones and the Last Crusade (USA) (UBI Soft).png</image>
+		<marquee>./wheel/Indiana Jones and the Last Crusade (USA) (UBI Soft).png</marquee>
+		<video>./snap/Indiana Jones and the Last Crusade (USA) (UBI Soft).mp4</video>
+	</game>
+	<game id="71423" source="ScreenScraper.fr">
+		<path>./International Cricket (Australia).zip</path>
+		<name>International Cricket</name>
+		<desc>HOWZAT!!? Your teammates let out a loud cry of appeal to the umpire. It seems like an eternity before he raises his arm to indicate the batsman is out. Out LBW for a duck! Your fast bowlers have been deadly accurate. Let's hope your batsmen can perform as well when it's your team's turn to bat. Warning! This is not a spectator sport. International Cricket puts you in total control of bowling, batting and fielding skills. Choose your team from the international line-up, select the best players for the day and may the best team win. International Cricket is a multi-player game that allows you to choose to play a single match or series of matches. Practice in the nets or go straight into the game. Whether you are batting or fielding, your skills will make the difference between winning and losing.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Laser Beam Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>./mixart/International Cricket (Australia).png</image>
+		<marquee>./wheel/International Cricket (Australia).png</marquee>
+		<video>./snap/International Cricket (Australia).mp4</video>
+	</game>
+	<game id="1800" source="ScreenScraper.fr">
+		<path>./Jeopardy! (USA).zip</path>
+		<name>Jeopardy!</name>
+		<desc>Gametek's faithful NES recreation of the long-running international quiz show. Up to three contestants can play at once, with gaps optionally filled in by computer AI. If three human players are engaged, then Player 1 and 2 share the first controller, with the second controller going to Player 3.    For the first two rounds, six categories with five questions each are randomly selected by the computer to populate the game board. The contestant who answered the last question correctly gets to pick the category and a dollar value, with harder questions being worth more money. Players have ten seconds from the time a question appears to "ring in" with the appropriate controller button and answer. </desc>
+		<rating>0.75</rating>
+		<releasedate>19880901T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>GameTek</publisher>
+		<genre>Educational</genre>
+		<players>1-3</players>
+		<image>./mixart/Jeopardy! (USA).png</image>
+		<marquee>./wheel/Jeopardy! (USA).png</marquee>
+		<video>./snap/Jeopardy! (USA).mp4</video>
+	</game>
+	<game id="88442" source="ScreenScraper.fr">
+		<path>./Battle Kid 2 - Mountain of Torment (USA) (Unl).zip</path>
+		<name>Battle Kid 2: Mountain of Torement</name>
+		<desc>Dr. Tina Byers, a scientist who works at Disch Corporation receives a transmission about a group of unknown origin taking base and building a Supermech, a kind of robot that has many weapon systems at Fortress Il' Akab, a fortress once inhabited by a wizard race who planted monsters and traps inside. Fearing that the Supermech may be a threat, Dr. Byers informs Timmy about the transmission and introduces him to a prototype combat suit. Wearing the suit, Timmy goes out on his ship to stop the production of the Supermech.</desc>
+		<rating>7</rating>
+		<releasedate>20100222T000000</releasedate>
+		<developer>Sivak Games</developer>
+		<publisher>Retrozone</publisher>
+		<image>./mixart/Battle Kid 2 - Mountain of Torment (USA) (Unl).png</image>
+		<marquee>./wheel/Battle Kid 2 - Mountain of Torment (USA) (Unl).png</marquee>
+		<video>./snap/Battle Kid 2 - Mountain of Torment (USA) (Unl).mp4</video>
+	</game>
+	<game id="71445" source="ScreenScraper.fr">
+		<path>./Little Red Hood (Australia) (Unl).zip</path>
+		<name>Little Red Hood</name>
+		<desc>This is no ordinary forest. Then again, this is no ordinary Little Red Riding Hood. She can sure throw a kick, and let me tell you, she needs it to get to grandma safely. The forest is filled with wicked goblins, snakes, scorpions, bears and of course, the WOLF. Team up with her faithful dog and help LITTLE RED RIDING HOOD collect fruit, candy and magic potions so that she can fight these evil beasts and save grandma!</desc>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Sachen</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Little Red Hood (Australia) (Unl).png</image>
+		<marquee>./wheel/Little Red Hood (Australia) (Unl).png</marquee>
+		<video>./snap/Little Red Hood (Australia) (Unl).mp4</video>
+	</game>
+	<game id="88516" source="ScreenScraper.fr">
+		<path>./Mind Blower Pak (Australia) (Unl).zip</path>
+		<name>Mind Blower Pak</name>
+		<desc>Four games in one cartridge! MATH QUIZ: Test your mathematical skills and have fun at the same time. JACKPOT: Play the pokies in the comfort of your lounge room. ARCTIC ADVENTURE: Go North into 50 levels of puzzling adventures with Mr. Penguin. GALACTIC CRUSADER: The ultimate shoot-'em-up game with multi-level excitement.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Home Entertainment Suppliers</publisher>
+		<image>./mixart/Mind Blower Pak (Australia) (Unl).png</image>
+		<marquee>./wheel/Mind Blower Pak (Australia) (Unl).png</marquee>
+		<video>./snap/Mind Blower Pak (Australia) (Unl).mp4</video>
+	</game>
+	<game id="1617" source="ScreenScraper.fr">
+		<path>./Ms. Pac-Man (USA) (Tengen) (Unl).zip</path>
+		<name>Ms. Pac-man (Tengen)</name>
+		<desc>At first, the game appears to be identical to the arcade original. The player navigates Ms. Pac-Man through the maze, collecting dots and avoiding the Ghosts. It is a near-perfect rendition of the original, and is rather technically impressive for NES hardware.
 
 What makes this port stand out are its many new mazes. There are four selectable gamemodes, each with their own unique maze layouts. They include:
 
@@ -14152,109 +14122,101 @@ Arcade - the four mazes from the arcade game.
 Mini - very small mazes.
 Big - very large mazes.
 Strange - oddly-shaped mazes.</desc>
-    <rating>0.9</rating>
-    <releasedate>19900101T000000</releasedate>
-    <developer>Tengen</developer>
-    <publisher>Tengen</publisher>
-    <genre>Action</genre>
-    <players>1-2</players>
-    <image>./mixart/Ms. Pac-Man (USA) (Tengen) (Unl).png</image>
-    <marquee>./wheel/Ms. Pac-Man (USA) (Tengen) (Unl).png</marquee>
-    <video>./snap/Ms. Pac-Man (USA) (Tengen) (Unl).mp4</video>
-  </game>
-  <game id="1577" source="ScreenScraper.fr">
-    <path>./Othello (Australia) (HES) (Unl).zip</path>
-    <name>Othello (HES)</name>
-    <desc>The original challenging board-game of "OTHELLO", you can now play on your Nintendo system. It's a game of strategy and concentration to ultimately "outflank" your opponent. The object of the game is to flip your opponents discs to your colour, ending up with a majority of discs on the board bearing your colour. To "outflank" means to trap one or more of your opponents discs in the middle of two of yours. Three skill levels against the computer or a friend. For one or two players using pads.</desc>
-    <rating>0.7</rating>
-    <releasedate>19880101T000000</releasedate>
-    <developer>Bit Corp.</developer>
-    <publisher>HES Interactive</publisher>
-    <genre>Strategy</genre>
-    <players>1-2</players>
-    <image>./mixart/Othello (Australia) (HES) (Unl).png</image>
-    <marquee>./wheel/Othello (Australia) (HES) (Unl).png</marquee>
-    <video>./snap/Othello (Australia) (HES) (Unl).mp4</video>
-  </game>
-  <game id="1664" source="ScreenScraper.fr">
-    <path>./Parasol Stars - Rainbow Islands II (Europe).zip</path>
-    <name>Parasol Stars: Rainbow Islands 2</name>
-    <desc>This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms.  The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups.  But this time they're armed with umbrellas! Oh, okay then, parasols... </desc>
-    <rating>0</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Ocean</developer>
-    <publisher>Taito</publisher>
-    <genre>Action</genre>
-    <players>1-2</players>
-    <image>./mixart/Parasol Stars - Rainbow Islands II (Europe).png</image>
-    <marquee>./wheel/Parasol Stars - Rainbow Islands II (Europe).png</marquee>
-    <video>./snap/Parasol Stars - Rainbow Islands II (Europe).mp4</video>
-  </game>
-  <game id="18743" source="ScreenScraper.fr">
-    <path>./Peek-A-Boo Poker (Asia) (Unl).zip</path>
-    <name>Peek-A-Boo Poker</name>
-    <desc>This is a simulation of strip poker. You play a standard five-cards poker (change one time, must call or drop if the bet was raised) against one of the three girls: Full House Francine, Double Dealing Debbie, or Pok-er Penny. After the girls have lost enough money, they will bet their clothes. If they lose those, you get to see some erotic images of the girls and hear sexy comments from them.</desc>
-    <rating>0.45</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Hacker International</developer>
-    <publisher>Panesian</publisher>
-    <genre>Strategy</genre>
-    <players>1</players>
-    <image>./mixart/Peek-A-Boo Poker (Asia) (Unl).png</image>
-    <marquee>./wheel/Peek-A-Boo Poker (Asia) (Unl).png</marquee>
-    <video>./snap/Peek-A-Boo Poker (Asia) (Unl).mp4</video>
-  </game>
-  <game id="1321" source="ScreenScraper.fr">
-    <path>./Probotector II - Return of the Evil Forces (Europe).zip</path>
-    <name>Probotector II: Return of the Evil Forces</name>
-    <desc>After losing a confrontation against Super Commandos Mad Dog and Scorpion, the juices of destruction drip from the spiked tongue of the vile alien warmonger - Red Falcon. Now, he's coming back stronger than ever, with a sinister plan that includes having his intergalactic warriors seep into the brains of the U.S. Army. To support his disguised forces of doom, he's recruited Jagger Froid, a demented alien from the Black Hole Galaxy. He's also shuttled in The Babula Destructoid Mechanism with its Beam of Death. With torrential terror about to rain down upon civilization, Earth's only hope rests with you, Scorpion, and your pal, the Dogster. And if your spread guns, lasers, flame throwers and mega shells fail to destroy Red Falcon's eight levels of terror, including radioactive lava fields, it's all over but for the shouting, the screaming and the cries from a disintegrating world!</desc>
-    <rating>0.85</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Plateform / Shooter Scrolling-Platform</genre>
-    <players>1-2</players>
-    <image>./mixart/Probotector II - Return of the Evil Forces (Europe).png</image>
-    <marquee>./wheel/Probotector II - Return of the Evil Forces (Europe).png</marquee>
-    <video>./snap/Probotector II - Return of the Evil Forces (Europe).mp4</video>
-  </game>
-  <game id="189425" source="ScreenScraper.fr">
-    <path>./Probotector (Europe).zip</path>
-    <name>Probotector</name>
-    <desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.  As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
-    <rating>0.8</rating>
-    <releasedate>19901228T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Action</genre>
-    <players>1-2</players>
-    <image>./mixart/Probotector (Europe).png</image>
-    <marquee>./wheel/Probotector (Europe).png</marquee>
-    <video>./snap/Probotector (Europe).mp4</video>
-  </game>
-  <game id="102109" source="ScreenScraper.fr">
-    <path>./Tetris - The Soviet Mind Game (USA) (Unl).zip</path>
-    <name>Tetris: The Soviet Mind Game</name>
-    <desc>The drama surrounding Tetris is one of the most storied sagas in the history of the NES. Tengen, an ambitious Atari-associated game developer, began releasing official NES games in 1988. Meanwhile, the company worked rapidly behind the scenes to override Nintendo's infamous lockout device that kept unofficial cartridges from being played on its console. When Tengen released its first unofficial games using its new technology, Nintendo quickly sued. This was just the beginning of the Tengen/Nintendo feud. Ignoring Nintendo's claim to the Tetris name in the US a year later, Tengen released its own version of the world's most famous puzzle game on an unlocked, unofficial cartridge. Tengen's tetris was pulled from shelves almost immediately when it was revealed that Nintendo's hold on the Tetris name stateside was legitimate. Unfortunately, almost everyone agrees that Tengen's version of the game was far superior to Nintendo's, even including a two-player mode which Nintendo's version sorely lacked. Today, the game known as Tengen Tetris is a rare title to have in your collection, but it's a worthwhile play. After all, Tetris is one of the classic games not only on the NES, but of all-time.</desc>
-    <rating>0.8</rating>
-    <releasedate>19890501T000000</releasedate>
-    <developer>Atari</developer>
-    <publisher>Tengen</publisher>
-    <genre>Puzzle-Game</genre>
-    <players>1-2</players>
-    <image>./mixart/Tetris - The Soviet Mind Game (USA) (Unl).png</image>
-    <marquee>./wheel/Tetris - The Soviet Mind Game (USA) (Unl).png</marquee>
-    <video>./snap/Tetris - The Soviet Mind Game (USA) (Unl).mp4</video>
-  </game>
-	<!--===========================
-	___________ _______  ________   
-	\_   _____/ \      \ \______ \  
-	 |    __)_  /   |   \ |    |  \ 
-	 |        \/    |    \|    `   \
-	/_______  /\____|__  /_______  /
-			\/         \/        \/  
-	=============================-->
-  	<game id="1468" source="ScreenScraper.fr">
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Ms. Pac-Man (USA) (Tengen) (Unl).png</image>
+		<marquee>./wheel/Ms. Pac-Man (USA) (Tengen) (Unl).png</marquee>
+		<video>./snap/Ms. Pac-Man (USA) (Tengen) (Unl).mp4</video>
+	</game>
+	<game id="1577" source="ScreenScraper.fr">
+		<path>./Othello (Australia) (HES) (Unl).zip</path>
+		<name>Othello (HES)</name>
+		<desc>The original challenging board-game of "OTHELLO", you can now play on your Nintendo system. It's a game of strategy and concentration to ultimately "outflank" your opponent. The object of the game is to flip your opponents discs to your colour, ending up with a majority of discs on the board bearing your colour. To "outflank" means to trap one or more of your opponents discs in the middle of two of yours. Three skill levels against the computer or a friend. For one or two players using pads.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Bit Corp.</developer>
+		<publisher>HES Interactive</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./mixart/Othello (Australia) (HES) (Unl).png</image>
+		<marquee>./wheel/Othello (Australia) (HES) (Unl).png</marquee>
+		<video>./snap/Othello (Australia) (HES) (Unl).mp4</video>
+	</game>
+	<game id="1664" source="ScreenScraper.fr">
+		<path>./Parasol Stars - Rainbow Islands II (Europe).zip</path>
+		<name>Parasol Stars: Rainbow Islands 2</name>
+		<desc>This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms.  The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups.  But this time they're armed with umbrellas! Oh, okay then, parasols... </desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Parasol Stars - Rainbow Islands II (Europe).png</image>
+		<marquee>./wheel/Parasol Stars - Rainbow Islands II (Europe).png</marquee>
+		<video>./snap/Parasol Stars - Rainbow Islands II (Europe).mp4</video>
+	</game>
+	<game id="18743" source="ScreenScraper.fr">
+		<path>./Peek-A-Boo Poker (Asia) (Unl).zip</path>
+		<name>Peek-A-Boo Poker</name>
+		<desc>This is a simulation of strip poker. You play a standard five-cards poker (change one time, must call or drop if the bet was raised) against one of the three girls: Full House Francine, Double Dealing Debbie, or Pok-er Penny. After the girls have lost enough money, they will bet their clothes. If they lose those, you get to see some erotic images of the girls and hear sexy comments from them.</desc>
+		<rating>0.45</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hacker International</developer>
+		<publisher>Panesian</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Peek-A-Boo Poker (Asia) (Unl).png</image>
+		<marquee>./wheel/Peek-A-Boo Poker (Asia) (Unl).png</marquee>
+		<video>./snap/Peek-A-Boo Poker (Asia) (Unl).mp4</video>
+	</game>
+	<game id="1321" source="ScreenScraper.fr">
+		<path>./Probotector II - Return of the Evil Forces (Europe).zip</path>
+		<name>Probotector II: Return of the Evil Forces</name>
+		<desc>After losing a confrontation against Super Commandos Mad Dog and Scorpion, the juices of destruction drip from the spiked tongue of the vile alien warmonger - Red Falcon. Now, he's coming back stronger than ever, with a sinister plan that includes having his intergalactic warriors seep into the brains of the U.S. Army. To support his disguised forces of doom, he's recruited Jagger Froid, a demented alien from the Black Hole Galaxy. He's also shuttled in The Babula Destructoid Mechanism with its Beam of Death. With torrential terror about to rain down upon civilization, Earth's only hope rests with you, Scorpion, and your pal, the Dogster. And if your spread guns, lasers, flame throwers and mega shells fail to destroy Red Falcon's eight levels of terror, including radioactive lava fields, it's all over but for the shouting, the screaming and the cries from a disintegrating world!</desc>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform</genre>
+		<players>1-2</players>
+		<image>./mixart/Probotector II - Return of the Evil Forces (Europe).png</image>
+		<marquee>./wheel/Probotector II - Return of the Evil Forces (Europe).png</marquee>
+		<video>./snap/Probotector II - Return of the Evil Forces (Europe).mp4</video>
+	</game>
+	<game id="189425" source="ScreenScraper.fr">
+		<path>./Probotector (Europe).zip</path>
+		<name>Probotector</name>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.  As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<rating>0.8</rating>
+		<releasedate>19901228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Probotector (Europe).png</image>
+		<marquee>./wheel/Probotector (Europe).png</marquee>
+		<video>./snap/Probotector (Europe).mp4</video>
+	</game>
+	<game id="102109" source="ScreenScraper.fr">
+		<path>./Tetris - The Soviet Mind Game (USA) (Unl).zip</path>
+		<name>Tetris: The Soviet Mind Game</name>
+		<desc>The drama surrounding Tetris is one of the most storied sagas in the history of the NES. Tengen, an ambitious Atari-associated game developer, began releasing official NES games in 1988. Meanwhile, the company worked rapidly behind the scenes to override Nintendo's infamous lockout device that kept unofficial cartridges from being played on its console. When Tengen released its first unofficial games using its new technology, Nintendo quickly sued. This was just the beginning of the Tengen/Nintendo feud. Ignoring Nintendo's claim to the Tetris name in the US a year later, Tengen released its own version of the world's most famous puzzle game on an unlocked, unofficial cartridge. Tengen's tetris was pulled from shelves almost immediately when it was revealed that Nintendo's hold on the Tetris name stateside was legitimate. Unfortunately, almost everyone agrees that Tengen's version of the game was far superior to Nintendo's, even including a two-player mode which Nintendo's version sorely lacked. Today, the game known as Tengen Tetris is a rare title to have in your collection, but it's a worthwhile play. After all, Tetris is one of the classic games not only on the NES, but of all-time.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890501T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Tengen</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<image>./mixart/Tetris - The Soviet Mind Game (USA) (Unl).png</image>
+		<marquee>./wheel/Tetris - The Soviet Mind Game (USA) (Unl).png</marquee>
+		<video>./snap/Tetris - The Soviet Mind Game (USA) (Unl).mp4</video>
+	</game>
+	<game id="1468" source="ScreenScraper.fr">
 		<path>./1943 - The Battle of Midway (USA).zip</path>
 		<name>1943: The Battle of Midway</name>
 		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
@@ -28052,8 +28014,6 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action-Role playing games</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200508T051134</lastplayed>
 	</game>
 	<game>
 		<path>./Blaster Master (USA).zip</path>
@@ -28196,5 +28156,53 @@ The game has seven stages. The first and the last must be played first and last 
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Role playing games-Action / Adventure</genre>
+	</game>
+	<game>
+		<path>./Blades of Steel (USA).zip</path>
+		<name>Blades of Steel</name>
+		<desc>Based on the arcade game, Blades Of Steel is a hockey arcade action game (gameplay doesn't require the need to worry about statistics or provide the ability to customize teams.) Two players can play against each other, or one player against the computer. In one player mode there are single game and tournament mode options.  From time to time a fight may break out, which will provide a close up view of the two players. The player has control during the miniature fight game sequence, with the loser having to spend time in the penalty box.  The referee will break up fights that go on too long, and calls a few penalties such as icing. Several short clips of digitized voices are also featured.</desc>
+		<image>./mixart/Blades of Steel (USA).png</image>
+		<video>./snap/Blades of Steel (USA).mp4</video>
+		<marquee>./wheel/Blades of Steel (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19881202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200626T232936</lastplayed>
+	</game>
+	<game>
+		<path>./Ice Hockey (USA).zip</path>
+		<name>Ice Hockey</name>
+		<desc>Ice Hockey is an action game for one or two players. Start of by selecting a team and customizing your players. Each team member can be one of three player types: small and skinny (very fast, but not good at checking or shooting), very large (slow, but with a strong body check and outstanding shooting strength) or average (medium speed, with average checking and shooting strength). After the teams are set up, it's time to play some ice hockey! Gameplay features a scrolling screen to follow the action, and lets you choose which of the players you wish to control when on defense (on offense you always control the player with the puck). Fights can break out between players, and the loser may end up in the penalty box. There are five different speed settings for the game, and periods can be either 7, 10, or 15 minutes long.</desc>
+		<image>./mixart/Ice Hockey (USA).png</image>
+		<video>./snap/Ice Hockey (USA).mp4</video>
+		<marquee>./wheel/Ice Hockey (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880302T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200626T232730</lastplayed>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'☆Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>1-2</players>
+		<playcount>5</playcount>
+		<lastplayed>20200628T140224</lastplayed>
 	</game>
 </gameList>
