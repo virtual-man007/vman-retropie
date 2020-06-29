@@ -13615,8 +13615,6 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 		<publisher>Midway</publisher>
 		<genre>Fight-Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20200530T005059</lastplayed>
 	</game>
   <game id="19196" source="ScreenScraper.fr">
     <path>./Star Fox (USA).zip</path>
@@ -13660,4 +13658,64 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
     <marquee>./wheel/Sensible Soccer - International Edition (Europe).png</marquee>
     <video>./snap/Sensible Soccer - International Edition (Europe).mp4</video>
   </game>
+	<game>
+		<path>./Justice for Mario.7z</path>
+		<name>'☆Justice for Mario</name>
+		<desc>Justice for Mario is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/Justice for Mario.jpg</image>
+		<video>./snap/Justice for Mario.mp4</video>
+		<marquee>./wheel/Justice for Mario.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+	</game>
+	<game>
+		<path>./New Super Mario World 2 Around The World.7z</path>
+		<name>'☆New Super Mario World 2 Around The World</name>
+		<desc>New Super Mario World 2 Around The World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/New Super Mario World 2 Around The World.jpg</image>
+		<video>./snap/New Super Mario World 2 Around The World.mp4</video>
+		<marquee>./wheel/New Super Mario World 2 Around The World.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Pasedonal Mario Worlds.7z</path>
+		<name>'☆Pasedonal Mario Worlds</name>
+		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/Pasedonal Mario Worlds.jpg</image>
+		<video>./snap/Pasedonal Mario Worlds.mp4</video>
+		<marquee>./wheel/Pasedonal Mario.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Super Enan World.7z</path>
+		<name>'☆Super Enan World</name>
+		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/Super Enan World.jpg</image>
+		<video>./snap/Super Enan World.mp4</video>
+		<marquee>./wheel/Super Enan World.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Super Luigi Land.7z</path>
+		<name>'☆Super Luigi Land</name>
+		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/Super Luigi Land.jpg</image>
+		<video>./snap/Super Luigi Land.mp4</video>
+		<marquee>./wheel/Super Luigi Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+	</game>
 </gameList>
