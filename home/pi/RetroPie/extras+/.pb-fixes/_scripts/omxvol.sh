@@ -1,5 +1,7 @@
 #!/bin/bash
-# OMXPlayer Volume Control v20.04.2020 By 2Play! 
+# The PlayBox Project
+# Copyright (C)2018-2020 2Play! (S.R.)
+# OMXPlayer Volume Control 12.07.20 
 
 infobox=""
 infobox="${infobox}\n"
@@ -25,29 +27,50 @@ function main_menu() {
             --ok-label OK --cancel-label Exit \
             --menu "Please Set OMXPlayer Volume:" 25 75 20 \
             - "*** OMX VOLUME CONTROL SELECTIONS ***" \
-            1 " - Set to 75%" \
-            2 " - Set to 70%" \
-            3 " - Set to 60%" \
-            4 " - Set to 50%" \
-            5 " - Set to 25%" \
-            6 " - Set to 100% (Default - Reset)" \
-            7 " - Set to 0% (Mute)" \
+            1 " - Set to 90%" \
+			2 " - Set to 85%" \
+			3 " - Set to 80%" \
+			4 " - Set to 75%" \
+            5 " - Set to 70%" \
+            6 " - Set to 60%" \
+            7 " - Set to 50%" \
+            8 " - Set to 25%" \
+            9 " - Set to 100% (Default - Reset)" \
+            10 " - Set to 0% (Mute)" \
             2>&1 > /dev/tty)
 
         case "$choice" in
-            1) omx75  ;;
-            2) omx70  ;;
-            3) omx60  ;;
-            4) omx50  ;;
-            5) omx25  ;;
-            6) omx100  ;;
-            7) omx0  ;;
+            1) omx90  ;;
+			2) omx85  ;;
+			3) omx80  ;;
+			4) omx75  ;;
+            5) omx70  ;;
+            6) omx60  ;;
+            7) omx50  ;;
+            8) omx25  ;;
+            9) omx100  ;;
+           10) omx0  ;;
             -) none ;;
             *)  break ;;
         esac
     done
 }
 
+
+function omx90() {
+	dialog --infobox "...Applying..." 3 20 ; sleep 1
+	 sudo sed -i 's/$OMXPLAYER_BIN --vol -[0-9]*/$OMXPLAYER_BIN/g; s/$OMXPLAYER_BIN/$OMXPLAYER_BIN --vol -600/g' /usr/bin/omxplayer
+}
+
+function omx85() {
+	dialog --infobox "...Applying..." 3 20 ; sleep 1
+	 sudo sed -i 's/$OMXPLAYER_BIN --vol -[0-9]*/$OMXPLAYER_BIN/g; s/$OMXPLAYER_BIN/$OMXPLAYER_BIN --vol -900/g' /usr/bin/omxplayer
+}
+
+function omx80() {
+	dialog --infobox "...Applying..." 3 20 ; sleep 1
+	 sudo sed -i 's/$OMXPLAYER_BIN --vol -[0-9]*/$OMXPLAYER_BIN/g; s/$OMXPLAYER_BIN/$OMXPLAYER_BIN --vol -1200/g' /usr/bin/omxplayer
+}
 
 function omx75() {
 	dialog --infobox "...Applying..." 3 20 ; sleep 1
