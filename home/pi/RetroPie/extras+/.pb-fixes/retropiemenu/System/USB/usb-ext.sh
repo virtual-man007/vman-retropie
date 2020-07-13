@@ -2,7 +2,7 @@
 # USB External Script by 2Play Based on Eazy Hax USB Script!
 # The PlayBox Project
 # Copyright (C)2018-2020 2Play! (S.R.)
-# 03.07.20
+# 13.07.20
 
 infobox=""
 infobox="${infobox}\n"
@@ -36,6 +36,8 @@ function main_menu() {
 			- "" \
 			- "*** RESTORE ALL XML - ART TO DEFAULT ***" \
 			5 " - I have ALL on SD or Restore any changes on USB XML" \
+			- "" \
+			- "*** MOVE A SYSTEM SELECTIONS ***" \
             6 " - I want to move a SYSTEM from SD => Ext. USB" \
 			7 " - I want to move a SYSTEM from Ext. USB => SD" \
 			2>&1 > /dev/tty)
@@ -85,7 +87,8 @@ if [ "$usb_filesystem" != "ntfs" ] ; then
 echo "This external drive is not correctly formatted. It must be formatted using the NTFS filesystem. Please reformat it to NTFS."
 echo "Fat vfat exfat filesystems are not supported"
 sleep 10; exit
-else echo "External drive checks out. Correctly formatted to NTFS"
+else
+echo "External drive checks out. Correctly formatted to NTFS"
 sleep 5
 fi
 
@@ -168,7 +171,6 @@ if [ ! -d $HOME/addonusb ]; then
     echo ""
     sleep 5
 else
-
 echo "External Drive Detected..."
 sleep 3
 echo
@@ -234,7 +236,15 @@ if [ -d $HOME/addonusb ]; then cd $HOME/addonusb/roms
 	read -p 'So which system would you like to update: ' sname
 	echo
 	cd $sname
-	sed -i 's#<image>.#<image>'$HOME'/addonusb/roms/'$sname'#g; s#<marquee>.#<marquee>'$HOME'/addonusb/roms/'$sname'#g; s#<video>.#<video>'$HOME'/addonusb/roms/'$sname'#g' gamelist.xml > /dev/null
+	mv gamelist.xml $HOME/RetroPie/localroms/$sname
+	cd $HOME/RetroPie/localroms/$sname
+		if grep 'addonusb' gamelist.xml > /dev/null; then
+		echo
+		echo "Your gamelist.xml already points to USB Art!"
+		echo
+		else
+		sed -i 's#<image>.#<image>'$HOME'/addonusb/roms/'$sname'#g; s#<marquee>.#<marquee>'$HOME'/addonusb/roms/'$sname'#g; s#<video>.#<video>'$HOME'/addonusb/roms/'$sname'#g' gamelist.xml > /dev/null
+		fi
 	echo
 	echo "[OK DONE!...]"
 	sleep 1
@@ -277,6 +287,8 @@ if [ -d $HOME/addonusb ]; then cd $HOME/addonusb/roms
 	read -p 'So which system would you like to update: ' sname
 	echo
 	cd $sname
+	mv gamelist.xml $HOME/RetroPie/localroms/$sname
+	cd $HOME/RetroPie/localroms/$sname
 	sed -i 's#<image>'$HOME'/addonusb/roms/.*\/mixart#<image>./mixart#g; s#<marquee>'$HOME'/addonusb/roms/.*\/wheel#<marquee>./wheel#g; s#<video>'$HOME'/addonusb/roms/.*\/snap#<video>./snap#g' gamelist.xml > /dev/null
 	echo
 	echo "[OK DONE!...]"
@@ -408,7 +420,7 @@ clear
 	cd $HOME/RetroPie/localroms/$sname/
 	find ./ -type d -print0 | xargs -0 chmod 755
 	find ./ -type f -print0 | xargs -0 chmod 644
-	chmod 755 *.sh
+	chmod 755 *.sh && chmod 755 *.exe  && chmod 755 *.com && chmod 755 *.bat
 	echo
 	echo "[OK DONE!...]"
 	sleep 1
