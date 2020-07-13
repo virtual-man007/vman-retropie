@@ -136,7 +136,7 @@ chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
 cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
-# 2020-05-06 fixplaybox toolkit update - by 2play!
+# 2020-07-13 fixplaybox toolkit update - Fix retropiemenu (option 1) without exiting to CLi. As on PlayBox v2 -Latest PlayBox Toolkit with updates and new option to force a filesystem - by 2play!
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
 cp -rf ./home/pi/RetroPie/retropiemenu/fixplaybox.sh /home/pi/RetroPie/retropiemenu/fixplaybox.sh
 chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh

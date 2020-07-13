@@ -1,7 +1,7 @@
 #!/bin/bash
-# All required fixes in case you break something 
-# Fix retropiemenu, es_systems.cfg etc.
-# PlayBox ToolKit v03.05.2020
+# The PlayBox Project
+# Copyright (C)2018-2020 2Play! (S.R.)
+# PlayBox ToolKit 01.07.20
 
 infobox=""
 infobox="${infobox}        __________.__                 __________                
@@ -36,7 +36,7 @@ function main_menu() {
         choice=$(dialog --backtitle "$BACKTITLE" --title " MAIN MENU " \
             --ok-label OK --cancel-label Exit \
             --menu "Which fix or action would you like to apply?" 25 75 20 \
-            1 "Fix:  Fix PlayBox Custom Retropie Menu	***Only from cli***" \
+            1 "Fix:  Fix PlayBox Custom Retropie Menu" \
             2 "Fix:  Set Your Region US/EU-JP/ALL (es_systems)" \
             3 "Fix:  Repair BGM Emulator Mute Config File" \
             4 "Fix:  Restore 2Play! Original Slideshow Images Set" \
@@ -53,11 +53,10 @@ function main_menu() {
            15 "Info:  Show Partitions & Space Info" \
            16 "Info:  Show System Free Memory Info" \
            17 "Info:  Show OS Version & Info" \
-           18 "Desktop:  Start Raspbian Desktop		***Only from cli***" \
-           19 "System:  System Update" \
-           20 "System:  System Full Info" \
-           21 "System:  System Shutdown" \
-           22 "System:  System Reboot" \
+           18 "System:  System Update" \
+           19 "System:  System Full Info" \
+           20 "System:  System Shutdown" \
+           21 "System:  System Reboot" \
             2>&1 > /dev/tty)
 
         case "$choice" in
@@ -78,11 +77,10 @@ function main_menu() {
            15) partitions  ;;
            16) freemem  ;;
            17) os_info  ;;
-           18) raspbian  ;;
-           19) os_update  ;;
-           20) sysinfo  ;;
-           21) shutdown_sc  ;;
-           22) reboot_sc  ;;
+           18) os_update  ;;
+           19) sysinfo  ;;
+           20) shutdown_pb  ;;
+           21) reboot_pb  ;;
             *)  break ;;
         esac
     done
@@ -106,7 +104,7 @@ function fix_rpiem() {
 	mv -f /home/pi/RetroPie/retropiemenu/splashscreen.rp /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
 	mv -f /home/pi/RetroPie/retropiemenu/hurstythemes.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
 	mv -f /home/pi/RetroPie/retropiemenu/bezelproject.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
-	rm -rf /home/pi/RetroPie/retropiemenu && rsync -av /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/ /home/pi/RetroPie/retropiemenu && cp /home/pi/RetroPie/extras+/.pb-fixes/retropie-gml/gamelist2play.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
+	rsync -avh --delete /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/ /home/pi/RetroPie/retropiemenu && cp /home/pi/RetroPie/extras+/.pb-fixes/retropie-gml/gamelist2play.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
 	sudo rm -rf /etc/emulationstation/themes/carbon/
 }
 
@@ -219,12 +217,6 @@ function os_info() {
 	read -n 1 -s -r -p "Press any key to continue"
 }
 
-function raspbian() {
-	dialog --infobox "...Starting..." 3 20 ; sleep 1
-	clear
-	startx
-}
-
 function os_update() {
 	dialog --infobox "...Please wait until updates completed!..." 3 50 ; sleep 2
 	clear
@@ -239,7 +231,7 @@ function sysinfo() {
 	/home/pi/RetroPie/extras+/.pb-fixes/_scripts/2play_sysinfo.sh
 }
 
-function shutdown_sc() {
+function shutdown_pb() {
 	dialog --infobox "...Shutting Down..." 3 23 ; sleep 1
 	clear
 	echo
@@ -248,7 +240,7 @@ function shutdown_sc() {
 	sudo shutdown -P now
 }
 
-function reboot_sc() {
+function reboot_pb() {
 	dialog --infobox "...Starting..." 3 20 ; sleep 1
 	clear
 	echo
