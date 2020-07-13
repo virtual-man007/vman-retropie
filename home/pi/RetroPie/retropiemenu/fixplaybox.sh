@@ -1,7 +1,7 @@
 #!/bin/bash
 # The PlayBox Project
 # Copyright (C)2018-2020 2Play! (S.R.)
-# PlayBox ToolKit 01.07.20
+# PlayBox ToolKit 13.07.20
 
 infobox=""
 infobox="${infobox}        __________.__                 __________                
@@ -104,7 +104,7 @@ function fix_rpiem() {
 	mv -f /home/pi/RetroPie/retropiemenu/splashscreen.rp /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
 	mv -f /home/pi/RetroPie/retropiemenu/hurstythemes.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
 	mv -f /home/pi/RetroPie/retropiemenu/bezelproject.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
-	rsync -avh --delete /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/ /home/pi/RetroPie/retropiemenu && cp /home/pi/RetroPie/extras+/.pb-fixes/retropie-gml/gamelist2play.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
+	rsync -avh --delete $HOME/RetroPie/extras+/.pb-fixes/retropiemenu/ $HOME/RetroPie/retropiemenu && find $HOME -name "*.rp" ! -name "raspiconfig.rp" ! -name "rpsetup.rp" | xargs sudo chown root:root && cp $HOME/RetroPie/extras+/.pb-fixes/retropie-gml/gamelist2play.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
 	sudo rm -rf /etc/emulationstation/themes/carbon/
 }
 
