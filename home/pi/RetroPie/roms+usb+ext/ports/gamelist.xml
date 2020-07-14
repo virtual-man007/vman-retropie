@@ -9,9 +9,9 @@
 		<name>Brutal Doom</name>
 		<desc>Doom on Steroids!
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Brutal Doom.png</image>
-		<video>./snap/Doom.mp4</video>
-		<marquee>./wheel/Doom.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Brutal Doom.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Doom.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Doom.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
@@ -20,9 +20,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<path>./Ur-quan Masters.sh</path>
 		<name>The Ur-quan Masters</name>
 		<desc>n 1990, Toys for Bob released a simple multiplayer space battle game called Star Control. In 1992, it birthed a sequel, Star Control 2, an MS-DOS space exploration adventure of dizzying scope. Ten years later, the creators made the source code of the 3DO version available as open source. Another nine years passed, and the game was reborn as The Ur-Quan Masters, a non-commercial PC recreation of the original game for a new generation.</desc>
-		<image>./mixart/Ur-quan Masters.png</image>
-		<video>./snap/Ur-quan Masters.mp4</video>
-		<marquee>./wheel/Ur-quan Masters.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Ur-quan Masters.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Ur-quan Masters.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Ur-quan Masters.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>Toys for Bob</developer>
@@ -35,9 +35,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<desc>The Legend of Zelda: Mystery of Solarus DX is set to be a direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms. Zelda Mystery of Solarus DX is the first game made with the Solarus engine and in fact, Solarus was primarily designed for this game.
 
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Zelda Mystery of Solarus DX.png</image>
-		<video>./snap/Zelda Mystery of Solarus DX.mp4</video>
-		<marquee>./wheel/Zelda Mystery of Solarus DX.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Zelda Mystery of Solarus DX.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Zelda Mystery of Solarus DX.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Zelda Mystery of Solarus DX.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>20111216T000000</releasedate>
 		<developer>Solarus Games</developer>
@@ -50,9 +50,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<desc>Zelda Mystery of Solarus XD is a parodic game that we released on April 1st, 2011. Though it's a big April 1st joke, it's a real, full game with two huge dungeons and 5-10 hours of playing.
 
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Zelda Mystery of Solarus XD.png</image>
-		<video>./snap/Zelda Mystery of Solarus XD.mp4</video>
-		<marquee>./wheel/Zelda Mystery of Solarus XD.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Zelda Mystery of Solarus XD.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Zelda Mystery of Solarus XD.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Zelda Mystery of Solarus XD.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>20161216T000000</releasedate>
 		<developer>Solarus Games</developer>
@@ -72,9 +72,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<name>Quake Episode 5 (dopa)</name>
 		<desc>Quake expansion Episode 5 dopa!
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Quake Episode 5 (dopa).jpg</image>
-		<video>./snap/Quake.mp4</video>
-		<marquee>./wheel/Quake Episode 5 (dopa).png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Quake Episode 5 (dopa).jpg</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Quake.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Quake Episode 5 (dopa).png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
@@ -87,9 +87,9 @@ NOTE: Requires keyboard to exit!</desc>
 After Link's victory over Ganon (in "A Link to the Past"), no one knows what Link's wish to the Triforce was. But this wish reunified the Light World and the Dark World and brought the 7 wise men's descendants back to life. Peace was back in Hyrule. But unfortunately, this wish also resurrected Ganon .
 
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Zelda Return of the Hylian SE.png</image>
-		<video>./snap/Zelda Return of the Hylian SE.mp4</video>
-		<marquee>./wheel/Zelda Return of the Hylian SE.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Zelda Return of the Hylian SE.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Zelda Return of the Hylian SE.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Zelda Return of the Hylian SE.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150101T000000</releasedate>
 		<developer>Vincent Jouillat</developer>
@@ -100,9 +100,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<path>./Streets of Rage Remake.sh</path>
 		<name>'☆Streets of Rage Remake 5.1</name>
 		<desc>Street of Rage Remake. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
-		<image>./mixart/sorr.png</image>
-		<video>./snap/sorr.mp4</video>
-		<marquee>./wheel/sorr.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/sorr.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/sorr.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/sorr.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>20110101T000000</releasedate>
 		<developer>FanGame</developer>
@@ -114,9 +114,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<name>Quake Mission Pack 1 (hipnotic)</name>
 		<desc>Quake Mission Pack 1 (hipnotic)!
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Quake Mission Pack 1 (hipnotic).jpg</image>
-		<video>./snap/Quake.mp4</video>
-		<marquee>./wheel/Quake Mission Pack 1 (hipnotic).png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Quake Mission Pack 1 (hipnotic).jpg</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Quake.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Quake Mission Pack 1 (hipnotic).png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
@@ -125,9 +125,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<path>./Wolfenstein 3D - Coop.sh</path>
 		<name>Wolfenstein 3D Coop</name>
 		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
-		<image>./mixart/Wolfenstein 3D-Coop.png</image>
-		<video>./snap/Wolfenstein 3D-Coop.mp4</video>
-		<marquee>./wheel/Wolfenstein 3D.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Wolfenstein 3D-Coop.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Wolfenstein 3D-Coop.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Wolfenstein 3D.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>ID Software</developer>
@@ -139,9 +139,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<name>Quake Mission Pack 2 (rogue)</name>
 		<desc>Quake Mission Pack 2 (rogue)!
 NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Quake Mission Pack 2 (rogue).jpg</image>
-		<video>./snap/Quake.mp4</video>
-		<marquee>./wheel/Quake Mission Pack 2 (rogue).png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Quake Mission Pack 2 (rogue).jpg</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Quake.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Quake Mission Pack 2 (rogue).png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
@@ -150,9 +150,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<path>./Doom.sh</path>
 		<name>Doom I</name>
 		<desc>The Ultimate Doom I edition!</desc>
-		<image>./mixart/Doom.png</image>
-		<video>./snap/Doom.mp4</video>
-		<marquee>./wheel/Doom.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Doom.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Doom.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Doom.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<genre>Shooter</genre>
@@ -162,9 +162,9 @@ NOTE: Requires keyboard to exit!</desc>
 		<path>./Duke Nukem 3D.sh</path>
 		<name>Duke Nukem 3D</name>
 		<desc>Duke Nukem 3D is a First Person Shooter game developed by 3D Realms in 1996.</desc>
-		<image>./mixart/Duke Nukem 3D.png</image>
-		<video>./snap/Duke Nukem 3D.mp4</video>
-		<marquee>./wheel/Duke Nukem 3D.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Duke Nukem 3D.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Duke Nukem 3D.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Duke Nukem 3D.png</marquee>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>3d Realms</developer>
@@ -179,9 +179,9 @@ NOTE: Requires keyboard to exit!</desc>
 There are 4 Quake games: Quake, Quake II, and Quake III Arena and Quake 4. RetroPie includes Quake, TyrQuake (an optimized build of the original Quake Engine), and Quake III Arena.
 
 The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
-		<image>./mixart/Quake.png</image>
-		<video>./snap/Quake.mp4</video>
-		<marquee>./wheel/Quake.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Quake.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Quake.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Quake.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>ID Software</developer>
@@ -193,9 +193,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Super Mario War.sh</path>
 		<name>Super Mario War</name>
 		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
-		<image>./mixart/Super Mario War.png</image>
-		<video>./snap/Super Mario War.mp4</video>
-		<marquee>./wheel/Super Mario War.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Super Mario War.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Super Mario War.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Super Mario War.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20060101T000000</releasedate>
 		<genre>Fighting</genre>
@@ -204,9 +204,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./C-Dogs SDL.sh</path>
 		<name>C Dogs</name>
 		<desc>Open source, classic overhead run-and-gun game. Customize your player and choose from up to 11 weapons.</desc>
-		<image>./mixart/C-Dogs SDL.png</image>
-		<video>./snap/C-Dogs SDL.mp4</video>
-		<marquee>./wheel/C-Dogs SDL.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/C-Dogs SDL.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/C-Dogs SDL.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/C-Dogs SDL.png</marquee>
 		<rating>0.55</rating>
 		<releasedate>20161116T000000</releasedate>
 		<developer>cxong</developer>
@@ -223,9 +223,9 @@ The included games are:
 Episode 1: Marooned on Mars
 Episode 2: The Earth Explodes
 Episode 3: Keen Must Die!</desc>
-		<image>./mixart/Commander Genius.png</image>
-		<video>./snap/Commander Genius.mp4</video>
-		<marquee>./wheel/Commander Genius.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Commander Genius.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Commander Genius.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Commander Genius.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>NA</developer>
@@ -239,9 +239,9 @@ Episode 3: Keen Must Die!</desc>
 		<desc>Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.
 
 The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
-		<image>./mixart/Wolfenstein 3D.png</image>
-		<video>./snap/Wolfenstein 3D.mp4</video>
-		<marquee>./wheel/Wolfenstein 3D.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Wolfenstein 3D.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Wolfenstein 3D.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Wolfenstein 3D.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>ID Software</developer>
@@ -252,9 +252,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Cannonball - OutRun Engine.sh</path>
 		<name>CannonBall: The Enhanced OutRun</name>
 		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
-		<image>./mixart/Cannonball - OutRun Engine.png</image>
-		<video>./snap/Cannonball - OutRun Engine.mp4</video>
-		<marquee>./wheel/Cannonball - OutRun Engine.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Cannonball - OutRun Engine.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Cannonball - OutRun Engine.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Cannonball - OutRun Engine.png</marquee>
 		<rating>0.7</rating>
 		<releasedate>20120101T000000</releasedate>
 		<developer>djyt</developer>
@@ -266,9 +266,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Cave Story.sh</path>
 		<name>Cave Story</name>
 		<desc>Cave Story (doukutsu monogatari) is a Freeware Platform-Adventure Video Game Released in 2004 for the PC. It was developed over 5 years by Daisuke "Pixel" Amaya in his free time. It is one of the greatest most beautifully crafted games, particularly because of its compelling plot and musical genius.</desc>
-		<image>./mixart/Cave Story.png</image>
-		<video>./snap/Cave Story.mp4</video>
-		<marquee>./wheel/Cave Story.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Cave Story.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Cave Story.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Cave Story.png</marquee>
 		<rating>0.55</rating>
 		<releasedate>20161116T000000</releasedate>
 		<developer />
@@ -280,9 +280,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Jazz Jackrabbit.sh</path>
 		<name>Jazz Jackrabbit OpenJAZZ</name>
 		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
-		<image>./mixart/Jazz Jackrabbit.png</image>
-		<video>./snap/Jazz Jackrabbit.mp4</video>
-		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Jazz Jackrabbit.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Jazz Jackrabbit.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Jazz Jackrabbit.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>20200101T000000</releasedate>
 		<developer>OpenSource</developer>
@@ -294,22 +294,20 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Doom2.sh</path>
 		<name>Doom II</name>
 		<desc>Doom II original from PC edition!</desc>
-		<image>./mixart/Doom2.png</image>
-		<video>./snap/Doom.mp4</video>
-		<marquee>./wheel/Doom.png</marquee>
+		<image>/home/pi/addonusb/roms/ports/mixart/Doom2.png</image>
+		<video>/home/pi/addonusb/roms/ports/snap/Doom.mp4</video>
+		<marquee>/home/pi/addonusb/roms/ports/wheel/Doom.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>19940101T000000</releasedate>
 		<genre>Shooter</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200530T004352</lastplayed>
 	</game>
 	<game>
 		<path>./Xash3D.sh</path>
 		<name>Half-Life</name>
 		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
-		<image>./mixart/Half-Life.png</image>
-		<video>./snap/Half-Life.mp4</video>
-		<marquee>./wheel/Half-Life.png</marquee>
+		<image>~/addonusb/roms/ports/mixart/Half-Life.png</image>
+		<video>~/addonusb/roms/ports/snap/Half-Life.mp4</video>
+		<marquee>~/addonusb/roms/ports/wheel/Half-Life.png</marquee>
 		<rating>0.75</rating>
 		<releasedate></releasedate>
 		<developer>Valve</developer>
@@ -317,12 +315,12 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<genre>Action-Shooter / 3rd person-Shooter</genre>
 	</game>
 	<game>
-		<path>./Star Wars - Jedi Knight - Jedi Academy (SP).sh</path>
-		<name>Star Wars - Jedi Academy (SP)</name>
+		<path>./Star Wars - Jedi Knight - Jedi Academy (MP).sh</path>
+		<name>Star Wars - Jedi Academy (MP)</name>
 		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
-		<image>./mixart/JediKnightAcademy.png</image>
-		<video>./snap/JediKnightAcademy.mp4</video>
-		<marquee>./wheel/JediKnightAcademy.png</marquee>
+		<image>~/addonusb/roms/ports/mixart/JediKnightAcademy.png</image>
+		<video>~/addonusb/roms/ports/snap/JediKnightAcademy.mp4</video>
+		<marquee>~/addonusb/roms/ports/wheel/JediKnightAcademy.png</marquee>
 		<rating>0.75</rating>
 		<releasedate></releasedate>
 		<developer>Aspyre</developer>
@@ -330,12 +328,12 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<genre>Action-Shooter / 3rd person-Shooter</genre>
 	</game>
 	<game>
-		<path>./Star Wars - Jedi Knight - Jedi Academy (MP).sh</path>
-		<name>Star Wars - Jedi Academy (MP)</name>
+		<path>./Star Wars - Jedi Knight - Jedi Academy (SP).sh</path>
+		<name>Star Wars - Jedi Academy (SP)</name>
 		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
-		<image>./mixart/JediKnightAcademy.png</image>
-		<video>./snap/JediKnightAcademy.mp4</video>
-		<marquee>./wheel/JediKnightAcademy.png</marquee>
+		<image>~/addonusb/roms/ports/mixart/JediKnightAcademy.png</image>
+		<video>~/addonusb/roms/ports/snap/JediKnightAcademy.mp4</video>
+		<marquee>~/addonusb/roms/ports/wheel/JediKnightAcademy.png</marquee>
 		<rating>0.75</rating>
 		<releasedate></releasedate>
 		<developer>Aspyre</developer>

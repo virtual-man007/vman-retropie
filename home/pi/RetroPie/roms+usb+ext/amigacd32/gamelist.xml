@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Amiga CD32</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="91161" source="ScreenScraper.fr">
+		<path>./Gunship2000_v3.1_CD32.lha</path>
+		<name>Gunship 2000</name>
+		<desc>Gunship 2000 is a game which achieves the tricky task of balancing technical accuracy with playability. It doesn't bog the player down with endless pages of numbers and statistics, and you can happily bounce your helicopter off the ground without worrying about falling out. It has lots of scope, starting the player off on simple fly-about missions, and giving the opportunity to retire and play general by directing others about. The kind of game that could keep the occasional player going for months.</desc>
+		<rating>0</rating>
+		<releasedate>19930605T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<players>1</players>
+		<hash>CE665CF2</hash>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Gunship2000_v3.1_CD32.png</image>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Gunship2000_v3.1_CD32.png</marquee>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Gunship2000_v3.1_CD32.mp4</video>
+	</game>
+	<game id="92293" source="ScreenScraper.fr">
+		<path>./PinballFantasies_v2.7_CD32.lha</path>
+		<name>Pinball Fantasies</name>
+		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.
+</desc>
+		<rating>0.95</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>Digital Illusions</publisher>
+		<players>1-8</players>
+		<hash>D2F6B93F</hash>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/PinballFantasies_v2.7_CD32.png</image>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/PinballFantasies_v2.7_CD32.png</marquee>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/PinballFantasies_v2.7_CD32.mp4</video>
+	</game>
+	<game id="106388" source="ScreenScraper.fr">
+		<path>./Prey - An Alien Encounter (Europe).cue</path>
+		<name>Prey - An Alien Encounter</name>
+		<desc>In Prey, the player is sent to asteroid KG-42 since all contact was lost with the colonists. The player's objective is to rescue as many colonists as they can. Poison gas fills the corridors, so the player has to act quickly before their oxygen supply runs out.
+
+The game world is navigated in steps of pre-rendered video footage of corridors and halls. Players can use their map to help them navigate the labyrinth, finding rooms containing survivors. Occasionally, radio contact is made and mission objectives for the player will be updated for them to go to a specific location. After obtaining a gun, it is also possible to fight aliens, which are the source of the disturbance in the asteroid.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Kirk Moreno MultiMedia</developer>
+		<publisher>Almathera Systems</publisher>
+		<players>1</players>
+		<hash>FB882911</hash>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Prey - An Alien Encounter (Europe)_CD32.png</image>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Prey - An Alien Encounter (Europe)_CD32.png</marquee>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Prey - An Alien Encounter (Europe)_CD32.mp4</video>
+	</game>
+	<game>
+		<path>./Dennis_v1.5.2_CD32.lha</path>
+		<name>Dennis</name>
+		<desc>This game brings the US cartoon character Dennis the Menace's menacing treatment of poor old Mr. Wilson to the computer screen, around the time of the film also released in 1993. 
+
+Dennis is a platform game across settings such as Sewers, the Park, and Mr. Wilsons house, each of which has an end-of-level bad guy. The in-level opposition follows standard attack patterns and can usually be avoided. The enemies regenerate as you move on, although you generally only progress from bottom-left to top-right anyway. 
+
+Some of the holes in the ground are deadly while others lead to secret rooms. Fortunately, you are given up to 9 lives at the start, and lots of extra lives are on offer throughout the game, so these are well worth checking out. A choice between music and sound effects is offered.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Dennis_v1.5.2_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Dennis_v1.5.2_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Dennis_v1.5.2_CD32.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Citizen Software</developer>
+		<publisher>Ocean</publisher>
+	</game>
+	<game>
+		<path>./Global Effect (Europe).cue</path>
+		<name>Global Effect</name>
+		<desc>Global Effect involves building up a sound local economy before going out to attack other nations and rule the world. Cities must contain housing, food sources and power supplies, which is where it gets complicated. You can choose the environmental settings of the game, in a similar way to Civilization - an icy world or a post-apocalyptic one make things much tougher.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Global Effect (Europe)_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Global Effect (Europe)_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Global Effect (Europe)_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Millennium Interactive</developer>
+		<publisher>Millennium Interactive</publisher>
+	</game>
+	<game>
+		<path>./SuperStreetFighter2Turbo_v1.1_CD32.lha</path>
+		<name>Super Street Fighter II Turbo</name>
+		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.
+
+Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/SuperStreetFighter2Turbo_v1.1_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/SuperStreetFighter2Turbo_v1.1_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/SuperStreetFighter2Turbo_v1.1_CD32.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>Capcom</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./WildCupSoccer_v1.0_0229.lha</path>
+		<name>Wild Cup Soccer</name>
+		<desc>Following on from Brutal Sports Football came this interpretation of soccer, released alongside the 1994 World Cup. In one player mode you can play a Wild Cup or a League system; two player games are restricted to single Ã¢â¬ËUnfriendlyÃ¢â¬â¢ matches.
+
+Unlike its predecessor the game uses an isometric viewpoint, perhaps because the original FIFA was so popular at the time. A number of vicious moves are on offer, with tackles Vinnie Jones would flinch at along with lethal head-butts and shoulder barges. If a game finishes drawn, it goes into a Ã¢â¬ËPenalty Shoot OutÃ¢â¬â¢, which involves going round shooting the opposition;Ã¢â¬â the last team standing wins. The pre-match screens include attacking at defensive play styles, transfers and the chance to buy items such as rocket launchers and shields.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/WildCupSoccer_v1.0_0229.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/WildCupSoccer_v1.0_0229.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/WildCupSoccer_v1.0_0229.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Millennium</publisher>
+	</game>
+	<game>
+		<path>./Worms_v1.0_CD32_1MB.lha</path>
+		<name>Worms</name>
+		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
+
+Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
+
+There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
+
+There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Worms_v1.0_CD32_1MB.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Worms_v1.0_CD32_1MB.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Worms_v1.0_CD32_1MB.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Zool_v1.2_CD32.lha</path>
+		<name>Zool - Ninja of the 'Nth' Dimension</name>
+		<desc>His name is Zool. He is a Ninja in the 2345th dimension, 6 worlds each with 3 stages. 
+
+In this platformer, you can run, jump, climb walls and shoot the enemies. In the levels are also some power-ups for Zool. There are life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes all your motions a few seconds after you do.
+
+In the options you can change the difficulty and the game-speed two times, the continues and the background music (Rock or Funk).
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Zool_v1.2_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Zool_v1.2_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Zool_v1.2_CD32.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin</publisher>
+	</game>
+	<game>
+		<path>./CannonFodder_v1.2_CD32.lha</path>
+		<name>Cannon Fodder</name>
+		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). 
+
+Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/CannonFodder_v2.0_0860.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/CannonFodder_v2.0_0860.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/CannonFodder_v2.0_0860.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Avalon Interactive</publisher>
+	</game>
+	<game>
+		<path>./Diggers_v1.0_CD32.lha</path>
+		<name>Diggers</name>
+		<desc>Diggers is a puzzle video game for the Amiga CD32 in which the player takes control of a mining team excavating a planet for precious minerals.
+
+The game is set on the planet Zarg, where four races are vying for the gems and ores buried there. The four races are: the Habbish, who dig quickly and have high endurance, yet are impatient and prone to wander off; Grablins, who dig the fastest, have good stamina but are weak fighters; Quarriors, who are slow diggers but strong fighters; and the F'Targs, who are mediocre but regain their health quickly. The player chooses one of the four races, then sends out five man teams to mine a region. There are 34 regions in all, with two accessible at the beginning of the game. Each region has an amount of money the player must amass in order to beat it and open up the adjacent territories. Time plays a role, as there is always a computer-controlled opposing race in the region, competing with the player to be the first to achieve the monetary goal.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Diggers_v1.0_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Diggers_v1.0_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Diggers_v1.0_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Millennium</publisher>
+	</game>
+	<game>
+		<path>./PinballIllusions_v2.2_CD32.lha</path>
+		<name>Pinball Illusions</name>
+		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas.
+
+New to this version is multiball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/PinballIllusions_v2.2_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/PinballIllusions_v2.2_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/PinballIllusions_v2.2_CD32.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950117T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>Digital Illusions</publisher>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./SensibleSoccerInternationalEdition_v1.0_CD32.lha</path>
+		<name>International Sensible Soccer : World Champions</name>
+		<desc>Sensible World of Soccer sur Amiga est une version améliorée du jeu de football. Celle-ci comprend a peu près toutes les divisions et clubs de tous les pays pour la saison 95. Tout y est authentique grâce à tous les noms officiels. Vous pouvez aussi gérer plusieurs équipes pour les mener à la victoire.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/SensibleSoccerInternationalEdition_v1.0_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/SensibleSoccerInternationalEdition_v1.0_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/SensibleSoccerInternationalEdition_v1.0_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Renegade Software</developer>
+		<publisher>Sensible Software</publisher>
+	</game>
+	<game>
+		<path>./Roadkill_v2.1b_CD32.lha</path>
+		<name>Roadkill</name>
+		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature inbuilt hazards and treacherous shortcuts
+
+Money is a big factor in all of this - the higher you finish in a race, the more you get; it can be collected during the race; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Roadkill_v2.1b_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Roadkill_v2.1b_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Roadkill_v2.1b_CD32.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Vision Software</developer>
+		<publisher>Acid</publisher>
+	</game>
+	<game>
+		<path>./Frontier_v1.2_CD32.lha</path>
+		<name>Frontier</name>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Frontier_v1.2_CD32.png</image>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Frontier_v1.2_CD32.png</marquee>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Frontier_v1.2_CD32.mp4</video>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./LastNinja3_v1.1_CD32.lha</path>
+		<name>Last Ninja 3</name>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/LastNinja3_v1.1_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/LastNinja3_v1.1_CD32.mp4</video>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./LunarC_v1.0b_CD32.lha</path>
+		<name>Lunar C</name>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/LunarC_v1.0b_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/LunarC_v1.0b_CD32.mp4</video>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./MarvinsMarvellousAdventure_v1.01_CD32.lha</path>
+		<name>Marvin's Marvellous Adventure</name>
+		<desc>One of the most console-style platformers ever seen on the Amiga, Marvin has approximately 60 levels to battle through. There are stars to collect, extra lives on offer, slides, tubes, ladders, caterpillars to move across, and bonus fruit to collect.
+
+The levels are inhabited by typical enemies, some of which are killed by jumping on their heads, while others must be kicked or shot (once you collect a weapon).
+
+Many of the annoyances which plague platform games, such as blind jumps and spikes appearing at random, are deliberately absent from this. The graphics are intentionally cute, using the AGA chip-set for 256 colours.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/MarvinsMarvellousAdventure_v1.01_CD32.png</image>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/MarvinsMarvellousAdventure_v1.01_CD32.png</marquee>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/MarvinsMarvellousAdventure_v1.01_CD32.mp4</video>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>20th Century Fox</publisher>
+	</game>
+	<game>
+		<path>./RiseOfTheRobots_v1.3_CD32.lha</path>
+		<name>Rise of the Robots</name>
+		<desc>Rise of the Robots emerges from the hype and reveals itself as a good-looking but rather unwieldy beat-em-up. The game, in all of the currently available versions, is just not that good.
+
+In terms of pure beat-em-up action, Rise of the Robots is outclassed by the barely-better-than-16-bit BODY BLOWS games. ROTR is quite poor in the "special moves" area of beat-em-up gaming. The graphics? Well... the animations are good. The characters, when still, look very good too. When moving they are anything but realistic looking. Their movements are jerky and very repetitive. What's different in each version? Not a lot. All of them suffer from the poor control and jerky animation.
+
+The non-AGA version takes less time to install on the hard drive than the AGA version because some of the Ã¢â¬ÅcinematicsÃ¢â¬Â have been taken out. They're not much of a loss really. This version also looks pretty good considering the number of colors onscreen. It seems to play a tad faster too.
+
+Disappointment is the key word here. The game promised so much and delivered so little. I guess one good thing is that, for once, the PC suffers from the exact same problems.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/RiseOfTheRobots_v1.3_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/RiseOfTheRobots_v1.3_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/RiseOfTheRobots_v1.3_CD32.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Mirage - Time Warner</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Litil Divil (Europe).cue</path>
+		<name>Litil Divil</name>
+		<desc>A little devil named Mutt is a rather lazy character who prefers to do nothing in his own cozy part of the underworld. However, his luck changes when he is chosen as the hero who must venture into a mysterious Labyrinth in the overworld and retrieve the Pizza of Plenty from there, so that his demonic friends will have enough capers and anchovies to eat.
+
+Litil Divil has puzzle-solving and action elements, including platforming and combat. Mutt is being transported to various puzzle rooms, where he has to avoid obstacles, fight enemies, and manipulate the environment in order to succeed. It is also possible to buy items such as weapons and shields at specific locations.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Litil Divil (Europe)_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Litil Divil (Europe)_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Litil Divil (Europe)_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./UltimateBodyBlows_v1.1_CD32.lha</path>
+		<name>Ultimate Body Blows</name>
+		<desc>A compilation of the original fighting game "Body Blows" and its sequel, available only for Amiga, "Body Blows Galactic". The game combines everything from its predecessors and adds more colors, improved graphics and music, more backgrounds and endings, giving the player a total of 22 characters (including the invincible Max and his true self, the Terminator T17) and many fixes.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/UltimateBodyBlows_v1.1_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/UltimateBodyBlows_v1.1_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/UltimateBodyBlows_v1.1_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team17 Software</developer>
+		<publisher>Team17 Software</publisher>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Guardian_v1.0_CD32.lha</path>
+		<name>Guardian</name>
+		<desc>Guardian is a fast and furious shoot 'em up. You skim over the surface of a planet, shooting enemies down as quickly as you can, with the hope of protecting as may of the installations as possible - the more you save, the quicker you get extra lives.
+
+Plenty of power-ups are offered during the game, including enhanced weaponry and shields. The game is viewed in full 3D, and the camera angle can be adjusted. CD32 controllers are recommended, although keyboard and mouse are also available.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Guardian_v1.0_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Guardian_v1.0_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Guardian_v1.0_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Acid</developer>
+		<publisher>Acid</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Battletoads_v1.2_CD32.lha</path>
+		<name>Battletoads</name>
+		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
+
+You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.
+</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Battletoads_v1.2_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Battletoads_v1.2_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Battletoads_v1.2_CD32.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Tradewest</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Akira_v1.2_CD32.lha</path>
+		<name>Akira</name>
+		<desc>2019 Neo-Tokyo is about to explode! 30 years after World War 3, Kyoko a mutant child tells of the approaching cataclysm. The colonel stored capsule 7, which contains mutation 28, better known as Akira, deep below the Olympic Stadium at a temperature close to absolute zero. When Tetsuo makes his way to the stadium and the Akira pattern becomes stronger, it is confirmed that Akira's brain is giving off psionic waves! Keneda and Resistance member Kei make their way through the sewers where they are attacked by the military and flying bikes. Keneda manages to grab a bike and flies away, taking Kei on the back. They make their way through the tunnels guided by Kyoko, who has possessed Kei in order to use her to fight against Tetsuo. 
+
+Tetsuo is taken by the authorities and experimented upon by the team that lead the Akira project. A matching pattern is found between Tetsuo and Akira and as the experiment continues, Tetsuo mutates and is now out of anyone's control. Tetsuo escapes from the hospital blasting everything in his path with psionic energy. Take the role of Keneda- leader of the capsule gang and Tetsuo- childhood friend of Keneda and member of the gang in this incredible game based on Akira. Keneda is the leader of the capsules. His bike is the envy of all. Keneda leads the gang against their rivals, the clowns. During a battle between the gangs, Tetsuo, Keneda's childhood friend, loses control of his bike and just misses hitting one of the escaping mutant children. Tetsuo thinks he can control his new powers but he is wrong. Tetsuo mutates into a hideous blubbery mass. Tetsuo is totally out of control. The mutant children beg Akira to return and save them and the world from what Tetsuo has become. Keneda must battle Tetsuo in their final confrontation.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Akira_v1.2_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Akira_v1.2_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Akira_v1.2_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>I.C.E.</developer>
+		<publisher>I.C.E.</publisher>
+	</game>
+	<game>
+		<path>./Dangerous Streets (Europe) (En,Fr,De,It).cue</path>
+		<name>Dangerous Streets</name>
+		<desc>Dangerous Streets is a colorful sprite-based fighting game in the vein of Street Fighter II. Its eight characters are diverse, ranging from fashion models to a bizarre monster "custodian".
+
+In addition to a two-player mode, the game also features single matches against the CPU and a tournament mode. The control scheme consists of the standard weak, medium and strong punches/kicks, and both keyboard and joystick controls are supported.</desc>
+		<image>/home/pi/addonusb/roms/amigacd32/mixart/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.png</image>
+		<video>/home/pi/addonusb/roms/amigacd32/snap/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.mp4</video>
+		<marquee>/home/pi/addonusb/roms/amigacd32/wheel/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Micromania</developer>
+		<publisher>Flair Software</publisher>
+		<players>1-2</players>
+	</game>
+</gameList>

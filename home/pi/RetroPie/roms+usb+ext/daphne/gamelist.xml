@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/lair2.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/lair2.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/lair2.png</marquee>
+		<rating />
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/lair2.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/lair2.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/lair2.png</marquee>
+		<rating />
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./esh.daphne</path>
+		<name>Esh's Aurunmilla</name>
+		<image>/home/pi/addonusb/roms/daphne/mixart/esh.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/esh.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/esh.png</marquee>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/interstellar.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/interstellar.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/interstellar.png</marquee>
+		<rating />
+		<releasedate>19830101T0000001201T000000</releasedate>
+		<developer>FUNAI</developer>
+		<publisher>FUNAI</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sdq.daphne</path>
+		<name>Super Don Quix-ote</name>
+		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/sdq.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/sdq.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/sdq.png</marquee>
+		<rating />
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal</developer>
+		<publisher />
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./galaxy.daphne</path>
+		<name>Galaxy Ranger</name>
+		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/galaxy.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/galaxy.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/galaxy.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/ace.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/ace.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/ace.png</marquee>
+		<rating />
+		<releasedate>19840429T000000</releasedate>
+		<developer>AMS</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/astron.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/astron.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/astron.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/lair.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/lair.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/lair.png</marquee>
+		<rating />
+		<releasedate>19830623T000000</releasedate>
+		<developer />
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./cliff.daphne</path>
+		<name>Cliff Hanger</name>
+		<desc>Cliff Hanger is a laserdisc video game that was released by Stern Electronics in 1983. It used animation from Lupin III films, mostly from The Castle of Cagliostro and a couple of scenes from The Mystery of Mamo.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/cliff.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/cliff.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/cliff.png</marquee>
+		<rating></rating>
+		<releasedate>19831201T000000</releasedate>
+		<developer>Stern</developer>
+		<publisher>Stern</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./cobraab.daphne</path>
+		<name>Cobra Commando</name>
+		<image>/home/pi/addonusb/roms/daphne/mixart/cobraab.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/cobraab.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/cobraab.png</marquee>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
+		<image>/home/pi/addonusb/roms/daphne/mixart/lair.png</image>
+		<video>/home/pi/addonusb/roms/daphne/snap/lair.mp4</video>
+		<marquee>/home/pi/addonusb/roms/daphne/wheel/lair.png</marquee>
+		<rating></rating>
+		<releasedate>19830623T000000</releasedate>
+		<developer></developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+  <game>
+    <path>./gpworld.daphne</path>
+    <name>GP World</name>
+    <desc>GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.  It is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.  But it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot'em up, which changes a bit.</desc>
+    <rating>0.4</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving-Race 1st Pers. view</genre>
+    <players>1</players>
+    <image>/home/pi/addonusb/roms/daphne/mixart/gpworld.png</image>
+    <marquee>/home/pi/addonusb/roms/daphne/wheel/gpworld.png</marquee>
+    <video>/home/pi/addonusb/roms/daphne/snap/gpworld.mp4</video>
+  </game>
+  <game>
+    <path>./mach3.daphne</path>
+    <name>M.a.c.h. 3</name>
+    <desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
+    <rating>0.9</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Mylstar</developer>
+    <publisher>Mylstar</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>/home/pi/addonusb/roms/daphne/mixart/mach3.png</image>
+    <marquee>/home/pi/addonusb/roms/daphne/wheel/mach3.png</marquee>
+    <video>/home/pi/addonusb/roms/daphne/snap/mach3.mp4</video>
+  </game>
+  <game>
+    <path>./tq.daphne</path>
+    <name>Thayer's Quest</name>
+    <desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
+    <rating>0.7</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>RDI Video Systems</developer>
+    <publisher>RDI Video Systems</publisher>
+    <genre>Platform-Plateform / Run Jump</genre>
+    <players>1</players>
+    <image>/home/pi/addonusb/roms/daphne/mixart/tq.png</image>
+    <marquee>/home/pi/addonusb/roms/daphne/wheel/tq.png</marquee>
+    <video>/home/pi/addonusb/roms/daphne/snap/tq.mp4</video>
+  </game>
+  <game>
+    <path>./uvt.daphne</path>
+    <name>Us Vs Them</name>
+    <desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics. nnUs vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
+    <rating>0.7</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Mylstar</developer>
+    <publisher>Mylstar</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>/home/pi/addonusb/roms/daphne/mixart/uvt.png</image>
+    <marquee>/home/pi/addonusb/roms/daphne/wheel/uvt.png</marquee>
+    <video>/home/pi/addonusb/roms/daphne/snap/uvt.mp4</video>
+  </game>
+</gameList>

@@ -1,0 +1,1855 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="" source="">
+		<path>./ABPA Backgammon (World).7z</path>
+		<name>ABPA Backgammon</name>
+		<desc>Intellivision Backgammon is identical with the board game. Backgammon is a game played by two players (the computer can be one of the players). Each player has 15 pieces. The object of the game is to be the first to move all your pieces completely around and finally off the board. Moving your pieces off the board is called "bearing off". The first player to bear off all his pieces is the winner. Each player moves in a direction beginning from his opponent's Home Table and coming around to his own Home Table. Thus one player always moves clockwise and the other always counterclockwise. You can play against the computer at two skill levels - one for beginners or intermediate, another for experts - or two players can compete against each other. It displays the American Backgammon Players Association (ABPA) logo.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/ABPA Backgammon (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/ABPA Backgammon (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/ABPA Backgammon (World).mp4</video>
+		<releasedate>19791203T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Advanced Dungeons and Dragons - Treasure of Tarmin (World).7z</path>
+		<name>Advanced Dungeons and Dragons - Treasure of Tarmin</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Advanced Dungeons and Dragons - Treasure of Tarmin (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Advanced Dungeons and Dragons - Treasure of Tarmin (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Advanced Dungeons and Dragons - Treasure of Tarmin (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Armor Battle (World).7z</path>
+		<name>Armor Battle</name>
+		<desc>All-out tank combat! You and your opponent are rival tank commanders. Each of you controls two machines, directs fire, lays mines. The terrain you fight over will change again and again, demanding new tactics! Simulated battle sounds! Computer selects at random from over 240 battlefield maps!
+
+OBJECT OF THE GAME is to knock out both enemy tanks, avoid invisible mines and hits on your tanks. You maneuver your machines around buildings and battlefield debris, through forests and water hazards. If a tank hits a mine, the tank blows up! You sight the enemy, maneuver into firing position and SHOOT! Points are won by scoring hits on your opponent's tank. (3 hits on your opponent's tank and it blows up! See scoring section.)</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Armor Battle (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Armor Battle (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Armor Battle (World).mp4</video>
+		<releasedate>19791203T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Atlantis (World).7z</path>
+		<name>Atlantis</name>
+		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Atlantis (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Atlantis (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Atlantis (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Auto Racing (World).7z</path>
+		<name>Auto Racing</name>
+		<desc>Auto Racing is a one or two player racing game that puts the player behind the wheel of one of five cars, each with different specialties. The player may race on five different fairly large courses. In the one player game, the player is racing the clock to finish five laps as quickly as possible. In the two player game, the player can race a friend and gain points for either the opponent crashing or if one is leading far enough to reach the edge of the screen.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Auto Racing (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Auto Racing (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Auto Racing (World).mp4</video>
+		<releasedate>19801003T000000</releasedate>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./B-17 Bomber (World).7z</path>
+		<name>B-17 Bomber</name>
+		<desc>B-17 Bomber takes place near the end of World War II. As the pilot of a B-17, your mission is to fly across the English Channel and bomb various strategic targets. First you need to select a destination which features a lot of targets. The further the target is from your home base, the more points you can earn, but with more ground to cover there will be more enemy fighters blocking the target and more fuel will be needed. Once a destination is set, you need to stock your plane with bombs and fuel, then take off! You will now have a first person point of view from the plane and can control which of several views is active. When trying to bomb targets, you will be looking straight down from the bombay doors. When you hear a voice announce incoming enemy planes, you need to switch the view to one of the guns and defend yourself. Lastly you can have a view from the cockpit to control the plane. If your fuel runs low, or your plane takes too much damage, you can fly back to your home base for repairs and then take off again to bomb as many targets as you can!</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/B-17 Bomber (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/B-17 Bomber (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/B-17 Bomber (World).mp4</video>
+		<releasedate>19820723T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./BeamRider (World).7z</path>
+		<name>BeamRider</name>
+		<desc>Beamrider is a 3-D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of five beams. You are armed with both lasers and torpedoes; torpedoes are more powerful and can destroy more enemies compared to lasers, however you only get three per level. To complete a sector, you need to destroy fifteen white flying saucers. After all saucers are destroyed, the sector sentinel passes by which can be destroyed for extra points. Each even number sector up until sector 16 will add a new type of enemy to deal with. These additional enemies will just try to slow your mission, though, only the saucers need to be destroyed to advance. Occassionally a rejeuvinator will appear; if this is collected, you can earn an extra life. But be careful, because if you accidentally shoot the rejeuvinator it will turn into an enemy!</desc>
+		<publisher>Activision</publisher>
+		<developer>Cheshire Engineering</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/BeamRider (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/BeamRider (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/BeamRider (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Beauty and the Beast (World).7z</path>
+		<name>Beauty and the Beast</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Beauty and the Beast (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Beauty and the Beast (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Beauty and the Beast (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Blockade Runner (World).7z</path>
+		<name>Blockade Runner</name>
+		<desc>A 3D shoot 'em up. You have to guide a fleet of four merchant space freighters to Earth with vital supplies. Hostile aliens have sighted you and forced you enter a dangerous asteroid belt. And now, you must try to avoid these asteroids, to destroy the Robot mines and alien space ships and also contend with fuel shortages and prevent the deflector shields from over-heating.</desc>
+		<publisher>Interphase Technologies Inc.</publisher>
+		<developer>Interphase Technologies Inc.</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Blockade Runner (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Blockade Runner (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Blockade Runner (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Body Slam - Super Pro Wrestling (World).7z</path>
+		<name>Body Slam - Super Pro Wrestling</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Body Slam - Super Pro Wrestling (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Body Slam - Super Pro Wrestling (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Body Slam - Super Pro Wrestling (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Bomb Squad (World).7z</path>
+		<name>Bomb Squad</name>
+		<desc>Start the game with a view of the code number display which is damaged. In order to find the code which disarms the bomb, the player has to repair the various circuits in order to fix the display. By selecting a square on the code number display, the player will be brought to the corresponding circuit which can be repaired using cutters, pliers, and soldering iron. The player's partner, Frank, will guide through the repairs by telling the player what needs to be done, in what order repairs should be performed, and by helping the player position the tools. Depending on the circuit, the player may need to cut out parts or replace parts (spare parts are located at the top of the screen). If the player use an incorrect replacement part, or perform the repairs in the wrong order, the player will lose time or even cause the bomb to explode.
+
+On the more difficult skill levels, circuit parts may even overheat and cause a fire; luckily, the player also have a fire extinguisher with you to deal with this situation! When enough circuits have been repaired, the player can decipher the code, enter it into the computer, and the bomb will be disarmed (an incorrect guess will cause it to explode, however). The player may choose to have a one, two, or three digit code to guess and several difficulty levels are available.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Bomb Squad (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Bomb Squad (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Bomb Squad (World).mp4</video>
+		<releasedate>19820914T000000</releasedate>
+		<genre>Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Bump 'N' Jump (World).7z</path>
+		<name>Bump 'N' Jump</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Bump 'N' Jump (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Bump 'N' Jump (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Bump 'N' Jump (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./BurgerTime (World).7z</path>
+		<name>BurgerTime</name>
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
+
+To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/BurgerTime (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/BurgerTime (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/BurgerTime (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Buzz Bombers (World).7z</path>
+		<name>Buzz Bombers</name>
+		<desc>Buzz Bombers is an arcade action game similar to Centipede. You control a can of bug spray at the bottom of the screen, and you need to defend yourself from the swarms of incoming bees. The bees start at the top of the screen, and fly their way back and forth, slowly heading towards the bottom of the screen. If they reach the ground, they will pollinate the flowers there which causes them to grow and will restrict movement of your spray can. When you shoot a bee, it will turn into a honeycomb. The honeycombs will cause the bees to head towards the ground even faster, since they will turn around when one is in their way. Your spray can is able to shoot the honeycombs, but if you leave them in place a hummingbird will fly around and eat the honey from them. The more honey the hummingbird eats, the more points you get. The game ends when all of your spray cans are destroyed by growing flowers.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Buzz Bombers (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Buzz Bombers (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Buzz Bombers (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Carnival (World).7z</path>
+		<name>Carnival</name>
+		<desc>This game captures the fun, excitement, and sounds of an old-time shooting gallery. Blaze away at clay pipes, dancing bears and sitting ducks. But watch out, those aren't ordinary sitting ducks. They come to life when they reach the end of the gallery, and avenge themselves by eating from your limited supply of ammunition. How many can you shoot down?</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Carnival (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Carnival (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Carnival (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Centipede (World).7z</path>
+		<name>Centipede</name>
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves.
+
+The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands.</desc>
+		<publisher>Atarisoft</publisher>
+		<developer>Atari, Inc.</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Centipede (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Centipede (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Centipede (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Championship Tennis (World).7z</path>
+		<name>Championship Tennis</name>
+		<desc>You can play alone, against your Intellivision unit or with another player either in singles or in doubles. You can even let your Intellivision take both sides and just watch. Go ahead conquer Paris, New York, and Wimbledon if you can. You will need both great concentration and strong legs to win at Championship Tennis. Play locations such as Flushing Meadows, Roland Garros, Wimbledon. In Championship Tennis you are in charge. See if you have what it takes to win the "grand slam"!</desc>
+		<publisher>Dextell</publisher>
+		<developer>Nice Ideas</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Championship Tennis (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Championship Tennis (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Championship Tennis (World).mp4</video>
+		<releasedate>19851231T000000</releasedate>
+		<genre>Sports</genre>
+		<players>Yes</players>
+	</game>
+	<game id="" source="">
+		<path>./Checkers (World).7z</path>
+		<name>Checkers</name>
+		<desc>Checkers is a conversion of the board game. Two players can challenge each other, or one player can go against the computer. The game features multiple skill levels, a "bail out" option which lets the computer suggest a move, the ability to take back a move, and the option to allow yourself or the computer to move first.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Checkers (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Checkers (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Checkers (World).mp4</video>
+		<releasedate>19800917T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Chip Shot - Super Pro Golf (World).7z</path>
+		<name>Chip Shot - Super Pro Golf</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Chip Shot - Super Pro Golf (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Chip Shot - Super Pro Golf (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Chip Shot - Super Pro Golf (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Commando (World).7z</path>
+		<name>Commando</name>
+		<desc>Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill form distance and thus avoid some enemy shots.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Commando (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Commando (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Commando (World).mp4</video>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Congo Bongo (World).7z</path>
+		<name>Congo Bongo</name>
+		<desc>A funny thing happens when you play Congo Bongo, the new home game from Sega. In fact, a lot of funny things happen.
+
+You have to get to Congo, the mighty ape, before the jungle beasts get to you. Dodge falling coconuts as you scale Monkey Mountain. Shake the monkey from your back and chase Congo onto the lagoon screen. Then cross the water on the backs of hippos, lily pads and hunter-eating fish. And do it all before Congo makes a monkey out of you.
+
+But watch your step - one slip and it's off to hunter heaven.
+
+Congo Bongo. Straight from the arcade and into your home. It's more fun than a barrel of, well, monkeys.</desc>
+		<publisher>Sega</publisher>
+		<developer>Sega</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Congo Bongo (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Congo Bongo (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Congo Bongo (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Deep Pockets - Super Pro Pool and Billiards (World).7z</path>
+		<name>Deep Pockets - Super Pro Pool and Billiards</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Deep Pockets - Super Pro Pool and Billiards (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Deep Pockets - Super Pro Pool and Billiards (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Deep Pockets - Super Pro Pool and Billiards (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Demon Attack (World).7z</path>
+		<name>Demon Attack</name>
+		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Demon Attack (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Demon Attack (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Demon Attack (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>Yes</players>
+	</game>
+	<game id="" source="">
+		<path>./Dig Dug (World).7z</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is a 1 player arcade.  The objective is to eliminate underground-dwelling monsters by inflating them with an air pump until they explode, or by dropping rocks on them.  Intellivision Dig Dug was developped by Atari in 1984 and based on the 1982 Namco arcade game.
+
+Programmer: Mark Kennedy</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Atari, Inc.</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Dig Dug (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Dig Dug (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Dig Dug (World).mp4</video>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Diner (World).7z</path>
+		<name>Diner</name>
+		<desc>In this unofficial sequel to the arcade game BurgerTime, the Rotten Foods (Hot Dogs, Cherries, Bananas, and their leader Mugsy, the Mug o' Root Beer) have thrown lunch all over the diner and Peter Pepper has to get it back on the plate.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Diner (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Diner (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Diner (World).mp4</video>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Donkey Kong (World).7z</path>
+		<name>Donkey Kong</name>
+		<desc>In Donkey Kong, Mario must rescue a damsel in distress, Lady, from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.
+
+The game is divided into four different one-screen stages. Each represents 25 meters of the structure Donkey Kong has climbed, one stage being 25 meters higher than the previous. The final screen occurs at 100 m.</desc>
+		<publisher>Colecovision</publisher>
+		<developer>Nintendo</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Donkey Kong (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Donkey Kong (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Donkey Kong (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Donkey Kong Jr (World).7z</path>
+		<name>Donkey Kong Jr</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Donkey Kong Jr (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Donkey Kong Jr (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Donkey Kong Jr (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Dracula (World).7z</path>
+		<name>Dracula</name>
+		<desc>As the sun sets, Dracula rises, hungry for the blood of fresh victims. As Dracula, the goal of this game is to stalk the streets at night, feeding on people walking the streets, or by luring them out of their homes. As Dracula bites his victims, his actions will call the attention of the local constable who will try to slow him down by driving a stake into him. Dracula can respond by either turning one of his victims into zombies to attack the police, or by transforming into a bat to escape capture. Even the forces of nature are against the vampire, as wolves will attack him on foot, and hawks will drag away his bat form. Dracula must feed on a certain number of victims and return to his tomb before sunrise, or he will not survive to feed another night.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Dracula (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Dracula (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Dracula (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players>Yes</players>
+	</game>
+	<game id="" source="">
+		<path>./Dragonfire (World).7z</path>
+		<name>Dragonfire</name>
+		<desc>The king's treasures have been stolen! As the daring young prince, your goal is to recover them all. The treasures are being kept in various castles, each one guarded by a fire breathing dragon. Each level in the game has two parts; first you will need to cross the castle's drawbridge. You will have to jump and duck the dragons fireballs as well as avoid flying arrows to reach the other side! In the second part you need to collect all of the treasures on the screen and make it to the exit while avoiding the dragon who runs across the bottom of the screen. The dragons on each level have different patterns of movement and firing, and as the levels progress will become faster and trickier.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Dragonfire (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Dragonfire (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Dragonfire (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Dreadnaught Factor, The (World).7z</path>
+		<name>Dreadnaught Factor, The</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Dreadnaught Factor, The (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Dreadnaught Factor, The (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Dreadnaught Factor, The (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Duncan's Thin Ice (World).7z</path>
+		<name>Duncan's Thin Ice</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Duncan's Thin Ice (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Duncan's Thin Ice (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Duncan's Thin Ice (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Electric Company - Math Fun (World).7z</path>
+		<name>Electric Company - Math Fun</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Electric Company - Math Fun (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Electric Company - Math Fun (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Electric Company - Math Fun (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Electric Company - Word Fun (World).7z</path>
+		<name>Electric Company - Word Fun</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Electric Company - Word Fun (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Electric Company - Word Fun (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Electric Company - Word Fun (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Fathom (World).7z</path>
+		<name>Fathom</name>
+		<desc>Neptina, Neptune's daughter, has been imprisoned at the bottom of the sea by Titans. Your goal is to rescue her by locating the scattered pieces of a magical trident! You will need to take the form of a dolphin and a bird in order to locate the pieces that are hidden in the ocean and clouds. When flying in the air, there are several screens that have clouds flying by. Touch all of the clouds, and the trident piece appears! Other birds which are flying around will cause you to lose energy if you touch them accidentally. Underwater, trident pieces can be found by touching the sea horses. Octopuses, sharks, and a deadly maze of seaweed will get in your way and cause you to lose energy if caught! When you have located all of the trident pieces, the cage holding Neptina can be unlocked, but if you run out of energy first the game will be over.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Fathom (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Fathom (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Fathom (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Frogger (World).7z</path>
+		<name>Frogger</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</desc>
+		<publisher>Parker Brothers</publisher>
+		<developer>Sega</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Frogger (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Frogger (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Frogger (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Grid Shock (World).7z</path>
+		<name>Grid Shock</name>
+		<desc>[Unfinished 1983] An arcade game. Carom your shots against the moving wall to fill in the pattern on the back grid.
+
+This original game by Andy Sells looked great; it had a strong 3-D effect as the moving wall swept back and forth across the screen. But while Andy wanted to continue developing the game, management wanted to take advantage of his musical talents. (Shortly before coming to Mattel, his award-winning song "You Love Love [More Than You Love Me]" was recorded by the English group Buck's Fizz. Ask for it by name.)
+
+Andy was continually assigned to work on music and sound effects for other games, including Shark! Shark! and TRON Solar Sailer. He also co-developed the Intellivision sound development tool, Mr. Sound. Whenever he had a chance he returned to Grid Shock, but the game was never elevated to official status.
+
+While the game never made it onto the Intellivision release schedule, it was demonstrated as part of the Intellivision III product line. This was bogus; when the Intellivision III wasn't ready to be shown at the June 1983 Consumer Electronics Show, regular Intellivision screens with particularly nice graphics were passed off as examples of the forthcoming system. Grid Shock was one of these; color packaging was even printed up for it.
+
+After C.E.S., Andy never had a chance to return to the game. His boss, Manager Russ Haft, left Mattel for Atari; Andy was tapped to take his place. A short time later, Andy, too, left for Atari and Grid Shock was abandoned.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Grid Shock (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Grid Shock (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Grid Shock (World).mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Happy Trails (World).7z</path>
+		<name>Happy Trails</name>
+		<desc>Happy Trails is an action strategy game for one or two players. Black Bart has robbed the stagecoach, and you need to recover all of the stolen money within the given time limit! The money is located in various locations in a series of maze-like paths. The paths are broken up into tiles, and there is one tile missing so you can rearrange the maze by moving a tile into the empty space. As your character walks through the paths, you need to rearrange the tiles to make sure there is always a connected path in front of him (or you'll lose a life) and to guide him towards the money bags. When all of the money has been recovered, you move on to the next round. On the more difficult rounds, Black Bart will also be wandering around the maze trying to stop you! You should avoid him at all costs, unless you have first collected a star which gives your character temporary invincibility.</desc>
+		<publisher>Activision</publisher>
+		<developer>Activision</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Happy Trails (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Happy Trails (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Happy Trails (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Puzzle</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Hard Hat (World).7z</path>
+		<name>Hard Hat</name>
+		<desc>[Unreleased 1984] Place your workman on the floor where the center moving scaffold is. Run to the scaffold and your workman will jump from the building to the scaffold. Pick up a pane of glass and move it into place. Complete your building before your opponent does. If your opponent is getting ahead of you, do not fret; run over to his building and knock off his panes!
+
+Programmers at Mattel Electronics came up with a series of casual games meant to be played at parties.  The "Party Line" cartridge was shown at the 1984 CES but never produced.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Hard Hat (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Hard Hat (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Hard Hat (World).mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Horse Racing (World).7z</path>
+		<name>Horse Racing</name>
+		<desc>This game is for 1 up to 6 players. When the game begins, you can place the bets, for the winner or for the first and second place. Then you can choose if an horse must be driven by a player or by the CPU. Only the third and the fourth horse can be driven by the players. There are 3 types of terrain: turf, mud or dry. When the race begins, the horses are speedier at the beginning, slower toward the end. They are different for speed at the starting gate, stamina, speed at the straight line, and for speed with different conditions of the race terrain. You (and the CPU too!) have the whip and the coax to spur a horse, and these tools could be useful to win a race even with a more tired horse.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Horse Racing (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Horse Racing (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Horse Racing (World).mp4</video>
+		<releasedate>19801003T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Hover Force (World).7z</path>
+		<name>Hover Force</name>
+		<desc>Terrorist forces have taken over the island city of New Seeburg. They are equipped with heavily armed combat helicopters, so the only way to fight'em is in the air. The player drives the top secret JAF-3000 helicopter, and must blow up enemies with the laser cannons and put out fires with the water cannons. There is a radar screen too, that shows all the damages made by the terrorists, the fires extinguished and the enemies shut down. The terrorists hits can damage the engine, the navigation system, the cannons and the radar. The player can return to home base (Force Island) for repairs and refuelling, but only two times per mission (the 3rd time after eliminating all the fiends). The game, for 1 player, ends if the copter crashes.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Hover Force (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Hover Force (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Hover Force (World).mp4</video>
+		<releasedate>19860101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Ice Trek (World).7z</path>
+		<name>Ice Trek</name>
+		<desc>In order to stop another Ice Age from occurring, Vail the Avenger must make a trek across the frozen lands in order to reach the Ice Palace of Kalktron the Terrible and put a stop to his evil plans to freeze the land. He will have to ski through a herd of Caribou, cross the frozen river, and then take on the many dangers of the Ice Palace in order to stop Kalktron. Can he stop another Ice Age?</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Ice Trek (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Ice Trek (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Ice Trek (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Jetsons, The - Ways With Words (World).7z</path>
+		<name>Jetsons, The - Ways With Words</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Jetsons, The - Ways With Words (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Jetsons, The - Ways With Words (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Jetsons, The - Ways With Words (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Lady Bug (World).7z</path>
+		<name>Lady Bug</name>
+		<desc>In this game, you direct a lady bug through a maze. While eating dots, she must avoid running over the poisonous skulls and encountering the evil insects which are out to devour her. Revolving doors permit her to change the maze, thwart her pursuers and get through!</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Lady Bug (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Lady Bug (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Lady Bug (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Land Battle (World).7z</path>
+		<name>Land Battle</name>
+		<desc>[Unreleased 1982] Land Battle is a two player war game which utilizes both strategic and tactical modes of play. Each player controls an array of forces with the objective of capturing or destroying his opponent's "flag."
+
+The game can be played on any of thousands of different countryside maps -- the first thousand of which are selectable at the beginning of the game. All of these maps show roads, towns, hills, lakes, forests, orchards, and fields, and these geographic features impose restrictions and necessitate clever planning on the part of the player.
+
+At the beginning of the game each player has control of the following military resources:
+
+    12 infantry
+    3 armored personnel carriers
+    2 tanks
+    1 artillery piece
+    2 bazookas
+    2 mortars
+    1 flag
+
+You can capture opposing forces which subsequently become yours.
+
+In order to wage an effective war, you must allocate your resources into patrols, direct the patrols across the map, encounter enemy patrols, fight battles, besiege towns, and eventually capture or destroy the enemy flag.
+
+PRODUCTION HISTORY
+This wargame simulation took a long time in programming (officially 391 days, compared to 170 days for Night Stalker, begun at about the same time); when completed in mid-1982, Marketing was concerned that its design already looked dated.
+
+A second concern was that, due to the complexity of the game, it required more memory than an Intellivision contained; the cartridge would have to include 256 bytes of RAM onboard. Only USCF Chess had been approved for onboard RAM, an expensive proposition.
+
+When the Entertainment Computer System (ECS) was given the green light, Gabriel Baum, VP of Applications Software, proposed changing Land Battle to an ECS title; the ECS had an additional 2K of RAM available for cartridges. Marketing resisted this -- they still wanted Land Battle as a stand-alone game. Peggi Decarli was assigned to give the game a graphics makeover.
+
+After the makeover, Marketing still didn't find it visually interesting enough. By that time, wargame fanatic Steve Sents, having completed Deadly Discs, had started work on an ECS wargame called Desert Fox, which Marketing liked the looks of better. The decision was made to kill Land Battle and incorporate as much of its gameplay and programming as possible into the Desert Fox design.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Land Battle (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Land Battle (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Land Battle (World).mp4</video>
+		<releasedate>19981231T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Las Vegas Blackjack and Poker (World).7z</path>
+		<name>Las Vegas Blackjack and Poker</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Las Vegas Blackjack and Poker (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Las Vegas Blackjack and Poker (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Las Vegas Blackjack and Poker (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Las Vegas Roulette (World).7z</path>
+		<name>Las Vegas Roulette</name>
+		<desc>Implements Las Vegas style roulette game. Most of the screen consists of the standard Las Vegas roulette betting table, and a moving strip on the top with wheel numbers on it represents the roulette wheel. Place your bets on the betting table, and spin the wheel. The game calculates your wins and losses.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Las Vegas Roulette (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Las Vegas Roulette (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Las Vegas Roulette (World).mp4</video>
+		<releasedate>19801003T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./League of Light (World).7z</path>
+		<name>League of Light</name>
+		<desc>[Unreleased 1983] Maneuver down an abstract tunnel of colored light without crashing. Succeed and go on to a musical memory game: notes are randomly played that you must then play back using the hand controller keypad. Score points for how quickly you duplicate the series of notes. Then its back into the tunnel and on to a longer series of notes in the memory game.
+
+Russ Lieblich did the sounds and music for a number of games at Mattel Electronics (including Snafu) before going to Activision where he designed this game. Peter Kaminski, who programmed River Raid, helped Russ with the programming.  It was finally released on the Intellivision Rocks! CD.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Activision</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/League of Light (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/League of Light (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/League of Light (World).mp4</video>
+		<releasedate>20011231T000000</releasedate>
+		<genre>Music</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Learning Fun I - Math Master Factor Fun (World).7z</path>
+		<name>Learning Fun I - Math Master Factor Fun</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Learning Fun I - Math Master Factor Fun (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Learning Fun I - Math Master Factor Fun (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Learning Fun I - Math Master Factor Fun (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Learning Fun II - Word Wizard Memory Fun (World).7z</path>
+		<name>Learning Fun II - Word Wizard Memory Fun</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Learning Fun II - Word Wizard Memory Fun (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Learning Fun II - Word Wizard Memory Fun (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Learning Fun II - Word Wizard Memory Fun (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Loco-Motion (World).7z</path>
+		<name>Loco-Motion</name>
+		<desc>Loco-Motion is a puzzle-style arcade game in which a train is riding on a grid of movable track pieces. The goal is to guide the train through the train stations located around the edge of the playfield. An empty section in the grid allows the player to shift adjacent track pieces into that section to alter the train's path, and a tracing light shows the path the train is taking as it moves. An accelerator button moves the train more quickly on its path, and a panic button will switch the piece of track the train is on with a random track piece on the grid.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Loco-Motion (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Loco-Motion (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Loco-Motion (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Puzzle</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Magic Carousel (World).7z</path>
+		<name>Magic Carousel</name>
+		<desc>[Unreleased 1983 Intellivoice] Identify animals on a carousel and follow instructions given throughout the game.
+    Score points by doing what the voices tell you:
+        Choose the correct carousel animal.
+        Play a piano.
+        Drink some milk.
+        Answer a telephone.
+    Learning game for children.
+    2 different game screens.
+    1 player Intellivoice game.
+
+DEVELOPMENT HISTORY
+Marketing specifically requested a children's educational game for the Intellivoice. Programmer Ron Surratt (Atari 2600 BurgerTime) and graphic artist Peggi Decarli (USCF Chess) drew up some initial concepts for the game (Ron's input was requested because he used to be a teacher), then Steve Ettinger was assigned as programmer. New-hire Joe Ferreira was added to train with Peggi as a graphics artist. Steve and Joe quickly became a strong design team, taking the concept from a barnyard to a carousel and making the game their own. By the time it was finished, however, Marketing decided that sales of Intellivoice units were too low to support such a "specialty" cartridge. Magic Carousel was shelved with the hope that a future increase in Intellivoice sales would justify the game's release. It never happened.
+
+Steve and Joe had proved themselves to be a formidable team, so they were chosen to design the top-secret experimental Intellivision game, Hover Force 3-D.
+
+EASTER EGG: Connect the twinkling stars above the carousel on the title screen to get SEE and JAF, Steve and Joe's initials.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Magic Carousel (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Magic Carousel (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Magic Carousel (World).mp4</video>
+		<releasedate>20010101T000000</releasedate>
+		<genre>Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Masters of the Universe - The Power of He-Man! (World).7z</path>
+		<name>Masters of the Universe - The Power of He-Man!</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Masters of the Universe - The Power of He-Man! (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Masters of the Universe - The Power of He-Man! (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Masters of the Universe - The Power of He-Man! (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Melody Blaster (World).7z</path>
+		<name>Melody Blaster</name>
+		<desc>In Melody Blaster, individual notes of a specific song fall from the top of the screen and toward a musical staff, and your goal is to play each note on the Music Synthesizer keyboard in the exact moment it passes over its corresponding staff line. Accidentals (sharps and flats) are color-coded, and you have the option of playing the left-hand or right-hand parts only, or both. I believe there is also an option where the game will hit the right note for you no matter which key of the keyboard is pressed, to allow novice players to focus on their timing instead of on hitting the right notes. There is a small collection of built-in songs, and it's possible to create your own and save them to cassette tape.
+
+The gameplay of Melody Blaster is similar to that of Guitar Hero in that precise timing and accuracy are important, but in Melody Blaster, you're playing a real musical keyboard instead of a plastic guitar with buttons. My rudimentary skills on the keyboard haven't permitted me to get into it very much yet, but it's a fun game that too many Intellivision owners won't have the opportunity to experience, since it requires an ECS Computer Adaptor and a Music Synthesizer keyboard.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Melody Blaster (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Melody Blaster (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Melody Blaster (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Music</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Microsurgeon (World).7z</path>
+		<name>Microsurgeon</name>
+		<desc>You're a microsurgeon, and your patient is in critical condition! First you need to examine the patient's medical chart to find out what's wrong, and which conditions are the most critical. Now to save the patient, you control a robot probe which can be used to administer aspirin, antiseptic, or ultrasonics to clear up the problem. You should clear up the most critical conditions first, then move on to the less serious areas to ensure your patient survives. Your probe should navigate through the veins, arteries, and lymph; if you guide the probe outside these areas, it's movement will slow down and swarms of white blood cells will attack it, depleting the limited energy supply. There are 197 different patients you need to help, each with different ailments.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Microsurgeon (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Microsurgeon (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Microsurgeon (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Life Simulation</genre>
+		<players />
+	</game>
+	<game id="" source="">
+		<path>./Moto-Cross (World).7z</path>
+		<name>Moto-Cross</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Moto-Cross (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Moto-Cross (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Moto-Cross (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Mountain Madness - Super Pro Skiing (World).7z</path>
+		<name>Mountain Madness - Super Pro Skiing</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Mountain Madness - Super Pro Skiing (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Mountain Madness - Super Pro Skiing (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Mountain Madness - Super Pro Skiing (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Mouse Trap (World).7z</path>
+		<name>Mouse Trap</name>
+		<desc>Mouse Trap is an arcade action game similar to Pac-Man. You control a mouse in a maze; your goal is to eat all of the bits of cheese in order to score points and move on to the next maze. Wandering throughout the maze are several cats who are trying to catch you! Your mouse has the ability to temporarily turn into a dog and be able to chase the cats. To do so, however, he will need to eat the dog bones which are located throughout the maze. The maze also contains numerous doors. The mouse can move these doors to reconfigure the maze in an attempt to outsmart the cats.</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Mouse Trap (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Mouse Trap (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Mouse Trap (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Mr. Basic Meets Bits 'N Bytes (World).7z</path>
+		<name>Mr. Basic Meets Bits 'N Bytes</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Mr. Basic Meets Bits 'N Bytes (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Mr. Basic Meets Bits 'N Bytes (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Mr. Basic Meets Bits 'N Bytes (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./NASL Soccer (World).7z</path>
+		<name>NASL Soccer</name>
+		<desc>NASL Soccer is an action soccer game for two players. The game follows typical soccer rules; attempt to score more goals than your opponent in the two 45 minute periods (this is in simulated time). You control one player on your team at a time while the computer takes control of the rest. The game allows you to dribble and pass, and features throw ins, corner kicks, goal kicks, and in the event of a tie the game goes in to overtime! Several skill levels are available which control the speed of the game.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/NASL Soccer (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/NASL Soccer (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/NASL Soccer (World).mp4</video>
+		<releasedate>19800904T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./NBA Basketball (World).7z</path>
+		<name>NBA Basketball</name>
+		<desc>The speed and excitement of real basketball court action! Life-like figures and authentic gameplay as two teams compete in 48 thrill-packed minutes. You and your opponent control the ball and mastermind the plays. Dribble down court, pass it off, go for a jump or set shot. You go for a rebound... try a fast break. You try to steal the ball... block the shot. Featuring simulated sound effects such as crowd cheers, buzzers, dribbling sounds, rim shot sounds, referee's whistle and much more!</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/NBA Basketball (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/NBA Basketball (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/NBA Basketball (World).mp4</video>
+		<releasedate>19800825T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./NFL Football (World).7z</path>
+		<name>NFL Football</name>
+		<desc>NFL Football contains almost all the elements of a real football game. The game consists of four quarters, fifteen minutes each. There are four difficulty levels; high school, college, semi-pro, and pro. There are nine different plays to call, including running plays, field goals, passing plays, and punting. The only thing that's not realistic about NFL Football is the teams only have five players on offense and on defense.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/NFL Football (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/NFL Football (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/NFL Football (World).mp4</video>
+		<releasedate>19800827T000000</releasedate>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Night Stalker (World).7z</path>
+		<name>Night Stalker</name>
+		<desc>Your man is trapped in the maze. Robots relentlessly track him down. Keep him away from spiders and bats. Watch out for robot fire! React quickly. The key to survival is to destroy them -- before they get the man! Rack up as many points as you can! It's you against them...to the end!</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Night Stalker (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Night Stalker (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Night Stalker (World).mp4</video>
+		<releasedate>19820516T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Nova Blast (World).7z</path>
+		<name>Nova Blast</name>
+		<desc>Pilot Nova 1 above the Capsuled Cities. Defend 4 cities in your quadrant. Use your radar to detect enemy activity. Race to protect these civilized outposts before their capsules are destroyed! Engage the enemy in galactic dogfights. Locate anti-aircraft guns and destroy them. Beam up fuel as you run low.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Nova Blast (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Nova Blast (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Nova Blast (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Number Jumble (World).7z</path>
+		<name>Number Jumble</name>
+		<desc>[Unreleased 1984 ECS] Cut across fire in a Time Sailer, cruise under water in a Submarine, fly through thin air in a Zeppelin, or roll across the Earth in a Tank -- but never stop firing at the dreadful creatures that beset you! Shoot them down with the fireballs you control and they'll turn into black numbers. When you shoot enough creatures, you get a chance to solve exciting mathematical equations...and score big points! Hurry, for every second counts! Have fun!
+
+    1 or 2 players. 1 little man under your control when the game starts, 4 more in reserve. 4 different environments to choose from!
+    Simple to more complex equations. Both "scratch pad" and "solution" areas to work on. Choose from 48 skill levels.
+    Transport Houses found in every environment to give you bonus multipliers. Progressive scoring setup, according to your skill level and speed in solving equations.
+    Automatic transfer to a higher level once you've mastered the one you're on! 
+
+PRODUCTION HISTORY
+Early in 1983, Mattel Electronics created an Educational Products department to develop educational game ideas, primarily for the Entertainment Computer System.
+
+Number Jumble was one of the ideas that came out of that department. Others that went into production were Jetsons' Ways With Words and Flintstones Keyboard Fun.
+
+The game was completed late in 1983. Packaging reached the black &amp; white mockup stage, but Mattel Electronics was closed before the game could be released.
+
+Although designed for the Entertainment Computer System, the game was played with the hand controllers. The ECS keyboard was only used if the player needed to do scratchpad calculations before entering answers.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Number Jumble (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Number Jumble (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Number Jumble (World).mp4</video>
+		<releasedate>19981231T000000</releasedate>
+		<genre>Puzzle</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./PBA Bowling (World).7z</path>
+		<name>PBA Bowling</name>
+		<desc>This is a game of skill that requires you to knock down pins as in real bowling. Play alone or with up to three friends. Two game are available: standard bowling and pick-up spares. Pick-up spares sets the pins in a variety of ways to let you practice difficult shots.
+
+Options allow you to select 1 of 10 conditions of alley slickness and the weight of your ball. Players can also choose to be a right or left handed bowler. While trying to knock down the pins you will need to control the curve and loft of the ball.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/PBA Bowling (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/PBA Bowling (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/PBA Bowling (World).mp4</video>
+		<releasedate>19810731T000000</releasedate>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./PGA Golf (World).7z</path>
+		<name>PGA Golf</name>
+		<desc>PGA Golf is played from an overhead point of view. Up to four players can compete on a nine hole, par 38 course.  Shoot over trees, sand traps and water hazards.  Play from a bag of nine clubs; hook, slice, and control the power of each swing.  You will receive penalty strokes for balls that land out of bounds and in the water, and of course the lowest score at the end of the round wins!</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/PGA Golf (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/PGA Golf (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/PGA Golf (World).mp4</video>
+		<releasedate>19801105T000000</releasedate>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Pac-Man (World).7z</path>
+		<name>Pac-Man</name>
+		<desc>The refinements of dot chomping lead to high scores as hungry Pac-Man avoids ambush by vicious goblins. All the fun and excitement of the real arcade version!</desc>
+		<publisher>Atarisoft</publisher>
+		<developer>Atari, Inc.</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Pac-Man (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Pac-Man (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Pac-Man (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Pinball (World).7z</path>
+		<name>Pinball</name>
+		<desc>Pinball is a pinball simulation for one or two players. You begin the game with five balls, and need to score as many points as possible by hitting the ball into the various bumpers and targets on the pinball table. The pinball table consists of three different screens, each with a different layout and level of difficulty. To advance from one screen to the next, you need to use a single ball to hit several targets and then get the ball into a white cup that appears. If you are on the second or third screen and the ball falls off the bottom, you will be back to the lower screen; if the ball falls off the bottom screen you will lose that ball. The game ends when all five balls have been lost.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Pinball (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Pinball (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Pinball (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Pitfall! (World).7z</path>
+		<name>Pitfall!</name>
+		<desc>The player must maneuver a character known as Pitfall Harry through a maze-like jungle in an attempt to recover 32 treasures in a 20-minute time period. Along the way, he must negotiate numerous hazards, including pits, quicksand, rolling logs, fire, rattlesnakes, scorpions, and crocodiles. Harry may jump over or otherwise avoid these obstacles by climbing, running, or swinging on a vine to avoid them. Treasure includes gold and silver bars, diamond rings, and bags of money. Under the jungle there is a tunnel which Harry can access through ladders found at various places. This is required to get around some surface areas that have no way across otherwise. The tunnels are filled with dead-ends blocked by brick walls, forcing the player return to the surface at one of the ladders, and try to find a way around again. The tunnels also contain treasure and scorpions Harry must jump over.</desc>
+		<publisher>Activision</publisher>
+		<developer>Activision</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Pitfall! (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Pitfall! (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Pitfall! (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Pole Position (World).7z</path>
+		<name>Pole Position</name>
+		<desc>Before the player can enter the Grand Prix, the player must first qualify by competing in the Qualifying Lap within 73 seconds or less. If the player however, does not qualify in the Qualifying Lap, the player may continue to race until the Race Timer runs after 90 seconds. The player will score 50 point per 5 meters and additionally 50 points for every racing car passed. When the time runs out - Game Over. The player will have to restart the Qualifying Lap.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Pole Position (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Pole Position (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Pole Position (World).mp4</video>
+		<releasedate>19880101T000000</releasedate>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Popeye (World).7z</path>
+		<name>Popeye</name>
+		<desc>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</desc>
+		<publisher>Parker Brothers</publisher>
+		<developer>Nintendo</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Popeye (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Popeye (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Popeye (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Q-bert (World).7z</path>
+		<name>Q-bert</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Q-bert (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Q-bert (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Q-bert (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Reversi (World).7z</path>
+		<name>Reversi</name>
+		<desc>Reversi is a computerized version of the board game Othello. During the game, two players take turns placing game pieces on the board in an attempt to trap pieces of their opponents color. Any trapped pieces will then be reversed in color. When the board becomes completely filled up, whomever has the most pieces of his own color on the board wins. The game can be played by two players, or one player against the computer. There are three skill levels the computer can use, and three different board sizes are available, 6 by 6, 8 by 8, and 10 by 10.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Reversi (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Reversi (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Reversi (World).mp4</video>
+		<releasedate>19820511T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./River Raid (World).7z</path>
+		<name>River Raid</name>
+		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.</desc>
+		<publisher>Activision</publisher>
+		<developer>Activision</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/River Raid (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/River Raid (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/River Raid (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Robot Rubble (World).7z</path>
+		<name>Robot Rubble</name>
+		<desc>[Unreleased 1983] A robot is shooting at you - lob a grenade to destroy it. Boom! But once it's gone, a tougher robot takes its place!
+
+Steve Montero developed this game at Activision after programming the robot-themed Night Stalker at Mattel Electronics.  The game was completed in late 1983, just as Activision decided to give up on releasing new Intellivision titles.  It was finally released in 2001 on the Intellivision Rocks CD.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Activision</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Robot Rubble (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Robot Rubble (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Robot Rubble (World).mp4</video>
+		<releasedate>20011231T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Royal Dealer (World).7z</path>
+		<name>Royal Dealer</name>
+		<desc>Pull up a chair and join the party! Your computer-controlled opponents are ready to take you on, in four card game classics -- Crazy Eights, Rummy, Gin Rummy and Hearts. Computer shuffles the deck and deals. Your choice of 1, 2 or 3 poker-faced ladies play the opposing hands. You provide the peanuts and chatter. The computer provides the challenge.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APH Technical Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Royal Dealer (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Royal Dealer (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Royal Dealer (World).mp4</video>
+		<releasedate>19821030T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Safecracker (World).7z</path>
+		<name>Safecracker</name>
+		<desc>Safecracker puts you in the role of one of history's greatest spies as you drive around the streets of a foreign city and abscond with secretive cameras, keys, microfilm, flasks of chemicals, and bars of gold bullion.
+
+While cruising around the city, you should avoid crashing into curbs or other cars. You can shoot the cars if you like, but this will bring the Secret Police and their bullets. You should make your way to one of the embassies, where you can learn the combination needed to open the treasury vault. This is also where you can find most of the secretive items. After picking the combination locks of four embassies, you will have both secret numbers needed to open the treasury safe, which contains the gold.
+
+The most profitable way to crack a safe is to pick its combination numbers by finding the right number sequences. This involves cycling through various numbers (0 through 99) on your keypad. Pick numbers until there are no more to find. If you find yourself running out of time, you can simply blow up the safe with dynamite. However, you will not score any points, and the Secret Police will respond to an alarm that will automatically be set off.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Safecracker (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Safecracker (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Safecracker (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Scooby Doo's Maze Chase (World).7z</path>
+		<name>Scooby Doo's Maze Chase</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Scooby Doo's Maze Chase (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Scooby Doo's Maze Chase (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Scooby Doo's Maze Chase (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Sea Battle (World).7z</path>
+		<name>Sea Battle</name>
+		<desc>Sea Battle is a strategic game for two players only. Each player controls a fleet of ships including Submarines, Destroyers, and Battleships. The goal is to engage and sink enemy ships. The winner is the player who commands the troop transport ship into the opponent's harbor. There are two phases in Sea Battle; the strategy phase, and the combat phase. The strategy phase includes maneuvering your fleet into different strategic positions on the map, laying mines, and repair fleets. Opponents engage in ship-to-ship warfare in the combat phase, triggered by the ENGAGE button. Each of the different types of ships has there own strengths and weaknesses, such as weapon range and maneuverability.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Sea Battle (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Sea Battle (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Sea Battle (World).mp4</video>
+		<releasedate>19801003T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Shark! Shark! (World).7z</path>
+		<name>Shark! Shark!</name>
+		<desc>In Shark! Shark! you control a fish! Your goal is to earn as many points as possible while staying alive. Swimming in the ocean with you are other fish of various sizes, lobsters, crabs, jellyfish, and a very fast shark. You are able to eat any fish that is smaller in size than you are, and any fish that is larger will eat you! The shark can also be killed if you nibble at its tail several times, but careful for the shark can turn quickly. Each time you eat a fish or nibble on the sharks tail, points are earned. Each time you score 1000 points, your fish will grow larger in size allowing you to eat even more of the fish on the screen. Several different game speeds are included, and one or two players can play.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Shark! Shark! (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Shark! Shark! (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Shark! Shark! (World).mp4</video>
+		<releasedate>19821206T000000</releasedate>
+		<genre>Action</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Sharp Shot (World).7z</path>
+		<name>Sharp Shot</name>
+		<desc>Sharp Shot is collection of 4 single-button action games: Touchdown Passing, Space Gunner, Submarine, and Maze Shoot. The goal of each game is to score as many points as possible within 60 seconds.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Sharp Shot (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Sharp Shot (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Sharp Shot (World).mp4</video>
+		<releasedate>19821028T000000</releasedate>
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Slap Shot - Super Pro Hockey (World).7z</path>
+		<name>Slap Shot - Super Pro Hockey</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Slap Shot - Super Pro Hockey (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Slap Shot - Super Pro Hockey (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Slap Shot - Super Pro Hockey (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Snafu (World).7z</path>
+		<name>Snafu</name>
+		<desc>The contest is on! Create a maze to corner your opponents...before you are cornered yourself. Split-second reflexes keep your trail in motion -- while blocking your opponent and/or the computer in a trap from which there is no escape. Or direct a hungry serpent after your opponent, and bite his tail off before he bites yours. It's a twisting tangle which only the swift survive. 16 game variations put you in control. 
+
+Trap Games (12 variations) -- To keep your trail moving without colliding -- and to block your opponents' trails so that they are forced into collisions. Trails that collide with others, with the edge of the picture, with obstacles  or themselves are eliminated.
+
+Bite Games (4 variations) -- To make contact between the head of your serpent and the tail of your opponent's serpent, "biting" off one link with each contact. The winner is the surviving serpent.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Snafu (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Snafu (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Snafu (World).mp4</video>
+		<releasedate>19811015T000000</releasedate>
+		<genre>Action</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Space Armada (World).7z</path>
+		<name>Space Armada</name>
+		<desc>Space Armada is a clone of the game Space Invaders. Rows of bomb dropping aliens are invading your home planet, and you need to protect it! You control a laser gun at the bottom of the screen; your goal is to earn as many points as possible by destroying the waves of attacking aliens at the top of the screen. The aliens march steadily downward, and if they reach the ground or you run out of laser guns, the game is over. When all aliens in a wave are destroyed, you move on to the next, more challenging round. From time to time, a flying saucer will pass by at the top of the screen which can be shot for bonus points.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Space Armada (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Space Armada (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Space Armada (World).mp4</video>
+		<releasedate>19811015T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Space Battle (World).7z</path>
+		<name>Space Battle</name>
+		<desc>Space Battle is a one player game that pits you against the computer.
+
+Six alien fleets of different sizes are attacking your mothership, and it's up to you to defend it using your three squadrons. Alien ships will dodge your attacks and will attack you with photon blasts.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Space Battle (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Space Battle (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Space Battle (World).mp4</video>
+		<releasedate>19800825T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Space Spartans (World).7z</path>
+		<name>Space Spartans</name>
+		<desc>In 480 B.C. a small Spartan force held off Xerxes and the entire Persian army, in the famous Battle of Thermopylae. The Spartans chose to die defending the pass into Greece, to give their allies time to prepare for attack. SPACE SPARTANS reenacts this battle in space, in a heroic adventure that pits you against overwhelming alien odds. You are the elite force. Stop the first alien onslaught and a new alien force appears. Hold the aliens back as long as you can and give your home galaxy time to repare for attack!
+
+Score as many points as possible by shooting down alien ships, before your ship is destroyed or you run out of energy. Repair damaged ship systems and re-energize at your 3 starbases. Destroy all aliens on the Sector Grid and a new round starts with more aliens. YOU HAVE ONE SHIP AGAINST A CONTINUOUS ONSLAUGHT OF ALIEN ATTACKERS.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Space Spartans (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Space Spartans (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Space Spartans (World).mp4</video>
+		<releasedate>19820629T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Spiker! - Super Pro Volleyball (World).7z</path>
+		<name>Spiker! - Super Pro Volleyball</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Spiker! - Super Pro Volleyball (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Spiker! - Super Pro Volleyball (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Spiker! - Super Pro Volleyball (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Stadium Mud Buggies (World).7z</path>
+		<name>Stadium Mud Buggies</name>
+		<desc>Get down and dirty with Stadium Mud Buggies for the Intellivision, where the object is to score points by driving in nine events: Hill Climb, Drag Race, Bog, Tug-O-War, Car Crush, Donuts, Drawbridge, Combo Course and Monster Rally, which consists of all the events in order. You can compete against a friend, a computer driver, or against your own high score.
+
+For each event you can select from one to nine laps (or quarter miles in a couple of the events) and from five difficulty levels. Your buggy is equipped with a gas pedal, a brake pedal, reverse, and a four-speed transmission. Downshifting occurs automatically.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Stadium Mud Buggies (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Stadium Mud Buggies (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Stadium Mud Buggies (World).mp4</video>
+		<releasedate>19890101T000000</releasedate>
+		<genre>Racing</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Stampede (World).7z</path>
+		<name>Stampede</name>
+		<desc>It's a stampede!! Your job is to round up as many of the calves as you can. The screen scrolls to the right as you chase the calves; if more than three calves get past you, the game is over. The calves all run at different speeds, and when you rope one you earn points based on how fast it was running. As the game progresses, more and more calves will be on the screen at one time, and other obstacles will begin appearing to trip your horse and slow you down.</desc>
+		<publisher>Activision</publisher>
+		<developer>Activision</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Stampede (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Stampede (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Stampede (World).mp4</video>
+		<releasedate>19821231T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Sub Hunt (World).7z</path>
+		<name>Sub Hunt</name>
+		<desc>In Sub Hunt you control a group of four submarines one at a time. The goal is to destroy six convoys which will be attempting to cross the stretch of sea you are guarding. You can aim and fire torpedoes using a periscope view, have your submarine dive and surface, and adjust your speed. An overhead display allows you to strategically move your submarines in the position of your choice. There are five difficulty levels to choose from.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Sub Hunt (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Sub Hunt (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Sub Hunt (World).mp4</video>
+		<releasedate>19820506T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Super Pro Decathlon (World).7z</path>
+		<name>Super Pro Decathlon</name>
+		<desc>Super Pro Decathlon lets you and up to three friends compete in 10 track-and-field events. You can enter the Practice mode in order to train yourself on individual events, or you can go for broke and play the full 10-event Decathlon. Each event has a minimum time, distance, or height you must beat in order to qualify. Three difficulty levels are available: Amateur, Olympic and Super Pro.
+
+Events are as follows: 100 Meter Dash, Broad Jump, Shot-Put, High Jump, Triple Jump, 110 Meter Hurdles, Discus Throw, Pole Vault, Javelin Throw and 400 M. Dash. Most of the events require running, which is done by quickly tapping alternate sides of the disc repeatedly or by spinning the disc.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Super Pro Decathlon (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Super Pro Decathlon (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Super Pro Decathlon (World).mp4</video>
+		<releasedate>19880101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Super Pro Football (World).7z</path>
+		<name>Super Pro Football</name>
+		<desc>For one or two players, Super Pro Football is an update of NFL Football.  Select plays on screen and define pass patterns for two receivers.  Each team can play at one of nine different skill levels.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Super Pro Football (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Super Pro Football (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Super Pro Football (World).mp4</video>
+		<releasedate>19860101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Swords &amp; Serpents (World).7z</path>
+		<name>Swords &amp; Serpents</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Swords &amp; Serpents (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Swords &amp; Serpents (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Swords &amp; Serpents (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./TRON - Solar Sailer (World).7z</path>
+		<name>TRON - Solar Sailer</name>
+		<desc />
+		<image>/home/pi/addonusb/roms/intellivision/mixart/TRON - Solar Sailer (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/TRON - Solar Sailer (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/TRON - Solar Sailer (World).mp4</video>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="" source="">
+		<path>./Takeover (World).7z</path>
+		<name>Takeover</name>
+		<desc>[Unreleased 1982] Takeover is a strategy game where the objective is to capture your 
+opponent's capital city. This is accomplished by a coordinated effort of the armies, fleets, cities and roads at the player's disposal. The game is played with five different scenarios and randomly situated capital cities which form constraints to each player's basic strategy.</desc>
+		<publisher>Intellivision Productions</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Takeover (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Takeover (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Takeover (World).mp4</video>
+		<releasedate>19981231T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Tennis (World).7z</path>
+		<name>Tennis</name>
+		<desc>Tennis is a singles tennis game for two players. The game follows standard tennis rules, and allows you to hit both forehand and backhand shots to any location on the court. Whether serving or volleying, you have the choice of hitting the ball hard or soft, and you may hit either a lob or a regular ground stroke. The game allows you to set the difficulty by selecting one of four different speeds.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Tennis (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Tennis (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Tennis (World).mp4</video>
+		<releasedate>19801201T000000</releasedate>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Thunder Castle (World).7z</path>
+		<name>Thunder Castle</name>
+		<desc>In this medieval fantasy game, players take control of a brave knight as he sets out on a quest of treasure hunting and survival. The quest takes the knight into three different realms of danger, each with its own challenges, and an ever changing maze of which they must navigate through. The quest is broken down into these challenges:
+Forest - The Knight must confront three dragons, each one more difficult than the last. Along the way, an enchanted bat will give him the strength to overcome the danger.
+Castle - The Knight must overcome six wizards, his only aid being a mouse that will generally try to avoid capture.
+Dungeon - A randomly appearing skull is the only defense against the nine demons that make up the sinister dungeons.
+
+Along the way, the items that the Knight will find may be of some help (or hinder) his quest to make it through the different areas. Challenge the areas again and again for the highest score possible!</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Thunder Castle (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Thunder Castle (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Thunder Castle (World).mp4</video>
+		<releasedate>19860101T000000</releasedate>
+		<genre>Stealth</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Tower of Doom (World).7z</path>
+		<name>Tower of Doom</name>
+		<desc>Tower of Doom is a single-player, Dungeons &amp; Dragons-inspired title created exclusively for the Intellivision. Choose from 10 different character classes, each with its own strengths. 7 different quests are available for play, with the harder quests featuring randomized maps and magic item effects. After choosing the quest to embark on, players will then control their character using a top-down view of the section of the dungeon they are in, the corridors and rooms being drawn on-screen as they explore them. Also to the player's disposal is a display of the character's inventory which can be utilized at any time, and an on-screen map of the entire dungeon. Encountering a creature will initiate a battle screen at which time players can fight the creature or attempt to bribe it with items they have discovered. Magic items and traps can also be found in the dungeon, each having unique effects on the player.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>INTV Corporation</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Tower of Doom (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Tower of Doom (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Tower of Doom (World).mp4</video>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Triple Action (World).7z</path>
+		<name>Triple Action</name>
+		<desc>Three games in one! Triple Action features three uniquely different arcade games:
+
+Racing Cars - Race side-by-side down the highway against an opponent, dodging standard traffic as you go. First one to 100 miles wins!
+
+Battle Tanks - Get in a tank and fight another player, hiding behind cover as you go. Choose between long-range or short-range bullets, or the ability for the bullets to bounce off objects for a true strategic challenge.
+
+Biplanes - Get into the cockpit of a biplane, fighting another player with either short or long range bullets. Hit the balloon for an extra point, but don't stall! First to 15 wins.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Triple Action (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Triple Action (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Triple Action (World).mp4</video>
+		<releasedate>19811015T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="" source="">
+		<path>./Triple Challenge (World).7z</path>
+		<name>Triple Challenge</name>
+		<desc>Triple Challenge features three previously released games on one cartridge: chess (formerly USCF Chess), checkers, and backgammon (formerly ABPA Backgammon). All three games are complete versions, containing all the rules and regulations of the original board games on which they are based.</desc>
+		<publisher>INTV Corporation</publisher>
+		<developer>Realtime Associates</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Triple Challenge (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Triple Challenge (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Triple Challenge (World).mp4</video>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Tropical Trouble (World).7z</path>
+		<name>Tropical Trouble</name>
+		<desc>Clumsy Clarence is vacationing on a tropical island with his girlfriend Doris. Unfortunately, their vacation is interrupted when Doris is kidnapped by the bully Beach Bruiser. Now Clarence needs to rescue Doris by chasing the Beach Bruiser all over the island! The Beach Bruiser will be carrying Doris to the right and the screen scrolls to follow. You need guide Clarence and catch up to Doris. There are many obstacles on the screen which temporarily slow down your progress. Coconuts, ferns, clams, sand snakes, and lava will all appear in your way. If you get slowed down too much and hit the left side of the screen, you lose one of your lives. From time to time, Doris will drop a handkerchief; collect this and you become temporarily invincible! If you catch Doris, you then move on to the next section of the island; when each section of the island has been completed you then need to battle the Beach Bruiser on a bridge. If you're successful, the game will then repeat at a more difficult skill level.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Tropical Trouble (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Tropical Trouble (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Tropical Trouble (World).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Tutankham (World).7z</path>
+		<name>Tutankham</name>
+		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</desc>
+		<publisher>Parker Brothers</publisher>
+		<developer>Parker Brothers</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Tutankham (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Tutankham (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Tutankham (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./U.S. Ski Team Skiing (World).7z</path>
+		<name>U.S. Ski Team Skiing</name>
+		<desc>In U.S. Ski Team Skiing, players race down the hill, avoiding trees and jumping moguls in their path. The game features both slalom and downhill courses. 1 player may race against the clock, or 2 to 6 players can alternate turns and race to see who gets the fastest time, and each race has 3 heats.
+
+Both downhill and slalom courses have 15 different slope grade settings to affect acceleration. 4 different settings for overall game speed are also available.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>APh Technological Consulting</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/U.S. Ski Team Skiing (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/U.S. Ski Team Skiing (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/U.S. Ski Team Skiing (World).mp4</video>
+		<releasedate>19801210T000000</releasedate>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./USCF Chess (World).7z</path>
+		<name>USCF Chess</name>
+		<desc>Game features include taking back and redoing moves, rotating the game board 180 degrees, and setting up the chess board for special moves and instances. When playing against the CPU, players can also switch sides with the computer to make a move for the CPU. If the computer takes too long to make a move, the player may force the CPU to immediately make the best move it can think of, or cause the game to make an audible tone and pause before making the move.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/USCF Chess (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/USCF Chess (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/USCF Chess (World).mp4</video>
+		<releasedate>19821123T000000</releasedate>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Utopia (World).7z</path>
+		<name>Utopia</name>
+		<desc>Utopia is a game played by two players on two continents. Players must build their island nation by building farms, housing, schools, hospitals, and factories and making other improvements while also competing against another player. Players are able to sabotage the other player as well, but they must also handle maintaining a fleet of PT boats to protect their fishing fleet, building forts to prevent rebellion, and dealing with the occasional hurricane.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Utopia (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Utopia (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Utopia (World).mp4</video>
+		<releasedate>19820603T000000</releasedate>
+		<genre>Construction and Management Simulation</genre>
+		<players />
+	</game>
+	<game id="" source="">
+		<path>./Vectron (World).7z</path>
+		<name>Vectron</name>
+		<desc>The object of Vectron is to construct an energy base, section by section. You add each section by moving your energy block in place and filling it with an energy blast. You must protect your energy block against Hungrees, G-spheres, splits, sweeps, and prizums who can destroy it. Shoot them down with energy blasts or neutralize them with special energy from an E-Pak. Don't run out of energy or you lose an energy block. There are three energy blocks per game. When they're gone, the game is over.</desc>
+		<publisher>Mattel Electronics</publisher>
+		<developer>Mattel Electronics</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Vectron (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Vectron (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Vectron (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>No</players>
+	</game>
+	<game id="" source="">
+		<path>./Venture (World).7z</path>
+		<name>Venture</name>
+		<desc>Venture is an action game in which you control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Venture (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Venture (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Venture (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./White Water! (World).7z</path>
+		<name>White Water!</name>
+		<desc>In White Water! your goal is to raft down a river in the shortest time possible. The river features many dangerous turns, rocks, whirlpools, barrels, and other obstacles that get in your way. You begin your trip with three men, and if you don't navigate carefully they can fall out of the raft! If any men remain in the raft, they can try pick up anyone who has fallen out but must do so before they hit a rock, a whirlpool, or leave the screen (if all of your men fall out of the raft, the game will end). In the easier game variations, your score is based on how quickly you can reach the finish line. In the more difficult game variations, you not only need to reach the finish line as quickly as possible but also need to earn points by landing your raft at various beaches along the way and collecting treasures that can be found in the forest. Some of the treasures will be guarded by the natives, so be careful (also be sure not to wander too far into the forest, or you'll become lost). The game ends when you reach the finish line, or all your men are lost either by falling in the river or in the forest.</desc>
+		<publisher>Imagic</publisher>
+		<developer>Imagic</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/White Water! (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/White Water! (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/White Water! (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./World Cup Soccer (World).7z</path>
+		<name>World Cup Soccer</name>
+		<desc>Play against the computer or play against a friend.  With the optional ECS Computer Adaptor three or four players can play or two can play against the computer.
+
+World Cup Soccer is an advanced version of the original, successful Soccer. It enables you to play with an opponent or against your Intellivision unit. It offers more real life-like gameplay with such added gameplay features as heading the ball, tackling, the option of changing players during game play, and direct or indirect kicking after penalties are called. It's so life-like that you have a full team of players.</desc>
+		<publisher>Dextell</publisher>
+		<developer>Nice Ideas</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/World Cup Soccer (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/World Cup Soccer (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/World Cup Soccer (World).mp4</video>
+		<releasedate>19851231T000000</releasedate>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game id="" source="">
+		<path>./Worm Whomper (World).7z</path>
+		<name>Worm Whomper</name>
+		<desc>Felton Pinkerton wanted to take his wife to the fair, so he didn't get a chance to spray pesticide on his crop of corn. But due to his laziness, all of the bugs have now arrived and are trying to eat every last bit of corn! You control Felton who is armed with a spray gun. Your crop of corn is displayed on the left side of the screen, and you need to protect it from the incoming hoard of inchworms, moths, caterpillars, slugs, and other assorted bugs which approach rapidly from the right. If any of the bugs sneak past you, they will eat part of your corn crop. The game ends when all of the corn has been eaten. On each level you need to spray all of the bugs that appear in order to move on to the next round; as the rounds progress, the bugs become faster, more numerous, and home in quicker on the corn.</desc>
+		<publisher>Activision</publisher>
+		<developer>Cheshire Engineering</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Worm Whomper (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Worm Whomper (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Worm Whomper (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="" source="">
+		<path>./Zaxxon (World).7z</path>
+		<name>Zaxxon</name>
+		<desc>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up which originated in the arcades. The game has three stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.
+
+Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, the game looping with increased difficulty if you can survive the first time. There are three distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</desc>
+		<publisher>Coleco</publisher>
+		<developer>Coleco</developer>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Zaxxon (World).png</image>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Zaxxon (World).png</marquee>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Zaxxon (World).mp4</video>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Cobra (World).7z</path>
+		<name>Super Cobra</name>
+		<desc>Super Cobra is a side-scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Super Cobra (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Super Cobra (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Super Cobra (World).png</marquee>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Major League Baseball (World).7z</path>
+		<name>Major League Baseball</name>
+		<desc>Major League Baseball is an action baseball game for two players. The game follows most professional baseball rules and allows you to control all of the players on the team. You can throw a variety of pitches (from curve balls to fast balls), steal bases, tag players out, bunt, try for a home run, and in the event of a tie the game goes into extra innings! Several difficulty levels are available which control the game speed and whether or not stealing bases is allowed.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Major League Baseball (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Major League Baseball (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Major League Baseball (World).png</marquee>
+		<releasedate>19800904T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./NHL Hockey (World).7z</path>
+		<name>NHL Hockey</name>
+		<desc>NHL Hockey is a two-player, action hockey game for the Intellivision. Players control their team's puck handler, while the CPU controls all other team members, including the goalie. The players can either shoot the puck quickly or pass it slowly, and can also trip other players (at the risk of a penalty if they do not have the puck.) Stealing the puck and intercepting shots are also possible during gameplay. NHL Hockey features 4 different speed settings, selectable at the beginning of the game.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/NHL Hockey (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/NHL Hockey (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/NHL Hockey (World).png</marquee>
+		<releasedate>19801003T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Lock 'N' Chase (World).7z</path>
+		<name>Lock 'N' Chase</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Lock 'N' Chase (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Lock 'N' Chase (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Lock 'N' Chase (World).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Astrosmash (World).7z</path>
+		<name>Astrosmash</name>
+		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
+
+Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Astrosmash (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Astrosmash (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Astrosmash (World).png</marquee>
+		<releasedate>19811015T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Mission X (World).7z</path>
+		<name>Mission X</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Mission X (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Mission X (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Mission X (World).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Sewer Sam (World).7z</path>
+		<name>Sewer Sam</name>
+		<desc>Three Russian submarines have been located in the New York sewer system and they have blocked off the system. Sam's only way out of the sewer system is to destroy the Russian submarines. Luckily, Sam carries his revolver. Sam can't go back... once he's gone through the City Sewer Department seals the tunnel. Luckily, Sam carries his revolver.
+
+The sewer system has three types of sewer tunnels. Tunnels with solid dry floors, tunnels with a water passage in the middle and tunnels with pits. Sam can walk, run and creep through the tunnels but Sam can't move as quickly in water. Sam can move from tunnel to tunnel by entering one of the passages that appear occasionally on his way. Each time he enters a new sewer, Sam receives a fresh supply of oxygen.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Sewer Sam (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Sewer Sam (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Sewer Sam (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Interphase Technologies Inc.</developer>
+		<publisher>Interphase Technologies Inc.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Boxing (World).7z</path>
+		<name>Boxing</name>
+		<desc>Two contenders fight themselves for 15 rounds with body punches, feints and hard shots to the head. Victory is decided by the points, assigned by the computer (the referee), otherwise the match ends with a KO. Every round last 1 minute and 30 seconds. The 2 players can choose their boxer (but not the same) from a rose of six men with different characteristics (speed, offensive power, endurance). The number six is unpredictable.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Boxing (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Boxing (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Boxing (World).png</marquee>
+		<releasedate>19811021T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kool-Aid Man (World).7z</path>
+		<name>Kool-Aid Man</name>
+		<desc>The children initially move together through the house, but if one of the children is attacked by a roaming Thirsty, the children separate, and are now controlled one at a time. If a child is attacked twice, that child is out of the game. If both children are attacked twice, the game is over.
+
+Once all ingredients for Kool-Aid (sugar, Kool-Aid, and a pitcher) are placed near the kitchen sink, Kool-Aid Man appears and is now controlled by the player! Use Kool-Aid Man to collect roaming fruit and to destroy the Thirsties. Once the Thirsties have been defeated, the round is over, and the game starts over with a higher difficulty level (unless "kiddy mode" was selected at game start-up.)</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Kool-Aid Man (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Kool-Aid Man (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Kool-Aid Man (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Stealth</genre>
+	</game>
+	<game>
+		<path>./Stonix (World).7z</path>
+		<name>Stonix</name>
+		<desc>You have come head-to-head with the enemy, STONIX! His goal is to exhaust your life energy; yours is to destroy his power source! It will take time to reach it because he has laid many barriers that you need to penetrate. Lucky for you, your power balls mix with his shields to give you zapping deflectors, larger deflectors and even extra life power! Stay sharp, you have a long journey ahead of you! 
+
+You control the reflector located at the bottom of the screen. You start with a ball on the paddle and use it to destroy the shields above. Bonuses will randomly fall from the shields so be quick and collect the ones you need. Clear the screen and advance through the levels.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Stonix (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Stonix (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Stonix (World).png</marquee>
+		<releasedate>20040501T000000</releasedate>
+		<developer>Arnauld Chavallier</developer>
+		<publisher>independent</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Star Wars - The Empire Strikes Back (World).7z</path>
+		<name>Star Wars - The Empire Strikes Back</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Star Wars - The Empire Strikes Back (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Star Wars - The Empire Strikes Back (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Star Wars - The Empire Strikes Back (World).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./TRON - Maze-A-Tron (World).7z</path>
+		<name>TRON - Maze-A-Tron</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/TRON - Maze-A-Tron (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/TRON - Maze-A-Tron (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/TRON - Maze-A-Tron (World).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./World Series Major League Baseball (World).7z</path>
+		<name>World Series Major League Baseball</name>
+		<desc>World Series Major League Baseball is a baseball sports game that supports both ECS and Intellivoice (for play by play announcements). The game is based on real baseball player statistics (even though the names had been changed to fictional ones before the release) and offers baseball games using multiple cameras (including in-game split-screen), showing the game in a 3D display rather than side-scrolling fashion.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/World Series Major League Baseball (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/World Series Major League Baseball (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/World Series Major League Baseball (World).png</marquee>
+		<releasedate>19831231T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game>
+		<path>./World Championship Baseball (World).7z</path>
+		<name>World Championship Baseball</name>
+		<desc>You're the home team in blue, engaged in the most realistic home video baseball game around. You've got to hit the fast-breaking curve balls or smoking fastballs. But don't pop up, this game features fly balls as well a grounders. You can also steal bases and kick up a cloud of dust as you slide into the bag. Nine innings of action-packed fun, for one or two players. Play ball!
+
+During 1981, APh started work on Baseball II and Basketball II -- one-player versions of the original games. These were not high priorities since the original versions continued to sell well. In 1982, when the Keyboard Component was killed, Marketing wanted to produce a series of Super Sports cartridges for the Entertainment Computer System (ECS) to help push that system, so work was ordered halted on the non-ECS sports games.
+
+FUN FACT: INTV Corporation released the game as is, including the fatal bug and the debugging module. The game occasionally crashes, displaying the debugging screen. To explain this, INTV added the following notice to the instruction book:
+
+
+Mike managed to clean most of the bugs out of the game, but the cause of one occasional crash eluded him. He linked in a debugging module written by Rick Koenig (Motocross) that displayed the contents of registers and status words on screen when a game halted. Mike was still trying to trace the problem when, in January 1984, Mattel Electronics was closed.
+
+INTV Corporation ultimately released the game; it first appears in their Spring 1986 catalog. They were able to use packaging and instructions already completed for the game at Mattel, with the change of the name to World Championship Baseball so that they wouldn't have to pay for the Major League trademark. The title screen, however, still says "Mattel Electronics presents All-Star Major League Baseball."</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/World Championship Baseball (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/World Championship Baseball (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/World Championship Baseball (World).png</marquee>
+		<releasedate>19861231T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>INTV</publisher>
+		<genre>Sports</genre>
+		<players>No</players>
+	</game>
+	<game>
+		<path>./Slam Dunk - Super Pro Basketball (World).7z</path>
+		<name>Slam Dunk - Super Pro Basketball</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Slam Dunk - Super Pro Basketball (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Slam Dunk - Super Pro Basketball (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Slam Dunk - Super Pro Basketball (World).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./4-TRIS (World).7z</path>
+		<name>4-TRIS</name>
+		<desc>Tetraminoes are pieces created from 4 blocks joined together into 7 different patterns. By rotating them, you can position the pieces as they are falling so they fill open spaces. When an entire horizontal line fills with the pieces, the line clears and you are on your way to higher levels!
+Blocks will fall from the top of the screen towards the bottom. Arrange the pieces so that a row is completely filled by the blocks. Failing to do so will fill up the screen making it more and more difficult to clear rows. A cleared row will disappear giving you points and making game play easier.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/4-TRIS (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/4-TRIS (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/4-TRIS (World).png</marquee>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Joseph Zbiciak</developer>
+		<publisher>independent</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Frog Bog (World).7z</path>
+		<name>Frog Bog</name>
+		<desc>You control one of two frogs sitting on a lily pad in a bog. The object of the game is to eat as many flies as you can in the three minute time limit. Your frog can jump back and forth between the two lily pads in order to catch the flies that go by overhead. When jumping, be careful not to fall in the water or your frog will have to swim back to the lily pad which can waste time. The game can be played during the day, or at night making it more difficult to see the flies. At the end of the time limit, whichever player has eaten more flies wins! One player can compete against a computer controlled frog, or two players against each other.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Frog Bog (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Frog Bog (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Frog Bog (World).png</marquee>
+		<releasedate>19820525T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Platform</genre>
+		<players>No</players>
+	</game>
+	<game>
+		<path>./Space Cadet (World).7z</path>
+		<name>Space Cadet</name>
+		<desc>[Unreleased 1984] The looniest space battle ever. Each team is in command of a decrepit flying saucer that seems to work best as a battering ram. It's outer space demolition derby!
+
+One team is from the ice planet, one from the fire planet. Each team controls a Space Cadet in a zippy little flying saucer. Bump into a sparkling asteroid to send it into the other team's planet. Team with the most hits against its enemy planet wins.
+
+Programmers at Mattel Electronics came up with a series of casual games meant to be played at parties.  The "Party Line" cartridge was shown at the 1984 CES but never produced.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Space Cadet (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Space Cadet (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Space Cadet (World).png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Intellivision Productions</publisher>
+		<genre />
+	</game>
+	<game>
+		<path>./Space Hawk (World).7z</path>
+		<name>Space Hawk</name>
+		<desc>Imagine a hunter, alone in Deep Space. You control his movements. He's armed with a "gas blaster." His prime target is the white Space Hawk. If a Hawk, deadly gas bubbles, comets or amoebas touch the hunter, he tumbles into infinity! There are just three ways to escape: move out fast under backpack rocket power, shoot away the danger, or go into HYPERSPACE! The longer the game goes on, the more exciting it becomes, so... GET THE HAWK!</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Space Hawk (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Space Hawk (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Space Hawk (World).png</marquee>
+		<releasedate>19820419T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Truckin' (World).7z</path>
+		<name>Truckin'</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Truckin' (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Truckin' (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Truckin' (World).png</marquee>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game>
+		<path>./Turbo (World).7z</path>
+		<name>Turbo</name>
+		<desc>It's you and several other cars racing through a variety of landscapes in Turbo. From the starting line onward, you need to maneuver around and pass various cars in your way while racing towards the finish line. Some of the landscapes you'll travel through include city streets, long roads in the country, seaside highways and dark tunnels.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Turbo (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Turbo (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Turbo (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Star Strike (World).7z</path>
+		<name>Star Strike</name>
+		<desc>Star Strike was clearly inspired by the Death Star battle sequence in the movie Star Wars. You fly a space craft into the enemy launch trench. Your mission: to destroy the alien station before Earth passes directly over the launch trench. You must evade the alien ships that are defending the launch trench while being sure to bomb the red "Hot Targets". The very first red target that is missed when the Earth is directly in the middle of the launch trench becomes a missile. The missile is launched and destroys Earth.</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Star Strike (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Star Strike (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Star Strike (World).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19811222T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Defender (World).7z</path>
+		<name>Defender</name>
+		<desc>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien forces.  Armed with smart bombs and the ability to use hyperspace to move quickly around the planet, the player ship must fight against Bombers, Pods, Swarmers, Baiters, and Landers - that can capture the humanoids and transform them into deadly and relentless Mutants. Fail to save the humanoids from freefall or Mutant transformation, and the planet is destroyed.
+
+Program: Peter Farson
+Graphics: Eric Wels
+Sound: Russ Haft</desc>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/Defender (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/Defender (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/Defender (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari, Inc.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./TRON - Deadly Discs (World).7z</path>
+		<name>TRON - Deadly Discs</name>
+		<image>/home/pi/addonusb/roms/intellivision/mixart/TRON - Deadly Discs (World).png</image>
+		<video>/home/pi/addonusb/roms/intellivision/snap/TRON - Deadly Discs (World).mp4</video>
+		<marquee>/home/pi/addonusb/roms/intellivision/wheel/TRON - Deadly Discs (World).png</marquee>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+</gameList>

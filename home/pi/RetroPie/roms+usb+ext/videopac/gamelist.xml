@@ -1,0 +1,1292 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Magnavox Odyssey²</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="59238" source="ScreenScraper.fr">
+		<path>./4 in 1 Row (Europe).zip</path>
+		<name>4 in 1 Row</name>
+		<desc>4 in 1 Row is a translation of the Connect Four board game. Two players (Pussycat and Hounddog) take turns dropping colored (red or green) discs in an eight-column six-row grid. The object is to place 4 discs in a row, either vertically, horizontally or diagonally.    An strategic indicator number on the right side of the screen, besides each name, will show the chances of each player to get four discs in a row. The higher the number, the higher the chances. If the number reads 125 it means the player is just one move away from winning. The strategic indicator can be turned off by pressing CLEAR.    When playing against the computer, two variations with three skill levels are available:    Playing against Microcat I, II or III (selected by pressing 1, 2 or 3). Microcat uses a micro-sensor (represented by a Âµ sign) which will stop over each column calculating its chances. The disc will be dropped where the Âµ stops. The higher the skill level, the bigger the sensor and calculation times.    Playing against Microdog I, II or III (selected by pressing 5, 6 or 7) is similar to playing against Microcat (with the skill levels and Âµ sensor), but the player can also ask for computer assistance on moves. Whenever player's Pussycat appears, pressing 1, 2 or 3, depending on the skill level, will make the PRESS ENTER text appear along the micro sensor. Once pressed, the computer will take over and will continue until the player presses again 0 and ENTER when Pussycat appears.</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/4 in 1 Row (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/4 in 1 Row (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/4 in 1 Row (Europe).mp4</video>
+	</game>
+	<game id="190796" source="ScreenScraper.fr">
+		<path>./Red Baron (Europe) (Proto).zip</path>
+		<name>Air Battle</name>
+		<desc>Air Battle is a flight simulator set in the World War I era. The player controls a biplane from an inside-the-cockpit perspective.nnnnThe player starts the game with the plane on ground. The plane will start moving and a flashing light will indicate when the plane has achieved enough speed to take-off. Once in the air, the player must try to take down the most enemy planes possible, while avoiding hitting friendly planes. The enemy planes have white tail sections while friendly have yellow tail sections. There's no way of telling if a plane is friend or foe if it is coming straight at the player, until it starts firing. The player can see incoming planes through a radar in the middle of the panel.nnnnThe player gains points for hitting or taking down enemy planes, but will also be penalized by hitting or taking down friendly planes. There are four levels of difficulty, starting at zero points, 200 points, 500 points and 1000 points. The levels can also be selected directly from the game start, by pressing "0", "1", "2" or "3" to start.nnnnThere's a fuel meter at the left of the panel and a ammunition meter at the right. When any of these are close to end, the player has to land the plane and refuel/recharge his plane. The game ends if the player is shot down by enemy planes or if the plane crashes while taking-off, landing or due to lack of fuel.</desc>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Red Baron (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Red Baron (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Red Baron (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59283" source="ScreenScraper.fr">
+		<path>./Football (USA, Europe).zip</path>
+		<name>American Football</name>
+		<desc>At the start of a game the player in control of the ball selects the kind of play (pass, punt or run) and the second player attempts to predict which one they chose. If the defensive player predicts correctly, the Offense will undergo a penalty on any yardage gained if and after that play is successful. Following any successful play, the players see the position at which the Ball Spot exits the screen (in the case of a punt or a pass play) and the Offense draws a card. Most cards have a mini-map of the playing field and will designate the total of yardage gained depending on where the Ball Spot left the screen.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Football (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Football (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Football (USA, Europe).mp4</video>
+	</game>
+	<game id="59244" source="ScreenScraper.fr">
+		<path>./Armored Encounter + Sub Chase (USA, Europe).zip</path>
+		<name>Armored Encounter + Sub Chase</name>
+		<desc>War is hell, but this Multi-Mode cartridge makes it fun.   Armored Encounter! is a clone of Atari's Tank (AKA Combat). Two player-controlled tanks shoot at each other across a wide play field. Variations allow for different field layouts, land mines, and guided missiles.  In Sub Chase! players control an airplane and a submarine that scroll horizontally across the screen. Players score points for shooting the other, but lose points if a stray shot strikes one of two neutral vessels in the middle of the screen. In both games, the player who scores highest after three minutes wins.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Armored Encounter + Sub Chase (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Armored Encounter + Sub Chase (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Armored Encounter + Sub Chase (USA, Europe).mp4</video>
+	</game>
+	<game id="59246" source="ScreenScraper.fr">
+		<path>./Atlantis (USA, Europe).zip</path>
+		<name>Atlantis</name>
+		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Atlantis (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Atlantis (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Atlantis (USA, Europe).mp4</video>
+	</game>
+	<game id="120778" source="ScreenScraper.fr">
+		<path>./Attack of the Timelord (USA).zip</path>
+		<name>Attack of the Timelord</name>
+		<desc>You have just attracted the attention of Spyrus the Deathless - Timelord of Chaos.   Your only defense is a laser cannon mounted on the leading edge of your Time Machine. Fortunately, you have an unlimited supply of laser energy. You'll need it.   Press the action button of the left hand control to fire your laser cannon.   Use the joystick of the left hand control to maneuver your Time Machine at the base of the screen. It will travel in the direction you move the joystick.   As you go through the entire 256 game levels, you'll face increasingly faster Time Ships and gradually greater fire power.   The Timelord will deploy his weapons like a chess master deploys his pieces. There are literally millions of possible combinations of weapons, timing and placement.  Your Time Machine will disintegrate on contact with any of the Timelord's weapons. The game will automatically start again at Level One.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Attack of the Timelord (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Attack of the Timelord (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Attack of the Timelord (USA).mp4</video>
+	</game>
+	<game id="59248" source="ScreenScraper.fr">
+		<path>./Backgammon (Europe).zip</path>
+		<name>Backgammon</name>
+		<desc>Backgammon is a translation of the board game to the Odyssey². The object of the game is to move all checkers off the board. The first player to do so wins. For technical reasons the board is drawn with parallel lines instead of triangles. Points are scored in the following way: a straight win is awarded with 1 point. A "gammon" is awarded with 2 points and a "backgammon" with 2 points. Players can challenge the opponent for doubling and redoubling the amount of points won. The game can be played using the electronic dice in game or using hand dice. The following variants are available:  1. Match Backgammon for two players (with pip counter) (Press 0): two players select the number of points over which the match will be played. This variation includes a pip counter: it displays the number of pips that have to be rolled for either player to complete the game and get all his checkers off the board.  2. Match Backgammon for two players (without pip counter) (Press 1): this variation is identical to the previous one, but without the pip counter, which can be reactivated at any time by pressing "0" and deactivated again by pressing "1".  3. Competitive Backgammon for two players (with pip counter) (Press 2): in this variation, instead of playing towards a predetermined match target, the computer gives a balance between both players and the points they have scored.  4. Competitive Backgammon for two players (without pip counter) (Press 3).  5. Match Backgammon for one player, playing against the computer (with pip counter) (Press 4).  6. Match Backgammon for one player, playing against the computer (without pip counter) (Press 5).  7. Competitive Backgammon for one player, playing against the computer (with pip counter) (Press 6).  8. Competitive Backgammon for one player, playing against the computer (without pip counter) (Press 7).  9. "Dutch" Backgammon (Press 1 to 7 + "_"): in this variety is also known as "Russian Backgammon" the checkers start on the bar and have to be brought onto the board, the same as with re-entering.  There is also a demo mode available(selected by pressing 6 or 7 + NO).</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>N.V. Philips Gloeilampenfabrieken</developer>
+		<publisher>N.V. Philips Gloeilampenfabrieken</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Backgammon (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Backgammon (Europe).png</marquee>
+	</game>
+	<game id="59249" source="ScreenScraper.fr">
+		<path>./Baseball (USA, Europe).zip</path>
+		<name>Baseball</name>
+		<desc>the scoreboard at the lower left side of the screen indicate Balls, Strikes and Outs, in that order. Players on defense can control the outfielders with the joystick. D</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Baseball (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Baseball (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Baseball (USA, Europe).mp4</video>
+	</game>
+	<game id="59305" source="ScreenScraper.fr">
+		<path>./Casino Slot Machine (USA, Europe).zip</path>
+		<name>Casino Slot Machine!</name>
+		<desc>One or two players can play against the computer in this Blackjack game.    Each player starts with $1000. After placing their bets (through the keyboard), the dealer shuffles the cards and deals two face-up cards for each player and one face-up card and one face-down card to himself. He then asks the players to hit more cards or not (up to five). After each player has been dealt a full hand, the dealer reveals his face-down card. He'll take a hit if he has a total of 16 or less.    Blackjack or five cards without a bust pays double. The nearest to 21 hands pays even. No money is paid if there is a tie.    The computer offers an insurance bet if the dealer's first card is an ace. If the player accepts and the dealer goes blackjack, the player will lose no money. Otherwise, he will win or lose the current bet plus a half.    Sometimes the computer will also offer a double down. If the player accepts, the bet is doubled and he will get just one more card.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Playing cards</genre>
+		<players>1-4</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Casino Slot Machine (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Casino Slot Machine (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Casino Slot Machine (USA, Europe).mp4</video>
+	</game>
+	<game id="59260" source="ScreenScraper.fr">
+		<path>./Catch the Ball + Noughts and Crosses (Europe).zip</path>
+		<name>Catch the Ball + Noughts and Crosses</name>
+		<desc>Two titles are available in this cart:  Catch the Ball puts one or two players in the role of a circus clown who has to catch a while ball which comes rolling down a maze of obstacles. The clown has to try to follow the ball as it falls its unpredictable path. A time limit of three "game minutes" is counted down and the player with more balls caught by the end of the time wins. The joystick is used to move the clown left or right and the "action" button accelerates his movements. There are 6 possible variations, with the players taking turns after each ball caught, taking turns after each miss or in a single player mode, with the time limit on or off for each mode.    Noughts and Crosses is also known as tic-tac-toe. Players move a "+" cursor over the 9 square matrix and place either blue noughts or red squares. The first to get three symbols in a straight line wins. If all six symbols have been placed and there's no winner, they can be removed by placing the cursor over and pressing the action button and then be replaced.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Catch the Ball + Noughts and Crosses (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Catch the Ball + Noughts and Crosses (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Catch the Ball + Noughts and Crosses (Europe).mp4</video>
+	</game>
+	<game id="59262" source="ScreenScraper.fr">
+		<path>./Chess (Europe).zip</path>
+		<name>Chess</name>
+		<desc>Chess game</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Microtrend International B.V.</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Strategy</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Chess (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Chess (Europe).png</marquee>
+	</game>
+	<game id="59263" source="ScreenScraper.fr">
+		<path>./Chez Maxime (France).zip</path>
+		<name>Chez Maxime</name>
+		<desc>In Chez Maxime the player controls Maxime, a waiter who has to keep his customers well served, or else he'll lose his job. The "chez" has three floors, with one table in the first, one in the second and three on the top floor. Customers enter from one of the four doors to the restaurant, sit and wait for their orders. The cook places a meal in the dumb-waiter and Maxime has to get it when it passes by the floor where he's standing in an elevator shaft.    Customers get angry for waiting for too long. They arrive green, but turn red as they grow angrier and finally start jumping in their places when they're really furious. If Maxime serves them, they'll return to their calm (green) state and will leave. If Maxime fails to serve them when their furious, they'll leave. If four customers leave unserved, the game is over.    To make things a bit more difficult, a dog enters the restaurant every now and then, trying to steal Maxime's tray. If Maxime has his hands free, he'll kick the dog out; if he's carrying his tray, the dog will bite Maxime's legs, making him fall, and will steal the tray.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>TO TEK International</publisher>
+		<genre>Action</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Chez Maxime (France).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Chez Maxime (France).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Chez Maxime (France).mp4</video>
+	</game>
+	<game id="59264" source="ScreenScraper.fr">
+		<path>./Chinese Logic (Europe).zip</path>
+		<name>Chinese Logic</name>
+		<desc>In Chinese Logic the player has to move a sequence of numbers (9 to 0) from the point A of a pattern of lines to point D (or B in the variations). The numbers must be placed in point D in the same descending order. There are two other points to which the numbers can be moved, B and C.  If one or more numbers are parked in one of the points, the player can only additionally move to that point numbers which are lower than the last one already parked. The numbers can be moved one by one only and to do so the player has to type the letter of origin and then type the destiny letter. Moves can be undone by pressing the "clear" key.  The computer keeps track of the time elapsed and the number of moves made by the player, also showing the minimum amount of moves to solve the puzzle. There are 9 other possible variations, with the difference of having the way to point D blocked and different amounts of numbers to move. Those variations can be selected by pressing "reset" and the desired number, as follows:one figure - minimum number of moves: 1 2. two figures - minimum number of moves: 3 3. three figures - minimum number of moves: 7 4. four figures - minimum number of moves: 15 5. five figures - minimum number of moves: 31 6. six figures - minimum number of moves: 63 7. seven figures - minimum number of moves: 127 8. eight figures - minimum number of moves: 255 9. nine figures - minimum number of moves: 511</desc>
+		<rating>0.5</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Chinese Logic (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Chinese Logic (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Chinese Logic (Europe).mp4</video>
+	</game>
+	<game id="59265" source="ScreenScraper.fr">
+		<path>./Clay Pigeon (Brazil).zip</path>
+		<name>Clay Pigeon</name>
+		<desc>As the name implies, Clay Pigeon! is a clay pigeon shooting game. At the left corner, a trap launches targets toward the shooter. The player controls the shooter which stands in the right corner of the screen. In order to proceed to the next level, the player has to hit at least eight of the ten plates thrown. While he's shooting, some ducks will appear flying over his head. They'll drop "bombs" over him, and if he doesn't avoid them, he'll be stunned for some time. If he fails to shoot the minimum plates necessary, an eagle will appear and attack him. He needs to shoot the eagle twice to avoid its attack. If he fails, the game is over. The shooter has two shots per row; after those two shots, he has to reload the gun, by putting it down. He can be moved left and right, but if he exceeds the left mark, he'll fall to the ground, being subject to lose plates. The player earns five points per each plate, ten points per each duck and 100 points per eagle (50 per shot).</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Clay Pigeon (Brazil).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Clay Pigeon (Brazil).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Clay Pigeon (Brazil).mp4</video>
+	</game>
+	<game id="59268" source="ScreenScraper.fr">
+		<path>./Computer Golf (USA).zip</path>
+		<name>Computer Golf</name>
+		<desc>COMPUTER GOLF! A nine hole, par 36. electronic golf course for one to four players. Realistic electronic golfers hit long drives and fairway shots! They pitch and chip up to the green! Suddenly?the screen changes automatically to show a close-up of the green itself. Putt out?then go on to a new hole with a different layout and challenge! This is a remarkably complete electronic simulation. You really walk the course and have true control over back-swing, distance and direction. Hit into the trees and your electronic golfer will pound the ground with a club and spout some extremely colorful electronic language! Digital scoring! Sync-sound action!</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Computer Golf (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Computer Golf (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Computer Golf (USA).mp4</video>
+	</game>
+	<game id="59270" source="ScreenScraper.fr">
+		<path>./Computer Intro (USA).zip</path>
+		<name>Computer Intro!</name>
+		<desc>Computer Intro!, as the name implies, is a cartridge intended to educate players in the basics of computer programming. It came with a 104 page manual entitled "A Beginner's Guide to Computer Technology" featuring a brief history of computers and an introduction to programming techniques. The manual also includes samples of several programs which can be typed in, such as addition programs, one digit multiplication, one digit division, "Go to Subroutine" and "Return" programs, one digit addition Flash Card Game (which is different from the pre built one), three ways to enter and output a letter, a game where one player enters a six-letter word and another player guesses it and a message program.    The cartridge comes with three built-in games:  Flash Card (Press 2) is a simple addition game. An addition problem will be displayed and the player has to enter the solution. If the answer is wrong, a "No" will appear on screen. If it is right, it will be placed in its right position.    Computer Telepathy (Press 3) is a number guessing game. The player has to guess a number between 00 and 99. If the guess entered is higher than the number, an H will appear beside it. If the number entered is lower, an L will appear. If the number is right, an X will appear.    Between the Sheets (Press 4) is another guessing game. The computer displays three numbers, like 3 7 00. The first two numbers are the sheets and the last two digits are the player's score. If the player thinks the secret number is between 3 and 7, he types "Yes", if he thinks it isn't between 3 and 7, he types "No". Right answers add 1 point to the score and the number is displayed, wrong answers will be announced by a beep.  There is also a demonstration program called Creepy Crawler (Press 1), which consists of a randomized display of flashing blocks.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Computer Intro (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Computer Intro (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Computer Intro (USA).mp4</video>
+	</game>
+	<game id="59272" source="ScreenScraper.fr">
+		<path>./Conquest of the World (USA, Europe).zip</path>
+		<name>Conquest of the World</name>
+		<desc>Players choose to play as one of 43 countries and make it their homeland. Each country's military and diplomacy power is reflected by its real life counterpart during the early 1980's. Each country's relationship with one another is also reflected by how it is in real life.  Gameplay involves the use of a gameboard. Gameplay done on the game board contains information which is then entered into the Odyssey 2 for it to handle. Inside the game itself, players do battle by land, air, and sea. Battles involve players controlling either a jet (air force), tank (army), or a submarine (navy) and then battling the other players jet, tank, or submarine. These vehicles are dependent on supplies which are displayed as energy units. Every shot fired and movement made drains the players energy units. The battle ends when all the energy units run out. These combat results are then recorded on the gameboard, which then spurs further entries into the Odyssey 2.  Every battle won and alliance made will increase a country's power. The country with the most power at the end of the game wins.  Besides the gameboard map itself, the game also comes with a 100 power base unit indicators, a Homeland Marker, and six sets of Conquest/Alliance markers.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Strategy</genre>
+		<players>2-6</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Conquest of the World (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Conquest of the World (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Conquest of the World (USA, Europe).mp4</video>
+	</game>
+	<game id="59271" source="ScreenScraper.fr">
+		<path>./Cosmic Conflict (USA).zip</path>
+		<name>Cosmic Conflict!</name>
+		<desc>The player is a legendary hero of the Earth Federation, in command of a Centurion star fighter and must defend the galaxy from the Imperial ships attack.    From a first person perspective, the player must destroy fifteen enemy ships. A counter at the lower left corner of the screen shows how many ships are left. On the lower right, a counter marking, at the start of the mission, 1000 megajoules of remaining ship power. The ship needs one megajoule per second to sustain flight, ten megajoules per laser shot released and fifty megajoules per shot taken, to activate the deflector shields.    Three kinds of ships will assault the player's ship: invasion transports, battle frigates, and star fighters. The enemy fleet consists of five star fighters and ten ships randomly distributed among the remaining two kinds. Only star fighters represent a real threat, a general alert will sound and flash at the screen when one of those enter the player's range of sight.    The mission ends when all enemy ships are destroyed or when all the ship's fuel is used.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Cosmic Conflict (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Cosmic Conflict (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Cosmic Conflict (USA).mp4</video>
+	</game>
+	<game id="59279" source="ScreenScraper.fr">
+		<path>./Dynasty (USA).zip</path>
+		<name>Dynasty</name>
+		<desc>Dynasty! is an Othello clone. The playfield is an 8 x 8 matrix of dots and the objective is to occupy as much of it as possible. The game begins with two pieces of each color at the center of the matrix and players take turns placing new pieces in it. The</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Dynasty (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Dynasty (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Dynasty (USA).mp4</video>
+	</game>
+	<game id="59280" source="ScreenScraper.fr">
+		<path>./Electronic Table Soccer (USA, Europe).zip</path>
+		<name>Electronic Table Soccer</name>
+		<desc>Press 1 on the alpha-numeric keyboard. A full size tournament soccer table appears on your screen. The scoring rack is at the bottom. The left hand control controls the goalkeeper at the left side of the screen and the other members of the team who wear the same colors. The right hand control controls the goalkeeper at the right side of the screen as well as the other members of the team. You can play against another player or the computer. Press the action button or move the joystick of the hand control to tell the computer how many people are in the game. If one of the hand controls is not activated, the computer will play that side and a "C" will appear on the scoring rack. If neither hand control is activated, the computer will play itself. Each joystick controls three sets of electronic lightning rods that maneuver the ranks of players. Push the joystick of the left hand control to the left to control the goalkeeper. When the joystick is in the center position, it will control the center file of three team members. When the joystick is in the far right position, it will control the file of two team members on the right side of your screen. For the right hand control, the reverse is true. The ball will come into play from the bottom of the screen. The ball will stop when it hits a player and the joystick is controlling the player's row. To kick, press the action button and simultaneously move the joystick in the direction you wish the ball to go. The ball will rebound off a player whose row is not under control of the joystick. When a goal is scored, a ring will slide along the scoring rack at the bottom of the screen. /=1 point. X=2 points. The game ends when one of the teams scores ten points. XXXXX=10 points. To play again, press the RESET key on the alpha-numeric keyboard and then press 1.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Electronic Table Soccer (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Electronic Table Soccer (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Electronic Table Soccer (USA, Europe).mp4</video>
+	</game>
+	<game id="59281" source="ScreenScraper.fr">
+		<path>./Exojet (France).zip</path>
+		<name>Exojet +</name>
+		<desc>In Exojet + the player controls a spaceship which has gone astray during a reconnaissance mission to an unknown planet and enters a canyon from which it cannot escape. The goal is to survive while defending the ship against two main threats: enemy space ships that fire while flying over the canyon sideways in the screen and laser guns in the canyon to intercept the ship. The player's ship has a sight which will change its position according to where the threat comes from, moving to the top of the screen for the enemy ships and to the front of the player's ship for the laser guns. The player's ship is also equipped with a magnetic shield which is destroyed if hit, but regenerates after six seconds.    After 10 enemies are destroyed, a spaceship base appears on the screen and the player must avoid destroying it. If the player touches the spaceship base, a bonus of 100 points will be granted, the magnetic shield takes half a second more to regenerate and the enemies become faster and better armed. In the beginning the enemies will fire single missiles, after the first base they'll fire groups of missiles, after the second they'll fire a "rain" of missiles and after the third they'll fire homing missiles. Further in the game, friendly ships will also appear and must not be destroyed.    After the player reaches 2000 points an enormous meteor may appear which can only be avoided (with a 100 points bonus for the feat). After 5000 points the speed of the meteor increases, as does the bonus points awarded (150). Finally, after 7000 points the ship loses its magnetic shield. The game is over if the ship is hit without its magnetic shield of if crashes in the canyon walls or the meteor.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>TO TEK International</publisher>
+		<genre>Action</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Exojet (France).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Exojet (France).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Exojet (France).mp4</video>
+	</game>
+	<game id="59250" source="ScreenScraper.fr">
+		<path>./Thunderball (USA, Europe).zip</path>
+		<name>Flipper Game</name>
+		<desc>In this pinball game, up to four players will take turns playing five balls in either one of the two playing modes: normal and slow motion.    The table is divided as shown below:   _________________  |     1 2 3 4     |  |   6    5    7   |  |     8     9     |  |                 |  |      10 11      |  | P 12       13   |  |______ /  ______|   000000     B 0000  1,2,3,4: Backfield Bonus Bumpers - 4000 points each, disappear when hit.  5: Bonus Box - scores randomly between 720 and 1350 each time hit.  6,7,10,11,12,13: Thumper Bumpers - 100 points unless red, 500 points when red.  8,9 Roving Rebounds - no effect on score.  P: Current player  B: Current ball  The main points are shown in the left side of the screen, the bonus points in the right. The bonus is added to the main score at the end of each ball.    The ball can be released by pressing down, the flippers can be moved left or right with the directional stick and can be flipped by pressing the action button. The winner is the player with the highest score for five balls.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various</genre>
+		<players>1-4</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Thunderball (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Thunderball (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Thunderball (USA, Europe).mp4</video>
+	</game>
+	<game id="59284" source="ScreenScraper.fr">
+		<path>./Hockey + Soccer (USA, Europe).zip</path>
+		<name>Hockey + Soccer</name>
+		<desc>SOCCER! Use your head (and feet) to score in this computerized version of one of the most popular games in the world. Soccer is a national sport in England, Brazil, Russia and a hundred other countries from Albania to Zambia! Soccer is now the fastest growing major college sport in the U.S. and here comes all the action right to your own TV! On-screen digital scoring. Automatic time keeping and computerized play action. Full sync-sound! Two players!nnHOCKEY! You captain a full team of ice men. Battle for the puck at the face-off. Make an off-the-wall slap shot! Fake out the goalie and score! Unique on-screen electronic sensors automate play action! You control the stick man and goalie-the rest of the team automatically follows the puck! Realistic skating action! Digital time keeping! Automatic scoreboard. Full sync-sound! Two players!</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Hockey + Soccer (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Hockey + Soccer (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Hockey + Soccer (USA, Europe).mp4</video>
+	</game>
+	<game id="59291" source="ScreenScraper.fr">
+		<path>./Interpol (Europe) (Proto).zip</path>
+		<name>Interpol</name>
+		<desc>Interpol is a game for two players, one controls two spies (red characters) and the other controls two police officers (blue characters). The spies are in possession of secret information and must try to leave the country with them, by air or by sea. The police officers have to stop their plan. The airport and the port are blocked by the police, and individuals interested in traveling must present a code which only the police knows.    The main screen represents a town, with U-shaped boxes with numbers from one to nine inside representing buildings. At the beginning of the game, the player controlling the police must define the code which blocks the airport and port (represented by an airplane and a ship). The code must be a word of five letters. As the player enters each letter, he or she must assign a building to store that letter, by entering its number. Once all letters are stored, the game begins. The player controlling the spies must choose one of them and start moving around the town searching for the letters. While moving, the selected spy becomes invisible so the police officer won't see which way the spy takes. At one turn, movement can only be vertical or horizontal, so if the player chooses to move horizontally, he or she will only be able to move vertically in the next turn. At the bottom of the screen, a red character will be shown walking and little green bars will pass him by, telling how many "spaces" he has moved. Each turn may last five to 60 seconds, depending on the choice the players made at the beginning of the game (different durations can be set for each player). The turn ends when the time is over or when the player presses a button. The player controlling the police officers chooses one of them and starts moving, trying to catch the spies. When the player thinks the police character is in the same space the spy is, he or she must press the action button. If the spy is really there, he is captured, if not, the player controlling the police officers just ends his or her turn.    The game ends when the police captures both spies or when one of the spies gets to the airport or the port and enters the correct word.</desc>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Interpol (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Interpol (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Interpol (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59288" source="ScreenScraper.fr">
+		<path>./Invaders from Hyperspace (USA).zip</path>
+		<name>Invaders From Hyperspace</name>
+		<desc>The players are in the Battle Control Central at the heart of the United Planets Interstellar Galactic Empire. From there, they monitor the activity of the twin solar systems of Terien and Lorien, forty-three billion light years away. Their mission is to control to protect the planets of those solar systems from the invasion fleet with the remote controlled battle cruisers. nnnnThey'll control their ships with the joystick and fire lasers with the action button. The invasion fleet will shoot the players and the planets as well. Shot planets will have their colors changed and will be conquered when their colors match the invaders ship's colors. nnnnIf the players' ship is destroyed, a new one will be launched from one of the planets with their color. If there's no planet with their color, they'll have to wait until a planet's color change to theirs. nnnnIf the players crash into planets with a color different than theirs, both the ship and the planet will be destroyed. Destroyed planets won't come back, but the central planet at each orbit is indestructible. Players can also hide their ships in their own planets, by landing on them. Planets with ships landed will blink. nnnnThe winner is the player who first destroys ten enemy ships.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Invaders from Hyperspace (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Invaders from Hyperspace (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Invaders from Hyperspace (USA).mp4</video>
+	</game>
+	<game id="59299" source="ScreenScraper.fr">
+		<path>./Keyboard Creations (USA).zip</path>
+		<name>Keyboard Creations</name>
+		<desc>Keyboard Creations! lets the player type in a main message which will continually scroll across the screen. The game also lets the player set up an "alarm" message which can pop up every 30 seconds. The player can also set a digital clock to keep track of time.  The instruction manual suggests the following games that can be played:  Movie Madness!: 1 player names a movie and it's up to the other player to type in as many people that are associated with that movie. The main objective is to fill in as many characters(up to 99) of the main message as possible within an agreed amount of time. Then player 2 takes his turn and the player with the most characters filled in wins.  Sportscaster!: Played the same way as Movie Madness, except this time involves naming players of sports teams instead.  Identograms!: One player enters a series of clues on a subject and the other player has a limited amount of time to identify the subject. If the subject is displayed on the screen before the player guesses it, the player loses the game.  Source Word!: One player names a source word and the other player has only 5 minutes to type in as many word variations as they can  by using only the letters contained in the source word. The words may be of any length but no letter can be used more than it appears in the source word. Then player 2 takes his turn and the player with the most characters filled in wins.  Tell Tale!: Players take turns entering words of a sentence. A player completing the sentence before the 98th character is out of the game. A player unable to complete a sentence on exactly the 98th space is out of the game. The game continues until only one player is left. If a player ends the sentence on exactly the 98th space, that player is the winner of the game.  Nincompoop!: Player 1 names any vowel the Nincompoop. Then players take turns entering words of increasing length (from 2-5 characters, then the cycle repeats). Anytime the Nincompoop vowel is used the player types Nincompoop in, instead of the vowel that would usually belong there. A player who cannot fit a word of the required length into the 99th space is out of the game. After that player is eliminated, the game starts with anew. The last surviving player is the winner.  Chain Letters!: One player names a category then types in a word that would fit in that category. Then the next player has to type in a word that starts with the last letter of that word that still fits in the current category. A player breaking the letter chain is out of the game and the surviving players continue.until only one player is left, or until a player ends a chain on exactly the 99th space. If a player cannot name a category word that fits into the 99th space, that player loses. A new category is selected after that, with the other surviving players continuing on the game.   Quiz Wiz!: One player programs a series a math problems for the other player to solve in a limited amount of time. The player wins if they arrive at the answer before it appears on the screen.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Educational</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Keyboard Creations (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Keyboard Creations (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Keyboard Creations (USA).mp4</video>
+	</game>
+	<game id="59301" source="ScreenScraper.fr">
+		<path>./Kill The Attacking Aliens (Europe).zip</path>
+		<name>Kill The Attacking Aliens</name>
+		<desc>In Kill the Attacking Aliens the player is a pilot who must defend the planet Earth and its Moon colony against alien invaders. Piloting a ship with a quantum cannon and a defense shield, the goal is to destroy all the aliens while preventing the human st</desc>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>XYPE</publisher>
+		<genre>Action</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Kill The Attacking Aliens (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Kill The Attacking Aliens (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Kill The Attacking Aliens (Europe).mp4</video>
+	</game>
+	<game id="120777" source="ScreenScraper.fr">
+		<path>./Killer Bees (USA).zip</path>
+		<name>Killer Bees</name>
+		<desc>The Beebots from the insect civilization of BEM are invading the Earth, protected by swarms of Killer Bees, and it's up to a swarm of white bees to stop them.    The player control the white bees swarm, trying to kill the Beebots by flying over them and stinging them. The longer the swarm flies over a Beebot, the slower it moves, until it finally stops and dies. When a Beebot dies, a grave marker will be raised in its place, making the movement of the remaining Beebots more difficult. The red Beebots move clockwise, the blue ones move counterclockwise.    The Beebots are protected by swarms of Killer Bees. If a swarm of Killer Bees attacks the player's swarm, it will lose its bees gradually, until none are left and the game is over. The longer the Killer Bees stay on screen, the stronger they get. They'll change their colors gradually, from green (the less harmful) to blue and then finally to red (the most dangerous).    The only defense the player has against the Killer Bees is the bug-zapping RoSHa Ray, released by pressing the action button. It is recharged each time a Beebot is killed, and it follows the white bees swarm vertical movement. Once all Beebots are killed, the round ends, and a new one starts with a new level of difficulty. There are 26 difficulty levels.    The player scores one point per sting, ten points per zapped swarm and 100 points per Beebot killed. At the end of each round, a bonus is also given, consisting in ten points per each survivor bee, multiplied by the number of the round.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Killer Bees (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Killer Bees (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Killer Bees (USA).mp4</video>
+	</game>
+	<game id="59239" source="ScreenScraper.fr">
+		<path>./Labyrinth Game, A + Supermind (Europe).zip</path>
+		<name>Labyrinth Game, A + Supermind</name>
+		<desc>Two titles are available in this cart:  A Labyrinth Game is exactly what the title defines. The player has to move a pawn from the left side of a labyrinth to the exit on the right side. Each match consists in a series of 10 and the labyrinth always changes when starting a new game. The pawn is controlled with the joystick and the "action" makes it move faster. There are 16 possible variations, including stationary and moving patterns and exits, for one player, two players or one player against the computer (a "Cat and Mouse" game where the computer plays a pawn which tries to catch the player's pawn).    Supermind is a code breaking game. Four question marks will be displayed, along with the number of symbols left to be entered (4 at the start). The player enters four symbols of choice and if they're correct but misplaced, a red number will appear in the right of the screen (with the number of correct symbols guessed). If the symbol is correct and placed in the right order, it will be displayed in white. The computer keeps track of the number of tries taken and the game ends when all symbols were discovered and placed in the right order.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Labyrinth Game, A + Supermind (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Labyrinth Game, A + Supermind (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Labyrinth Game, A + Supermind (Europe).mp4</video>
+	</game>
+	<game id="59252" source="ScreenScraper.fr">
+		<path>./Las Vegas Blackjack (USA, Europe).zip</path>
+		<name>Las Vegas Blackjack!</name>
+		<desc>One or two players can play against the computer in this Blackjack game.    Each player starts with $1000. After placing their bets (through the keyboard), the dealer shuffles the cards and deals two face-up cards for each player and one face-up card and one face-down card to himself. He then asks the players to hit more cards or not (up to five). After each player has been dealt a full hand, the dealer reveals his face-down card. He'll take a hit if he has a total of 16 or less.    Blackjack or five cards without a bust pays double. The nearest to 21 hands pays even. No money is paid if there is a tie.    The computer offers an insurance bet if the dealer's first card is an ace. If the player accepts and the dealer goes blackjack, the player will lose no money. Otherwise, he will win or lose the current bet plus a half.    Sometimes the computer will also offer a double down. If the player accepts, the bet is doubled and he will get just one more card.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Playing cards</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Las Vegas Blackjack (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Las Vegas Blackjack (USA, Europe).png</marquee>
+	</game>
+	<game id="59307" source="ScreenScraper.fr">
+		<path>./Blockout + Breakdown (USA, Europe).zip</path>
+		<name>Le Mur Magique</name>
+		<desc>Two variations of Breakout are available in this title.  In Blockout!, the object is to blast through the blocks in the shortest amount of time. There are four colored lines of blocks, and each line has an electronic demon. The electronic demons can replace removed blocks when charged. They'll be charged by touching either sides of the screen. After placing a block, they'll lose the charge, and if they try to cross a gap uncharged, they'll fall and reappear after a penalty time.    In two players mode, the second player controls the electronic demons as they try to prevent the first player to blast through the barricade. The player has 90 seconds to try achieving it.      In Breakdown!, the object is to destroy the most blocks the player can within 60 seconds. Unlike in Blockout!, the ball (called Blockbuster) will not ricochet when hitting blocks, only when hitting the screen edges, destroying all the blocks it crosses on its way.    In two players mode the second player again controls the electronic demos, which now move twice faster than in Blockout!. A counter at the top of the screen marks how many blocks are left.  In both variations, the number of Blockbusters (balls) is unlimited.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Blockout + Breakdown (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Blockout + Breakdown (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Blockout + Breakdown (USA, Europe).mp4</video>
+	</game>
+	<game id="59309" source="ScreenScraper.fr">
+		<path>./Loony Balloon (Europe) (Proto).zip</path>
+		<name>Loony Balloon</name>
+		<desc>In Loony Balloon, the player controls a kid carrying a swaying balloon crossing a playground. To get out of the playground, he must reduce the balloon's sway, or it will burst when he crosses the exit. To do so, he must earn 50 points by playing in the various amusements of the playground.  There are four kinds of amusements: a rocking horse, a slide, a roundabout and trees. The boy will also find threats to his balloon along the way, like birds that will cross the screen from left to right, trying to burst it, and sudden gusts of wind, which will take the balloon out from the boy's grasp if he stands still for too long.  The boy can release the balloon at any time and grab it again by its string (by pressing the action button). If the balloon hits a wall, it will burst and the game is over. The longer the game is played, the quicker the balloon rises if released.  The player scores:  1. 2 points by catching the balloon; 2. 5 points by playing at a tree; 3. 7 points by playing at the rocking horse; 4. 8 points by evading a bird; 5. 10 points by playing at the slide; 6. 12 points by playing at the roundabout; 7. 25 points by leaving the playground.  There are 10 difficulty levels. From levels 0 to 4, the playground layout is fixed. From levels 5 to 9, the walls in the playground will appear, disappear and change places.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Loony Balloon (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Loony Balloon (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Loony Balloon (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59276" source="ScreenScraper.fr">
+		<path>./Depth Charge + Marksman (Europe).zip</path>
+		<name>Marksman &amp; Depthcharge</name>
+		<desc>Two titles are available in this cart:  Depth Charge is a single-player BattleShip variant. The player controls a cannon in a top-down view trying to destroy 7 submarines hidden in the area of water shown on screen. The area is a 8x8 grid, and the player controls a white cross-hair over it with the joystick. Pressing the action button will shoot the cannon. If a submarine is hidden in that particular area, a blue square will appear, marking it. If there are no submarines, the game will warn the player with a sound and that area will continue unmarked. There are submarines of 4 different sizes, with there being 3 with one section each, 2 with 2 sections each, 1 with 3 sections and 1 with 4 sections. The game keeps track of the number of shots tried by the player, and the total is shown at the end of the game, when all submarines are destroyed.    Marksman is a shooting gallery game. The player can choose between 2 game durations: 1 minute or 3 minutes. The game is played in a first person perspective, with the player seeing the rifle and the targets in front of it. A line of targets will scroll from right to left, bouncing up and down in front of the rifle and the player has to aim at them and shoot. There are 9 different targets which grant the player scores from 1 to 9 points each. When the player reaches 100 points, the targets start to move faster. The game ends when the time reaches 0:00 or when the player runs out of shots (starting with 24).</desc>
+		<rating>0.25</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>N.V. Philips Gloeilampenfabrieken</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Depth Charge + Marksman (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Depth Charge + Marksman (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Depth Charge + Marksman (Europe).mp4</video>
+	</game>
+	<game id="59312" source="ScreenScraper.fr">
+		<path>./Matchmaker + Logix + Buzzword (USA).zip</path>
+		<name>Matchmaker + Logix + Buzzword</name>
+		<desc>MATCHMAKER! An innocent looking matrix filled with letters appears on the Screen. The first player presses a letter on the keyboard and a symbol appears in the box. He presses a second letter and a second symbol appears. If they match, the player scores! If they don't match it's the second player's turn. The trick is to remember what symbols have appeared in which boxes. Full sync-sound! Two players. LOGIX! This game of deductive reasoning would challenge the great detective himself! The computer secretly chooses five numbers and arranges them in a random sequence. You get to figure out what the numbers are and in which order they appear. The trick is to outwit the computer in the shortest number of tries. Full sync-sound! One or more players! BUZZWORD! An exciting electronic guessing game' The computer picks a secret word and telecasts dashes to indicate the number of letters. You guess the letters. If they're in the word, they appear in position on the screen. Wrong guesses are rewarded with a loud BUZZZZ and appear at the bottom of the screen. You have eight chances to win! Full sync-sound action! One or more players!</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Matchmaker + Logix + Buzzword (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Matchmaker + Logix + Buzzword (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Matchmaker + Logix + Buzzword (USA).mp4</video>
+	</game>
+	<game id="59313" source="ScreenScraper.fr">
+		<path>./Math-A-Magic + Echo (USA, Europe).zip</path>
+		<name>Math-a-magic + Echo</name>
+		<desc>Math-A-Magic! is an "electronic arithmetic teacher". The player can chose up to three variations of mathematical games.    In the first variation, the player will have to solve regular math problems. He first chooses the kind of operation (addition, subtraction, multiplication or division), next the skill level (1-3) and then is presented with the problems. He must type in the answers, and the computer will register the time elapsed and the number of current problems solved. If the player fails twice to solve a problem, the game is over.    The second variation displays algebraic problems. The player selects the desired skill level (1-3) and has to enter the missing variable to each problem, and the rules are the same to the first variation.    The third variation is a addition or multiplication table game. The player chooses addition or multiplication, then the number he wishes to practice.    Echo! is a basic Simon game (as invented by Ralph H. Baer). Four colored numbers (red, blue, green, and yellow) will appear on the screen. One of them will light up, and a tone will be played. Then it is the player's turn: he has to match the lit up number. Then, the first number will be light up followed by a second one. The player has to match the sequence and it will keep increasing indefinitely. If the player fails three times to match a sequence, the game is over.</desc>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Math-A-Magic + Echo (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Math-A-Magic + Echo (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Math-A-Magic + Echo (USA, Europe).mp4</video>
+	</game>
+	<game id="88276" source="ScreenScraper.fr">
+		<path>./Mission Impossible + Programmed Trip (Brazil) (Proto).zip</path>
+		<name>Missão Impossível + Viagem Programada</name>
+		<desc>Two titles are available in this cart:    Mission Impossible is an action game. The player must protect a cargo ship (white craft) which travels on a lay lines from bounty hunters (red crafts), which will destroy the cargo ship if they cross its way. As the cargo ship moves along the lay lines, the player must place NGR bots (green X symbols) at the lay line intersections to change traffic; the player has 7 NGR bots and can replace them. When any ships reaches an NGR bot, it will turn right if traveling vertically or turn toward the bottom of the screen when traveling horizontally. Red mushroom-shaped power ups, when picked up allow the cargo ship to destroy the bounty hunters; alternatively, bounty hunters can be simply directed to them and will be destroyed. White X marks will send the cargo ship back in the opposite way it was traveling; if hit by a bounty hunter, they will also send them back, but will be destroyed. Lilac squares are mines which will destroy any ship that passes over them. Finally, blue dots will give bounty hunters an extra life if taken by them. The player and the bounty hunters start with 15 lives each, the first to drop to zero loses.    Programmed Trip is a turn based game which shares many elements from the previous game. As the name implies, the player has to program the trip of the cargo field so it passes over pickup points (colored + symbols) in a specific order: first lilac, then red, then blue. To do so, NGR bots can be placed to redirect the ship, and some fields may also have White X marks already placed. After all desired NGR bots are placed, the player can release the cargo ship by placing the cursor over the upper left corner and pressing the action button. When the cargo ship is released the player has 30 points. Passing over pickup points in the correct order adds 20 points to the score, while passing over them in the wrong order or hitting any other item (NGR bots or white X marks, for instance) subtracts 10 points from the score. The game is over either when the score reaches 0 or when all pickup points were reached in the right order (in which case they'll turn white).</desc>
+		<rating>0</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>Ectron Eletrônica Ltda.</developer>
+		<publisher>Humanoid Games</publisher>
+		<genre>Strategy</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Mission Impossible + Programmed Trip (Brazil) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Mission Impossible + Programmed Trip (Brazil) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Mission Impossible + Programmed Trip (Brazil) (Proto).mp4</video>
+	</game>
+	<game id="59318" source="ScreenScraper.fr">
+		<path>./Monkeyshines (USA, Europe).zip</path>
+		<name>Monkeyshines</name>
+		<desc>MONKEYSHINES! Five computerized "puzzle games" filled with action-packed monkey business! You'll go ape over Monkey Tag, Monkey Chess, Tailspin, Shuteye and Bananas! You have to be as agile as four computer-smart monkeys that run, jump, climb, tease, dive, swing, hop, spin, scamper and cavort over virtually endless patterns of monkey bars! There are literally trillions of possible combinations! Skill levels increase automatically - or choose a different skill level at any time! Onscreen digital scoring with memory for high game in series! Full sync-sound action! 1, 2 or 3 players!</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Monkeyshines (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Monkeyshines (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Monkeyshines (USA, Europe).mp4</video>
+	</game>
+	<game id="59319" source="ScreenScraper.fr">
+		<path>./Morse (Europe).zip</path>
+		<name>Morse</name>
+		<desc>Morse teaches the code to players. There are 4 types of games which can be selected in a menu screen:The first type is a Morse code learning game. The player selects the game speed (4 to 30 words per minute) and level (1 to all 36 characters available). The computer will play the Morse signal for the first symbol (Q) and the player has to type in the symbol. After learning two signals, the game starts properly by introducing a row of trees in the top of the screen. An arrow is also displayed near the 4th tree from the left and a man on the right side. For each 10 correctly responded symbols the man takes down one tree. When he reaches the arrow, a new symbol is introduced and the process starts over again. The sequence of symbols is: Q, 7, Z, G, 0, 9, 8, O, 1, J, P, W, L, R, A, M, 6, B, X, D, Y, C, K, N, 2, 3, F, U, 4, 5, V, H, S, I, T and E.  2. The second type lets the player type individual symbols and listen to their respective codes.  3. The third type is similar to the second one, but in this one the player types a sequence of symbols and then press "enter" to ask the computer to play the respective code.  4. In the fourth type the player uses the "action" button of the joystick to enter codes into and the computer plays them and shows the respective symbol entered.</desc>
+		<rating>0.55</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Morse (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Morse (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Morse (Europe).mp4</video>
+	</game>
+	<game id="59297" source="ScreenScraper.fr">
+		<path>./J.G. Munchkin (USA, Brazil) (Unl).zip</path>
+		<name>Munchkin</name>
+		<desc>K.C. Munchkin is a blue furry antennaed critter who's hungry for Munchies that float around in a maze. However, there are three antennaed Munchers who are hungry for K.C., so K.C. must avoid running into them unless he eats the special blinking Munchies t</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/J.G. Munchkin (USA, Brazil) (Unl).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/J.G. Munchkin (USA, Brazil) (Unl).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/J.G. Munchkin (USA, Brazil) (Unl).mp4</video>
+	</game>
+	<game id="59322" source="ScreenScraper.fr">
+		<path>./Musician (Europe).zip</path>
+		<name>Musician</name>
+		<desc>Musician is cartridge number 31 in the official Magnavox/Philips line of games for the Philips Videopac. It came in a cardboard box roughly double the size of a standard Videopac game box, containing a keyboard overlay in the style of a piano keyboard; the cartridge, in a standard Videopac box with a single sheet where the manual would usually be; and a landscape format manual, over double the size of a standard game manual.    The purpose of the set is to turn the user's Videopac into a musical keyboard. It supports recording and editing sequences of up to 81 notes, although there is no way to save apart from writing a composition down on music manuscript. In the manual there are the following pieces of sheet music:    "Badinerie" (Bach)  "Brother Jacob"  "The Entertainer"  "Eurovision Tune"  "Happy Birthday to You"  "Liebestraum" (Liszt)  "Lightly Row"  "Merrily We Roll Along"  "Michael Row the Boat Ashore"  "Mosocow Night"  "Old McDonald Had a Farm"  "This Old Man"  "Three Young Drummers"  "Twinkle Twinkle Little Star"</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Musician (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Musician (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Musician (Europe).mp4</video>
+	</game>
+	<game id="59257" source="ScreenScraper.fr">
+		<path>./Neutron Star (Europe) (Proto).zip</path>
+		<name>Neutron Star</name>
+		<desc>The boulders must be collected by placing them in transport platform in front of the ship. Once the boulder is coupled, the player must move the ship toward a neutron star in the left edge of the screen. The neutron star exerts a magnetic force which will draw the ship into it. The ship must be moved carefully as it displays momentum. If the ship is drawn by the neutron star, it will be destroyed. Once close enough, the boulder can be released (by pressing the action button) and it will be drawn into the neutron star. The boulders can also be destroyed with rockets launched by the ship, but they are only available while the ship is not carrying any boulders.</desc>
+		<rating>0</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Neutron Star (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Neutron Star (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Neutron Star (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59325" source="ScreenScraper.fr">
+		<path>./Nightfighter (Europe) (Proto).zip</path>
+		<name>Nightfighter</name>
+		<desc>Nightfighter is a combat flight simulator. The player controls a fighter plane on a night mission, and his task is to take off, destroy the target, avoid enemy attack and return to base.    The history of this title is unclear. As far as we can tell it was never officially released during the original lifetime of the Odyssey 2, but was distributed by Retrogenesis in 2010. There are multiple Brazilian and European prototypes, of which this is one.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GST Video</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Nightfighter (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Nightfighter (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Nightfighter (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59326" source="ScreenScraper.fr">
+		<path>./Nightmare (Europe).zip</path>
+		<name>Nightmare</name>
+		<desc>In Nightmare the player controls a visitor to a haunted mansion. The goal is to escape from it through a constantly moving hatch in the attic. His job will be made harder by the ghosts who are still lingering around the house. The player has to climb three floors to reach the attic, and there is one ghost for each floor.  The ghosts become invisible as they cross the house's walls. While invisible they are harmless, so they have to make themselves visible to catch the visitor. They'll become invisible again if they cross the house walls again. If they catch the visitor, he'll lose one of his lives. But once the visitor has past the ghost's floor, the ghost will be paralyzed and can be caught by the visitor.  Besides the ghosts, other dangers threaten the visitor. A thunderstorm is breaking out and flashes of lightning hit the mansion, creating lightning balls which will roll through the floor the visitor is in. The flashes will also make the invisible ghosts visible while the lightnings strike. Besides, the visitor can't be standing still for too long or a trap door will open and he'll fall through it, losing a life. To make things even more difficult, there will be also a randomly placed obstacle blocking the visitor's way.  The player starts with three lives and gains one each time he escapes the mansion. As the player grows on points from reaching the attic or capturing the ghosts, the game gets more difficult. The number of obstacles increase and the exit becomes invisible unless the player captures a ghost. In higher difficulty levels catching a ghost won't be enough, as the player will have to also get the house's ground plan, which appears on a chest after he captures a ghost.  The game can be played by 2 players, one of them controlling the ghosts in the house.</desc>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Nightmare (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Nightmare (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Nightmare (Europe).mp4</video>
+	</game>
+	<game id="59332" source="ScreenScraper.fr">
+		<path>./Pachinko (USA, Europe).zip</path>
+		<name>Pachinko</name>
+		<desc>PACHINKO! A far out electronic evolution of one of the most popular games from the far east. This cross between a pinball machine and a slot machine is incredibly larger than life. You're right in the middle of the action playing against another person or the computer itself. If you don't like the odds, bounce your ball off the Magic Mountain and get a new set of numbers. But watch out for the robot Troubleshooter. He loves to scoop up your stray balls and send them careening down to your opponent! On-screen digital scoring! Full sync-sound action! One or two players.</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Pachinko (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Pachinko (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Pachinko (USA, Europe).mp4</video>
+	</game>
+	<game id="59334" source="ScreenScraper.fr">
+		<path>./Pairs + Space Rendezvous + Logic (Europe).zip</path>
+		<name>Pairs + Space Rendezvous + Logic</name>
+		<desc>Three games are available in this compilation:    1. Pairs (selected by pressing "1") is the same game as Matchmaker!, a regular Memory game. A matrix with 20 letters appears on the screen and the player has to find pairs of symbols hidden by the letters. Two counters will be displayed: time and number of matches. In two players mode (selected by pressing "2"), the players share the matrix and the one who makes more matches win.    2. Space Rendezvous (selected by pressing "3") is somewhat similar to Lunar Lander. Two players have to try to link up their spaceships to the orbiting mother ship, while avoiding hitting the ground. Each ship has 50 megajoules of power and will be refueled when a perfect link-up is performed. A counter will be displayed for each player, and wins the player who first performs 10 perfect link-ups. If one player goes out of fuel, he's out of game.    3. Logic (selected by pressing "4") is the same game as Logix!. The player has to guess a sequence of five different digits. The player types in the first try and the computer will display a two digit number with the number of correct digits to the right and the number of correctly placed digits on the left. The player has then to continue guessing the sequence based on the clues given. The object is to solve the problem in the least number of tries, counted on the left on the screen.</desc>
+		<rating>0.5</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various-Strategy</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Pairs + Space Rendezvous + Logic (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Pairs + Space Rendezvous + Logic (Europe).png</marquee>
+	</game>
+	<game id="59335" source="ScreenScraper.fr">
+		<path>./Pick Axe Pete (USA, Europe).zip</path>
+		<name>Pickaxe Pete</name>
+		<desc>Pick Axe Pete is in the Misty Mountain Mine, trying to strike it rich. The player controls Pick Axe Pete in a platformed mine. Three doors leading to deeper parts of the mine are displayed, and from them, gold bearing rocks will burst in random intervals.</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Pick Axe Pete (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Pick Axe Pete (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Pick Axe Pete (USA, Europe).mp4</video>
+	</game>
+	<game id="59336" source="ScreenScraper.fr">
+		<path>./Pinball (USA) (Proto).zip</path>
+		<name>Pinball</name>
+		<desc>Pinball!, as the name implies, is a pinball game for one or two players. There are two game "formats". The main format has a table with 7 bumpers and two sockets, with two flippers at the bottom center. Holes at the bottom sides of the table are opened when the bumpers in the second line from bottom to top are hit. At first, hitting the bumpers adds 75 points to the score, but as the bumpers change colors when hit, the amount of points scored increase. The bumpers start red, then change to green, orange, dark blue, pink, light blue, white, black and then red again. The table can also be nudged by moving the joystick in the desired nudge direction. Each player has 5 balls to play. The second game mode allows players to design their own table by placing the 7 bumpers in any desired position. After placing all bumper, the game starts as usual.</desc>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Sanders Associates</developer>
+		<publisher>CGE Services Corporation</publisher>
+		<genre>Action-Pinball</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Pinball (USA) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Pinball (USA) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Pinball (USA) (Proto).mp4</video>
+	</game>
+	<game id="59337" source="ScreenScraper.fr">
+		<path>./Planet Lander (USA) (Unl).zip</path>
+		<name>Planet Lander!</name>
+		<desc>Planet Lander! is a Lunar Lander variant. The player has to land the ship on as many planets as possible with a given amount of fuel. To land, the player has to adjust the ship to be in a vertical position, nose up, with the X and Y gauges green when it t</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Ted Foolery Games</developer>
+		<publisher>Packrat Video Games</publisher>
+		<genre>Simulation</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Planet Lander (USA) (Unl).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Planet Lander (USA) (Unl).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Planet Lander (USA) (Unl).mp4</video>
+	</game>
+	<game id="59338" source="ScreenScraper.fr">
+		<path>./Playtag (Europe) (Proto).zip</path>
+		<name>Play Tag</name>
+		<desc>Play Tag is a tag game for one or two players. The object is to avoid being tagged by the other player; when it happens, the tagged player becomes the catcher. The game has 15 variations, selected by pressing one of the following keys:  (1) 2 players, left very strong,;  (2) 2 players, left strong;  (3) 2 players, left slightly stronger;  (4) 2 players, both equally strong;  (5) 2 players, right slightly stronger;  (6) 2 players, right strong;  (7) 2 players, right very strong;  (9) 1 player, beginner;  (:) 1 player, advanced;  (Space) 1 player, equally strong as computer;  (L) 1 player, stronger than computer;  (P) 1 player, master;  (8) 1 player, variable computer strength;  (0) 2 players, variable computer strength;  (+) demonstration mode.  At the upper right corner the computer keeps track of the current score (seconds spent untagged). The lower left corner displays the highest score for the left player, the lower right corner displays the highest score for the right player and the upper left corner displays the highest score in the current game beside the name of the player who achieved it.</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Playtag (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Playtag (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Playtag (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59251" source="ScreenScraper.fr">
+		<path>./Pocket Billiards (USA, Europe).zip</path>
+		<name>Pocket Billiards!</name>
+		<desc>In this pool title, two players can choose either one of the two games available: 8-ball or Rotation. The games are selected by pressing any direction of the joystick while their names are displayed on screen.    In the 8-ball game, the winner is the first player to sink either one of the two black balls in game.    In Rotation, the black balls are replaced by colored ones, and the winner is the player to sink the most balls. By sinking one ball, the player gets the chance to try another shot. There are no penalties for missing the balls or sinking the white one.    Players can choose the direction of the shot (by rotating the cue around the white ball) and the strength of the shot (the longer the action button is pressed, the harder the shot is).</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Pocket Billiards (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Pocket Billiards (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Pocket Billiards (USA, Europe).mp4</video>
+	</game>
+	<game id="59342" source="ScreenScraper.fr">
+		<path>./Power Lords (USA).zip</path>
+		<name>Power Lords</name>
+		<desc>The player has arrived at Vulcan Rock, an artificial planetoid defended by a laser-eyed space serpent and other minions of the evil Extra-Terrestrial Alliance. Now he must defend himself from them, as well as the volcano itself.  Controlling his spaceship with the control stick and shooting laser blasts with the action button, the player must avoid falling lava, rocks, the serpent's laser rays. Shooting the serpent will stun it, and shooting the rocks will destroy them. If the ship goes out of screen by one of its sides, it will come back in the opposite side.  From times to times, Gryptogg, Raygoth and Arkus of the Extra-Terrestrial Alliance will open doors in the volcano firing a gravitational ray, which will drag the player's ship to it. The higher the score, the stronger the ray will be. It can be stopped by blasting the door with laser.  The player earns 3 points for blasting lava during volcanic eruption, 15 points for stunning the space serpent, 45 points for hitting an open door, 75 points for destroying a lava rock and 1000 points for surviving a volcanic eruption.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Power Lords (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Power Lords (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Power Lords (USA).mp4</video>
+	</game>
+	<game id="59344" source="ScreenScraper.fr">
+		<path>./Puzzle Piece Panic! (USA) (Proto).zip</path>
+		<name>Puzzle Piece Panic!</name>
+		<desc>Puzzle Piece Panic! is a Tetris clone. Falling tetrad pieces must be arranged inside a well to form horizontal lines. When a complete line is formed, it is removed from screen. Pieces can be moved horizontally, rotated by pressing the action button (and u</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Ted Foolery Games</developer>
+		<publisher>Packrat Video Games</publisher>
+		<genre>Strategy</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Puzzle Piece Panic! (USA) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Puzzle Piece Panic! (USA) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Puzzle Piece Panic! (USA) (Proto).mp4</video>
+	</game>
+	<game id="59345" source="ScreenScraper.fr">
+		<path>./Q-Bert (Europe).zip</path>
+		<name>Qbert</name>
+		<desc>The objective of the game is to change all the colors of the squares while avoiding enemies. As the game advances, the player must change the colors twice. A new enemy also appears and changes the squares back to their previous color.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Company</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Q-Bert (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Q-Bert (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Q-Bert (Europe).mp4</video>
+	</game>
+	<game id="59369" source="ScreenScraper.fr">
+		<path>./Quest for the Rings (USA, Europe).zip</path>
+		<name>Quest for the Rings</name>
+		<desc>THE QUEST FOR THE RINGS! Ten rings of power lie hidden within the Dark Lands of the evil Ringmaster. In gloomy dungeons, crystal caverns, molten infernos, and mysterious shifting halls. Each posing its own challenge, and it's own threat! Each ring is guarded by the treacherous minions of evil that lurk within these halls of doom. Menacing Ores and Firewraths, the loathsome Spydroth Tyrantulus, Doomwinged Bloodthursts, and hideous fire-breathing dragons! The Quest for the Rings is the first of a new Master Strategy Series from Odyssey. Applauded as a first by true game enthusiasts. Offering the combined fast pace and excitement of on-screen action with the intense strategy of gameboard competition!</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Various</genre>
+		<players>1-5</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Quest for the Rings (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Quest for the Rings (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Quest for the Rings (USA, Europe).mp4</video>
+	</game>
+	<game id="59352" source="ScreenScraper.fr">
+		<path>./Secret of the Pharaohs (Europe).zip</path>
+		<name>Secret of the Pharaohs</name>
+		<desc>Secret of the Pharaohs is a puzzle game for two players. Each player has to find the correct position of stones in the Pharaoh's pyramids. The screen is horizontally divided in the half, and the pyramids have four blocks in the lower layer (or higher for the top player), three in the middle and one at the top (or bottom for the top player). Each block has two possible positions for placing the stones, and after the players place them, a number will appear above (for the up player) or below (for the down player), showing how many of them are correctly placed. Players must then relocate the stones until all of them are placed correctly. When it is done, the higher (or lower) layer of blocks will be liberated. The player who first places all the stones correctly in all the layers wins.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Secret of the Pharaohs (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Secret of the Pharaohs (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Secret of the Pharaohs (Europe).mp4</video>
+	</game>
+	<game id="59355" source="ScreenScraper.fr">
+		<path>./Sid the Spellbinder (USA).zip</path>
+		<name>Sid The Spellbinder</name>
+		<desc>Press 0 on the numeric section of the keyboard. The Voice will ask you to "SELECT SKILL." Choose 1 or 2. Press 1 for the first skill level. Press 2 for the second skill level. (If you don't press either, the computer will automatically deliver skill level 2 after about 15 seconds.) The Voice will immediately announce: "MONSTER ATTACK! OPEN FIRE!" Sure enough! Giant Sid the Spellbinder snakes across the screen. Your only defense is a missile launcher at the bottom of the screen. Use the joystick of either hand control to move your missile launcher to the right or left. Press the action button to fire a missile. Your ammunition supply is indicated by the number at the lower right hand corner of the screen. You get thirty missiles at skill level 1 and twenty missiles at skill level 2. If you do not completely destroy Sid the Spellbinder before it reaches the opening at the lower left and right sides of the screen, it will eat your reserve missile supply starting with the second turn. Sid the Spellbinder consumes five missiles for each of its segments that make it to the opening. Your score appears at the lower left hand corner of the screen. Every segment you hit is worth progressively more points. The first segment you hit is worth 1 point. The second is worth 2 points. The third is worth 3 points - and so on up through ten. If your score is less than 200, Sid the Spellbinder will squeeze its remaining segments together when it goes off the screen. When your score goes over 200, the game gets harder. The gaps will remain open and Sid the Spellbinder moves faster and faster. The spelling fun starts when you hit all ten segments of Sid the Spellbinder - or when it reaches the bottom of the screen. - eats some of your missiles - but leaves you with some in reserve. The Voice will ask you to spell a word. Type in the letters on the alphabet section of the keyboard. If you make a mistake in typing, press CLEAR. When you think you have typed in the correct spelling, press ENTER. You get 10 missiles for every word spelled correctly at skill level 1. You get 5 missiles for every word spelled correctly at skill level 2. You will get a chance to spells three words in each round of the game. If you don't spell a word correctly the first time, the computer will ask you to try again. If you don't spell the word correctly on the second try, the computer will spell it for you so you'll know how to spell it next time. After each series of three words, Sid the Spellbinder will attack and try to eat your missiles. The game ends when you have no missiles left. To start a new game, press RESET and then press 1 (for skill level 1) or press 2 (for skill level 2).</desc>
+		<rating>0</rating>
+		<releasedate>19821201T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Sid the Spellbinder (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Sid the Spellbinder (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Sid the Spellbinder (USA).mp4</video>
+	</game>
+	<game id="59356" source="ScreenScraper.fr">
+		<path>./Alpine Skiing (USA, Europe).zip</path>
+		<name>Skiing</name>
+		<desc>One or two players can choose among three kinds of skiing competitions to play: Slalom, Giant Slalom and Down Hill.  In the Slalom event, players must ski through 55 gates. The winner is the fastest player to conclude two runs down the courses. If a player misses a gate, the timing stops and the counter registers the numbers of violations. The winner then is the player with the lesser number of violations.    The Giant Slalom event follows the same rules to the slalom, but is longer than the slalom, with gates farther apart.    In the Down Hill event, the winner is the player to achieve the end of the marked course in the shortest amount of time. If the player goes off-course, the violations are counted instead, and the winner is the player with the lesser number of violations.  In any event, crashing into the gates will make the players lose time. Each player's course is displayed at one half of the screen and separately, even though their progresses are shown simultaneously. Players can go off-course and invade each other's courses, though.    The players select the events by pulling down the stick when the desired event's name is displayed in the screen. The skiers are controlled with the stick. By holding the stick down, the skier runs down in a straight line. By pushing up, the skier stops. Right and left will change the skier direction and pressing the action button will accelerate the skier in 30% of its speed.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Alpine Skiing (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Alpine Skiing (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Alpine Skiing (USA, Europe).mp4</video>
+	</game>
+	<game id="59357" source="ScreenScraper.fr">
+		<path>./Smithereens (USA).zip</path>
+		<name>Smithereens</name>
+		<desc>This game takes place in a time when knights were bold and castle crumbling was one of the most popular sports. In this Artillery clone, two players must try to destroy each other's castle with their catapults. By pressing any direction in the joystick, t</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Smithereens (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Smithereens (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Smithereens (USA).mp4</video>
+	</game>
+	<game id="59241" source="ScreenScraper.fr">
+		<path>./Alien Invaders - Plus (USA, Europe).zip</path>
+		<name>Space Monster</name>
+		<desc>This is a Space Invaders variant with a twist. Eight robots with laser cannons and protected by a shield wall are advancing in the player's sector, and with his laser cannon he has to destroy them. The shield wall is indestructible, but the robots and the cannons aren't. They'll go from side to side of the screen in an alternate movement shooting down. Three high density molecular laser shields are placed in defense of the laser cannon. Each one of them houses an extra cannon.    Instead of a passing flying saucer as seen in Space Invaders, the player has to face the Merciless Monstroth, which shoots against him. The player controls a robot defender inside the laser cannon. If the laser cannon is destroyed, the robot will be left unprotected. The robot can enter in a new laser cannon housed in one of the shields. Once the new laser cannon is active, the shield is gone. Once the three shields are gone, the Merciless Monstroth will come down to hunt the player's cannon and robot.    The player wins a battle when destroying all enemy robots and cannons on the screen. A battle is lost when the player's robot is destroyed. The first side to win ten battles wins the war.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Alien Invaders - Plus (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Alien Invaders - Plus (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Alien Invaders - Plus (USA, Europe).mp4</video>
+	</game>
+	<game id="59359" source="ScreenScraper.fr">
+		<path>./Spider-Man (Europe) (Proto).zip</path>
+		<name>Spider-Man</name>
+		<desc>The Green Goblin has set a super bomb at the top of a high voltage tower located on the top of a skyscaper! As Spider-Man, you need to scale the building and defuse the bomb. Use your web to climb the building, but be careful of Green Goblin's villians which appear in the windows trying to stop you. If your web line goes too close to a villian, it will be cut and Spider-Man will fall. If you're careful, you can swing back and forth to capture the villians for bonus points. When you reach the top of the building, it's time to climb up the high voltage tower which is booby trapped with bombs. The bombs can be defused or avoided to get to the top, but just make sure you aren't too close to one that explodes! Once you arrive at the top of the tower, Green Goblin himself will be protecting the super bomb he has planted there. If you can sneak past Green Goblin and defuse the super bomb, the level is complete and you then move on to the next, more challenging level.</desc>
+		<rating>0.7</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Spider-Man (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Spider-Man (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Spider-Man (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59362" source="ScreenScraper.fr">
+		<path>./Super Bee (Europe).zip</path>
+		<name>Super Bee</name>
+		<desc>In Super Bee the player controls a bee flying in a magic garden, where fruits keep popping everywhere. The fruits must be eaten (by flying over them), while avoiding to crash in the garden's fences (the edges of the screen). Additionally, when a fruit is eaten a magic barrier will appear, in the same direction in which the bee is flying, and it also must avoid crashing on them.  The player earns points by gathering fruits as follows:  1. Lemon (yellow): 5 points 2. Apple (red): 10 points 3. Pear (green): 15 points 4. Plum (grey): 20 points 5. Strawberry (red): 25 points  When the player reaches 105 points a bonus round takes place. A big spider appears in the screen, along with a fruit, for a limited time. Super Bee must avoid the spider and eat the fruit. By doing so the player earns 50 points. The next bonus rounds take place every 15 more points.  There are 10 skill levels available (by pressing 0 to 9), each one with different mazes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Super Bee (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Super Bee (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Super Bee (Europe).mp4</video>
+	</game>
+	<game id="59363" source="ScreenScraper.fr">
+		<path>./Super Cobra (Europe).zip</path>
+		<name>Super Cobra</name>
+		<desc>Super Cobra is a side scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Super Cobra (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Super Cobra (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Super Cobra (Europe).mp4</video>
+	</game>
+	<game id="59365" source="ScreenScraper.fr">
+		<path>./Take the Money and Run (USA, Europe).zip</path>
+		<name>Take the Money and Run</name>
+		<desc>After a time travel, the players are trapped in the Land of Keynesium, in 231,000 A.D. The Keynesians are deeply interested in the 20th Century economic life, and they build more than a trillion different mazes populated by robots representing the economic factors of that time. Starting with $500,000, the players must turn it into a million so they can return for their time, or else be doomed to roam the Keynesian mazes forever!    In this game, the players play against the Keynesian robots in seven kinds of mazes, called Income, Reward, Investment, Expenses, Thief, Taxes and Inflation. In the first three kinds of mazes, the player must try to catch the robots in order to gain money. In the last four kinds of mazes, the players must run from the robots, as they lose money if caught.    In both kinds of mazes, a money counter will appear at the bottom of the screen, showing different values of money each time a maze is started. The counter will start to decrease and the players will win (if they catch the robots in the three first kinds of mazes) or lose (if they are caught by the robots in the last four kinds of mazes) the amount of money shown.    The players' characters are two times taller than the robots, thus sometimes the players must duck to pass through certain portions of the mazes (by pressing the action button). While ducking the players move at 2/3 the normal speed. If they try to pass through a low ceiling portion without ducking, they'll move at half the speed. Touching the walls of a maze will make it harder to move, and touching the opponent player while touching the a will make him lose control.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Take the Money and Run (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Take the Money and Run (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Take the Money and Run (USA, Europe).mp4</video>
+	</game>
+	<game id="59256" source="ScreenScraper.fr">
+		<path>./Bowling + Basketball (USA, Europe).zip</path>
+		<name>Ten Pin Bowling + Basketball</name>
+		<desc>BOWLING! A true electronics simulation! You go straight for the pins or hook from either side of the alley! But once you commit to the hook you're on the hook! There's no going back. Digital scoring! Sync-sound action! Two to four players. (Lanes change color to let you know when it's your turn.) BASKETBALL! For ultimate realism, there's even a built-in electronic gravity field! The electronic basketball bounces like a real basketball. If you don't get a clear shot into the basket, the ball hits the rim or the backboard and bounces back into the court! On-screen digital scoring and timer. Sync-sound action! Two players.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Bowling + Basketball (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Bowling + Basketball (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Bowling + Basketball (USA, Europe).mp4</video>
+	</game>
+	<game id="59366" source="ScreenScraper.fr">
+		<path>./Blobbers, The (Europe).zip</path>
+		<name>The Blobbers</name>
+		<desc>In Blobbers the player controls a mobile laser unit trying to defend itself from the Blobbers, fearsome, giant, amoeba-like creatures that will devour anything they encounter. The mobile laser unit moves grounded to the sides of the screen area. The Blobbers will also move along the same sides, and as the laser gun can only shoot straight forward, the mobile laser unit has to be in the opposite side of the screen to hit the Blobbers.  A Blobber borns as a harmless small yellow spot, growing to a bigger and purple mass, to a bigger and white one until it reaches its red adult form. Only when it is red it can do harm to the mobile laser unit, if they are of any other color, they will only stick to the mobile laser unit until it moves and releases itself from the Blobber. As the time passes, an adult Blobber will multiply, releasing a new small yellow spot which will eventually grow into another adult Blobber. When Blobbers are hit, they are reduced to the immediate previous stage of development (from red to white, then purple, then yellow, then deceased).  In the middle of the screen, moving blocks called Magic Transporters move up and down randomly. They are called Magic Transporters because they can be used to transport the mobile laser unit from one side of the screen to the other, if the mobile laser unit moves onto one of them while they touch the top or bottom of the screen. The Blobbers will also be transported by them. Also, they are impenetrable by the laser gun, meaning the player will only be able to hit one Blobber when there are no Magic Transporters in the laser's way.  The Blobbers will become faster every 90 seconds until finally reaching the mobile laser unit's speed. The player has only one life and no continues.</desc>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GST Video</developer>
+		<publisher>N.V. Philips Gloeilampenfabrieken</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Blobbers, The (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Blobbers, The (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Blobbers, The (Europe).mp4</video>
+	</game>
+	<game id="59261" source="ScreenScraper.fr">
+		<path>./Mousing Cat, The (Europe).zip</path>
+		<name>The mousing cat</name>
+		<desc>The Mousing Cat is another game about the eternal conflict between felines and rodents. The game consists in a series of six encounters in which the players alternate the roles of cat and mouse (three times each). The winner is the player with most points at the end of the series. The only player to score is the mouse. He does so by eating the cheese pieces scattered through the room. To eat, the player controlling the mouse has to press and hold the "action" button. The longer the button stay pressed, the more it eats. If the mouse eats for a certain amount of time, it will grow bigger than the cat and will be immune for a short period of time. The cat tries to catch the mouse by building a trap around it. To do so, the player controlling the cat has to move the cat around the mouse while pressing the "action" button. The cat has a limited amount of trap parts to use and the used ones can be picked up again by being walked over. The game has 7 skill levels (with less trap parts for the mouse and both cat and mouse moving faster the higher the level is) and 8 possible variations (with stationary and moving cheese and obstacles for the mouse).</desc>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Mousing Cat, The (Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Mousing Cat, The (Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Mousing Cat, The (Europe).mp4</video>
+	</game>
+	<game id="59308" source="ScreenScraper.fr">
+		<path>./Le Tresor Englouti (France).zip</path>
+		<name>Trésor Englouti +, Le</name>
+		<desc>Le TrÃ©sor Englouti + is an underwater treasure hunting game. The player controls a diver who has to enter three caves searching for the treasure. The only open cave in the beginning of the game is the one in the bottom left side of the screen. To reach it, the player has to avoid the fish in the sea as touching them make the diver lose oxygen. When the player reaches the cave, the screen changes and the interior of the cave is shown.    The cave is maze shaped and has six chests in it. One of the chests is empty, two of them holds sea animals: one holds a crab, one holds an octopus. Once they're free, they'll move about the cave, if they touch the diver, he dies and the game is over. One chest holds a grenade, which can be used to kill the enemies if they pass by when it is placed. One of the chests holds the key to the second cave, and one last hides a trapdoor to exit the cave. While the diver searches for the treasure, he'll lose oxygen. His boat is waiting up outside with three extra oxygen tanks. If the player swims up to it, one can be grabbed by pressing the action button. It will be necessary, as navigating inside caves it is difficult, the player has to place the diver in the right position or else he will bump in the walls.    Once in possession of the key, the player has to move the diver to the next cave. The second cave has a different maze layout, but the gameplay inside it is the same as the first. Once the player reaches the third cave, things get more difficult, as the third cave is dark and only a short distance around the diver can be seen. The game is won when the diver finds the treasure and returns to the boat without getting asphyxiated.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>TO TEK International</publisher>
+		<genre>Action</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Le Tresor Englouti (France).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Le Tresor Englouti (France).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Le Tresor Englouti (France).mp4</video>
+	</game>
+	<game id="59371" source="ScreenScraper.fr">
+		<path>./Turtles (USA).zip</path>
+		<name>Turtles</name>
+		<desc>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one. All the while, you must avoid the bugs/cars running around the maze. If they get too close, you can release a mine which will stun them temporarily. When you run out of mines, you must resupply by passing over a star in the centre of the screen. Beware, though, because the simpleminded bugs become smarter as time passes; this is symbolised by their changing colours. On later levels, those sneaky beetles can also come out of the boxes supposed to hold kidturtles. Watch out!  Each level is a floor in a house, and between levels you can see the turtle climbing to the next floor until it reaches the top.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Turtles (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Turtles (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Turtles (USA).mp4</video>
+	</game>
+	<game id="59372" source="ScreenScraper.fr">
+		<path>./Tutankham (Europe) (Proto).zip</path>
+		<name>Tutankham</name>
+		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</desc>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Tutankham (Europe) (Proto).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Tutankham (Europe) (Proto).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Tutankham (Europe) (Proto).mp4</video>
+	</game>
+	<game id="59373" source="ScreenScraper.fr">
+		<path>./Type &amp; Tell (USA).zip</path>
+		<name>Type &amp; Tell</name>
+		<desc>Type &amp; Tell! lets the player type in a word or a message and then have the words spoken back to them by utilizing the Odyssey 2's voice module. The instruction manual suggests the following games that can be played: Garble! - Players take turns typing in one letter at a time, The idea is to form sentences by just using the sounds the individual letters make. Sound Waves! - Players type in random letters trying to create sounds that sound like something that could be heard in real life. Super Star! - Players can use the sounds or dialogue the game makes in their own home movie or radio show. War of Words! - This game requires at least two players. Player take turns typing in words until a sentence is created by one of the players adding a period. Players then take turns inserting words into the sentence, while trying to keep it grammatically correct. The first player to extend the sentence exactly to the end of the available typing space is the winner. If a player extends the sentence beyond the end of that available space, they lose.</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Educational</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Type &amp; Tell (USA).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Type &amp; Tell (USA).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Type &amp; Tell (USA).mp4</video>
+	</game>
+	<game id="59375" source="ScreenScraper.fr">
+		<path>./Kinder im Verkehr 2 (Germany).zip</path>
+		<name>Verkehrsspiele 2</name>
+		<desc>The CSV Video-Traffic Games Edition of the G7000 was given to primary schools in a small region of West Germany. The package consisted of a G7000 and two special games -- Verkehrsspiele 1 and Verkehrsspiele 2 -- that were used to teach children how to behave on the street. The console set is nothing more than a repackaging of a regular Philips G7000. The package comes with a special "Video-Traffic Games" sticker affixed to the TV screen depicted by the box art. It contains a regular G7000, the two games, and some documentation.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<genre>Educational</genre>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Kinder im Verkehr 2 (Germany).png</image>
+	</game>
+	<game id="59376" source="ScreenScraper.fr">
+		<path>./Volleyball (USA, Europe).zip</path>
+		<name>Volleyball</name>
+		<desc>While the packaging promises "an electronic simulation so real you can even spike a shot", this is in fact a volleyball game (the first for a home console) which has a very loose interpretation of the standard rules. In fact, it can be described as a cros</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Volleyball (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Volleyball (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Volleyball (USA, Europe).mp4</video>
+	</game>
+	<game id="59367" source="ScreenScraper.fr">
+		<path>./Great Wall Street Fortune Hunt, The (USA, Europe).zip</path>
+		<name>Wall Street</name>
+		<desc>The Great Wall Street Fortune Hunt is another game in the Master Strategy Series, a series of part console, part board games on the Odyssey².  This is a stock exchange simulator. One or two players (or groups, if more than 2 people are playing) take the role of investors (or investment syndicates) trying to anticipate investment fluctuations to take advantage of buying and selling opportunities which occurs during the game.  The main screen is divided in three sections. The upper section displays the investment choices and prices per share scrolling from right to left. The middle section displays news flashes related to the market and the lower section displays each player's investment portfolio and capital. A grey bar chart to the right displays the overall market performance during each quarter of a year.  Each investor starts with $100,000 and can enter a maximum of seven investments into the computer. The investments are bought using the keyboard by entering the letters representing it (IBM, for instance) and the number of shares wanted. The shares can be sold in lots of 100. All investments entered must be sold at the end of each year (four quarters, each quarter taking about 5 minutes of real time). The computer will signal the end of each quarter. The winner is the investor accumulating the greatest net worth after 5 years.  The game can be played in four levels of progressively increased complexity: Straight Investment Transactions 2. Straight Investment Transactions &amp; Treasury Bills 3. Straight Investment Transactions &amp; Treasury Bills &amp; Buying on Margin 4. Straight Investment Transactions &amp; Treasury Bills &amp; Buying on Margin &amp; Stock Options  The gameboard is used to keep track of information dealt with off-screen. It is divided in 4 sections: investment positions, T-Bill market, time frame indicator and prime rate indicator.  Each investor receives a set of numbered share/margin tokens to be placed in the share section of the gameboard for every straight transaction done. There are 30 different investments available and each investment has a different sensitivity to changing national and international conditions in three areas as shown in the gameboard: Gross National Product, Prime Interest Rate and Political Instability. The news flashes presented in the screen will affect the investments according to there three indicators.  The time frame indicator is used to keep track of which quarter the game is currently on.  The T-Bill market and Prime Interest Rate parts of the gameboard are only used in level 2 games or higher. The Prime Interest Rate is the interest banks quote as charging their best corporate customers. It is directly related to the interest rate on Treasury Bills. The prime rate will be reported by the news bulletins on the screen and must be marked with the appropriate tokens on the gameboard.  The level 3 adds the option of buying stocks on margin, i.e., with money borrowed from the broker. The computer only keeps track of investments bought in cash, so this kind of transaction must be tracked with the help of a proper token in the gameboard.  The level 4 adds option trades to the game. Options give the investor the right, but not the obligation, to buy or sell securities at current prices at the beginning of the following quarter. It is basically a bet about the rise or fall of a specific security price.  Besides the gameboard, each player has his/her own investment record pad to better keep track of his/her transactions.</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Simulation-Strategy</genre>
+		<players>1</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Great Wall Street Fortune Hunt, The (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Great Wall Street Fortune Hunt, The (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Great Wall Street Fortune Hunt, The (USA, Europe).mp4</video>
+	</game>
+	<game id="59379" source="ScreenScraper.fr">
+		<path>./War of Nerves (USA, Europe).zip</path>
+		<name>War of Nerves</name>
+		<desc>WAR OF NERVES! A fast moving electronic strategy game! You lead your robot army through a forested maze across an electronic battlefield. Mission: out-maneuver the enemy forces and capture their general! But you have to think and act fast-or be captured yourself! Your android troops are armed with stun guns that they fire at will. The maze keeps changing after every encounter! Full sync-sound action including electronic bugle calls. Digital scoring!</desc>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>/home/pi/addonusb/roms/videopac/mixart/War of Nerves (USA, Europe).png</image>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/War of Nerves (USA, Europe).png</marquee>
+		<video>/home/pi/addonusb/roms/videopac/snaps/War of Nerves (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./P.T. Barnum's Acrobats (USA).zip</path>
+		<name>Jumping Acrobats</name>
+		<desc>P.T. Barnum's Acrobats! is another clone of Bally Midway's 1978 arcade game Clowns.    Three rows of colored balloons are displayed at the top of the screen, moving back and forward: a blue, a yellow and a red row. The players control two acrobats jumping over a teeter, moving it in order to avoid the acrobats from crashing into the ground. Once an acrobat lands at one side of the teeter, the acrobat on the opposite side will be launched in the air, toward the balloons. The farther from the opposite acrobat the jumping one lands, the higher the opposite one will be launched. As the acrobats reach the balloons, they'll pop them, bouncing to pop other balloons before falling. Once a row is completely popped, it will be replaced by another one. Each game consists of a ten jumps series.    The players score 2 points for each blue balloon, 4 points for each yellow balloon and 6 points for each red one. They'll additionally score 15 points for a complete blue row, 20 points for a yellow row and 25 points for a red row.    The game has a total of 18 possible variations, including one and two player games:  Single player variations:    (Press 0) Moving balloons with no shield.  (Press 3) A stationary shield will be displayed at the center of the screen. If the acrobats hit the shield from the upper side, they'll bounce up, if they hit it from the bottom side, they'll fall to the ground faster.  (Press 6) A shield will appear and disappear at random times and random positions.  (Press 9) Stationary balloons with no shield.  (Press C) Stationary balloons and stationary shield.  (Press F) Stationary balloons with random shield.    Two player variations:  Version I: players take turns every time an acrobat crashes into the ground.  (Press 1) Moving balloons with no shield.  (Press 4) Moving balloons with stationary shield.  (Press 7) Moving balloons with random shield.  (Press A) Stationary balloons with no shield.  (Press D) Stationary balloons with stationary shield.  (Press G) Stationary balloons with random shield.    Version II: players take turns after each jump.  (Press 2) Moving balloons with no shield.  (Press 5) Moving balloons with stationary shield.  (Press 8) Moving balloons with random shield.  (Press B) Stationary balloons with no shield.  (Press E) Stationary balloons with stationary shield.  (Press H) Stationary balloons with random shield.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/P.T. Barnum's Acrobats (USA).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/P.T. Barnum's Acrobats (USA).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/P.T. Barnum's Acrobats (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./K.C.'s Krazy Chase (USA, Europe).zip</path>
+		<name>Kc's Krazy Chase</name>
+		<desc>K.C.'s KRAZY CHASE! The chase is really crazy because while K.C. Munchkin is chasing one end of the dreaded Dratapillar - the other end is chasing him - and so are the dreaded Dratapillar's dreadful Drats! Skill levels automatically increase as you play. Choose from five different mazes - or use the keyboard to make up your own! Advanced digital scoring with memory displays high score! Full sync-sound action - plus speech is played through the Voice of Odyssey2. Any number can play.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/K.C.'s Krazy Chase (USA, Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/K.C.'s Krazy Chase (USA, Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/K.C.'s Krazy Chase (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Kinder im Verkehr 1 (Germany).zip</path>
+		<name>Kinder Im Verkehr 1</name>
+		<desc>Control a kid and help him cross the street by looking left then right then left again.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Kinder im Verkehr 1 (Germany).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Kinder im Verkehr 1 (Germany).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Kinder im Verkehr 1 (Germany).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+	</game>
+	<game>
+		<path>./Mr. Roboto! (USA) (Unl).zip</path>
+		<name>Mr. Roboto!</name>
+		<desc>It's the year 8048 and mankind has been anhialated. The nncomputers and machines that were built to help man have nnbecome smart enough to rule over - and eventually destroy - nnall civilization. Now, the once united machines have fractured, nnand the machines have begun battle with each other. Two nnfactions remain. Each side has a CPU master and six robot nnwarrior servants. The CPUs can't move, so the robots are sent nnout to do the dirty work. The goal: shutdown the opposing nnside's CPU. Many obstacls are in place to prevent this: the nnother robots, energy surges, firewalls, viruses, and the CPU's nnown laser defenses. nnnnTed Szczypiorski has done it again! Mr. Roboto! is an absolute nnmasterpiece. A clever mix of Archon and Tron Deadly Discs, nnyou can play against the CPU, against another player, or let nntwo CPUs duke it out. Fast-paced and addicting, Mr. Roboto! nnfeatures three game screens, intro and menu screens, and is nnvoice enhanced. It just doesn't get any better than this!</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Mr. Roboto! (USA) (Unl).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Mr. Roboto! (USA) (Unl).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Mr. Roboto! (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Ted Foolery Games</developer>
+		<publisher>Packrat Video Games</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Route 66 (Europe) (Proto).zip</path>
+		<name>Route 66</name>
+		<desc>Route 66 is a vertical scrolling racing game with shooter elements. The game has 4 possible variations, selected by pressing one of the following keys: 0: Mission Mode. The player has to destroy 7 black cars at each one of the four levels: daytime driving</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Route 66 (Europe) (Proto).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Route 66 (Europe) (Proto).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Route 66 (Europe) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>Humanoid Games</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./UFO (USA).zip</path>
+		<name>UFO!</name>
+		<desc>Description    Commanding of one of Earth Federation's robot-controlled battle cruisers, the player must protect Earth from an invasion of unidentified flying objects.    The ship is equipped with a laser cannon and a force field. The force field energy is drained when the ship's lasers are fired (by pressing the action button). The direction of the lasers is shown by a white dot in the force field, which rotates to aim in the direction the ship is moving.    There are three types of UFO's. The first one drifts randomly in space. The second, the Hunter-Killer, can detect the player's spaceship, linking with another one of the same type when it happens. The third one is a Light-speed Starship armed with computer-guided missiles.    The UFO's can be destroyed by laser blasts or by entering in touch with the force field in the player's ship. If the later happens, the force field energy is also drained.    The ship travels at half-speed when its force field is recharging. It goes from black (when depleted) to blue (when fully charged). The ship is vulnerable until the force field is completely recharged.    The player will earn 1 point for each random drifter destroyed, 3 points for each Hunter-Killer and 10 points for each Light-speed Starship.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/UFO (USA).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/UFO (USA).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/UFO (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Amok (USA) (Unl).zip</path>
+		<name>Amok!</name>
+		<desc>AMOK! was the first Odyssey² new release about 15 years after the console was discontinued. It is inspired by Berzerk. The player is trapped in a spaceship and is armed with a laser pistol, which can fire in all 8 directions. Each stage is a maze with one or more exits, and the player has to try to exit them while avoiding to touch its walls and get killed. Besides the danger of the walls, the player will face the berzerk robot sentinels, which can move about and shoot, but that can also be killed if they touch the walls. After a while, the Smileybot will appear and try to kill the player. The Smileybot can pass through walls and cannot be killed by the player. The game features 12 stages of increasing difficulty. The player has 3 lives; dying will make the player restart the current level, with all berzerk robot sentinels being replaced.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Amok (USA) (Unl).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Amok (USA) (Unl).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Amok (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>John Dondzila</developer>
+		<publisher>John Dondzila</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./K.C. Munchkin (USA).zip</path>
+		<name>K.C. Munchkin</name>
+		<desc>K.C. Munchkin is a blue furry antennaed critter who's hungry for Munchies that float around in a maze. However, there are three antennaed Munchers who are hungry for K.C., so K.C. must avoid running into them unless he eats the special blinking Munchies t</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/K.C. Munchkin (USA).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/J.G. Munchkin (USA, Brazil) (Unl).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/J.G. Munchkin (USA, Brazil) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Demon Attack (USA, Europe).zip</path>
+		<name>Demon Attack</name>
+		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Demon Attack (USA, Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Demon Attack (USA, Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Demon Attack (USA, Europe).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Strategy-Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Frogger (Europe).zip</path>
+		<name>Frogger</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.  The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Frogger (Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Frogger (Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Frogger (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./I've Got Your Number (USA, Europe).zip</path>
+		<name>I've Got Your Number</name>
+		<desc>Press 1 on the alpha-numeric keyboard. The screen will display a giant electronic blackboard filled with orbiting numbers and symbols. Player 1 appears at the left side of the screen. Player 2 appears at the right side of the screen. Each player stands on a scoring box which will automatically count up each correct answer. The left hand control unit activates the left hand player on the screen. The right hand control unit activates the player at the right hand of the screen. Push the joy stick away from you to walk your player toward the top of the screen. Pull the joy stick toward you to walk your player to the bottom of the screen. Push the joy stick left to go left. Push it right to go right. An addition, subtraction or symbol problem will appear at the base of the screen. The answer will appear somewhere in the orbiting numbers and symbols. Each player races to the correct number or symbol with the electronic figure. When a player catches a correct answer, a point is scored and the solution is displayed at the bottom of the screen. A new problem will then be presented. If a player catches an incorrect answer, he is sent back to the starting position and the incorrect number or symbol is automatically removed from the screen. This process of elimination will eventually guide the players to the correct answer through a positive learning experience. The winner is the first player to score ten correct answers. The winner receives an electronic pat on the back and a musical salute. A new game will automatically start after each ten point round. Some correct answers will appear in the center of the orbits and will be more difficult to reach. Press the action button to lower the electronic figure's head to duck through the orbit without touching a wrong answer. This game is programmed so that it may be played by children who do not yet comprehend numbers. At the first level, a child may enter a matching symbol and it will score as a correct answer. The level of play will move up as the players grow more proficient.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/I've Got Your Number (USA, Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/I've Got Your Number (USA, Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/I've Got Your Number (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Educational</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Martian Threat (Europe) (Proto).zip</path>
+		<name>Martian Threat</name>
+		<desc>Martians are attacking the Earth and planning to destroy all life in it. A Martian space ship is orbiting the earth and a big laser cannon is being built on Earth and it is the player's mission to hold the Martian threat until the laser cannon is complete. To do so, the SIDO (Space Intruder Defense Organisation) infiltrated a fighting probe inside the Martian spaceship.  In Martian Threat the player controls a fighting probe with the joystick. The lack of gravity will make the probe keep moving until reverse thrust is given. The player has to shoot Martians and their energy bombs, which will appear in four different spots. The probe can only shoot diagonally. At the start, the Martian bombs are green and have little energy on them. As the game proceeds the bombs turn blue, purple and finally red. The probe can take up to ten hits from green bombs, but only three hits from red bombs. Additionally, the bombs will move faster and when they hit the probe they'll push it away. The probe explodes if it hits the space ship's walls.  The game has two possible endings. If the player succeeds in defending the Earth for 64 seconds (77 seconds in PAL systems), the laser defense will be finished and Earth will be saved. If the probe gets destroyed before that, the Martians will release their virus bomb and destroy all life on Earth.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Martian Threat (Europe) (Proto).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Martian Threat (Europe) (Proto).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Martian Threat (Europe) (Proto).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>GST Video</developer>
+		<publisher>Classic Consoles Center</publisher>
+		<genre>Shooter-Action</genre>
+	</game>
+	<game>
+		<path>./Moto-Crash (France).zip</path>
+		<name>Moto-crash</name>
+		<desc>Moto-Crash + is a motorcycle racing game. The goal is to drive as far as possible within the time limit of three minutes. The game features 4 predefined circuits (selected with the keys 1 to 4 at the start of the game) plus one random circuit generated by the computer (selected with the 0 key).    The conditions of each circuit change as the player progresses. The race starts during daytime; once the player drives 6 km the night falls; at 10 km, the road becomes wet; at 20 km, the road becomes snowy and at 30 km the road becomes icy. Changes in weather conditions are not only accompanied by graphical changes but also gameplay ones, as the motorcycle's adherence to the road changes. If the player drives 6 km in daytime or 4 km in nighttime in any weather condition without crashing the computer awards him or her a bonus time.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Moto-Crash (France).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Moto-Crash (France).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Moto-Crash (France).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Freedom Fighters (USA, Europe).zip</path>
+		<name>Freedom Fighters</name>
+		<desc>As a pilot of the Earth Federation, the player has to rescue prisoners in orbiting confinement crystals, while avoiding the Empire's Pulsar warships attacks.    The starship is controlled using both joysticks. The left hand joystick controls the conventional space drive system. While in this drive system, the ship will move only to the limits of that specific screen. The right hand joystick controls the hyperspace drive system. When using this drive system, the ship will travel at a much higher speed, and it will side-scroll to the direction given. Flying toward the top or bottom of the screen will still make the ship travel to the position it is positioned toward. The action button in both joysticks controls the ship's laser cannon.    The Empire's Pulsar warships attack releasing drone mines. Any contact with either the warships or the drone mines will disintegrate the player's ship.    There are two possible variations to this game. In the attack mode, the laser cannon is active and the player score points as he destroys the enemy ships (5 points) or mines (1) and as he rescues the prisoners (20). In the evasion mode, the laser cannon is inactive, and the longer the player evades the Pulsar warships, the higher the score. Extra points (20) are given for each prisoner rescued.    The game can be played by one or two players. In two players mode, player two acts as a copilot, controlling the ship's hyperspace drive and cannon.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Freedom Fighters (USA, Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Freedom Fighters (USA, Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Freedom Fighters (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Nimble Numbers Ned (USA).zip</path>
+		<name>Nimble Numbers Ned</name>
+		<desc>Nimble Numbers Ned was one of the three games specifically designed to use the resources of the Voice. It is a math game where the objective is to make Nimble Numbers Ned jump over 100 numbered stones, avoiding his barrels of fun. To do so, the player has to run through one of the three minigames. At the start of the game, the computer will ask "which drill?" to what the player has to answer entering a number on the keyboard (1, 2, or 3). At the start of each drill, the computer will ask "how good you are?", to what the player has to answer with a number for the skill level (from 1 to 5). The games selected by the numbers are the following: Name the Shapes: in this mini game the player has to identify correctly shapes on the screen. As one shape blinks on the screen, the computer will say "this is a [name of the shape]". The player has then to answer "Y" or "N". Each correct answer in the first try gives the player a chance to jump the barrels. The higher the skill level, the more chances the player get. Multiplication Runthrough: this is a multiplication game with one and two place operations. The computer asks "what is XX x X?" and the player has to answer entering the numbers on the answer from right to left. As in the previous game, each correct answer gives an extra chance of jumping, depending on the skill level. Function Machine: in this game the player has to solve functions with unknown variables. The computer will ask questions such as "if the number is X, what is the number plus Y?", to which the player answers entering the numbers from right to left. Higher skill levels imply in more complex functions. As in the previous two games, correct answers grant the player extra chances to jump depending on the skill level. There's also a jumping practice game, selected by pressing 0. In this game, the player can train to jump the barrels, but the progress won't be saved.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Nimble Numbers Ned (USA).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Nimble Numbers Ned (USA).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Nimble Numbers Ned (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Educational</genre>
+	</game>
+	<game>
+		<path>./Robot City (Europe) (Proto).zip</path>
+		<name>Robot City</name>
+		<desc>The lethal and merciless Andromeda Robots managed to build a city on Earth, called "Robot City", from where they will try to conquer the Earth. The player infiltrated the city and must destroy all robots.    Robot City is a maze shooter. The player controls a robot trying to destroy the Andromeda robots inside a maze. The Andromeda robots have force fields and can only be destroyed by being shot in their backs. They only shoot forward, and will do so whenever the player crosses their line of fire, even when walls are in the way. If the player manages to make two Andromeda robots destroy each other, bonus points are awarded (25 instead of the usual 10 for destroyed robot). The player is killed whenever hit by enemy fire or colliding with the Andromeda bots (or their remains, when destroyed). After killing all four robots in a level, the player progresses to the next, more difficult, level.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Robot City (Europe) (Proto).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Robot City (Europe) (Proto).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Robot City (Europe) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Showdown in 2100 A.D. (USA).zip</path>
+		<name>Showdown in 2100 A.D.</name>
+		<desc>In an authentic acre of the old west, two gunslingers (human or android) duel for their lives. Each one has six bullets in his gun, and trees are placed all around.    Each player has to hit his opponent ten times in order to win. At each hit, both players get their guns reloaded. They can also reload their guns anytime by taking the hidden bullets in the tree that matches their outfit.    The bullets will ricochet in the trees and the top and bottom edges of the screen, thus the players can hit themselves with their own bullets, scoring a hit to the opponent. It can also be used as a strategy to hit the opponent in a non direct trajectory.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Showdown in 2100 A.D. (USA).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Showdown in 2100 A.D. (USA).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Showdown in 2100 A.D. (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Shark Hunter (Europe) (Proto).zip</path>
+		<name>Shark Hunter</name>
+		<desc>In Shark Hunter the player controls an Eskimo protecting fish stocks from the attack of sharks.  The Eskimo starts standing on a small island in the middle of the river. He must kill the sharks in the water by throwing harpoons at them. He can swim to the banks or to ice floes above and below the island. The sharks can eat the ice floes so it isn't safe for the Eskimo to stand on them for much time, or else he'll be eaten too.  The fish are held by six rows of nets. The sharks will eat those nets to get the fish, and if an entire row is destroyed, more sharks will come from the sea. The Eskimo can repair the nets by swimming to the place where they were destroyed. The more nets destroyed, the less fish is kept. A stage will end when all sharks are killed. At the end of each stage the remaining fish will be counted and added to the player's score. As the game progresses, sharks become more abundant and destroy the nets faster. The game ends when the Eskimo gets eaten by a shark.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Shark Hunter (Europe) (Proto).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Shark Hunter (Europe) (Proto).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Shark Hunter (Europe) (Proto).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>GST Video</developer>
+		<publisher>Classic Consoles Center</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Out of this World + Helicopter Rescue (USA).zip</path>
+		<name>Out Of This World + Helicopter Rescue</name>
+		<desc>OUT OF THIS WORLD! (Odyssey2 Reentry Basic Interstellar Training Simulator) The mother ship orbits the planets as you and your opponent maneuver your space landers to the surface. Fire your thrusters intermittently to conserve your fuel. You'll need it to blast off and link up with the mother ship as it changes speed and direction. Three different electronic gravity fields simulate conditions on Jupiter, Mars, and the moon! Full sync-sound action! Digital scoring! One or two players!  HELICOPTER RESCUE! This daring helicopter rescue mission is a race against time! You only have two minutes to save as many people as possible from impending disaster at the Doomsday Hotel. It takes precision flying to get your chopper into position and board the survivors. Sync-sound action! Digital scoring! On-screen digital timer! Realistic flight control! One or more players.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Out of this World + Helicopter Rescue (USA).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Out of this World + Helicopter Rescue (USA).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Out of this World + Helicopter Rescue (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Popeye (Europe).zip</path>
+		<name>Popeye</name>
+		<desc>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Popeye (Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Popeye (Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Popeye (Europe).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Speedway + Spin-out + Crypto-logic (USA, Europe).zip</path>
+		<name>Speedway! + Spin-Out! + Crypto-Logic!</name>
+		<desc>Three games are available in this compilation: nnSpeedway! (selected by pressing "1") is a vertical scrolling racing game against the clock. The player controls the car with the joystick, pushing up to accelerate it (the longer, the faster), left and right to control direction and down to break. nnnnThe faster the car goes, the higher the score. Collisions halt the score, but not the clock. The player has two minutes to run, until the race ends. nnnnThere are two possible variations: (1) qualifying time trials and (2) the main event (opponent cars are twice faster). nnnnSpin-Out! (selected by pressing "2" for a three laps event or "3" for a 15 laps event) is a top-down circuit racing game. Two players race against each other for the amount of tracks selected. Four skill levels are available: clear track/slow speed, clear track/fast speed, barrier track/slow speed and barrier track/fast speed. nnnnThe car is controlled with the directional stick, and the action button doubles the car speed in straightaways. If the car collides against the wall or barriers, it can break or spin out, losing time. If two cars collide, one of them will spin out. nnnnCrypto-Logic! (selected by pressing "4") is a puzzle game. The object is to decipher a scrambled word entered by another player. nnnnThe word can have up to 14 letters. After entering the word or message, the first player presses the "Enter" key to scramble it. The other player has to guess the original word by typing the letters in the line below it. Letters placed in the right order will stay, wrong placed letters will be displayed for a short period of time and disappear. When the cryptogram is solved, the number of mistakes is displayed on screen.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Speedway + Spin-out + Crypto-logic (USA, Europe).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Speedway + Spin-out + Crypto-logic (USA, Europe).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Speedway + Spin-out + Crypto-logic (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Various</genre>
+	</game>
+	<game>
+		<path>./Syracuse (France).zip</path>
+		<name>Syracuse</name>
+		<desc>Syracuse recreates the Siege of Syracuse that took place during 214â€“212 BC, more specifically the battle which supposedly used the legendary weapon developed by Archimedes. The weapon, sometimes called "Archimedes heat ray" consisted in a mirror used to focus sunlight onto approaching Roman ships, setting them on fire.    This is a game for two players. One players controls Archimedes as he uses the mirror to reflect the sunlight at the Roman galleys. The other player controls the Roman galleys as they try to reach the base of the tower where Archimedes stands, to land troops at Syracuse. The galleys can catapult rocks to destroy Archimedes mirror in order to approach the tower without risk. The longer the player holds the button, the farther the rock goes; the rocks can also have its route altered during flight if the player moves the joystick up or down. If the mirror is broken, Archimedes can get a new one by leaving off the right side of the screen. Archimedes can move the mirror up or down to aim the reflection against one of the three approaching galleys. If a galley is hit twice by the sun light it will catch fire, and a new one will appear on the left side of the screen to replace it. The number of mirrors broken and galleys sunk is registered in the lower side of the screen.    Each game can last one whole day, from sunrise to sunset (8 minutes in real time). The sun rises in the left and sets in the right, and sometimes a cloud passes by, blocking some sun rays. The game can end in three ways: when the time runs out, when one player scores 99 points or when the three galleys reach the bottom of the tower. There are 4 game variations, with different sunbeam speeds, mirror position numbers, rock speeds and trajectory modification.</desc>
+		<image>/home/pi/addonusb/roms/videopac/mixart/Syracuse (France).png</image>
+		<video>/home/pi/addonusb/roms/videopac/snaps/Syracuse (France).mp4</video>
+		<marquee>/home/pi/addonusb/roms/videopac/wheel/Syracuse (France).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>TO TEK International</publisher>
+		<genre>Action</genre>
+	</game>
+</gameList>

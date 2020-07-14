@@ -1,0 +1,1768 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>CPC</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="65339" source="ScreenScraper.fr">
+		<path>./Academy - Tau Ceti 2 (UK) (1987).dsk</path>
+		<name>Academy</name>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>CRL Group</developer>
+		<publisher>CRL Group</publisher>
+		<players>1</players>
+		<hash>C2948A21</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Academy - Tau Ceti 2 (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Academy - Tau Ceti 2 (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Academy - Tau Ceti 2 (UK) (1987).png</marquee>
+	</game>
+	<game id="65583" source="ScreenScraper.fr">
+		<path>./Advanced Tactical Fighter (UK) (1986).dsk</path>
+		<name>Advanced Tactical Fighter</name>
+		<desc>ATF: Advanced Tactical Fighter is an action-oriented flight game. The game is set during a war of two unnamed war parties over an unnamed island. The player mans an Lockheed ATF fighter bomber to win the battle.
+
+The goal of every round is to destroy a number of strategic targets. The positions are shown on the jet's on board computer and the player can tackle them in any order. The game is action-oriented in nature, but the player still needs to take care of a few parameters, like a constant speed to avoid crashing or limited fuel and ammo. When resources or health are low (and the jet is near a friendly base), the player can start an automatic landing sequence to refill and repair. On the way to the targets it is either possible to take on enemy jets in direct combat or to fly low to avoid detection. The camera is fixed behind the jet's back.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Digital Integration</publisher>
+		<hash>A03312B8</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Advanced Tactical Fighter (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Advanced Tactical Fighter (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Advanced Tactical Fighter (UK) (1986).png</marquee>
+	</game>
+	<game id="72410" source="ScreenScraper.fr">
+		<path>./Wild Bunch, The (UK) (1985).dsk</path>
+		<name>Wild Bunch</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Piratasoft</publisher>
+		<hash>C0FBFA43</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Wild Bunch, The (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Wild Bunch, The (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Wild Bunch, The (UK) (1985).png</marquee>
+	</game>
+	<game id="34824" source="ScreenScraper.fr">
+		<path>./Batman Caped Crusader (UK) (1988).dsk</path>
+		<name>Batman : The Caped Crusader</name>
+		<desc>Batman: The Caped Crusader is a combination of an arcade and adventure game. The game is played with a side scrolling view, with each new location opening in a new panel similar to the appearance of a comic book. 
+
+The game has two parts to it, and these can be played in any order. In A Bird In the Hand, The Penguin is back, and planning on taking over the world with an army of robotic penguins. In A Fete Worse Than Death, The Joker has kidnapped Robin, and it's up to Batman to save him.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Special FX Ltd.</publisher>
+		<players>1</players>
+		<hash>2EF83D50</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Batman Caped Crusader (UK) (1988).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Batman Caped Crusader (UK) (1988).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Batman Caped Crusader (UK) (1988).mp4</video>
+	</game>
+	<game id="34794" source="ScreenScraper.fr">
+		<path>./Batman - The Movie (UK) (1989).dsk</path>
+		<name>Batman : The Movie</name>
+		<desc>Batman from DC Comics has appeared as the main character in numerous video games created for various platforms for over 20 years. This is a complete list of Batman video games for all computer, mobile phone, and console systems, including games where Batman is the protagonist or has a more minor role.
+
+Batman, Batman: The Caped Crusader and Batman: The Movie were produced by Sunsoft and Ocean Software, before the Batman Returns license was passed onto Konami and Sega, and the Batman Forever and Batman and Robin licenses were awarded to Acclaim. The video game version of Batman Begins was published by Electronic Arts.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<hash>5B4B7D66</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Batman - The Movie (UK) (1989).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Batman - The Movie (UK) (1989).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Batman - The Movie (UK) (1989).mp4</video>
+	</game>
+	<game id="35098" source="ScreenScraper.fr">
+		<path>./Beyond the Ice Palace (UK) (1988).dsk</path>
+		<name>Beyond the Ice Palace</name>
+		<desc>This platform romp has similarities to Ghosts 'N Goblins, sending you on a journey to defeat the forces of evil. You start the game with nine lives, and you'll need them although there are only 3 (large) levels, each finishing with a boss. All manner of monsters block your path and must be attacked with your horizontally-travelling daggers. Additional weapons can be collected, as can bonus orbs, and the chance to summon a spirit to attack for you on the toughest sections.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Elite Systems</publisher>
+		<players>1</players>
+		<hash>D8F7ACE7</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Beyond the Ice Palace (UK) (1988).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Beyond the Ice Palace (UK) (1988).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Beyond the Ice Palace (UK) (1988).mp4</video>
+	</game>
+	<game id="35099" source="ScreenScraper.fr">
+		<path>./Bloodwych (UK) (1990).dsk</path>
+		<name>Bloodwych</name>
+		<desc>The land of Trazere was once ruled by the powerful and benevolent organization of mages known as Bloodwych. Governed by the Grand Dragon, the Bloodwych supervised over the balance in the land, protecting it from evil and driving it to prosperity. However, the second-in-command of Bloodwych, named Zendick, turned against his group, banished his opponents to the astral plane, and began working on a mad plan - summon the ultimate evil, the Lord of Entropy. The player controls the champion of Trazere, whose ultimate goal is to stop Zendick and restore peace in the country.
+
+Bloodwych is an RPG in the style of Dungeon Master and Eye of the Beholder, being a 3D first-person maze-like game. This game's distinguishing feature is the two-player split screen support, allowing simultaneous playing on one computer.
+
+Each player controls a party of four characters. The four basic classes are warrior, mage, adventurer, and thief; however, each class also has sub-classes, which are represented by four different colors. These colors come into play also when the characters learn and combine spells. </desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>Imageworks</publisher>
+		<players>1-2</players>
+		<hash>3A78F2C5</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Bloodwych (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Bloodwych (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Bloodwych (UK) (1990).png</marquee>
+	</game>
+	<game id="71975" source="ScreenScraper.fr">
+		<path>./Bobsleigh (UK) (1987).dsk</path>
+		<name>Bobsleigh</name>
+		<desc>Ever wanted to go to the Winter Olympics? If you've always wanted to operate a bobsleigh team and even participate in the races, then this is the game for you. 
+
+The game starts off with the management side of things including training the team, buying equipment, and keeping those finances from the red. If you go bankrupt then it's game over. Going bankrupt can happen from spending too much money, crashing, or poor finishes. 
+
+When you start the race or season then it's time to start racing. The game is viewed from inside the bob behind the driver and brakeman. You steer the bob left and right (gravity controls the speed) as you watch the track hurtling towards you. You can see your speed and times as well. 
+
+Do well and you receive more money. This can go towards more training and better equipment.
+
+Good luck for the season and hopefully you can get to the Olympics. Your gonna need all the luck in the world.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Digital Integration</publisher>
+		<hash>AA2E867E</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Bobsleigh (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Bobsleigh (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Bobsleigh (UK) (1987).png</marquee>
+	</game>
+	<game id="35248" source="ScreenScraper.fr">
+		<path>./Bomb Jack 2 (UK) (1987).dsk</path>
+		<name>Bomb Jack II</name>
+		<desc>Having saved the world in the first game, Bomb Jack is out to collect as much gold as possible, which is lying on a number of ledges. These vary between open and shut - the open ones offer more points, and an extra life is on offer for collecting 10 in a row, so if possible the route should take in the open ones in order.
+
+Gameplay differs from the original, in that Bombjack's movement is no longer free and self-propelled. Instead, he moves flick-style between ledges, so long as one is directly within one of the 4 compass directions. Baddies can be pushed off ledges, but this uses up some of Jack's limited energy.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Elite Systems</publisher>
+		<players>1-2</players>
+		<hash>61CB2668</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Bomb Jack 2 (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Bomb Jack 2 (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Bomb Jack 2 (UK) (1987).png</marquee>
+	</game>
+	<game id="34733" source="ScreenScraper.fr">
+		<path>./Bomb Jack (UK) (1986).dsk</path>
+		<name>Bomb Jack</name>
+		<desc>In Bomb Jack, the player controls Jack, who must collect all the bombs in order to complete the current round and go onto the next one. This sounds easy, right? Wrong! Making Jack's task difficult are numerous enemies such as birds, mummies, turtles, and orbs.
+
+In each round, collecting a number of bombs results in a bonus coin appearing, and collecting this coin will make the player's score increase 2 to 4 times. More often than not, the "power ball" appears, and when you collect this, you can defeat enemies and have more time to collect all the bombs. There is also the "E" coin, which gives Jack one additional life, but rarely does this coin appear.
+
+The more you progress through the game, the more difficult it becomes, as enemies travel more quickly to get you.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Tehkan</developer>
+		<publisher>Elite Systems</publisher>
+		<players>1-2</players>
+		<hash>F5C0506E</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Bomb Jack (UK) (1986).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Bomb Jack (UK) (1986).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Bomb Jack (UK) (1986).mp4</video>
+	</game>
+	<game id="34747" source="ScreenScraper.fr">
+		<path>./Boulder Dash (UK) (1984).dsk</path>
+		<name>Boulder Dash</name>
+		<desc>You're Rockford and have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mirrorsoft</developer>
+		<publisher>First Star Software</publisher>
+		<players>1-2</players>
+		<hash>95FB7863</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Boulder Dash (UK) (1984).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Boulder Dash (UK) (1984).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Boulder Dash (UK) (1984).mp4</video>
+	</game>
+	<game id="35390" source="ScreenScraper.fr">
+		<path>./Bounder (UK) (1986).dsk</path>
+		<name>Bounder</name>
+		<desc>In Bounder, the player controls a tennis ball that constantly bounces on the screen. 
+
+The player has to move the ball around between two bounces so it lands on friendly areas like grass or the main hexagonal-patterned floor. If it lands  hazardous areas like spikes and sand, or hits the enemies which move around, one of the seven lives the player starts with is lost. There are beneficial squares though - arrows which keep the ball in the air longer or teleports which clear part of the game. 
+
+The 174 screens are divided into 10 levels - at the end of each of these there's a bonus screen.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin Graphics Software</publisher>
+		<players>1-2</players>
+		<hash>8C4E4218</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Bounder (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Bounder (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Bounder (UK) (1986).png</marquee>
+	</game>
+	<game id="35250" source="ScreenScraper.fr">
+		<path>./Bumpy's Arcade Fantasy (UK) (1992).dsk</path>
+		<name>Bumpy's Arcade Fantasy</name>
+		<desc>Mixture of action and puzzle elements. Collect items by jumping back and forth between several platforms. In later levels shape and function of these platforms changes and obstacles are added.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Loriciels</developer>
+		<publisher>Loriciels</publisher>
+		<players>1-2</players>
+		<hash>46BDF0AE</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Bumpy's Arcade Fantasy (UK) (1992).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Bumpy's Arcade Fantasy (UK) (1992).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Bumpy's Arcade Fantasy (UK) (1992).png</marquee>
+	</game>
+	<game id="72619" source="ScreenScraper.fr">
+		<path>./Burning Wheels (UK) (1987).dsk</path>
+		<name>Burning Wheels</name>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Public Domain</developer>
+		<publisher>Public Domain</publisher>
+		<hash>5F60E19D</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Burning Wheels (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Burning Wheels (UK) (1987).mp4</video>
+	</game>
+	<game id="35046" source="ScreenScraper.fr">
+		<path>./Castle Master 1 (UK,F,G) (1990).dsk</path>
+		<name>Castle Master</name>
+		<desc>Castle Master is the fourth and final individual game to use the Freescape first-person solid 3D game system (after Driller, Dark Side and Total Eclipse). As a Prince or Princess armed with a slingshot, you have to explore a medieval castle to free your beloved from the evil Magister. 
+
+Gameplay combines action and puzzle-solving, across four primary towers with three levels each. Doors must be opened using one of the ten included keys. These are unmarked, as are the various potions - making it a challenge to know which keys open which doors, and which potions are beneficial. 
+
+Contact with ghouls drains your energy, as does falling too far (there are narrow pathways to negotiate), while eating cheese can replenish this. Movement and aiming are controlled separately.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Domark</publisher>
+		<players>1</players>
+		<hash>686A8266</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Castle Master 1 (UK,F,G) (1990).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Castle Master 1 (UK,F,G) (1990).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Castle Master 1 (UK,F,G) (1990).mp4</video>
+	</game>
+	<game id="35442" source="ScreenScraper.fr">
+		<path>./Chuck Yeager's Simulator (UK) (1987).dsk</path>
+		<name>Chuck Yeager's Advanced Flight Trainer</name>
+		<desc>In Chuck Yeager's Advanced Flight Trainer you have the chance to test pilot 14 different airplanes, such as the Bell X-1 and the Lockheed SR-71. It features 10 different viewpoints both inside and outside of the plane, with a zoom of up to 256x, and different aerodynamics for each plane.
+
+You can do different things with the planes, from racing against a computer opponent, to practising formation and stunt flights. You can follow the testing and development programme through its evolution.
+
+There is a "black box recorder" to replay your flights, and analysis of your performance compared to an ideal one.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Lerner Research</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>1</players>
+		<hash>2C248780</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Chuck Yeager's Simulator (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Chuck Yeager's Simulator (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Chuck Yeager's Simulator (UK) (1987).png</marquee>
+	</game>
+	<game id="72759" source="ScreenScraper.fr">
+		<path>./Colossus Chess 4 (UK) (1986).dsk</path>
+		<name>Colossus 4 Chess</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>CDS Microsystems</developer>
+		<publisher>CDS Microsystems</publisher>
+		<hash>D39F85E3</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Colossus Chess 4 (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Colossus Chess 4 (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Colossus Chess 4 (UK) (1986).png</marquee>
+	</game>
+	<game id="35467" source="ScreenScraper.fr">
+		<path>./Cybernoid 2 (UK) (1988).dsk</path>
+		<name>Cybernoid II : The Revenge</name>
+		<desc>The follow-up to Cybernoid: The Fighting Machine is again a flip-screen shoot 'em up. In control of the deadly Cybernoid craft, your job is to rescue the cargo which has been stolen by a wave of pirate ships.
+
+Using the range of weapon systems correctly is again a key factor. These include sideways aiming guns, bouncing bombs, 'seeker' smart bombs, bombs which move around th edge of the screen before finding a target, and time-sensitive bombs which explode a few seconds after you drop them. Shot pirate ships release cargo, and you must collect at least 1500 points of this, but on many screens it is more prudent to make an escape ASAP, as some screens have more hazards than others, and not all aliens on each screen act in the same way.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<hash>70041C19</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Cybernoid 2 (UK) (1988).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Cybernoid 2 (UK) (1988).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Cybernoid 2 (UK) (1988).mp4</video>
+	</game>
+	<game id="35669" source="ScreenScraper.fr">
+		<path>./Dark Side (UK) (1988).dsk</path>
+		<name>Dark Side</name>
+		<desc>In Driller, the Ketars attempted to blow up the moon Mitral, but you stopped them. Now, they have Energy Collection Devices collectively known as EGOs, and hope to stock them up to use towards the Zephyr One device, and direct its energy at the planet Evath, resulting in a catastrophic radiation overload. 
+
+Your mission is to beam onto their base on the moon Tricuspid, and destroy the EGOs. Destroying one will buy you more of your limited time. The problem is, many are connected to at least 2 others, and those can immediately regenerate, so you must tackle them in an order in which those with only 1 connection are attacked first.
+
+You are inside a space suit, propelled by a Jet Pack with limited fuel, and possess lasers and a shield. Shield energy is limited, but can be recharged through pentagons and rods. In a world viewed through the the Freescape 3D system, you roam the verdant planet of trees, buildings and underground tunnels.
+
+Gameplay has more action than Driller. The Freescape world has a third dimension - due to the jetpack you can leave the ground and look down on the view. You can also rotate the angle and make quick U-turns. You must leave the ground to shoot the active part of an ECD, but the jetpack uses energy at a faster rate, so use this feature sparingly. You must avoid Plexors, which weaken your shield, and deflector devices, which can beam you into prison.</desc>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Major Developments</developer>
+		<publisher>Incentive Software</publisher>
+		<players>1-2</players>
+		<hash>1B1E6166</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Dark Side (UK) (1988).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Dark Side (UK) (1988).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Dark Side (UK) (1988).mp4</video>
+	</game>
+	<game id="74160" source="ScreenScraper.fr">
+		<path>./Doors of Doom (UK) (1985).dsk</path>
+		<name>Doors of Doom</name>
+		<desc>Doors of Doom (Plus) is very colourful, accompanied by reasonable music, and has a fair degree of strategy and zapalogy involved. Each time you find a piece of the weapon system, you must find out how to use it, then face losing it when you teleport to the next level. Your task is to eliminate all the robots, keeping an eye on your energy level and picking up cups of tea to revive you.nnAll this would be perfectly hoopy, but  the scrolling  is well jerky (as they say), and your little character seems quite happy to walk through the air in places, as well as on the various bridges, monoliths and girders of the background.nnnnThe game's main saving grace is the scenery designer, which allows you to edit the background to your own taste. In fact, the instructions spend more time explaining this option than dealing with the game itself, giving some indication of how exciting the whole business is. Doors of Doom (Plus) - ? I'd hate to see Doors of Doom (Minus).</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Amsoft</publisher>
+		<hash>CFF265AB</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Doors of Doom (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Doors of Doom (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Doors of Doom (UK) (1985).png</marquee>
+	</game>
+	<game id="35548" source="ScreenScraper.fr">
+		<path>./Driller (UK) (1988).dsk</path>
+		<name>Driller</name>
+		<desc>Driller sur Amstrad CPC est un jeu d'action. Voyageant dans l'espace, vous découvrez un vaisseau abandonné sur le point d'exploser à cause de la pression. Vous partez donc à bord de ce vaisseau explorer les 18 niveaux afin de rabaisser la pression dans chaque compartiment.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Incentive Software</publisher>
+		<hash>8225A9DD</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Driller (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Driller (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Driller (UK) (1988).png</marquee>
+	</game>
+	<game id="34699" source="ScreenScraper.fr">
+		<path>./Elite (F) (1986).dsk</path>
+		<name>Elite</name>
+		<desc>Elite is a free-form space trading and combat simulation, commonly considered the progenitor of this sub-genre. The player initially controls a character referred to as "Commander Jameson", starting at Lave Station with 100 credits and a lightly armed trading ship called Cobra Mark III. Most of the game consists of traveling to various star systems, trading with their inhabitants, gaining money and reputation. Money can also be gained by other means beside trading; these include undertaking military missions, bounty hunting, asteroid mining, and even piracy. As the player character earns money, he becomes able to upgrade his ships with enhancements such as better weapons, shields, increased cargo capacity, an automated docking system, etc.
+
+The game utilizes pseudo-3D wire-frame graphics; its world is viewed from a first-person perspective. It has no overarching story, though a race known as Thargoids play the role of antagonists: their ships will often attack the player-controlled ship, forcing the player to engage in space combat. Combat is action-oriented, taking place in the same environment as the exploration. The player must use various weapons the ship is equipped with, as well as manoeuvre the ship, trying to dodge enemy attacks. The player can also choose to attack neutral ships; doing so will decrease the protagonist's reputation, eventually attracting the attention of the galactic police.
+
+Elite is notable for its expansive game world, consisting of eight galaxies and 256 planets. The player is free to travel to any of these planets, provided his ship has enough fuel for the trip (the ship's fuel capacity is limited for a journey to the distance of seven light years). </desc>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>David Braben</developer>
+		<publisher>Firebird Software</publisher>
+		<players>1</players>
+		<hash>9D30AA0C</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Elite (F) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Elite (F) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Elite (F) (1986).png</marquee>
+	</game>
+	<game id="74245" source="ScreenScraper.fr">
+		<path>./Emlyn Huges' International Soccer (UK) (1988).dsk</path>
+		<name>Emlyn Hughes International Soccer</name>
+		<desc>Emlyn Hughes International Soccer offers realistic arcade action and football management combined into one game. The wide range of facilities and control options have between designed in such a way that you can sit down and play without hours spent studying the manual, and getting to grips with the controls. 
+One or two can play, whether against each other, or against the computer. You can even watch two computer teams playing each other! Player skill levels and fitness levels vary, so picking the right team is just as important as the way you control your players during the game. 
+
+Fixture lists, results, and league tables may be displayed at any time during the season, and if you have a Commodore or compatible printer you can even print them out as a permanent record.</desc>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Audiogenic</developer>
+		<publisher>Audiogenic Software</publisher>
+		<players>1-2</players>
+		<hash>7E6CD2BD</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Emlyn Huges' International Soccer (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Emlyn Huges' International Soccer (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Emlyn Huges' International Soccer (UK) (1988).png</marquee>
+	</game>
+	<game id="35026" source="ScreenScraper.fr">
+		<path>./E-Motion (UK) (1990).dsk</path>
+		<name>E-motion</name>
+		<desc>E-motion est un puzzle-game sur Amstrad CPC où vous contrôlez un vaisseau spatial situé sur une planète que vous pouvez faire pivoter et se déplacer sur l'écran. Vous devez frapper dans des sphères de la même couleur, afin de débarrasser l'écran de tous les globes.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>The Assembly Line</developer>
+		<publisher>U.S. Gold</publisher>
+		<hash>291A9A6E</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/E-Motion (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/E-Motion (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/E-Motion (UK) (1990).png</marquee>
+	</game>
+	<game id="34833" source="ScreenScraper.fr">
+		<path>./Exolon (UK) (1987).dsk</path>
+		<name>Exolon</name>
+		<desc>This action game combines shoot 'em up and platform elements, as you control a flying man who can gain an exoskeletal suit for extra protection (hence the name). Your task is to progress from left to right in each level, either along the ground or by using the arrangement of platforms. Most of the baddies can be avoided rather than shot, and this is often easier, especially as you can duck or jump to avoid them. As well as a standard gun (activated by tapping fire) you also have a limited number of missiles to take out installations (activated by holding down fire, which makes autofire facilities useless). The scrolling is flick-screen, perhaps as the game was designed for the C64, and the Amiga version was identical to the ST's.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd.</publisher>
+		<players>1</players>
+		<hash>17C855A2</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Exolon (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Exolon (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Exolon (UK) (1987).png</marquee>
+	</game>
+	<game id="35027" source="ScreenScraper.fr">
+		<path>./F-16 Combat Pilot (UK) (1991).dsk</path>
+		<name>F-16 Combat Pilot</name>
+		<desc>True to the aircrafts flexibility, you pilot the F-16 in assignments as diverse as dogfights, bombing raids or reconnaissance missions. It is up to you to plan your flight route by setting waypoints on the tactical map prior to take-off; you can also (but need not) select the armament of your plane. When you have accumulated enough flight experience, you may command entire squadrons in the fictional Operation Conquest campaign, a simple simulation of an entire war theater that already hinted at what would later become DIs Virtual Battlefield.
+
+F-16 Combat Pilot allows multiplayer duels via modem or serial link. </desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Digital Integration</developer>
+		<publisher>Digital Integration</publisher>
+		<hash>93F7C6F5</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/F-16 Combat Pilot (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/F-16 Combat Pilot (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/F-16 Combat Pilot (UK) (1991).png</marquee>
+	</game>
+	<game id="74330" source="ScreenScraper.fr">
+		<path>./F-16 Fighting Falcon (UK) (1989).dsk</path>
+		<name>F-16 Fighting Falcon</name>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Virgin Mastertronic</publisher>
+		<hash>280D8B84</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/F-16 Fighting Falcon (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/F-16 Fighting Falcon (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/F-16 Fighting Falcon (UK) (1989).png</marquee>
+	</game>
+	<game id="35780" source="ScreenScraper.fr">
+		<path>./Fire and Forget 2 (UK) (1990).dsk</path>
+		<name>Fire &amp; Forget II</name>
+		<desc>Part two in the Fire and Forget series, best described as Crazy Cars (also by Titus) with weapons in a futuristic setting. This game combines the genres action and driving.
+
+In each of the five levels you need to blow your way to the front of the death convoy and shot down the leader of a group of terrorists, who plans to blow up a city. Your machine of destruction is a car with the ability to fly.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<hash>446C9055</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Fire and Forget 2 (UK) (1990).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Fire and Forget 2 (UK) (1990).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Fire and Forget 2 (UK) (1990).mp4</video>
+	</game>
+	<game id="35221" source="ScreenScraper.fr">
+		<path>./Fire and Forget (UK) (1988).dsk</path>
+		<name>Fire and Forget</name>
+		<desc>Restore peace on earth and collect a high score while doing so in the first one of the Fire and Forget games by Titus. Fire and Forget is a racing game in which you have to complete courses by blowing up various enemies and avoiding obstacles on the road.
+
+The different tracks are located all over the globe. There are six courses within each level of difficulty. You have an infinite amount of lives, but when your car runs out of fuel it's game over. So be sure to pick up those power-ups.</desc>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<hash>7E31A2EF</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Fire and Forget (UK) (1988).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Fire and Forget (UK) (1988).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Fire and Forget (UK) (1988).mp4</video>
+	</game>
+	<game id="74402" source="ScreenScraper.fr">
+		<path>./Fly Spy (UK) (1986).dsk</path>
+		<name>Fly Spy</name>
+		<desc>A voice digitization can be heard during the intro screen.
+This game uses both vertical and horizontal hard-scrolling to pass from one screen to another.
+It also uses a Multi-Mode technique that allows you to mix graphic modes. The color palette can be changed by using the renders between the two areas.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<hash>2DD73002</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Fly Spy (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Fly Spy (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Fly Spy (UK) (1986).png</marquee>
+	</game>
+	<game id="35770" source="ScreenScraper.fr">
+		<path>./Galactic Plague (UK) (1984).dsk</path>
+		<name>Galactic Plague</name>
+		<desc>The Galactic Plague is an alien shoot up in the vein of Space Invaders. In this version each screen has between 4 and 20 alien craft of differing variety. Each variety of alien moves in a different pattern but always down and usually at a rate of knots, dropping bombs as they do so (often just one enemy can blanket the screen in bombs, almost inevitably causing the demise of the player). The ship controlled by the player is confined to moving along the bottom of the screen. The secret of progressing in the game was therefore learning the patterns of the aliens and learning where to place the ship to shoot down the various hordes without getting crushed by the hundreds of dropped bombs or colliding with an alien as it hit the bottom of the screen, where it just wrapped around to reappear at the top.
+
+The player only has three lives and many players found this game to be extremely difficult if not completely impossible after just a few screens, however, the game is completable. There are approximately 50 different screens and upon beating the last wave of enemies, the game goes straight back to screen No.1.</desc>
+		<rating>0.2</rating>
+		<releasedate>19841101T000000</releasedate>
+		<developer>Amsoft</developer>
+		<publisher>Indescomp - Amsoft</publisher>
+		<hash>F04AF6F5</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Galactic Plague (UK) (1984).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Galactic Plague (UK) (1984).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Galactic Plague (UK) (1984).mp4</video>
+	</game>
+	<game id="34744" source="ScreenScraper.fr">
+		<path>./Gauntlet 2 (US) (19xx).dsk</path>
+		<name>Gauntlet II</name>
+		<desc>Based on the arcade game, Gauntlet II is very similar to the original. Up to four players (a wizard, a warrior, an elf, and a valkyrie) make their way through various mazes, collect treasures and magic potions, and fend off assorted creatures and ghosts.</desc>
+		<rating>0.85</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>D0E319BD</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Gauntlet 2 (US) (19xx).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Gauntlet 2 (US) (19xx).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Gauntlet 2 (US) (19xx).mp4</video>
+	</game>
+	<game id="35739" source="ScreenScraper.fr">
+		<path>./Harrier Attack (UK) (1984).dsk</path>
+		<name>Harrier Attack</name>
+		<desc>Harrier Attack is viewed from the side, and instantly resembles titles such as Wings of Fury and Jetstrike. You're on board of a Harrier and must reach the enemy island, destroying planes and ground installations as you go, then destroy their base and fly back to yours. Your Harrier is armed with both bombs and a gun. You must be careful not to fly at full speed throughout your journey as fuel is limited. There are 5 difficulty levels - the latter ones increase the volume and pace of the enemy, and add more mountains to avoid.  The difficulty level also affects how quickly enemy aircraft appear on your radar.</desc>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Durell</developer>
+		<publisher>Durell Software - Amsoft</publisher>
+		<players>1</players>
+		<hash>79FBCC59</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Harrier Attack (UK) (1984).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Harrier Attack (UK) (1984).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Harrier Attack (UK) (1984).mp4</video>
+	</game>
+	<game id="35740" source="ScreenScraper.fr">
+		<path>./Harvey Headbanger (UK) (1986).dsk</path>
+		<name>Harvey Headbanger</name>
+		<desc>Rotund drinkers Harvey Headbanger and Hamish Highball are at war in this single-screen action duel with a strategic edge. Walking across each of the 64 squares will turn them to your colour. Create a 3x3 box of these squares to release cocktails (of your own colour, so only you can use them) and top up your energy. Contact costs each player energy, but the player with a higher energy level can get up first. The aim to win a point is to trap your opponent inside a box of your squares. You can play to anything from 1 to 10 points, and at 5 difficulty levels in a one-player game.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Firebird Software</publisher>
+		<players>1-2</players>
+		<hash>9B7DC4C8</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Harvey Headbanger (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Harvey Headbanger (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Harvey Headbanger (UK) (1986).png</marquee>
+	</game>
+	<game id="34746" source="ScreenScraper.fr">
+		<path>./Head Over Heels (UK) (1987).dsk</path>
+		<name>Head over Heels</name>
+		<desc>Two distinct characters called Mr Head and Mr Heels are  played in this arcade adventure. They are separated at the shoulders but capable of joining together to maximize their abilities in some situations (but reduce them in others, so they can be split again).
+
+The game is presented from an isometric perspective, and presents the characters with a number of puzzles involving switches, jumps and climbs. The levels are 3 dimensional, and the characters must collect crowns as they progress. Objects can be picked up and manipulated as necessary.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<players>1</players>
+		<hash>44547FA4</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Head Over Heels (UK) (1987).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Head Over Heels (UK) (1987).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Head Over Heels (UK) (1987).mp4</video>
+	</game>
+	<game id="74664" source="ScreenScraper.fr">
+		<path>./Heartland (UK) (1986).dsk</path>
+		<name>Heartland</name>
+		<desc>Heartland's meta-referential plot involves a struggle between good and evil, as depicted in a book, the last six pages of which have become lost. As a result, you must dive into the game's world to complete the story, and ensure that evil doesn't win, by saving the white pages and destroying the black ones.
+
+There are six levels, all with distinctly cutesy themes and colourful graphics. The level layouts are extremely complicated, and you have to make your way back to base after each one, before being transported onto the next one, all within a time limit. The levels are full of wizards who must be shot, as well as a small amount of character interaction.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Odin Computer Graphics</developer>
+		<publisher>Odin Computer Graphics</publisher>
+		<players>1</players>
+		<hash>C8AEC0BE</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Heartland (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Heartland (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Heartland (UK) (1986).png</marquee>
+	</game>
+	<game id="74665" source="ScreenScraper.fr">
+		<path>./Heavy Metal (UK) (1990).dsk</path>
+		<name>Heavy Metal</name>
+		<desc>This multi-genre military action game puts player in the seat of tactical commander of mechanized forces. Starting as Cadet, you'll raise your career from the rookie, when you should perform actions by yourself in different vehicles, to the ultimate elite, when you should act as a Tactical genius. 
+
+There are three kinds of combat simulations:
+1. MBT (main battle tank M1A1 Abrams), where in first-person view you should sit in tank's cockpit, command your gunner and driver, and eliminate surrounding enemies;
+
+2. FAV (fast attack vehicle XR311), where in third-person view you should drive your vehicle in desert, shoot scattered obstacles and enemy helicopters, and avoid the bombs dropped from the skies ;
+
+3. ADAT (air defense anti-tank M1132A), where in first-person view you should shoot air and ground enemies, surrounding your statical position.
+Performing useful actions in each mode, you'll gain points, and gathering 5,000 points in each mode will give you a seat of Tactical Commander. Here you'll be able to continue your actions on the field, or perform some tactical moves using the map, which is very similar to the territory, including and surrounding Western Germany.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Access Games</developer>
+		<publisher>U.S. Gold</publisher>
+		<hash>ED1320B8</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Heavy Metal (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Heavy Metal (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Heavy Metal (UK) (1990).png</marquee>
+	</game>
+	<game id="35742" source="ScreenScraper.fr">
+		<path>./Heavy On The Magick (UK) (1986).dsk</path>
+		<name>Heavy On The Magick</name>
+		<desc>With full graphics throughout, Heavy on the Magick aimed the standard adventure style at a wider audience. Axil the Able is stuck in Collodon's pile, and he must find a way out. At the start, the game will randomly generate his Skill, Stamina and Luck - you can regenerate these if you don't like the initial values. As you play your experience statistic will increase.
+
+The graphics are created in memory before being copied onto the screen; this causes some pixellated areas, but there's a full examine option with some helpful hints as to the item's benefit/risk.
+
+The lair is on many levels, and most rooms have multiple exits across the 8 compass directions. Vampires and Werewolves are among the many creatures which guard the corridors - you use magic to kill or freeze these, although some can be beaten back by possessing certain objects.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Gargoyle Games</developer>
+		<publisher>Gargoyle Games</publisher>
+		<hash>F14DD98D</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Heavy On The Magick (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Heavy On The Magick (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Heavy On The Magick (UK) (1986).png</marquee>
+	</game>
+	<game id="35078" source="ScreenScraper.fr">
+		<path>./Hero of the Golden Talisman (UK) (1986).dsk</path>
+		<name>Hero of the Golden Talisman</name>
+		<desc>The town of the game's hero is under a curse from an evil wizard. He has stolen the Golden Talisman that had protected the city in the past. Broken into five pieces, the Talisman is hidden in a labyrinth filled with monsters. Now the hero has to find all five pieces of the Talisman and destroy the evil wizard in order to restore peace to the city.
+
+The labyrinth is explored from a side scrolling perspective. It is composed of 64 room spread over five levels. Each room is 8 screens large, providing a total of 512 screens to explore. The goal of each level is to find a piece of the Talisman while fighting off lots of different monsters ranging from birds to jumping eyeballs to fire-breathing dragons. 
+
+The hero can jump, climb ropes, swim and shoot as well as pick up different power-ups and objects. He can carry five objects, but only hold/use one at a time. Pressing the space bar changes the object in use. Usable objects include keys, ropes, lamps to light dark rooms, flags that improve the hero's firepower and others. 
+
+Power-ups can be collected to replenish health or air. If the hero runs out of air, being underwater will slowly decrease his health. To help the hero finding his way through the labyrinth, a map is shown at the lower left side of the screen. It marks all visited rooms, shows his current position and indicates whether there are any items in a room.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Mr Chip Software</developer>
+		<publisher>Mastertronic Added Dimension</publisher>
+		<hash>0DEC7DAC</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Hero of the Golden Talisman (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Hero of the Golden Talisman (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Hero of the Golden Talisman (UK) (1986).png</marquee>
+	</game>
+	<game id="35351" source="ScreenScraper.fr">
+		<path>./Hero Quest (UK) (1991).dsk</path>
+		<name>Hero Quest</name>
+		<desc>The famous fantasy-themed board game was converted into an isometric-viewed role playing game in which the evil Wizard Morcar must be defeated. You take control of a wizard, a dwarf, a barbarian and an elf, each with different strengths and weaknesses, who each start the 14 missions from opposite sides of the board.
+
+Strict turn-based movement rules apply, as actions other than movement can only be carried out before or after the move, the size of which is limited by a dice roll. These moves are carried out using an icon-based system. Characters can fight the many monsters which lurk, or cast spells to vanquish them. There are magic potions to uncover, but also hidden traps, so mapping is advised. Treasure can be collected, and traded at the shop after each level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin Graphics Software</publisher>
+		<hash>E538D741</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Hero Quest (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Hero Quest (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Hero Quest (UK) (1991).png</marquee>
+	</game>
+	<game id="74679" source="ScreenScraper.fr">
+		<path>./Heroes of Karn (UK) (1985).dsk</path>
+		<name>Heroes of Karn</name>
+		<desc>A long time ago, before the rise of the empire of Karn, evil creatures attacked the lands of Beren, the last of the Mountain Kings. Only four men, who would become known as the four heroes of Karn, survived the massacre and managed to flee. However, they were soon caught and put under a spell. The player takes on the role of the legendary Stranger from "a land where men can fly and machines can think", and must rescue the four heroes and retrieve the treasures of the realm.
+
+Heroes of Karn is an Interactive Fiction game with graphics and more unusually, music. You can type in commands to manipulate objects, solve puzzles or attack enemies. While it is not possible to have conversations with NPCs, you can give them orders to do certain tasks.</desc>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Interceptor Software</developer>
+		<publisher>Interceptor Micro's</publisher>
+		<hash>3F8CC329</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Heroes of Karn (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Heroes of Karn (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Heroes of Karn (UK) (1985).png</marquee>
+	</game>
+	<game id="74685" source="ScreenScraper.fr">
+		<path>./Highway Encounter (UK) (1985).dsk</path>
+		<name>Highway Encounter</name>
+		<desc>In this isometric 3D action-strategy game, the player uses a Vorton droid to push a bomb to the end of the highway into an alien base. There are 30 screens, most of them filled with hazards trying to block (like barrels) or destroy (mines and aliens) your bomb. 
+
+The perspective and guidance concept are not the game's only original features; there are 4 more bombs with you, representing your extra lives - pushing you forward on your mission. If these other Vortons are destroyed, one of your extra lives is lost without the player being able to use it.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Vortex Software</developer>
+		<publisher>Vortex Software</publisher>
+		<hash>49637637</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Highway Encounter (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Highway Encounter (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Highway Encounter (UK) (1985).png</marquee>
+	</game>
+	<game id="34983" source="ScreenScraper.fr">
+		<path>./Hudson Hawk (UK) (1991).dsk</path>
+		<name>Hudson Hawk</name>
+		<desc>Hudson Hawk, a cat burglar, has a mission: steal three of Da Vinci's works of art, which include a rocking horse known as "The Sforza", his sketchbook that he called "The Codex", and a precious crystal. The mission will take him through a mansion, castles, rooftops, subways, and the Vatican. Of course, getting all these items will not be as easy as it sounds. Not only does Hawk face security guards, guard dogs, and others, but he must also avoid setting off alarms. To help him, Hawk can either punch enemies, or throw a ball at them.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Special FX Ltd.</developer>
+		<publisher>Ocean</publisher>
+		<players>1</players>
+		<hash>1547BC60</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Hudson Hawk (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Hudson Hawk (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Hudson Hawk (UK) (1991).png</marquee>
+	</game>
+	<game id="34739" source="ScreenScraper.fr">
+		<path>./Ikari Warriors (UK) (1986).dsk</path>
+		<name>Ikari Warriors</name>
+		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F426EEBA</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Ikari Warriors (UK) (1986).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Ikari Warriors (UK) (1986).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Ikari Warriors (UK) (1986).mp4</video>
+	</game>
+	<game id="35725" source="ScreenScraper.fr">
+		<path>./Impossaball (UK) (1986).dsk</path>
+		<name>Impossaball</name>
+		<desc>Impossaball puts you in control of a ball, and sets you in a checkered 3D environment with walls and ceilings. The ball bounces on the spot as standard, but can be directed to move, or bounce higher to gain momentum. Your task is to land on every cylinder in the level, so as to squash them down to ground level. Lots of spikes protrude in the levels, which must be avoided. Magic rings are both friend and foe - the first contact increases your remaining time, but a further contact loses a life. Other obstacles cause the ball to rebound, which could be good or bad depending on the situation.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<players>1</players>
+		<hash>2F081C59</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Impossaball (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Impossaball (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Impossaball (UK) (1986).png</marquee>
+	</game>
+	<game id="74797" source="ScreenScraper.fr">
+		<path>./Iron Man (UK) (1990).dsk</path>
+		<name>Ironman Ivan Stewart's Super Off-road</name>
+		<desc>Enter the world of off-road racing as 4 vehicles will face each other, on a series of tracks which are based around flipped and reversed versions of a core selection. Fame, glory and bikini clad women await your victories and the taste of dirt awaits if you fail. Let a computer car beat you and you lose one of your 3 credits.
+
+Successful races bring more money, which can be used to soup up their machine. Boosts to top speed, grip and acceleration can be purchased, and your nitro boost must be kept topped up. If you are desperate for upgrades, you can buy into your spare credits.
+
+Only your off-road driving abilities will be enough to pull you to first place in these races. Play alone or with up to 3 other players (depending on the version)  in this classic arcade game.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Leland Corporation</developer>
+		<publisher>Virgin Mastertronic Ltd.</publisher>
+		<hash>FF9099A1</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Iron Man (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Iron Man (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Iron Man (UK) (1990).png</marquee>
+	</game>
+	<game id="74828" source="ScreenScraper.fr">
+		<path>./Jet Set Willy (UK) (1985).dsk</path>
+		<name>Jet Set Willy</name>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>Imagine Software</publisher>
+		<hash>2B32AB1B</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Jet Set Willy (UK) (1985).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Jet Set Willy (UK) (1985).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Jet Set Willy (UK) (1985).mp4</video>
+	</game>
+	<game id="35685" source="ScreenScraper.fr">
+		<path>./Knight Tyme (UK) (1986).dsk</path>
+		<name>Knight Tyme</name>
+		<desc>After rescuing the wizard Gimbal, the Magic Knight finds himself transported into the 25th century aboard the peaceful trade starship USS Pisces. He must find a way back to his own time.
+
+Knight Tyme is the third game of the Magic Knight series. As in Spellbound, the previous game, the player interacts with the environment through the "Windimation" system: pressing a button brings up a window with a list of commands (pick up/drop/take/give an object, examine, command a character, read something, cast a spell and wear/unwear object). The player can scroll through these with the movement keys, and execute them with the same button used before. Spaceflight is part of the gameplay as the ship must visit several different planets. The spaceship has to be refueled, otherwise the character will be stuck forever in space. There are rooms that kill the knight instantaneously. Usually there is a puzzle associated with these rooms that must be solved in order to access them.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Mastertronic</developer>
+		<publisher>Mastertronic Added Dimension</publisher>
+		<players>1</players>
+		<hash>5BE2B549</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Knight Tyme (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Knight Tyme (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Knight Tyme (UK) (1986).png</marquee>
+	</game>
+	<game id="35692" source="ScreenScraper.fr">
+		<path>./Lasersquad (UK,F) (1989).dsk</path>
+		<name>Laser Squad</name>
+		<desc>Laser Squad is by the same designer as Microprose's classic X-Com: UFO Defense. It brings to the table an immersive gameplay environment as well as many innovative ideas that weren't available in any other game of the time.
+
+In Laser Squad you control a group of "marine"-like soldiers (and the occasional cyborg). Before taking them into battle, you must buy them weapons and armour with a predetermined amount of credits, taking into account the individual abilities of your squad. Unlike X-COM, the soldiers do not gain experience over time.
+
+There are 3 missions in turn - in The Assassins you must face down Sterner Regnix and his guards, Moonbase assault challenges you to destroy the OmniCorp database, and Rescue From the Mines eschews violence in favour of a rescue mission. These are viewed from above and progress in turns. Laser Squad also features a 2-player "hotseat"-type gaming option.</desc>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Blade Software</developer>
+		<publisher>Target Games</publisher>
+		<players>1</players>
+		<hash>D06412F8</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Lasersquad (UK,F) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Lasersquad (UK,F) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Lasersquad (UK,F) (1989).png</marquee>
+	</game>
+	<game id="35201" source="ScreenScraper.fr">
+		<path>./Lotus Esprit Turbo Challenge (UK) (1990).dsk</path>
+		<name>Lotus Esprit Turbo Challenge</name>
+		<desc>The first in a series of 3 racing games endorsed by the legendary car company, which is now a part of Proton.
+
+The game features a total of 32 fictitious racetracks from around the world, split into 3 difficulty levels. There are 19 computer opponents (15 on the 8-bit versions) and you have to finish in the top 10 (top 8 on the 8-bits) to progress. The higher you finish in one race, the lower down the grid you start for the next race. The opposition drivers have pun names based on the F1 drivers of the day - examples include Ricardo Pastry and Crashhard Banger.
+
+You can choose between sound effects or one of a variety of music pieces. The game features a simultaneous 2-player mode, but the 1-player mode only uses half the screen, a simple animation filling the other half. In most races you will have to make a pitstop for fuel in order to reach the finish. The tracks include features such as oil slicks, roadworks, boulders and rivers - contact with these (or the other cars) will slow you, but there is no car damage model.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Magnetic Fields</publisher>
+		<players>1-2</players>
+		<hash>1A05B8E6</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Lotus Esprit Turbo Challenge (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Lotus Esprit Turbo Challenge (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Lotus Esprit Turbo Challenge (UK) (1990).png</marquee>
+	</game>
+	<game id="35683" source="ScreenScraper.fr">
+		<path>./Marsport (UK) (1985).dsk</path>
+		<name>Marsport</name>
+		<desc>Marsport is the first (and ultimately only) game in an unfinished trilogy set in the 25th century. Humanity is at war with the Sept alien race, and they are now in a position to invade Earth, as they have the plans for their protective sphere. You play John Marsh, a soldier turned leader who must go to Mars and locate the original plans.
+
+Marsport uses the same game system as Tir Na Nog and Dun Darach, although a 3D effect is incorporated into the graphics. A single path is displayed on screen at a time, and the view is rotated at junctions. The Warriors and Warlords must be shot down using weaponry, making this Gargoyle's most action-driven adventure up to this point.
+
+The Marsport is split into ten distinct sections with their own functions, such as Stores, Administration and Computers. There are robots to interact with, for gaining information or objects. Pairs of objects can be combined to manufacture new ones. A central computer locks out many sections until it can be found and disabled. You will have to shoot the Sept before they can touch you, and also be wary of Warden robots which may malfunction and mistake you for a Sept.</desc>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Gargoyle Games</developer>
+		<publisher>Gargoyle Games</publisher>
+		<players>1</players>
+		<hash>F3E97791</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Marsport (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Marsport (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Marsport (UK) (1985).png</marquee>
+	</game>
+	<game id="75459" source="ScreenScraper.fr">
+		<path>./Mr. Freeze (UK) (1984).dsk</path>
+		<name>Mr. Freeze</name>
+		<desc>Mr. Freeze is a flick-screen platformer where your task is to de-ice six compartments of a giant fridge by moving from the bottom-left of each compartment to the top-right to touch the de-icer. In each compartment are various platforms and you climb ladders or drop down through gaps but you can only fall a certain height. A compartment doesn't have to be de-iced to move to the next one but you can only move between them where an arrow points. There are various deadly obstacles that need avoiding and they are ice cubes, robots, other creatures and a laser at the top of the screen. When you climb a ladder, the laser moves across and fires at you and if you are hit by any obstacle or fall too far then you lose one of six lives. You are armed with a gun and although it can't destroy anything it can push items back.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Firebird Software</publisher>
+		<hash>7695B135</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Mr. Freeze (UK) (1984).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Mr. Freeze (UK) (1984).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Mr. Freeze (UK) (1984).png</marquee>
+	</game>
+	<game id="35637" source="ScreenScraper.fr">
+		<path>./Myth (UK) (1989).dsk</path>
+		<name>Myth : History in the Making</name>
+		<desc>In this platform game, you are a mere mortal who has been called by the Gods to defeat several mythological creatures that have been turned bad by the evil Dameron.
+
+Myth: History in the Making is a platform game with a lot of fighting. The levels of this game deal with different mythologies, from ancient Greece to the Vikings, over to Valhalla (where none other than the hammer-wielding Thor awaits you), and more.
+
+Apart from jumping from platform to platform, you'll also fight the enemies and bosses in your path with a variety of weapons - in the beginning you have only fists to defend yourself, but later you'll find more powerful weapons, such as swords and axes. There are many various types of enemies, different on every level. Typically, enemies keep appearing and coming at you from all sides, no matter how many of them you kill - so you have to keep moving. 
+
+Some obstacles in the game require not only brute force, but also a bit of thinking and puzzle-solving (and guesswork) to get past.</desc>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>System 3</developer>
+		<publisher>System 3 Software</publisher>
+		<players>1</players>
+		<hash>FDE64959</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Myth (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Myth (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Myth (UK) (1989).png</marquee>
+	</game>
+	<game id="35030" source="ScreenScraper.fr">
+		<path>./Nebulus (UK) (1988).dsk</path>
+		<name>Nebulus</name>
+		<desc>Nebulus is a video game created by John M. Phillips and published by Hewson Consultants in the late 1980s for various home computer systems. International releases and ports were known by various other names, including Castelian, Kyorochan Land, Subline and Tower Toppler.
+
+Nebulus was followed by a lesser-known sequel, Nebulus 2, on the Amiga in the 1990s. An Atari ST version was also in development but was cancelled.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<hash>25ABD4EF</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Nebulus (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Nebulus (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Nebulus (UK) (1988).png</marquee>
+	</game>
+	<game id="35638" source="ScreenScraper.fr">
+		<path>./Netherworld (UK) (1988).dsk</path>
+		<name>Netherworld</name>
+		<desc>In this game you are trapped in Netherworld. With your space ship you have to make your way through different levels with a hostile environment. Under a time limit you have to collect diamonds to get to the next level. The game is filled with dragons, moving mines, acid spitting creatures and lots more.
+Your space ship is able to shoot, furthermore you can collect several power ups, such as sand glasses to ease the time limit, shield restore or items that give you invulnerability.</desc>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<players>1</players>
+		<hash>C3A2FEEF</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Netherworld (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Netherworld (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Netherworld (UK) (1988).png</marquee>
+	</game>
+	<game id="35640" source="ScreenScraper.fr">
+		<path>./Nigel Mansell's Grand Prix (UK) (1988).dsk</path>
+		<name>Nigel Mansell's Grand Prix</name>
+		<desc>Nigel Mansell's first licensed computer game recreates all 16 Formula 1 circuits of the time, viewed from behind the car but with a full cockpit-type view below. This is important because the game is very much a simulation rather than an action game.
+
+Before each race you have to do three qualifying laps, and only make the grid if you are fast enough to meet the pre-defined qualifying limit. The races can be between 5 and 20 laps, or at full length if you prefer - fortunately a half-finished season can be saved to cassette or disk. 
+
+F1 cars of this era have turbo boosts, and this is available in the game to provide a quick blast of extra speed, which is useful for overtaking but can cause the turbo or the engine itself to be overstressed, as well as using fuel more quickly (pitstops are for tires but not fuel, again in keeping with the era's real Formula 1 rules).</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>DJL Software</developer>
+		<publisher>Martech Games</publisher>
+		<players>1</players>
+		<hash>161BD065</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Nigel Mansell's Grand Prix (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Nigel Mansell's Grand Prix (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Nigel Mansell's Grand Prix (UK) (1988).png</marquee>
+	</game>
+	<game id="35319" source="ScreenScraper.fr">
+		<path>./North Star (UK) (1988).dsk</path>
+		<name>North Star</name>
+		<desc>The Northstar space station has been overrun by aliens, with all reports suggesting that the crew didn't survive. It's your job to progress through its floors, wipe out the aliens and restore order.
+
+What this entails is essentially a case of walking from left to right taking out everything you see. You are armed with a lance, which you can use from some distance, although you can only attack in one direction at a time, although aliens can come at you from all around, many of them using some wicked patterns. There are ledges to be climbed; the lance can be used to hoist your way up.
+
+ Enemies often give off bubbles (for points) or stars (collect for an extra life). You are limited in the amount of oxygen you have to complete a level, and you  have 4 lives, one of which is lost on contact.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Sentient Software</publisher>
+		<players>1</players>
+		<hash>64C1FB4A</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/North Star (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/North Star (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/North Star (UK) (1988).png</marquee>
+	</game>
+	<game id="34954" source="ScreenScraper.fr">
+		<path>./Oh Mummy (UK) (1984).dsk</path>
+		<name>Oh Mummy</name>
+		<desc>The pyramids of ancient Egypt are known to be full of treasure, but it will take a brave man to uncover them, as the spirits have sent guardians to protect them.
+
+In this game you play an archaeologist, and mummies are after you. You have to run through a matrix (inside a pyramid), and make sure you unveil every treasure by walking around all 4 sides of each square. It's presented in a 2D top down view.</desc>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Amsoft</developer>
+		<publisher>Targem Games</publisher>
+		<players>1</players>
+		<hash>F877CC81</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Oh Mummy (UK) (1984).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Oh Mummy (UK) (1984).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Oh Mummy (UK) (1984).mp4</video>
+	</game>
+	<game id="35328" source="ScreenScraper.fr">
+		<path>./Pang (UK) (19xx).dsk</path>
+		<name>Pang</name>
+		<desc>Pang is a platform game which consists of 50 levels in total. It can be played with one or two players on the same screen, and the other player can join anytime within the game. 
+
+Your goal is to destroy the balloons which bounce around the playfield. To accomplish this, you can shoot hooks which travel upwards, and blow up any balloon they touch. Depending on their size, they either split on two smaller ones, or evaporate if they're at their minimum size. Apart from balloons, some levels also have barriers that have to be destroyed with your hooks, since they often block your access to balloons. There are also some barriers which cannot ever be destroyed. Your character has the ability to climb ladders, but cannot jump. 
+
+You can also pick up power-ups such as: the ability to fire two shots at once, the hook that attaches to the ceiling and waits 'til something bumps into it, a gun which has a high rate of fire but cannot destroy barriers. Beside extra weapons, you can also pick certain things like clock (halting time for a small period), dynamite (reducing all balls to minimum size, thus making you able to reach more points), life, and such.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Mitchell Corporation</publisher>
+		<players>1-2</players>
+		<hash>EC601346</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Pang (UK) (19xx).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Pang (UK) (19xx).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Pang (UK) (19xx).png</marquee>
+	</game>
+	<game id="34979" source="ScreenScraper.fr">
+		<path>./Paperboy 2 (UK) (1991).dsk</path>
+		<name>Paperboy 2</name>
+		<desc>You're a paper boy. Get on your bicycle. Avoid obstacles on the road, such as dogs, cars, and basically everything you can imagine. Hell, some people shoot cannon balls at you! And you'd better be very sure to only throw papers at the right houses! (and at people, that's fun :)</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Mindscape International</publisher>
+		<players>1</players>
+		<hash>28065D00</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Paperboy 2 (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Paperboy 2 (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Paperboy 2 (UK) (1991).png</marquee>
+	</game>
+	<game id="34775" source="ScreenScraper.fr">
+		<path>./Paperboy (UK) (1987).dsk</path>
+		<name>Paperboy</name>
+		<desc>Based on the arcade game, the object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</desc>
+		<rating>0.45</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Elite Systems</publisher>
+		<players>1</players>
+		<hash>C3625F32</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Paperboy (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Paperboy (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Paperboy (UK) (1987).png</marquee>
+	</game>
+	<game id="35609" source="ScreenScraper.fr">
+		<path>./Power Drift (UK) (1989).dsk</path>
+		<name>Power Drift</name>
+		<desc>Ever wanted to race dune buggies at high speed on a variety of tracks Power Drift is an arcade racer that gives you the chance to do just that.
+
+There are 5 tracks to choose from, each with 5 stages. The stages range from cities, to deserts to tracks over water. There are also 12 drivers to pick from, from businessmen to skinheads and mohicans. 
+
+Your buggy has 2 gears, high and low. Once the light goes green, just keep the pedal to the metal. You?ll need to place third or higher to continue to the next stage. Be careful not to bump into other buggies or objects next to the road. While youre buggy can take a pounding, crashing will slow you down. 
+
+Finish all 5 stages in a level and youll be presented with a bonus level.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Activision</publisher>
+		<players>1</players>
+		<hash>848FEF02</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Power Drift (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Power Drift (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Power Drift (UK) (1989).png</marquee>
+	</game>
+	<game id="34890" source="ScreenScraper.fr">
+		<path>./Prehistorik 2 (UK,F,G) (1993).dsk</path>
+		<name>Prehistorik 2</name>
+		<desc>Prehistorik 2 takes up the story of its predecessor, for another caveman-era platform game. 
+
+The hero must use his club to crush animal enemies, many of which then release bonus items to collect. He no longer needs to feed his clan, so there is no required minimum food target, unlike the original game. Other bonus items are located around the levels, while yet more can be found by using your club creatively and adventurously. 
+
+There are bosses and passwords after every few levels. The Amstrad version is one of the few games to use the CPC Plus features for lots of colours and sprites and full parallax scrolling.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<hash>68C1060B</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Prehistorik 2 (UK,F,G) (1993).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Prehistorik 2 (UK,F,G) (1993).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Prehistorik 2 (UK,F,G) (1993).png</marquee>
+	</game>
+	<game id="34831" source="ScreenScraper.fr">
+		<path>./Prehistorik (UK) (1991).dsk</path>
+		<name>Prehistorik</name>
+		<desc>Prehistorik is a side-view platform game with a superficial similarity to Chuck Rock. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.
+
+These include fire-breathing Pyro-Tax dragons, the Turtosaurus, and the Bad Bat. Each of these must be clubbed to death, some taking up to 5 hits, and then walked over. Some other enemies are indestructible, with the monkeys who throw coconuts at you particularly fiendish.
+
+You will have to complete the level within the time limit, and avoid contact with these foes. However, bombs and improved weapons can be collected, as can extra lives, time bonuses and an improved jump.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus France SA</developer>
+		<publisher>Titus France SA</publisher>
+		<players>1</players>
+		<hash>D8DC5D1B</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Prehistorik (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Prehistorik (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Prehistorik (UK) (1991).png</marquee>
+	</game>
+	<game id="35596" source="ScreenScraper.fr">
+		<path>./Purple Saturn Day (UK) (1989).dsk</path>
+		<name>Purple Saturn Day</name>
+		<desc>Every 4 galactic-years, alien athletes from every inhabited planet in the galaxy gather to compete in the Purple Saturn Day games. Four interplanetary events await the player: Pilot a ship through time and space, race around the rings of Saturn, solve a fast-moving electronic puzzle and navigate a futuristic obstacle course.
+
+Although not an official entry in the series, this game is in the same vein as Epyx's popular Games "series" titles.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Exxos</developer>
+		<publisher>Exxos</publisher>
+		<players>1-2</players>
+		<hash>4A848C11</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Purple Saturn Day (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Purple Saturn Day (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Purple Saturn Day (UK) (1989).png</marquee>
+	</game>
+	<game id="35583" source="ScreenScraper.fr">
+		<path>./Ranarama (UK) (1988).dsk</path>
+		<name>Rana Rama</name>
+		<desc>The purpose of apprentice courses is for young people to learn a trade gradually, without putting yourself or your employers at risk. Unfortunately, nobody explained this to Wizards apprentice Mervyn, before he tried to cast a spell to make him irresistible to females, as the spell misfired, and made him attractive only to female frogs. However, his dungeon was soon invaded, and Mervyn was not killed, as he appeared to be a humble frog.
+
+Viewed from above, the aim is to kill all 96 of the wizards who have invaded the dungeon, which is split into 8 levels, each made up of 16 screens and at least 50 rooms. To see whats in a room he has to enter it, in a manner similar to the Switchblade games.
+
+The games rather esoteric title comes from the way you obtain spells to upgrade the four different types of power you have (power, offence, defence and effect). When you meet a warlock you enter a mini game in which the letters RANARAMA are in random order, and by swapping pairs of letters in sequence you must form the full word in as little time as possible. This system of having a sub-game for collecting upgrades is similar to the grappling concept in Paradroid.
+
+This earns up to four of the Runes (Mysticism, Witchcraft, Magecraft and Runecraft), each of which can be used on one of the four types of power. The Magecraft offensive use is a fireball, defence for Runecraft makes you invisible to enemies, and the special effect for Witchcraft allows you to jump through space. Lose a life and you lose all these powers, and losing another life means its Game Over.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+		<players>1</players>
+		<hash>5622BED3</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Ranarama (UK) (1988).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Ranarama (UK) (1988).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Ranarama (UK) (1988).mp4</video>
+	</game>
+	<game id="76037" source="ScreenScraper.fr">
+		<path>./Red Led (UK) (1987).dsk</path>
+		<name>Red Led</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Ocean</publisher>
+		<hash>28BC1AB0</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Red Led (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Red Led (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Red Led (UK) (1987).png</marquee>
+	</game>
+	<game id="35763" source="ScreenScraper.fr">
+		<path>./Roland on the Ropes (UK) (1985).dsk</path>
+		<name>Roland on the Ropes</name>
+		<desc>Roland on the Ropes sur Amstrad CPC est un jeu d'action où vous jouez Fred, un archéologue intrépide qui s'est retrouvé coincé dans une pyramide. Vous devez l'aider à sortir en récupérant le maximum de trésors que vous pouvez sur votre chemin, mais également la carte de chacun des huit niveaux du jeu, indispensable pour pouvoir sortir de la pyramide !</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Indescomp</developer>
+		<publisher>Indescomp - Amsoft</publisher>
+		<hash>4EDDB979</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Roland on the Ropes (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Roland on the Ropes (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Roland on the Ropes (UK) (1985).png</marquee>
+	</game>
+	<game id="76437" source="ScreenScraper.fr">
+		<path>./Seabase Delta (UK) (1985).dsk</path>
+		<name>Seabase Delta</name>
+		<desc>Seabase Delta is a text adventure with graphics that was developed using the Quill game writing software package.
+
+This game is a sequel to the game Subsunk. The previous game saw the player, in the role of Ed Lions, aboard a submarine that had been sunk by enemy powers. The task there was to send a message back to base requesting help.
+
+This game picks up from that point. The enemy have intercepted the message and, using a mysterious magnetic force, have taken the submarine to their underwater base. The player, again in the role of Ed Lions, starts the game in a walkway to the base. Beside him is a dead body and a briefcase. Ed must explore the base and find a way to escape.
+
+
+</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Firebird Software</publisher>
+		<hash>DE307716</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Seabase Delta (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Seabase Delta (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Seabase Delta (UK) (1985).png</marquee>
+	</game>
+	<game id="35090" source="ScreenScraper.fr">
+		<path>./Smash TV (UK) (1991).dsk</path>
+		<name>Smash T.V.</name>
+		<desc>The year is 1999. The world's most popular television show is Smash T.V., an ultra-violent contest between two armed-to-the-teeth combatants, set loose in a series of deadly arenas that are filled to bursting with hordes of mindless beasts and killer robots. The aim of the game is to blast everything in sight and try to grab more cash and prizes than the other guy. Toaster ovens, VCRs, fancy cars and luxury holidays are there for the taking... for anyone who can survive long enough to enjoy them.
+
+Smash T.V. is an insane shoot-em-up from the brain of Eugene Jarvis, creator of Robotron: 2084. It retains that game's frantic style of play and two-joystick control method, but adds plenty of gore, violence, a hint of satire and that all-important two player mode.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Williams Electronics</developer>
+		<publisher>Ocean</publisher>
+		<players>1</players>
+		<hash>8FA71A8E</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Smash TV (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Smash TV (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Smash TV (UK) (1991).png</marquee>
+	</game>
+	<game id="34863" source="ScreenScraper.fr">
+		<path>./Sorcery Plus (UK) (1985).dsk</path>
+		<name>Sorcery +</name>
+		<desc>The player embodies a magician whose goal is to find and deliver 8 colleagues who were captured by a necromancer. The environment, represented in profile, is made up of about forty paintings interconnected by doors (one place can give access to four other places), which makes it complex to explore. To carry out his quest, he must discover the usefulness of the many objects found along the way and get rid of the enemies that threaten him. The player only has a few minutes to complete the mission, which requires reflexes, sense of direction, memory, and tactical sense.</desc>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Amsoft</developer>
+		<publisher>Virgin Games - Amsoft</publisher>
+		<hash>64B3B65D</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Sorcery Plus (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Sorcery Plus (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Sorcery Plus (UK) (1985).png</marquee>
+	</game>
+	<game id="34764" source="ScreenScraper.fr">
+		<path>./Sorcery (UK) (1985).dsk</path>
+		<name>Sorcery</name>
+		<desc>You are one of the last four remaining great sorcerers. When Necromancer kidnaps the other three, it is your task to rescue them within a time limit in this action adventure hybrid. 
+
+The player must fly through 17 screens including wastelands, a river and the woods, collecting items and keys to access other screens. Avoid evil ghosts and sorcerers, as they will drain your limited (but replenishable) energy. The final destination is Stonehenge, where the player must kill Necromancer using one of the three potential objects discovered during your journey.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin Games</publisher>
+		<players>1-4</players>
+		<hash>077376AA</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Sorcery (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Sorcery (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Sorcery (UK) (1985).png</marquee>
+	</game>
+	<game id="35183" source="ScreenScraper.fr">
+		<path>./Space Crusade (E) (1990).dsk</path>
+		<name>Space Crusade</name>
+		<desc>Space Crusade is a science fiction strategy game converted from the Games Workshop/Milton Bradley boardgame, in which you control a commander and four marines who are sent on different missions aboard hostile alien starships. Your commander starts off as a sergeant, but he can work his way through the ranks. The game allows three players, each commanding one marine chapter each. The alien team is `played` by the computer. 
+
+The game is a literal conversion of the board game in the same vein as Gremlin's earlier Hero Quest. It can be best described as a turn-based board game in which the player must fulfill the primary and secondary objectives to complete the mission, which usually involves elimination of entire alien force on board or destruction of mothership etc. This game features unique 3D close-ups during the battle scenes, a feature which was later adopted by games like the X-Com series.</desc>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin Graphics Software</publisher>
+		<players>1</players>
+		<hash>B4EDA1E7</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Space Crusade (E) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Space Crusade (E) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Space Crusade (E) (1990).png</marquee>
+	</game>
+	<game id="35533" source="ScreenScraper.fr">
+		<path>./Star Glider (UK) (1987).dsk</path>
+		<name>Starglider</name>
+		<desc>The Planet Novenia has been attacked by the Egrons, who snuck in by disguising their craft as the protected Starglider species, which Novenia's automated defenses were programmed not to shoot. 
+
+Your task is to fight them off using only an obsolete Airborne Ground Attack Vehicle. This was designed as the ultimate combat machine, with sophisticated hardware up to Draziw Yarg's high standards. It has a fully-rechargeable shield, plasma drive unit, an inbuilt scanner and 10,000-sector map, a top speed of 2550 Urads and two homing missiles.
+
+The game is viewed from within AGAV's cockpit, with control over speed, weapon targeting and firing. There are several control options to decide exactly how the craft works, with fixed or floating sighting, and the option of automatic centering, allowing you to balance the game between easy sighting and advanced shooting ranges.
+
+Repair depots must be visited frequently, as they can refill the weapon bays as well as repairing the ship. Crucially, the Egron Stargliders need 3 missiles to shoot down, so at least 1 visit to a depot is required to complete this job, at which point you move up to the next, harder, level.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Rainbird Software</developer>
+		<publisher>Argonaut</publisher>
+		<players>1</players>
+		<hash>3A3F1A37</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Star Glider (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Star Glider (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Star Glider (UK) (1987).png</marquee>
+	</game>
+	<game id="35290" source="ScreenScraper.fr">
+		<path>./Starstrike 2 (UK) (1986).dsk</path>
+		<name>Starstrike II</name>
+		<desc>In Realtime's previous Starstrike game (not to be confused with Star Strike), the evil Outsiders attacked the Federation and had to be forced back. This time, the boot's on the other foot, as the Federation have sent their Starstrike II vehicles in to take them out. Armed with sophisticated computers, lasers and shields, all it needs is a good pilot, such as yourself.
+
+Twenty-two planets fall under Outsiders control, and each has grid-based defenses which must be taken out, complete with all their command computers and production droids. The planets are split into five groups, each of which can be chosen at the start of the game. 
+
+The combat is intense, and aims to create the likely feel of space combat, with lots of ducking and weaving to set up shots. The game features filled-in graphics, unlike the Elite-esque wireframes of the first game.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Realtime Games Software</developer>
+		<publisher>Firebird</publisher>
+		<players>1</players>
+		<hash>BE464A4A</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Starstrike 2 (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Starstrike 2 (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Starstrike 2 (UK) (1986).png</marquee>
+	</game>
+	<game id="35175" source="ScreenScraper.fr">
+		<path>./Stormlord (UK) (1989).dsk</path>
+		<name>Stormlord</name>
+		<desc>Badh the queen has imposed a terrible vengeance on the land by kidnapping the fairies. To restore things their rightful way, you must rescue them.
+
+As you progress through the levels of platform-adventure action, you will come across fairies which are rescued by touching them. Enemies include Venus Fly Traps, localized acid rain showers and dragons, which can be avoided or shot in the bonus shoot 'em up sections. You will need help to reach some levels; this comes from Mael Dvin the Eagle. After each level there's a bonus game in which tears must be collected for points.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>Hewson Consultants</publisher>
+		<players>1</players>
+		<hash>810B6CCA</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Stormlord (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Stormlord (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Stormlord (UK) (1989).png</marquee>
+	</game>
+	<game id="35286" source="ScreenScraper.fr">
+		<path>./Strike Force Cobra (UK) (1986).dsk</path>
+		<name>Strike Force Cobra</name>
+		<desc>The Enemy has kidnapped the world's top computer scientists, and is intent on cracking into your supercomputer. Strike Force Cobra must penetrate his hideout, crack his computer codes, and rescue the scientists before any of this can be done. To crack the code you use a DLB (Digital Lock Breaker) which is more effective when more numbers have been found, and the scientists give these when rescued.
+
+Your team of four members of varying nationalities is chosen from a pool of 8, each with their own strengths and weaknesses. The game is viewed isometrically, and you move the characters (one at a time) through the lair, shooting down intruders and clearing any traps for the other members to go through.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Five Ways Software</developer>
+		<publisher>Macmillan Ltd.</publisher>
+		<players>1</players>
+		<hash>1045062C</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Strike Force Cobra (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Strike Force Cobra (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Strike Force Cobra (UK) (1986).png</marquee>
+	</game>
+	<game id="35178" source="ScreenScraper.fr">
+		<path>./Strike Force Harrier (UK) (1986).dsk</path>
+		<name>Strike Force Harrier</name>
+		<desc>Rod Hyde was always determined to produce the most realistic and advanced flight simulations ever, and this early attempt at recreating the Harrier is an example of that. There are 3 skill levels, as well as two practice modes - one for the rudiments of flight and the other for combat. The action-centered nature of the title means that it can be seen as an advanced shoot 'em up rather than a pukka flight simulator.
+
+Acquiring a lock on enemy planes and tanks is made easier by the advanced targeting technology of the planes, and escaping enemy fire is aided by the vectored thrust system. Shooting out the tanks clears ground space to set up your own bases, which must then be defended. VTOL (vertical take-off and landing) is correctly implemented, although more traditional horizontal take-offs should be used when space permits. The full range of weapons are provided; experience will tell you which to use in which situations, based on enemy volume and range.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>H&amp;H Software</developer>
+		<publisher>Mirrorsoft</publisher>
+		<players>1</players>
+		<hash>954C4107</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Strike Force Harrier (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Strike Force Harrier (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Strike Force Harrier (UK) (1986).png</marquee>
+	</game>
+	<game id="35179" source="ScreenScraper.fr">
+		<path>./Striker - In The Crypt of Trogan (UK) (1992).dsk</path>
+		<name>Stryker in the Crypts of Trogan</name>
+		<desc>As a noble and righteous wizard, you must beat the evil Trogan the Diabolical. This involves travelling through flick-screen Switchblade style environments both above and below ground. Using your sword, you must flatten Trogan's many henchmen, and avoid skeletons. You have limited energy, but can collect top-ups. Tokens to both improve and weaken your weaponry are also scattered throughout.
+
+The Amstrad version adds a silhouetted backdrop (similar to that in the C64 version) when ran on the Amstrad Plus, making it the only cassette-based game released in the UK to cater to the system.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Simmer Software</developer>
+		<publisher>Codemasters</publisher>
+		<players>1</players>
+		<hash>FCB5807D</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Striker - In The Crypt of Trogan (UK) (1992).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Striker - In The Crypt of Trogan (UK) (1992).mp4</video>
+	</game>
+	<game id="35060" source="ScreenScraper.fr">
+		<path>./Stunt Car Racer (UK) (1990).dsk</path>
+		<name>Stunt Car Racer</name>
+		<desc>Stunt Car Racer (also distributed under the title Stunt Track Racer) is a racing video game developed by Geoff Crammond and was published by MicroStyle in 1989. In the US it was published by MicroPlay.</desc>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Micro Style</developer>
+		<publisher>Micro Style</publisher>
+		<hash>72FB6F79</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Stunt Car Racer (UK) (1990).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Stunt Car Racer (UK) (1990).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Stunt Car Racer (UK) (1990).mp4</video>
+	</game>
+	<game id="76691" source="ScreenScraper.fr">
+		<path>./Sub Sunk (UK) (1985).dsk</path>
+		<name>Sub Sunk</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Firebird Software</publisher>
+		<hash>B285E527</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Sub Sunk (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Sub Sunk (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Sub Sunk (UK) (1985).png</marquee>
+	</game>
+	<game id="76699" source="ScreenScraper.fr">
+		<path>./Sultan_s Maze (UK) (1984).dsk</path>
+		<name>Sultan's Maze</name>
+		<desc>The legend goes that once upon a time a sultan was visiting the maze in Hampton Court. There he was robbed his jewels by a group of thieves, and his brave bodyguard entered the maze to recover them, only to be murdered by the thieves on his way back. In present day, the player is an adventurer who accepts the mission to explore the maze and recover the jewels. The maze is shown in a 1st person view, and the player has to navigate it in order to find the jewels and take them outside. Apart from getting lost and exhaustion, other dangers await him, specially in the shape the ghost of the Sultan's bodyguard, who still haunts the place.
+
+Sultan's Maze is a primitive 3D adventure well known to enthusiasts of the Amstrad CPC; in many countries it was part of the free game pack that accompanied the computer.</desc>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Gem Software</developer>
+		<publisher>Amsoft</publisher>
+		<players>1</players>
+		<hash>47A15C55</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Sultan_s Maze (UK) (1984).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Sultan_s Maze (UK) (1984).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Sultan_s Maze (UK) (1984).png</marquee>
+	</game>
+	<game id="35174" source="ScreenScraper.fr">
+		<path>./Switchblade (UK) (1990).dsk</path>
+		<name>SwitchBlade</name>
+		<desc>The Fireblade, sacred symbol of the ancient Switchblade clan, has been smashed into 16 pieces by the evil Havoc - but they say that a Hiro can save it, and as Hiro, you must retrieve the 16 pieces and restore your people's pride.
+
+The gameplay is platform and ladders based, set both inside and outside. The layout of the territories becomes visible as you progress, and they can contain bonus weapons and secret rooms. Unlike the sequel you start without weaponry, and this is gained directly, rather than you collecting coins and trading them at shop sections. Holding down fire progressively builds up your fighting power.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Gremlin</publisher>
+		<players>1</players>
+		<hash>335B3D7D</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Switchblade (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Switchblade (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Switchblade (UK) (1990).png</marquee>
+	</game>
+	<game id="35005" source="ScreenScraper.fr">
+		<path>./Tau Ceti (UK) (1986).dsk</path>
+		<name>Tau Ceti</name>
+		<desc>A space simulation with elements from a number of other genres mixed in.  Your mission is to destroy a robot army that has taken over a planet.  Gameplay includes arcade sequences, where you fly your ship around and shoot the enemy robots; strategy elements, as you attempt to navigate and locate parts to repair the defense system; and even text-adventure elements, in the form of giving commands to your ship's computer.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>CRL Group</developer>
+		<publisher>CRL Group</publisher>
+		<hash>50D102CF</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Tau Ceti (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Tau Ceti (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Tau Ceti (UK) (1986).png</marquee>
+	</game>
+	<game id="34776" source="ScreenScraper.fr">
+		<path>./Hitchhiker's Guide to The Galaxy, The (UK) (1984).dsk</path>
+		<name>The Hitchhiker's Guide to the Galaxy</name>
+		<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You ve been rescued by your friend Ford Prefect, whos not actually an out-of-work actor. He has given you a book , a towel, and is now telling you to put a fish in your ear. It must be a Thursday; youve never quite gotten the hang of Thursdays.
+
+</desc>
+		<rating>0.55</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Infocom</publisher>
+		<players>1</players>
+		<hash>9F8A3E05</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Hitchhiker's Guide to The Galaxy, The (UK) (1984).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Hitchhiker's Guide to The Galaxy, The (UK) (1984).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Hitchhiker's Guide to The Galaxy, The (UK) (1984).png</marquee>
+	</game>
+	<game id="34914" source="ScreenScraper.fr">
+		<path>./Lurking Horror, The (UK) (1987).dsk</path>
+		<name>The Lurking Horror</name>
+		<desc>(From the Infocom Home Page site)
+
+In The Lurking Horror, you are a student at G.U.E. Tech. You have braved a snowstorm to get to the Computer Center and finish work on an assignment. But the snowstorm has turned into a raging blizzard, and has trapped you in a complex of buildings late at night. You are not alone, fortunely ... or perhaps, unfortunately. Thus you begin the story, unaware that anything may be wrong beneath or within the veneer of the quiet campus.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Infocom</publisher>
+		<players>1-2</players>
+		<hash>5E0456FA</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Lurking Horror, The (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Lurking Horror, The (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Lurking Horror, The (UK) (1987).png</marquee>
+	</game>
+	<game id="35460" source="ScreenScraper.fr">
+		<path>./Way of the Exploding Fist, The (UK) (1985).dsk</path>
+		<name>The Way of the Exploding Fist</name>
+		<desc>This menacingly-titled beat 'em up was the first in many martial arts titles from Australia's Melbourne House. Sixteen different moves are on offer, ranging from standard kicks to jumps, somersaults and roundhouse kicks.
+
+The move executed each time is defined based on the character's direction, the joystick/keyboard positioning, and on whether the fire button is depressed, in a system which became standard on single-button control systems.
+
+To win each bout you must score 2 Yin-Yangs - a perfectly executed kick/punch scores a full one, whereas a less forceful contact offers half a point - the best moves also offer more points. In the one-player game, you advance through a Dan by winning two successive bouts, and a single win for the opponent means game over. The champion in a two-player duel is decided by points after 4 rounds.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Melbourne House</publisher>
+		<players>1</players>
+		<hash>3AE32B72</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Way of the Exploding Fist, The (UK) (1985).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Way of the Exploding Fist, The (UK) (1985).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Way of the Exploding Fist, The (UK) (1985).mp4</video>
+	</game>
+	<game id="76821" source="ScreenScraper.fr">
+		<path>./Thrust 2 (UK) (1986).dsk</path>
+		<name>Thrust 2</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Firebird Software</publisher>
+		<hash>7B54CA61</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Thrust 2 (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Thrust 2 (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Thrust 2 (UK) (1986).png</marquee>
+	</game>
+	<game id="35493" source="ScreenScraper.fr">
+		<path>./Thrust (UK) (1986).dsk</path>
+		<name>Thrust</name>
+		<desc>Thrust took a unique game style by bringing realistic physics and inertia-based movement into arcade games, directly influencing titles like Oids, not to mention the same author's Exile from Audiogenic. The action is viewed from the side, with the graphics drawn in vectors, in keeping with the mathematical nature of everything that unfolds.
+
+As a Resistance fighter, the player must fly into enemy lines in order to steal Klystron Pods to power more advanced starships, using your tractor beam to take them. A network of mounted guns are aiming to shoot the player down  these can be disabled by shooting their power source, but eventually this will explode, forcing the player to flee. Some of the later levels feature reverse gravity, which is where things really get difficult.</desc>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Firebird Software</publisher>
+		<players>1</players>
+		<hash>D94CFCAE</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Thrust (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Thrust (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Thrust (UK) (1986).png</marquee>
+	</game>
+	<game id="76845" source="ScreenScraper.fr">
+		<path>./Titus the Fox (UK) (1992).dsk</path>
+		<name>Titus the Fox</name>
+		<desc>In the international edition of Lagaf: Les Aventures de Moktar - Vol 1: La Zoubida, you play Titus' fox mascot. His beloved Suzy has been kidnapped on the other side of the Sahara desert, and to get her back he has to advance through 15 levels (with codes for each one) comprising of nearly 1000 screens of platform gameplay, scrolling in 8 directions. 
+
+There are secret rooms to find, and bosses at the end of each level. The player can also interact with many parts of the background. Using available objects such as springs and crates correctly is often vital to progress. Alternate modes of transport such as Magic Carpets and Skateboards also make an appearance.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<players>1</players>
+		<hash>C8A213AA</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Titus the Fox (UK) (1992).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Titus the Fox (UK) (1992).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Titus the Fox (UK) (1992).png</marquee>
+	</game>
+	<game id="35481" source="ScreenScraper.fr">
+		<path>./Tomahawk (UK,F,G) (1986).dsk</path>
+		<name>Tomahawk</name>
+		<desc>Flight simulation specialists Digital Integration turned their attention to helicopter flight in this recreation of the AH-64 Apache. All the controls are realistically simulated, so the airspeed is dependent on the height of the vehicle, and you can move horizontally using the rudder option as well as rolling left and right. If using a Sinclair joystick interface you can use both ports to have all these controls accessible on dual joysticks, just like the real thing. Either way, a full instrument panel allows monitoring of these.
+
+You are armed with cannons, rockets and anti-tank missiles, each of which has its target set up independently, but only one can be loaded at once. Flight options include day/night, clear/cloudy and air turbulence on/off, allowing beginners and experts to find a suitable setting. Scenery includes trees, mountains and pylons, while enemy targets include helicopters, turrets and tanks.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Digital Integration</developer>
+		<publisher>Digital Integration</publisher>
+		<players>1-2</players>
+		<hash>0346C14C</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Tomahawk (UK,F,G) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Tomahawk (UK,F,G) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Tomahawk (UK,F,G) (1986).png</marquee>
+	</game>
+	<game id="76869" source="ScreenScraper.fr">
+		<path>./Total Eclipse 2 - Sphinx Jinx (UK) (1989).dsk</path>
+		<name>Total Eclipse 2: Sphinx Jinx</name>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Incentive Software</publisher>
+		<hash>B3A7BE71</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Total Eclipse 2 - Sphinx Jinx (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Total Eclipse 2 - Sphinx Jinx (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Total Eclipse 2 - Sphinx Jinx (UK) (1989).png</marquee>
+	</game>
+	<game id="35482" source="ScreenScraper.fr">
+		<path>./Total Eclipse (UK) (1988).dsk</path>
+		<name>Total Eclipse</name>
+		<desc>Uses 3D system called Freescape developed by Incentive Software Ltd. 
+
+A pyramid has been built to destroy anything that blocks the sun and now a total eclipse is about to occur.  Collect ankhs to open doors, shoot mummies, drink water and maybe then you solve the puzzle of pyramid. Controlling yourself in 3D world, you may change angle of your rotation and width of your steps to avoid some obstacles. Also you can use your gun to shoot some doors or to eliminate some foes.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Major Developments</developer>
+		<publisher>Incentive Software</publisher>
+		<players>1-2</players>
+		<hash>5B34894F</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Total Eclipse (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Total Eclipse (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Total Eclipse (UK) (1988).png</marquee>
+	</game>
+	<game id="34879" source="ScreenScraper.fr">
+		<path>./Wizball (UK) (1987).dsk</path>
+		<name>Wizball</name>
+		<desc>In Wizball the player takes the role of the friendly wizard Wiz who can turn himself into a green ball that is able to defend his world against the color-sucking enemies who have turned his once brightly colored Wizworld into a drab planet. With his trusty feline companion Catelite, the wizard will restore the colors to the world by retrieving them from defeated enemies.
+
+The player starts out as a bouncing green ball that can shoot and be put into more or less heavy rotation to move slowly or faster, physically correct through the side-scrolling levels. The first task is to upgrade the ball by shooting the first non-moving enemies, and collect the green bubbles that are left by them. In order to stand a chance against the following moving enemy waves, some upgrades are a must. First and foremost, complete control over the ball should be activated (i.e. flying through the levels), a shield sheltering the top and bottom of the player's should be acquired, and two-way fire (left/right) should be obtained.
+
+But the extra needed to advance in Wizball is your friend Catelite who will, once summoned, take the form of a small green satellite that will imitate the ball's movement, or can be directly controlled by the player. Besides upping Wiz' fire power, Catelite is able to collect paint drops left by a certain kind of defeated enemies until the respective color pot is filled up. There's three colors available (red, green and blue), and several different combinations of them must be collected to complete a level and restore it to former colorfulness. Every color combination collected will send Wiz to a bonus stage, then to his laboratory where one of the power-ups can be made permanently.
+
+The game also features a bunch of multi-player modes, there's even a two-player cooperative mode amongst them.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Ocean</publisher>
+		<players>1</players>
+		<hash>7C6ED5BF</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Wizball (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Wizball (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Wizball (UK) (1987).png</marquee>
+	</game>
+	<game id="34904" source="ScreenScraper.fr">
+		<path>./Xor (UK) (1987).dsk</path>
+		<name>Xor</name>
+		<desc>Magus and Questor are trapped in the 15 mazes of Xor. These include Dolly's Revenge, Patience Pending and The Decoder, and can be played in any order. Before going through the exit, they must collect every balloon from within the levels. All of this must be done in a limit of 2000 moves.
+
+The characters have differing abilities, and can be swapped between at any time. Hazards to avoid include bombs, falling boulders and barriers. Four pieces of the map can be found and collected.
+
+The physical rules of this top-down maze are somewhat bizarre, but consistent: dotted force-fields can be traversed (and neutralized) by horizontal passage, waved ones by vertical passage; fish will fall as surely and as lethally as the boulders in Boulderdash, while chickens will travel in the direction they are pointed until something gets in their way. Various explosive devices, dolls and even teleporters further contribute to the complication of moving around this maze. Should all its levels be successfully completed, information will be provided permitting the completion of the overarching meta-puzzle.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Astral Software</developer>
+		<publisher>Logotron Entertainment</publisher>
+		<players>1-2</players>
+		<hash>258CA26A</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Xor (UK) (1987).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Xor (UK) (1987).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Xor (UK) (1987).mp4</video>
+	</game>
+	<game id="35164" source="ScreenScraper.fr">
+		<path>./Yie Ar Kung Fu 2 (UK) (1986).dsk</path>
+		<name>Yie Ar Kung Fu II : The Emperor Yie-Gah</name>
+		<desc>Yie Ar Kung Fu II : The Emperor Yie-Gah est un jeu d'arcade sur Amstrad CPC. Vous incarnez Oolong qui a pour but de devenir un maître de Kung-Fu. Vous combattez un grand nombre d'adversaires dans un environnement 2D. Oolong possède une large palette d'attaques tels que les coups de poings, coups de pieds ou encore les attaques de sauts.</desc>
+		<rating>0.25</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>I-Imagine</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+		<hash>519CFAF7</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Yie Ar Kung Fu 2 (UK) (1986).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Yie Ar Kung Fu 2 (UK) (1986).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Yie Ar Kung Fu 2 (UK) (1986).mp4</video>
+	</game>
+	<game id="35448" source="ScreenScraper.fr">
+		<path>./Yie Ar Kung Fu (UK) (1985).dsk</path>
+		<name>Yie Ar Kung-Fu</name>
+		<desc>Based on the popular arcade game, Yie Ar Kung-Fu follows Oolong's quest to become a Kung-Fu master.  Of course this involves fighting a wide range of opponents in a traditional one-on-one 2D environment.  Oolong has a wide range of attacks he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones.  Opponents are well armed with unique weapons and attacks, so Oolong's task won't be easy.</desc>
+		<rating>0.4</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Imagine Software</publisher>
+		<players>1-2</players>
+		<hash>9A0CDEFB</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Yie Ar Kung Fu (UK) (1985).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Yie Ar Kung Fu (UK) (1985).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Yie Ar Kung Fu (UK) (1985).mp4</video>
+	</game>
+	<game id="77181" source="ScreenScraper.fr">
+		<path>./Zub (UK) (1986).dsk</path>
+		<name>Zub</name>
+		<desc>Zub is a cartoon platform game, the first title developed by the brothers Ste Pickford and John Pickford as a team. In a humorous twist, every creature in the game is named Zub, including the main character. The player controls Zub, an alien warrior that received a mission from his Emperor Zub of the Zub galactic empire: to retrieve the Green Eye of Zub, a powerful artifact.
+
+Zub must ride the intergalactic elevators to reach other planets and continue the search for the Eye. The worlds are very empty, featuring a few platforms and sparsely populated by dangerous monsters called Zubs. Zub must hop to the existing platforms, position them next to each other, and keep jumping and alternating between them to ascend to the top of the level and move to the next planet. The Zubs float around the scene following the hero, trying to touch and drain some of the health energy, and have to be killed with the laser gun.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Binary Design, Ltd.</developer>
+		<publisher>Mastertronic Added Dimension</publisher>
+		<players>1</players>
+		<hash>6D2340C7</hash>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Zub (UK) (1986).png</image>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Zub (UK) (1986).png</marquee>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Zub (UK) (1986).mp4</video>
+	</game>
+	<game>
+		<path>./Rick Dangerous 2 (UK) (1990).dsk</path>
+		<name>Rick Dangerous 2</name>
+		<desc>Your role as Rick Dangerous demands that you stop the Fat Guy and his evil plans to help an alien race take over control of our world. The journey takes in Hyde Park, Ice Caverns, Forest and Atomic Mines. He must solve positional puzzles and memorise the locations of laser bolts and booby traps, as well as avoiding enemies including robots, penguins and nomads. As in the first game, a fifth level is unlocked after you complete the four standard levels.
+
+Rick can climb ladders and crawl through tight spaces. He is equipped with a laser gun and six little bombs, but can also punch with some effect. The controls are very easy to understand: pressing fire+up shoots the gun, pressing fire+down places a bomb, pressing fire+bottom-left/bottom-right makes Rick slide a bomb along the floor in the specified direction. </desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Rick Dangerous 2 (UK) (1990).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Rick Dangerous 2 (UK) (1990).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Rick Dangerous 2 (UK) (1990).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>MicroStyle</publisher>
+	</game>
+	<game>
+		<path>./RoboCop (UK) (1987).dsk</path>
+		<name>RoboCop</name>
+		<desc>Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town...
+
+Based on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/RoboCop (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/RoboCop (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/RoboCop (UK) (1987).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+	</game>
+	<game>
+		<path>./Continental Circus (UK) (1989).dsk</path>
+		<name>Continental Circus</name>
+		<desc>The home conversions of Continental Circus lack the full-on 3D and special glasses of the arcade version, but retain the essential gameplay structure. The first race is in Brazil and features 100 cars, and requires you to finish in the top 80 in order to qualify for  next race. As you work through the 8 races the size of the field steadily decreases, but so does the worst acceptable finishing position to qualify.
+
+The car has high and low gears, and is susceptible to damage from contact with another car. Once you hit a car or a piece of the trackside scenery you will be called into the pits - fail to make it back, or hit another car, and you will crash and lose several seconds.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Continental Circus (UK) (1989).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Continental Circus (UK) (1989).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Continental Circus (UK) (1989).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Virgin Mastertronic</publisher>
+	</game>
+	<game>
+		<path>./Get Dexter (UK,F,G) (1986).dsk</path>
+		<name>Get Dexter</name>
+		<desc>Crafton the android wants a life of freedom, away from the science experiments he is usually subjected to. Escaping the compound will require a security code, which is split into eight parts. Find the scientists who hold these to escape, in this isometric arcade adventure.
+
+There are obstacles to interact with, and foes to work around. Contact with these drains your energy, but there are Nurse pods to recharge this. There are four types of barrier doors - red, green, blue and grey, each requiring their own keys. You are accompanied by Xunk, who can be used to help with this - he will also warn you of events as they unfold, and automatically follow you to the exit of each screen.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Get Dexter (UK,F,G) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Get Dexter (UK,F,G) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Get Dexter (UK,F,G) (1986).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>PSS</developer>
+		<publisher>Ere Informatique</publisher>
+	</game>
+	<game>
+		<path>./Cyrus II Chess (UK) (1985).dsk</path>
+		<name>Cyrus II Chess</name>
+		<desc>Cyrus II Chess is a chess program, it is the sequel to the acclaimed Cyrus which was released in 1982.
+
+This game has most of the features of the earlier game. The board can be viewed in top-down mode or in a 3D isometric mode with the player being able to switch between the two by pressing the ESC key. There are twelve skill levels, level 1 - 9 affect the time the player has to make their move from just 2 seconds per move at level 1 through to a maximum of 3 minutes at level 8. The other three skill levels are Adaptive where Cyrus plays at the same rate as its opponent, Infinite where Cyrus will keep on thinking until told to make a move, and Problem where Cyrus searches for mate in five moves or less.
+
+Other features include watching the computer play itself, switching sides, retracting and replaying moves, a hint facility, and being able to set up chess problems for Cyrus to solve.
+
+There is also support for a printer so that either the current board or the contents of Cyrus' memory containing the current position plus recent moves can be printed at any time. Additionally the game can be printed move by move as it progresses to preserve the full record</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Cyrus II Chess (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Cyrus II Chess (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Cyrus II Chess (UK) (1985).png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Intelligent Software - Amsoft</publisher>
+	</game>
+	<game>
+		<path>./Total Recall (UK) (1991).dsk</path>
+		<name>Total Recall</name>
+		<desc>Based on the movie of the same name, Total Recall puts you in charge of Douglas Quaid, who must find a way to Mars in order to find the answers to his two questions: why is he being hunted, and who is hunting him. In order to do this, Quaid must go through level after level of beating up bad guys that get in his way.
+
+Some of the levels differ in gameplay, and range between action and driving scenes. The action scenes mainly require you to collect some items before leaving the level. You have only one chance to complete the current level, which means that if your energy is lost, the game ends. Energy is lost if you are attacked by an obstacle, or if you are shot at by an enemy. You can gain more energy by either collecting some pills or a heart, depending on the platform.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Total Recall (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Total Recall (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Total Recall (UK) (1991).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean Software Ltd.</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+	</game>
+	<game>
+		<path>./Impossible Mission 2 (UK) (1988).dsk</path>
+		<name>Impossible Mission 2</name>
+		<desc>You have 8 hours to prevent Elvin, a psychotic genius from destroying the world in this sequel to the highly successful Impossible Mission. Enter Elvin's tower fortress, avoid his robots, assemble security combinations for each tower, recover musical sequences and tie them together into a full melody to reach Elvin's central control room.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Impossible Mission 2 (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Impossible Mission 2 (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Impossible Mission 2 (UK) (1988).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>U.S. Gold</publisher>
+	</game>
+	<game>
+		<path>./Barbarian 2 (UK) (1989).dsk</path>
+		<name>Barbarian II : The Dungeon of Drax</name>
+		<desc>Barbarian II: The Dungeon of Drax is a video game first published in 1988 for various home computers. It was also released as Axe of Rage in North America. The game is the sequel to Barbarian: The Ultimate Warrior (Death Sword in North America), which was published in 1987. In Barbarian II, the player controls a princess or barbarian character, exploring the game world to locate and defeat an evil wizard. The game's plot is an extension of its predecessor, although the gameplay is different. While the first game offers two players the opportunity for virtual head-to-head combat, the second is solely a single-player adventure with fewer fighting moves.
+
+Palace Software, the developer of the two Barbarian games, marketed the sequel with the same strategy they used for the first game. They hired Maria Whittaker, a model known for her topless work, to pose on the cover and posters as the princess in the game, attempting to recapture the controversy that had boosted sales. Barbarian II received a mixed critical reception. Reviewers were split in their opinions over whether the game was a refreshing and gory adventure, or a boring and lonely sojourn through a confusing digital world.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Barbarian 1 Part 2 (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Barbarian 1 Part 2 (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Barbarian 1 Part 2 (UK) (1988).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Palace Software</developer>
+		<publisher>Palace Software</publisher>
+	</game>
+	<game>
+		<path>./Cybernoid (UK) (1988).dsk</path>
+		<name>Cybernoid : The Fighting Machine</name>
+		<desc>There are three asteroids, hidden among thousands, where various minerals and precious gems were stored. It was believed the riches would be safe there, until the Zoggians discovered them! Now you have to fly an experimental spacefighter, the Cybernoid, into battle to recover the asteroids. The Cybernoid is equipped with standard laser blasters, missiles, and the ability to pick up other weapons along the way. 
+
+Cybernoid is an arcade style action game for one player. You can choose from three different skill levels; easy, hard and lethal. On some versions two different sound modes are also available, a basic music and sound effects mode, and a super sound effects mode with no music. Each room you explore is equipped with a time bomb. The bomb will explode taking you with it should you take too long to get past all the obstacles on the screen. You start the game with nine ships, and more can be earned by collecting enough points during the game.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Cybernoid (UK) (1988).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Cybernoid (UK) (1988).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Cybernoid (UK) (1988).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>Hewson Consultants</publisher>
+	</game>
+	<game>
+		<path>./180 Darts (UK) (1986).dsk</path>
+		<name>180 Darts</name>
+		<desc>180 allows you to play a game of darts by yourself or against either the computer or another player. Before you play there are a number of games that can be selected and they are a one player game, two player game, Round the Board or Snooker. The one player game has you trying to get from the score 501 to zero, and you must try to get to zero within 20 darts and also finish with a double or Bullseye. If you manage to finish within 20 darts then you qualify for a league against seven other players and you must try to play one of seven games of darts in the lowest number of darts thrown. If you finish top of the league you then play four rounds of the World Championship which is a knock-out format. 
+
+Two player game has you playing another player with a starting score of 101, 301 or 501 and you can also choose how many games to play from one, three or five. Round the Board is played between one or two players and the idea is to throw a dart in every number in order starting from one in the least number of darts thrown. Snooker is a two player game where you use the dart board to play a game of snooker. There are 15 reds and the other colours that make up a game of snooker and each segment of the board represents a colour. You must throw three darts in one colour to pot that colour starting with a red, and if potted you then choose a different coloured segment.
+
+The dart boards are seen from a 1st person perspective shown on the whole screen. To throw a dart, a line moves below the board and when a key is pressed, it stops the line and shows the position the length on the board the dart will land. Another line now appears to the left of the board and when stopped this shows the height the dart will land. </desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/180 Darts (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/180 Darts (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/180 Darts (UK) (1986).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Binary Design</developer>
+		<publisher>Mastertronic Added Dimension</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Barbarian 1 (UK) (1987).dsk</path>
+		<name>Barbarian</name>
+		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Barbarian 1 (UK) (1987).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Barbarian 1 (UK) (1987).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Barbarian 1 (UK) (1987).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Palace Software</developer>
+		<publisher>Epyx</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Everyone's A Wally - Meet The Gang (UK) (1985).dsk</path>
+		<name>Everyone's A Wally</name>
+		<desc>Everyone's a Wally was the first arcade adventure game to feature multiple playable characters - a revolutionary feature at the time. Players began in control of Wally (a builder and handyman), but could switch to Wilma (his wife), and their friends Tom (a punk mechanic), Dick (a plumber) and Harry (a hippie electrician) - these last three names drawn from the placeholder phrase Tom, Dick and Harry. Herbert (their baby son) also appeared in the game as a mobile hazard NPC. The player cannot freely change character; the player begins in control of Wally and, in order to switch to another character, must first locate them. Characters not being controlled by the player wander randomly around the map controlled by extremely simple AI - another feature that, at the time, had never been seen before. Lives and health (called "endurance") were tracked independently for each character, but the game ended if any character died. The aim of the game is to complete a day's worth of work for each character; each character has a job to do stereotypical of their skill - for instance, Wally has to build a wall, Wilma has to take back three books to the library, etc. Completing the job awards the character with a letter, which spells out a password to open a safe holding everyone's wages. (The eventual password is "BREAK" - knowing this does not spoil the game since most of the letters can be seen before jobs are complete; the game requires them to be actually collected before allowing the safe to open.)</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Everyone's A Wally - Meet The Gang (UK) (1985).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Everyone's A Wally - Meet The Gang (UK) (1985).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Everyone's A Wally - Meet The Gang (UK) (1985).png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Mikro-gen</developer>
+		<publisher>Mikro-gen</publisher>
+	</game>
+	<game>
+		<path>./Spindizzy (UK) (1986).dsk</path>
+		<name>Spindizzy</name>
+		<desc>As GERALD (Gyroscopic ExploRAtion Landing Device) you must explore 385 screens of Hangworld, using limited fuel. The game is viewed isometrically, which means that the controls are rotated through 90 degrees - this, coupled with the fact that many screens have huge gaps and diagonal paths, means that it's hard to get far at first. Falling off ledges loses you time, which is very limited to start with
+
+Gerald must collect energy crystals throughout his journey - which can also be shortened by using a complex system of lifts. Sections you have travelled through are automatically mapped.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Spindizzy (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Spindizzy (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Spindizzy (UK) (1986).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Electric Dreams Software</developer>
+		<publisher>Electric Dreams Software</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rasputin (UK) (1986).dsk</path>
+		<name>Rasputin</name>
+		<desc>The spirit of Rasputin lives on in the netherworld. There, using the power of the Jewel of the Seven Planets, he intends to wreak havoc on the universe. The player takes on the role of a crusader and, armed only with a sword and a shield, must destroy the Jewel to put an end to Rasputin's schemes. To reach the Jewel the player must first enter the netherworld and neutralise the eight magic spells that Rasputin has cast to protect it. 
+
+Rasputin: The Crusader's Quest is a single-player "search the dungeons to find the jewel" type of game. The netherworld takes the form of a court-yard from which doors take the player to different dimensions. Within each dimension there are magic stones that the player must step on to absorb their magic power and turn them from the dark side to the light. When, finally, the player has absorbed all the runes in a dimension, Rasputin will release a bigger and more dangerous monster from the dark side which, when slain, will give up a rune that will counteract one of the eight magic spells.There are also four rune stones to collect and these give protection when they attempt to neutralise the magic spells, except that the runes are colour coded and the player must have the right rune for the spell that's being broken. In addition there are all sorts of traps, pitfalls and nasty netherworld creatures that will either try to kill or sap the players energy. 
+
+The game can be played with either a keyboard or a joystick. There is no difficulty setting and no keyboard re-definition. There are only six action keys. Left / right rotates the character who can either walk or jump forward. There are two keys for fighting, one to use the shield and one to use the sword. Using either of these uses up their energy, indicated by a dual power bar in the lower right of the screen. 
+
+The game world consists of a series of rooms which may or may not have anything useful in them. The player has to work out how to cross the room in order to progress in the game. Items to collected are usually guarded by denizens of the netherworld who the player must either fight or creep past. Failing or dying in this game does not mean that the whole game has to be replayed. The game re-animates the player at the start of that section, doorway of the room to replay that section again. However, each reanimation consumes some of the players life force and when that's gone the game has to be reloaded.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Rasputin (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Rasputin (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Rasputin (UK) (1986).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Firebird Software</publisher>
+	</game>
+	<game>
+		<path>./Druid (UK) (1986).dsk</path>
+		<name>Druid</name>
+		<desc>Druid is an action game inspired by the arcade hit Gauntlet. As the eponymous hero, your job is to destroy four magic skulls hidden over eight levels. 
+
+The game is presented in a top-down view. The druid walks around the terrain seeking out the staircase that leads to the next level. On the way, he is harassed by hordes of monsters that come out of every direction and attack him, decreasing his health. To defend himself, the druid can use the spells of water, fire or electricity to toss projectiles. However, these magical weapons have limited ammo. 
+
+The druid also has three other magical spells at his disposal - an invisibility spell which prevents the monsters from automatically approaching him, a golem spell which summons a helpful golem (which can be controlled by a second player), and a skull spell which destroys all on-screen enemies. The druid also carries around keys which open locked doors. But all these have very limited supplies. 
+
+On his way, the druid finds many shops. Each such shop contains some keys or charges for the druid's spells, but the druid can only pick one item from each shop. 
+
+The druid can also come across a pentagram on the ground which will restore his lost health.</desc>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Druid (UK) (1986).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Druid (UK) (1986).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Druid (UK) (1986).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Firebird Software</publisher>
+	</game>
+	<game>
+		<path>./Castle Master 2 - The Crypt (UK) (1991).dsk</path>
+		<name>Castle Master 2: The Crypt</name>
+		<image>/home/pi/addonusb/roms/amstradcpc/mixart/Castle Master 2 - The Crypt (UK) (1991).png</image>
+		<video>/home/pi/addonusb/roms/amstradcpc/snap/Castle Master 2 - The Crypt (UK) (1991).mp4</video>
+		<marquee>/home/pi/addonusb/roms/amstradcpc/wheel/Castle Master 2 - The Crypt (UK) (1991).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Domark Software</publisher>
+	</game>
+</gameList>
