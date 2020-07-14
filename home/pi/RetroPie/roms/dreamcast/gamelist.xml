@@ -3834,8 +3834,8 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 		<favorite>true</favorite>
 	</game>
 	<game id="13493" source="ScreenScraper.fr">
-		<path>./Half-Life.cdi</path>
-		<name>Half-life</name>
+		<path>./Half-Life.chd</path>
+		<name>'☆Half-life</name>
 		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.    Cancelled.</desc>
 		<rating>0.75</rating>
 		<releasedate />
