@@ -5,18 +5,6 @@
 		<name>zeldansq - Zelda Navi's Quest fangame</name>
 	</game>
 	<game>
-		<path>./Brutal Doom.sh</path>
-		<name>Brutal Doom</name>
-		<desc>Doom on Steroids!
-NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Brutal Doom.png</image>
-		<video>./snap/Doom.mp4</video>
-		<marquee>./wheel/Doom.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Ur-quan Masters.sh</path>
 		<name>The Ur-quan Masters</name>
 		<desc>n 1990, Toys for Bob released a simple multiplayer space battle game called Star Control. In 1992, it birthed a sequel, Star Control 2, an MS-DOS space exploration adventure of dizzying scope. Ten years later, the creators made the source code of the 3DO version available as open source. Another nine years passed, and the game was reborn as The Ur-Quan Masters, a non-commercial PC recreation of the original game for a new generation.</desc>
@@ -300,46 +288,56 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<rating>0.75</rating>
 		<releasedate>19940101T000000</releasedate>
 		<genre>Shooter</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200530T004352</lastplayed>
 	</game>
 	<game>
 		<path>./Xash3D.sh</path>
 		<name>Half-Life</name>
 		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
-		<image>./mixart/Half-Life.png</image>
-		<video>./snap/Half-Life.mp4</video>
-		<marquee>./wheel/Half-Life.png</marquee>
+		<image>~/addonusb/roms/ports/mixart/Half-Life.png</image>
+		<video>~/addonusb/roms/ports/snap/Half-Life.mp4</video>
+		<marquee>~/addonusb/roms/ports/wheel/Half-Life.png</marquee>
 		<rating>0.75</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Valve</developer>
 		<publisher>Valve</publisher>
-		<genre>Action-Shooter / 3rd person-Shooter</genre>
-	</game>
-	<game>
-		<path>./Star Wars - Jedi Knight - Jedi Academy (SP).sh</path>
-		<name>Star Wars - Jedi Academy (SP)</name>
-		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
-		<image>./mixart/JediKnightAcademy.png</image>
-		<video>./snap/JediKnightAcademy.mp4</video>
-		<marquee>./wheel/JediKnightAcademy.png</marquee>
-		<rating>0.75</rating>
-		<releasedate></releasedate>
-		<developer>Aspyre</developer>
-		<publisher>Aspyre</publisher>
 		<genre>Action-Shooter / 3rd person-Shooter</genre>
 	</game>
 	<game>
 		<path>./Star Wars - Jedi Knight - Jedi Academy (MP).sh</path>
 		<name>Star Wars - Jedi Academy (MP)</name>
 		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
-		<image>./mixart/JediKnightAcademy.png</image>
-		<video>./snap/JediKnightAcademy.mp4</video>
-		<marquee>./wheel/JediKnightAcademy.png</marquee>
+		<image>~/addonusb/roms/ports/mixart/JediKnightAcademy.png</image>
+		<video>~/addonusb/roms/ports/snap/JediKnightAcademy.mp4</video>
+		<marquee>~/addonusb/roms/ports/wheel/JediKnightAcademy.png</marquee>
 		<rating>0.75</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Aspyre</developer>
 		<publisher>Aspyre</publisher>
 		<genre>Action-Shooter / 3rd person-Shooter</genre>
+	</game>
+	<game>
+		<path>./Star Wars - Jedi Knight - Jedi Academy (SP).sh</path>
+		<name>Star Wars - Jedi Academy (SP)</name>
+		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
+		<image>~/addonusb/roms/ports/mixart/JediKnightAcademy.png</image>
+		<video>~/addonusb/roms/ports/snap/JediKnightAcademy.mp4</video>
+		<marquee>~/addonusb/roms/ports/wheel/JediKnightAcademy.png</marquee>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Aspyre</developer>
+		<publisher>Aspyre</publisher>
+		<genre>Action-Shooter / 3rd person-Shooter</genre>
+	</game>
+	<game>
+		<path>./Brutal Doom.sh</path>
+		<name>Brutal Doom</name>
+		<desc>Doom on Steroids!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Brutal Doom.png</image>
+		<video>./snap/Brutal Doom.mp4</video>
+		<marquee>./wheel/Brutal Doom.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
 	</game>
 </gameList>
