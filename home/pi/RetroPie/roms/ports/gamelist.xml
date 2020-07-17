@@ -111,7 +111,7 @@ NOTE: Requires keyboard to exit!</desc>
 	</game>
 	<game>
 		<path>./Wolfenstein 3D - Coop.sh</path>
-		<name>Wolfenstein 3D Coop</name>
+		<name>'☆Wolfenstein 3D Coop</name>
 		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
 		<image>./mixart/Wolfenstein 3D-Coop.png</image>
 		<video>./snap/Wolfenstein 3D-Coop.mp4</video>
@@ -330,7 +330,7 @@ The source code to the original Quake engine was released under the GPLv2 licens
 	</game>
 	<game>
 		<path>./Brutal Doom.sh</path>
-		<name>Brutal Doom</name>
+		<name>'☆Brutal Doom</name>
 		<desc>Doom on Steroids!
 NOTE: Requires keyboard to exit!</desc>
 		<image>./mixart/Brutal Doom.png</image>
@@ -342,7 +342,7 @@ NOTE: Requires keyboard to exit!</desc>
 	</game>
 	<game>
 		<path>./Brutal Wolfenstein 3D.sh</path>
-		<name>Brutal Wolfenstein 3D</name>
+		<name>'☆Brutal Wolfenstein 3D</name>
 		<desc>Wolfenstein 3-D on Steroids!
 NOTE: Requires keyboard to exit!</desc>
 		<image>./mixart/Brutal Wolfenstein 3D.png</image>
