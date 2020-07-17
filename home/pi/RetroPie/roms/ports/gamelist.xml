@@ -340,4 +340,16 @@ NOTE: Requires keyboard to exit!</desc>
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
 	</game>
+	<game>
+		<path>./Brutal Wolfenstein 3D.sh</path>
+		<name>Brutal Wolfenstein 3D</name>
+		<desc>Wolfenstein 3-D on Steroids!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Brutal Wolfenstein 3D.png</image>
+		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
+		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+	</game>
 </gameList>
