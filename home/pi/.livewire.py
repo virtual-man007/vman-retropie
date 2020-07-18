@@ -6,7 +6,7 @@ import random
 
 #CONFIG SECTION
 startdelay = 0 # Value (in seconds) to delay audio start.  If you have a splash screen with audio and the script is playing music over the top of it, increase this value to delay the script from starting.
-musicdir = '/home/pi/RetroPie/localroms/music'
+musicdir = '/home/pi/RetroPie/roms/music'
 maxvolume = 1.0
 volumefadespeed = 0.02
 restart = False # If true, this will cause the script to fade the music out and -stop- the song rather than pause it.
