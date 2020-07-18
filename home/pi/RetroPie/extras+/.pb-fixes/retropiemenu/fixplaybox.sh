@@ -116,7 +116,15 @@ function fix_region() {
 
 function fix_bgm_py() {
 	dialog --infobox "...Fixing..." 3 17 ; sleep 1
+	if [ -d $HOME/addonusb ]; then
 	cp /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py /home/pi
+	cd $HOME
+	sed -i 's+/home/pi/RetroPie/roms+/home/pi/RetroPie/localroms+g' .livewire.py
+	else
+	cp /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py /home/pi
+	cd $HOME
+	sed -i 's+/home/pi/RetroPie/localroms+/home/pi/RetroPie/roms+g' .livewire.py
+	fi
 }
 
 function fix_slideshow() {
