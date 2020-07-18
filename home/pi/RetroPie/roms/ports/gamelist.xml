@@ -352,4 +352,24 @@ NOTE: Requires keyboard to exit!</desc>
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
 	</game>
+	<game>
+		<path>./Hexen II.sh</path>
+		<name>Hexen II</name>
+		<sortname>Hexen3</sortname>
+		<image>./mixart/Hexen II.png</image>
+		<video>./snap/Hexen II.mp4</video>
+		<marquee>./wheel/Hexen II.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20001231T190000</releasedate>
+	</game>
+	<game>
+		<path>./Hexen II Mission Pack - Portal of Praevus.sh</path>
+		<name>Hexen II Mission Pack: Portal of Praevus</name>
+		<sortname>Hexen4</sortname>
+		<image>./mixart/Hexen II Mission Pack - Portal of Praevus.png</image>
+		<video>./snap/Hexen II Mission Pack - Portal of Praevus.mp4</video>
+		<marquee>./wheel/Hexen II Mission Pack - Portal of Praevus.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20001231T190000</releasedate>
+	</game>
 </gameList>
