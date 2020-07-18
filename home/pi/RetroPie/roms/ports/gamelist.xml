@@ -284,7 +284,7 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<desc>Doom II original from PC edition!</desc>
 		<image>./mixart/Doom2.png</image>
 		<video>./snap/Doom.mp4</video>
-		<marquee>./wheel/Doom.png</marquee>
+		<marquee>./wheel/Doom2.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>19940101T000000</releasedate>
 		<genre>Shooter</genre>
@@ -371,5 +371,42 @@ NOTE: Requires keyboard to exit!</desc>
 		<marquee>./wheel/Hexen II Mission Pack - Portal of Praevus.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20001231T190000</releasedate>
+	</game>
+	<game>
+		<path>./Duke Nuclear Winter.sh</path>
+		<name>Duke: Nuclear Winter</name>
+		<sortname>Duke 3</sortname>
+		<desc>This is an authorized add-on pack for Duke Nukem 3D. It adds 7 new maps to the game which put the player to North Pole. Here he must battle alien scum to help Santa Claus survive. The pack also adds new special arctic monsters and new artwork to the game. </desc>
+		<image>./mixart/Duke Nuclear Winter.png</image>
+		<marquee>./wheel/Duke Nuclear Winter.png</marquee>
+		<video>./snap/Duke Nuclear Winter.mp4</video>
+		<rating>0.85</rating>
+		<releasedate />
+		<developer>WizardWorks</developer>
+		<publisher>WizardWorks</publisher>
+	</game>
+	<game>
+		<path>./Duke it Out in DC.sh</path>
+		<name>Duke it out in D.C.</name>
+		<sortname>Duke 2</sortname>
+		<desc>This is an add-on episode for Duke Nukem 3D.Aliens have captured the President! Duke gets word that alien scum have landed in Washington D.C., laid it to waste, and imprisoned the leader of the free world.  Always up for a heroic deed, Duke heads to D.C. to rid the city of enemy dirtbags and return the president to power!Includes 9 new levels plus one secret level. Works with Duke 3D v1.3d or newer, and Duke Atomic. </desc>
+		<image>./mixart/Duke it Out in DC.png</image>
+		<marquee>./wheel/Duke it Out in DC.png</marquee>
+		<video>./snap/Duke it Out in DC.mp4</video>
+		<rating>0.85</rating>
+		<releasedate />
+		<developer>Sunstorm Interactive, Inc.</developer>
+		<publisher>WizardWorks</publisher>
+	</game>
+	<game>
+		<path>./Duke Caribbean life's a beach.sh</path>
+		<name>Duke Caribbean: Life's a Beach</name>
+		<sortname>Duke 4</sortname>
+		<desc>Aliens have set up a new breeding ground in the Caribbean, terrorising the islands. Duke, being on vacation, quickly responds to the situation. Players once again take the role of Duke Nukem through one new episode set in the hot Caribbean, destroying the aliens who wrecked his vacation.</desc>
+		<image>./mixart/Duke Caribbean life's a beach.png</image>
+		<marquee>./wheel/Duke Caribbean life's a beach.png</marquee>
+		<video>./snap/Duke Caribbean life's a beach.mp4</video>
+		<rating>0.85</rating>
+		<releasedate />
 	</game>
 </gameList>
