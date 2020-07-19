@@ -1029,7 +1029,7 @@
     <video>./snap/Fighting Vipers 2 (Europe).mp4</video>
   </game>
   <game id="13771" source="ScreenScraper.fr">
-    <path>./Fire ProWrestling D (Japan) (Translated En).chd</path>
+    <path>./Fire ProWrestling D (Japan) (Translated En).cdi</path>
     <name>Fire ProWrestling D</name>
     <desc>Fire ProWrestling D is a wrestling simulation game featuring over 200 wrestlers from many well known North America and Japanese wrestling organizations, Fire Pro D allows you to simulate classic matches or matches that have never taken place before. It also allows Ultimate Fighting matches and includes an octagon cage for those contests. Fire ProWrestling D has over thousands of wrestling moves and holds available.  The edit section allows you to create fictional wrestlers or the few real life wrestlers not included in the game. It allows you to tweak everything from their fighting stance, to their outfits all the way down to their special taunts. A special computer AI edit mode allows you to tweak your edit wrestlers, so they will behave how you want them to. The edit section of the game is not limited to only creating wrestlers, as you can also create referees, new wrestling organizations and design a new ring.  The game uses a 2D sprite graphics engine, but features dual plane of movement that simulates 3D gameplay. </desc>
     <rating>0.9</rating>

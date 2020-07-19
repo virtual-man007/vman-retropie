@@ -409,4 +409,13 @@ NOTE: Requires keyboard to exit!</desc>
 		<rating>0.85</rating>
 		<releasedate />
 	</game>
+	<game>
+		<path>./Return to Castle Wolfenstein.sh</path>
+		<name>Return to Castle Wolfenstein</name>
+		<desc>Return to Castle Wolfenstein is a first-person shooter video game published by Activision, released on November 19, 2001.The game serves as both a remake and a reboot to the Wolfenstein series.</desc>
+		<image>./mixart/Return to Castle Wolfenstein.png</image>
+		<video>./snap/Return to Castle Wolfenstein.mp4</video>
+		<marquee>./wheel/Return to Castle Wolfenstein.png</marquee>
+		<rating>0.85</rating>
+	</game>
 </gameList>
