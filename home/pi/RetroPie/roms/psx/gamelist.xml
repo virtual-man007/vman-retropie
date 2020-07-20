@@ -17298,4 +17298,18 @@ As either Axel or Ruka, blast your way through six side-scrolling levels against
     <marquee>./wheel/Tales of Destiny II (USA).png</marquee>
     <video>./snap/Tales of Destiny II (USA).mp4</video>
   </game>
+  <game id="104917" source="ScreenScraper.fr">
+    <path>./Fighter Maker (USA).chd</path>
+    <name>Fighter Maker</name>
+    <desc>Great fighters are made, not born! That's the underlying concept behind Agetec's new brawler/construction kit Fighter Maker, a quasi-game that's sure to have amateur game programmers squealing in delight. Is Virtua Fighter not your style? Does Tekken make you sick? Then take on the world and design your own hardy crew of fighters and then pit them against your best buddy's!     Fighter Maker features a complete 3D character posing system -- think of it as a simplified version of Kinetix's Character Studio R2 for 3D Studio MAX. But you'll need to sit down and read the manual to make your fighters look good as the construction kit is a powerful one, and you may get bogged down in the sheer number of choices you have to make.</desc>
+    <rating>0</rating>
+    <releasedate>19990531T000000</releasedate>
+    <developer>ASCII Entertainment</developer>
+    <publisher>ASCII Entertainment</publisher>
+    <genre>Fight-Fight / 3D</genre>
+    <players>1-2</players>
+    <image>./mixart/Fighter Maker (USA).png</image>
+    <marquee>./wheel/Fighter Maker (USA).png</marquee>
+    <video>./snap/Fighter Maker (USA).mp4</video>
+  </game>
 </gameList>
