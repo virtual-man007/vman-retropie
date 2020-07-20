@@ -17312,4 +17312,323 @@ As either Axel or Ruka, blast your way through six side-scrolling levels against
     <marquee>./wheel/Fighter Maker (USA).png</marquee>
     <video>./snap/Fighter Maker (USA).mp4</video>
   </game>
+  <game id="103623" source="ScreenScraper.fr">
+    <path>./Arthur! Ready to Race (USA).chd</path>
+    <name>Arthur! Ready to Race</name>
+    <desc>Arthur! Ready to Race is a racing game based on the Arthur Read aardvark character created by the American children's books writer Marc Tolon Brown. Arthur and his friends need to make the best race cart they can to participate in a big race. The gameplay is very easy and aimed at young children. They can race alone (against the computer) or with friends, and they can be able to solve problems that show up in the game. To create the cart Arthur needs to solve puzzles at the Sugar Bowl and the Pet Shop, and collect Bionic Bunny cards that can be traded in for racing accessories. There are cameo appearances by Arthur's younger sisters (D.W. and Kate Read) and his mother (Mrs. Jane Read) can also be seen.</desc>
+    <rating>0</rating>
+    <releasedate>20001206T000000</releasedate>
+    <developer>Runecraft</developer>
+    <publisher>The Learning Company, Inc.</publisher>
+    <genre>Race, Driving-Casual Game-Action</genre>
+    <players>1-4</players>
+    <image>./mixart/Arthur! Ready to Race (USA).png</image>
+    <marquee>./wheel/Arthur! Ready to Race (USA).png</marquee>
+    <video>./snap/Arthur! Ready to Race (USA).mp4</video>
+  </game>
+  <game id="20553" source="ScreenScraper.fr">
+    <path>./Bob the Builder - Can We Fix It (USA).chd</path>
+    <name>Bob the Builder : Can We Fix It</name>
+    <desc>Bob the Builder makes his PlayStation debut in a series of eight activities designed for children ages three and up. Each of the activities involves guiding one of the BBC television show's friendly construction vehicles or principal characters in the following tasks: Porcupine Rescue, Travis' Race Day, Plumbing Puzzle, Can We Build It? Bubble Trouble, Scary Spud, Wendy's Birthday, and Where's Pilchard? Each activity can be played at one of three difficulty settings to accommodate both younger and older players.      In Porcupine Rescue, players control the crane named Lofty as he fits pieces of pipe to match the shape of the underground tunnel so a family of porcupines can cross. Travis' Race Day involves racing against the cement mixer from an overhead view as either Scoop or Dizzy. Plumbing Puzzle consists of two activities where Bob must walk up to a radiator to fix leaks or repair old parts, while Can We Build It? Has players knocking down and then building a new bridge in two tasks featuring Lofty.</desc>
+    <rating>0.15</rating>
+    <releasedate>20001201T000000</releasedate>
+    <developer>BBC Multimedia</developer>
+    <publisher>Steel Monkeys</publisher>
+    <genre>Educational-Puzzle-Game-Action</genre>
+    <players>1</players>
+    <image>./mixart/Bob the Builder - Can We Fix It (USA).png</image>
+    <marquee>./wheel/Bob the Builder - Can We Fix It (USA).png</marquee>
+    <video>./snap/Bob the Builder - Can We Fix It (USA).mp4</video>
+  </game>
+  <game id="20412" source="ScreenScraper.fr">
+    <path>./Boxing (USA).chd</path>
+    <name>Boxing</name>
+    <desc>Bob, weave and punch your way to victory in this crazy boxing tournament that takes no prisoners. Choose your character and KO your opponents on the way to one of nine titles, three weight divisions, thirteen different characters, hidden special moves, and multiple game modes.</desc>
+    <rating>0</rating>
+    <releasedate>20010514T000000</releasedate>
+    <developer>Nekogumi</developer>
+    <publisher>Agetec</publisher>
+    <genre>Sports-Fight</genre>
+    <players>1-2</players>
+    <image>./mixart/Boxing (USA).png</image>
+    <marquee>./wheel/Boxing (USA).png</marquee>
+    <video>./snap/Boxing (USA).mp4</video>
+  </game>
+  <game id="104662" source="ScreenScraper.fr">
+    <path>./Card Games (USA).chd</path>
+    <name>Card Games</name>
+    <desc>Card Games is a value-priced PlayStation title containing six different card games tied together with a casino interface. Draw Poker, Blackjack, Baccarat and Seven-card Stud are the traditional entries, with the less-familiar Speed and President rounding out the package.   Casino mode starts you out with a small amount of chips and the goal of winning enough cash to purchase items at the shop. Merchandise includes new background music, access to higher stakes tables, and most importantly, furnishings for your room. When the game begins, your room is empty, but as you earn money you are able to buy a variety of products such as wallpaper, carpet and TVs. Your winnings and all merchandise purchased are saved on the memory card at the end of each session.   In Free mode, you receive more money, can choose from 14 different CPU opponents, and play against another human player. Rules and instructions for each game are contained in the Manual mode.</desc>
+    <rating>0</rating>
+    <releasedate>20010828T000000</releasedate>
+    <developer>Amedio</developer>
+    <publisher>A1 Games</publisher>
+    <genre>Casino-Playing cards</genre>
+    <players>1-2</players>
+    <image>./mixart/Card Games (USA).png</image>
+    <marquee>./wheel/Card Games (USA).png</marquee>
+    <video>./snap/Card Games (USA).mp4</video>
+  </game>
+  <game id="19356" source="ScreenScraper.fr">
+    <path>./Sim Theme Park (USA).chd</path>
+    <name>Sim Theme Park</name>
+    <desc>Sim Theme Park is the sequel to Theme Park and the second game in the series. It is a theme park management game where players build their own theme park with roller coasters, rides and food stalls. Each building can be customized for its appearance, prices and also the length of the ride. Roller coasters play an important role as the main attraction for visitors. Players can design a custom ride and then test it from a first-person view.</desc>
+    <rating>0.8</rating>
+    <releasedate>20000321T000000</releasedate>
+    <developer>Electronic Arts</developer>
+    <publisher>Bullfrog</publisher>
+    <genre>Strategy-Simulation</genre>
+    <players>1</players>
+    <image>./mixart/Sim Theme Park (USA).png</image>
+    <marquee>./wheel/Sim Theme Park (USA).png</marquee>
+    <video>./snap/Sim Theme Park (USA).mp4</video>
+  </game>
+  <game id="19680" source="ScreenScraper.fr">
+    <path>./Warhammer - Dark Omen (USA).chd</path>
+    <name>Warhammer : Dark Omen</name>
+    <desc>This sequel to Warhammer: Shadow Of The Horned Rat is an overhead role playing game in which you play Morgan Bernhardt. The game consists of a series of battles where you view the battle from overhead via a rotatable view. You go through the game managing your army, deciding whether to fight in optional battles, and advancing through a deep and engrossing storyline via a series of conversations played out by talking portraits.</desc>
+    <rating>0.85</rating>
+    <releasedate>19980407T000000</releasedate>
+    <developer>Mindscape</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Strategy-Role playing games-Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Warhammer - Dark Omen (USA).png</image>
+    <marquee>./wheel/Warhammer - Dark Omen (USA).png</marquee>
+    <video>./snap/Warhammer - Dark Omen (USA).mp4</video>
+  </game>
+  <game id="118206" source="ScreenScraper.fr">
+    <path>./Animetic Story Game 1 - Card Captor Sakura (Japan).m3u</path>
+    <name>Animetic Story Game 1 : Card Captor Sakura</name>
+    <desc>The game is based on the manga Cardcaptor Sakura by the manga artist group CLAMP, and is a Japan only release. Sakura Kinomoto is (or maybe was) an ordinary 10-year old girl. She went to school, joined a cheerleading club, and loved sports. She lived with her brother and father in a nice house in the Tokyo suburb of Tomoeda, and was pretty led a normal life.Then one day, while home alone, she found a mysterious book in her father's study, called "CLOW". What she didn't realize was that book would change her life...she opened it and released a powerful deck of magic cards; alive with souls and unspeakable powers. The cards scattered across Tokyo, and the Guardian Beast of the Seal, Kerberos, has put her in charge of gathering the cards back up.The birth of a Cardcaptor, Sakura Kinomoto! Now Sakura must locate all of the cards, aided by Kerberos, her best friend Tomoyo Daidouji, and a mysterious boy from Hong Kong named Shaoran Li. Together, the four must find all the cards before chaos is unleashed on the world!Cardcaptor Sakura is a very simple adventure game. Typically, the player navigates Sakura on a very brief and linear path, until a mini-game and/or an anime-style cutscene takes place. The mini-games are quite simple as well, usually involving timed sequences and patterns.</desc>
+    <rating>0</rating>
+    <releasedate>19990805T000000</releasedate>
+    <developer>Arika</developer>
+    <publisher>Arika</publisher>
+    <genre>Adventure</genre>
+    <image>./mixart/Animetic Story Game 1 - Card Captor Sakura (Japan).png</image>
+    <marquee>./wheel/Animetic Story Game 1 - Card Captor Sakura (Japan).png</marquee>
+    <video>./snap/Animetic Story Game 1 - Card Captor Sakura (Japan).mp4</video>
+  </game>
+  <game id="118890" source="ScreenScraper.fr">
+    <path>./Asuncia Matsue no Jubaku (English Patched).chd</path>
+    <name>Asuncia : Majou no Jubaku</name>
+    <desc>Asuncia is a classic 2D Rpg game in which the player control a group of adventures that will travel through a medieval world solving missions. During those journeys they will have to face different kind of enemies.   The most important feature of the game is that with every new game the game make a new map so there won't be the same game twice. The gameplay is in third person perspective in the dungeons and fights (that are turn based) and in first person perspectives in shops and towns.</desc>
+    <rating>0</rating>
+    <releasedate>20000712T000000</releasedate>
+    <developer>E.O. Imagination</developer>
+    <publisher>Xing Entertainment</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./mixart/Asuncia Matsue no Jubaku (English Patched).png</image>
+    <marquee>./wheel/Asuncia Matsue no Jubaku (English Patched).png</marquee>
+    <video>./snap/Asuncia Matsue no Jubaku (English Patched).mp4</video>
+  </game>
+  <game id="129793" source="ScreenScraper.fr">
+    <path>./Brave Prove (English v1.1a).chd</path>
+    <name>Brave Prove</name>
+    <desc>Brave prove is a japanese action RPG in which you take the role of Ars, a warrior member of a legendary band of thieves that with the help of Shina (a young girl) will try to defeat the evil Chaos that is in his land. The game starts when Shina goes to the temple that is on the caves of the mountain that are to the right of the town where they live (that's the big first level of the game).   When the player arrives at the temple in the bottom of the mountain he finds Shina praying to the rock of the 2 elements, but soon a fire demon appears and to defeat it the player has to destroy the rock. When he do that a demon appears and stole Shina powers after that a fairy appears and they return to the town to cure Shina. After that they adventure to defeat the devil demon has just started.   In the game the player can use Elementals that can do two things: First they allow the player to use magic and second they give the player's sword special properties.   The gameplay is pure action (like in Alundra or The Legend of Thor) since the player have to defeat the enemies with his sword or with special attacks or items (like bombs), in some parts of the game to advance he will have to use bombs to break through walls or other things in his way.</desc>
+    <rating>0</rating>
+    <releasedate>19980416T000000</releasedate>
+    <developer>Data West</developer>
+    <publisher>Data West</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./mixart/Brave Prove (English v1.1a).png</image>
+    <marquee>./wheel/Brave Prove (English v1.1a).png</marquee>
+    <video>./snap/Brave Prove (English v1.1a).mp4</video>
+  </game>
+  <game id="20580" source="ScreenScraper.fr">
+    <path>./Choro Q 3 (Japan).chd</path>
+    <name>Choro Q 3</name>
+    <desc>With Choro Q 3 Takara and Tamsoft finally managed to reach the zenith of their Choro Q license. This racing game is, without a doubt, the best one in the Choro Q series.     The gameplay is where Choro Q3 shines. The Choro Q cars have very short wheelbases, so they have different physics than cars in other racing games. In order to succeed here, you have to re-learn how to drive.     The parts the player starts with are supposed to be inferior to some of the ones you will get later on. As you win more races, you'll gain enough money to soup up your tiny car to be quick and agile.     Buying new parts for your car is part of the fun. There are more parts in this game than any other Choro Q game on the Playstaton. There are many different types of tires, like Racing, Semi-Racing, Off-Road, Water, Snow, and Big Tires (think Monster Trucks). There are lots of engines, transmissions and brakes, too. You can get spoilers, new chassises, and even horns and speedometers. There is a high degree of customization here.</desc>
+    <rating>0</rating>
+    <releasedate>20040624T000000</releasedate>
+    <developer>Takara</developer>
+    <publisher>Takara</publisher>
+    <genre>Race, Driving</genre>
+    <image>./mixart/Choro Q 3 (Japan).png</image>
+    <marquee>./wheel/Choro Q 3 (Japan).png</marquee>
+    <video>./snap/Choro Q 3 (Japan).mp4</video>
+  </game>
+  <game id="19904" source="ScreenScraper.fr">
+    <path>./Clock Tower - The First Fear.chd</path>
+    <name>Clock Tower : The First Fear</name>
+    <desc>The story follows orphan Jennifer Simpson soon after she is adopted by the Barrows family along with other orphaned girls. With the introduction of Scissorman, the game's antagonist, one of the other children is killed. Jennifer must then explore the Barrows Mansion to find a way to escape while evading Scissorman.</desc>
+    <rating>0</rating>
+    <releasedate>19970717T000000</releasedate>
+    <developer>Human</developer>
+    <publisher>Human</publisher>
+    <genre>Adventure</genre>
+    <image>./mixart/Clock Tower - The First Fear.png</image>
+    <marquee>./wheel/Clock Tower - The First Fear.png</marquee>
+    <video>./snap/Clock Tower - The First Fear.mp4</video>
+  </game>
+  <game id="130353" source="ScreenScraper.fr">
+    <path>./Echo Night 2 - Nemuri no Shihaisha (English Patched).chd</path>
+    <name>Echo Night #2 : Nemuri no Shihaisha</name>
+    <desc>Echo Night 2 - Nemuri no Shihaisha is a sequel to the first Echo Night game. The game series continues in Playstation 2 with Echo Night Beyond.   The story begins when Rebeca Morgan, the girlfriend of the main protagonist (Richard Osmond), disappears mysteriously. During his search, Richard arrives to a library and discovers inside of a book the image of woman called Cristina Collins, died long ago. The peculiar thing is, despite her old clothes and hair style, the woman is identical to her missing girlfriend.   After to collect some clues, he arrives to a beautiful mansion. He will soon discover this mansion is habited by spirits. He must help them to find peace and discover during his quest the secrets this bewitched mansion hide. Secrets that will help him to find out the reason of the disappearance of his girlfriend, which strangely is related to the mansion and its habitants.   Echo Night 2 plays exactly the same as its predecessor; you search the grounds for items by setting ghosts free, solve puzzles and fight ghosts as you get deeper in the mystery.</desc>
+    <rating>0</rating>
+    <releasedate>20011129T000000</releasedate>
+    <developer>From Liquid Mirror Software</developer>
+    <publisher>From Software</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Echo Night 2 - Nemuri no Shihaisha (English Patched).png</image>
+    <marquee>./wheel/Echo Night 2 - Nemuri no Shihaisha (English Patched).png</marquee>
+    <video>./snap/Echo Night 2 - Nemuri no Shihaisha (English Patched).mp4</video>
+  </game>
+  <game id="104668" source="ScreenScraper.fr">
+    <path>./Fantastic Night Dreams - Cotton Original (English Patched v1.10).chd</path>
+    <name>Fantastic Night Dreams : Cotton Original</name>
+    <desc>The Cotton series is a line of shoot 'em up video game software developed by Success with a long history of releases both in arcades and on home video game consoles. With the series debuting in 1991, the Cotton games have helped to establish the visual style of shoot 'em ups sometimes called cute 'em up. Instead of warships and battle fields typical of most shoot 'em ups, Cotton games put players in control of a witch riding on a broom and tasks them with fighting through magical haunted kingdoms. Cotton games have appeared on a variety of consoles including the NEC PC Engine/TurboGrafx-16, the Super Nintendo, the Mega Drive/Sega Genesis, the Sega Saturn, the PlayStation, the Neo Geo Pocket Color, and the Dreamcast. There is also a pachinko game featuring Cotton available for the PlayStation 2. Most recently, Cotton appears as a hidden character in the Nintendo DS game Rondo of Swords.</desc>
+    <rating>0</rating>
+    <releasedate>19990428T000000</releasedate>
+    <developer>Success</developer>
+    <publisher>Success</publisher>
+    <genre>Shooter-Action</genre>
+    <players>1</players>
+    <image>./mixart/Fantastic Night Dreams - Cotton Original (English Patched v1.10).png</image>
+    <marquee>./wheel/Fantastic Night Dreams - Cotton Original (English Patched v1.10).png</marquee>
+    <video>./snap/Fantastic Night Dreams - Cotton Original (English Patched v1.10).mp4</video>
+  </game>
+  <game id="104915" source="ScreenScraper.fr">
+    <path>./Finger Flashing (English v1.0).chd</path>
+    <name>Finger Flashing</name>
+    <desc>Finger Flashing is a puzzle/shooter hybrid released on the PSX in Japan by Affect in 1999. Affect is practically unknown outside Japan, although one of their games was released in the US as Phix: The Adventure in 2003 by Agetec Inc.   In Finger Flashing, you play as either the wizardess Poi or the bazooka-wielding Cyikke. Your objective is to prevent your enemies from reaching the bottom of the screen Your movement is restricted to six lanes left and right (no movement is allowed up or down), while your enemies march ever downwards to reach you, and it's up to you to stop them! But how, you ask? With the rules of rock, paper, scissors of course!</desc>
+    <rating>0</rating>
+    <releasedate>19990715T000000</releasedate>
+    <developer>Affect</developer>
+    <publisher>Affect</publisher>
+    <genre>Puzzle-Game-Action</genre>
+    <players>1-2</players>
+    <image>./mixart/Finger Flashing (English v1.0).png</image>
+    <marquee>./wheel/Finger Flashing (English v1.0).png</marquee>
+    <video>./snap/Finger Flashing (English v1.0).mp4</video>
+  </game>
+  <game id="132597" source="ScreenScraper.fr">
+    <path>./Gensou Suiko Gaiden Vol. 2 (Eng. Patched).chd</path>
+    <name>Gensou Suiko Gaiden Vol. 2 : Crystal Valley no Kettou</name>
+    <desc>This is a side story to Konami's RPG series Suikoden. The events of the game take place between the second and the upcoming third game, and fill the story gap between them. The story centers on the rebellion that has taken place in the Grasslands. It has been three months since the end of the Dunan Unification Wars. A legend telling about the Fire Brigands lead by the mysterious Fire Champion who united the Grassland nations is being spread around. Is the legend true, and can the Fire Champion, a holder of one of the 27 True Runes, be found? Nash, a special agent of Holy Kingdom of Harmonia's Southern Fringe Security Force, is sent to investigate the matter.    You take control over Nash' actions in a fashion similar to the one implemented in Japanese "dating sims" or some hentai games: reading the text, looking at the background images, and sometimes interfering and choosing the path on which the story should proceed.</desc>
+    <rating>0</rating>
+    <releasedate>20010322T000000</releasedate>
+    <developer>KCET</developer>
+    <publisher>Konami</publisher>
+    <genre>Adventure / Visual Novel-Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Gensou Suiko Gaiden Vol. 2 (Eng. Patched).png</image>
+    <marquee>./wheel/Gensou Suiko Gaiden Vol. 2 (Eng. Patched).png</marquee>
+    <video>./snap/Gensou Suiko Gaiden Vol. 2 (Eng. Patched).mp4</video>
+  </game>
+  <game id="105060" source="ScreenScraper.fr">
+    <path>./iS - Internal Section (English v1.02).chd</path>
+    <name>iS : Internal Section</name>
+    <desc>INTERNAL SECTION is best described as a "sound reactive" shooting game. It is set up very similar to the classic arcade game TEMPEST or more recently, the PSX game N2O. All three of these are shooters where the player controls a ship "looking down" and long tunnel or tube and the player can move around inside the cylinder, shooting enemies that it runs to while moving. I will make most of my comparisons to N20 because it is apparent that the two games have a lot of similarities.</desc>
+    <rating>0</rating>
+    <releasedate>19990128T000000</releasedate>
+    <developer>Positron</developer>
+    <publisher>Square</publisher>
+    <genre>Shooter</genre>
+    <players>1</players>
+    <image>./mixart/iS - Internal Section (English v1.02).png</image>
+    <marquee>./wheel/iS - Internal Section (English v1.02).png</marquee>
+    <video>./snap/iS - Internal Section (English v1.02).mp4</video>
+  </game>
+  <game id="132377" source="ScreenScraper.fr">
+    <path>./King's Field III - Pilot Style (English Patched).chd</path>
+    <name>King's Field III : The Story of Verdite</name>
+    <desc>On the evening of the five year anniversary of Alexander's triumphant defeat of the evil Guyra, a strange storm hit the King's castle, breaking the seal around the Moonlight Sword and Darkslayer. The Darkslayer was smashed to bits and the Moonlight Sword was no where to be found. Evil had once again returned to the peaceful land...</desc>
+    <rating>0.85</rating>
+    <releasedate>19960621T000000</releasedate>
+    <developer>From Software</developer>
+    <publisher>From Software</publisher>
+    <genre>Action-Role playing games</genre>
+    <players>1</players>
+    <image>./mixart/King's Field III - Pilot Style (English Patched).png</image>
+    <marquee>./wheel/King's Field III - Pilot Style (English Patched).png</marquee>
+    <video>./snap/King's Field III - Pilot Style (English Patched).mp4</video>
+  </game>
+  <game id="131293" source="ScreenScraper.fr">
+    <path>./Langrisser IV (English v1.3) .chd</path>
+    <name>Langrisser IV &amp; V : Final Edition</name>
+    <desc>Langrisser IV is the fourth in the long-running Japanese strategy RPG series.    Cleons, the king of the country Regenburg, offers his general Gizarov a reward for his achievements on the battle field. For a mysterious reason, Gizarov chooses only one small town, called Gotaal. Immediately after having the town in his possession, Gizarov presses the population with heavy taxes. Landius, the son of Gotaal's mayor, fails to convince Gizarov to stop raising the taxes, and as a result, he has no other choice but to support the people in rebellion...    The game returns to the traditional gameplay style of the first two Langrisser games. You create your character and choose his class by answering questions in the beginning of the game (similar to Ultima games). Before the battles, you should recruit mercenaries, buy weapons and items, etc. Once in battle mode, you command several units led by stronger generals. Each unit has its own "judgment" ability"; units with high judgment ability will perform more moves during a turn.    The story of Langrisser V is closely connected to the one told in Langrisser IV - the two games form a kind of a sub-series within the Langrisser universe.     The game's plot revolves around Sigma, an artificial human created by the great warlock and scientist Gizarov. One say, Sigma is awakened from his sleep inside a storage crystal in one of Gizarov's labs by Lambda, a girl who was also created by the scientist. Apparently, a powerful lord named Rainforce has invaded Gizarov's laboratory with the intention of destroying it. Meanwhile, a powerful artificial human called Omega, another "child" of Gizarov, distracts Rainforce. The two heroes flee to Regenburg, a country under Gizarov's rule, only to find out that they will soon have to stop a greater evil endangering the world - a new leader of darkness, who is after the powerful evil sword Alhazard...    Langrisser V features classical Langrisser-style gameplay: you prepare your units before a battle, buy items etc., and in battle control various types of army units (archers, pikemen, etc.), together with the generals. The "Judgment System" from the previous game is back: your units can perform several moves per turn depending on their "judgment level". Like in Langrisser III, there is an element of "love simulation" in the game - at certain points you'll have to choose between various answers that will determine the further development of your relationship with the female party members.</desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>NCS Corporation</developer>
+    <publisher>NCS Corporation</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./mixart/Langrisser IV (English v1.3) .png</image>
+    <marquee>./wheel/Langrisser IV (English v1.3) .png</marquee>
+    <video>./snap/Langrisser IV (English v1.3) .mp4</video>
+  </game>
+  <game id="132180" source="ScreenScraper.fr">
+    <path>./Medarot R (English Patched v1).chd</path>
+    <name>Medarot R</name>
+    <desc>Medabots (also known as Medarot) was originally an Imagineer video game released in 1997. The game was later adapted into a Japanese anime television series produced by Bee Train. Spanning 52 episodes, the series originally aired on TV Tokyo from July 2, 1999 until June 30, 2000. Medarot Damashii, a thirty-nine episode sequel to the anime series that was produced by Production I.G, aired from July 7, 2000 through March 30, 2001. Both the series and it's sequel are licensed by Nelvana. The Nelvana English dubbed version of Medabots on the Fox Kids network from September 1, 2001 through November 2, 2002 and was one of the channel's highest rated new series' at the time. Medarot Damashii followed a year later, airing from September 13, 2003 until March 7, 2004.  </desc>
+    <rating>0</rating>
+    <releasedate>19991125T000000</releasedate>
+    <developer>Natsume</developer>
+    <publisher>Imageneer</publisher>
+    <genre>Role playing games</genre>
+    <players>1-2</players>
+    <image>./mixart/Medarot R (English Patched v1).png</image>
+    <marquee>./wheel/Medarot R (English Patched v1).png</marquee>
+    <video>./snap/Medarot R (English Patched v1).mp4</video>
+  </game>
+  <game id="132238" source="ScreenScraper.fr">
+    <path>./Mizzurna Falls (English v0.8).chd</path>
+    <name>Mizzurna Falls</name>
+    <desc>The case takes place on Colorado, foot of the Rocky Mountains, located in a small town called Mizzurna Falls (a town with less than 2000 population).   Date: December 25th, Christmas morning AM 6:13 of the city's located in the suburbs of the woods at Barlow. The girl (Cathy Flannery) was found covered with blood with scars that people suppose that she was attacked by bears.   Cathy and Emma Rowland attend at the same high school, since last night Emma dissapeared, her mother Sarah Rowland had tried to search her.   The State police are above two incidents of relevance in the investigation started:   This is the second city in widening the synthetic drug EPOC.   The city since ancient times have the legend of the "Land of the Dead ritual journey"   Our hero, Matthew Williams had to find Emma and discover what is really happening in Mizzurna Falls.</desc>
+    <rating>0</rating>
+    <releasedate>19981223T000000</releasedate>
+    <developer>Human Club</developer>
+    <publisher>Human</publisher>
+    <genre>Adventure-Action</genre>
+    <players>1</players>
+    <image>./mixart/Mizzurna Falls (English v0.8).png</image>
+    <marquee>./wheel/Mizzurna Falls (English v0.8).png</marquee>
+    <video>./snap/Mizzurna Falls (English v0.8).mp4</video>
+  </game>
+  <game id="104924" source="ScreenScraper.fr">
+    <path>./Nekketsu Oyako (English v1.0d).chd</path>
+    <name>Nekketsu Oyako</name>
+    <desc>Middle-aged housewife Saeko Hibino has a secret: she's actually a Nobel laureate theoretical physicist who devised a completely new type of antimatter fusion reactor at only 17 years old. But when a band of no-good bad guys calling themselves the Haraguro-dan find out, they figure she's perfect to help them complete their ultimate secret doomsday weapon and kidnap her. Her family aren't going to take this lying down, though, and immediately take up arms, setting out to free her by whatever means necessary!</desc>
+    <rating>0.65</rating>
+    <releasedate>19941203T000000</releasedate>
+    <developer>Techno Soft</developer>
+    <publisher>Techno Soft</publisher>
+    <genre>Beat'em Up</genre>
+    <players>2</players>
+    <image>./mixart/Nekketsu Oyako (English v1.0d).png</image>
+    <marquee>./wheel/Nekketsu Oyako (English v1.0d).png</marquee>
+    <video>./snap/Nekketsu Oyako (English v1.0d).mp4</video>
+  </game>
+  <game id="19340" source="ScreenScraper.fr">
+    <path>./Tales of Phantasia PS1 pre-v1.1 fix 1.chd</path>
+    <name>Tales of Phantasia</name>
+    <desc>Tales of Phantasia is a Super Nintendo game in the role-playing video game genre published by Namco and released in Japan in 1995, selling 212,000 copies. It is the first mothership title in the Tales RPG series and was later remade/re-released on the PlayStation, Game Boy Advance and PlayStation Portable.   This game was originally developed by Wolf Team. It was written and programmed by Yoshiharu Gotanda, designed by Masaki Norimoto and scored by Motoi Sakuraba and Shinji Tamura. The character designs were created by manga artist Kosuke Fujishima. An anime series based on the game has also been created.   STORY:   Tales of Phantasia begins by showing a heroic battle between four unknown warriors against an evil sorcerer and king, Dhaos, the outcome of which changed the fate of the world. The warriors were victorious, but Dhaos escaped through time. However, four different heroes are awaiting him: they seal the weakened Dhaos away using the power of two pendants, thus returning peace to the world.   Twelve years after Dhaos had been sealed away, a young swordsman named Cress Albane (Also romanized 'Cless Alvein') and his best friend, Chester Burklight, live in the town of Toltus. One day, while Cress and Chester are out hunting in the forest, the town is destroyed by a dark knight named Mars and his soldiers. Every villager is killed in the attack, including Chester?s sister and both of Cress?s parents. While Chester mourns, Cress vows for revenge. He decides he should flee to the town of Euclid, where his uncle lives; however, Chester refuses because he wants to stay behind and bury the dead first, and Cress finally decides to go by himself.   Upon his arrival in Euclid, Cress heads to the northwestern house, where his uncle lives. However, on Cress's first night there, his uncle betrays him, and he is thrown in jail by Mars. The heirloom pendant entrusted to Cress by his father, Miguel, is taken away from him, but Cress does not know of its significance in holding Dhaos sealed, nor that his father was one of the four who sealed him away.   In prison, Cress hears a voice, and the person it belongs to gives him a pair of earrings, which he uses to break down the wall of his cell. As he goes to thank the person, however, Cress sees that the individual has been impaled by a sword; he takes the blade and uses it to open the prison doors. In one of the cells, he meets a woman named Mint Adnade. She thanks Cress for freeing her and asks him to also free the person in the cell across from hers, who she says is her mother. At this point, Cress realizes that Mint's mother was the person who had helped him to escape his own cell. Not wanting Mint to learn of her death, he says that he saw no one in that cell and insists that they must escape immediately, which they achieve by traveling through the prison's aqueducts.   GAMEPLAY:   "Tales of Phantasia" presents a unique combat system: The battles have a lot in common with fighting games: you fight on a platform that slowly scrolls forward and have to attack your enemy in real time. Other party members are controlled by AI. You can pause the game at any time and use magic, items, or choose an overall strategy for your allies.   The playstation version is more a remix than a remake, since it features different character techniques, character voices, fmv sequences, new quests and enhanced graphics and music.</desc>
+    <rating>0.7</rating>
+    <releasedate>20000928T000000</releasedate>
+    <developer>Namco</developer>
+    <publisher>Namco</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./mixart/Tales of Phantasia PS1 pre-v1.1 fix 1.png</image>
+    <marquee>./wheel/Tales of Phantasia PS1 pre-v1.1 fix 1.png</marquee>
+    <video>./snap/Tales of Phantasia PS1 pre-v1.1 fix 1.mp4</video>
+  </game>
+  <game id="130586" source="ScreenScraper.fr">
+    <path>./TearRingSaga (English patched v1.04).chd</path>
+    <name>Tearring Saga</name>
+    <desc>Tear Ring Saga is a tactical RPG with gameplay very similar to the gameplay found in the Fire Emblem series of video games. The game was created as a spiritual sequel to Fire Emblem by the game's creator, Shouzou Kaga, who no longer had the rights to the Fire Emblem intellectual property upon leaving Intelligent Systems and Nintendo. The game shares the same interface, graphical and music style, and overall gameflow.The game involves the player moving characters in a turn based fashion across a large grid from a top-down perspective. The player is tasked with certain objectives, commonly fighting and defeating an entire opposing faction, or a particular member or leader of a faction.    There are two protagonists in the game, Runan and Holmes, each with their own army to command. Though the two armies travel separately for the majority of the game, they cross paths at several points of the story, allowing the player to switch allocations of fighters and items amongst the two groups. Runan's story follows a strict set of scenarios where he battles against an enemy empire, while Holme's scenario allows for more freedom, allowing the player to ignore the main scenarios in favor of gathering treasure and increase the army's strength.</desc>
+    <rating>0</rating>
+    <releasedate>20010524T000000</releasedate>
+    <developer>Enterbrain, Inc.</developer>
+    <publisher>ASCII Corporation</publisher>
+    <genre>Role playing games-Strategy</genre>
+    <players>1-2</players>
+    <image>./mixart/TearRingSaga (English patched v1.04).png</image>
+    <marquee>./wheel/TearRingSaga (English patched v1.04).png</marquee>
+    <video>./snap/TearRingSaga (English patched v1.04).mp4</video>
+  </game>
 </gameList>
