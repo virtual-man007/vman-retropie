@@ -121,7 +121,7 @@ sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retr
 sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
 sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
 # 2020-07-03 PlayBox xinmo, USB-Extend, BGM, Samba core scripts fixes-enhancements by 2play!
-rm -R /home/pi/RetroPie/extras+/xinmo-juyao/
+rm -Rf /home/pi/RetroPie/extras+/xinmo-juyao/
 cp -rf ./home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh
 cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autostart.sh
