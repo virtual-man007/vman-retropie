@@ -7,7 +7,7 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game id="105343" source="ScreenScraper.fr">
-		<path>./Daedalus Encounter, The (USA) (Disc 2).cue</path>
+		<path>./Daedalus Encounter, The (USA) (Disc 2).chd</path>
 		<name>Daedalus Episode 1: Nanpasen no Alien</name>
 		<desc>The interstellar war is over, leaving you, a casualty, as a disembodied brain inside a life support system. Your buddies rescue you from the lab so that you can go exploring - scavenging the galaxy for wreckage and artifacts left over from the war. In due course you stumble literally into an alien craft. With your own craft disabled, and the alien ship on a collision course, you must explore it to find out what has gone wrong and to make a course correction.     Gameplay consists of conversations with your colleagues (displayed as live action video), animated exploration sequences, as well as puzzle-solving that mostly involves figuring out how to operate alien mechanisms. There is also a maze sequence and sporadic action-based tasks. There is no inventory to speak of, because, being a brain in a box. you have no pockets.    All the action takes place in an in-game window that is your view of the world. It takes up only a small part of the screen and the rest of the screen is taken up with a kind of fleshy 'inside of your head' background that is there to remind you that you are inside a machine. Three difficulty settings, in-game instruction and assistance, as well as a few extras (such as high-resolution pictures) are included.</desc>
 		<rating>0.8</rating>
@@ -21,7 +21,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Daedalus Encounter, The (USA, Europe) (Disc 4).mp4</video>
 	</game>
 	<game id="105343" source="ScreenScraper.fr">
-		<path>./Daedalus Encounter, The (USA, Europe) (Disc 3).cue</path>
+		<path>./Daedalus Encounter, The (USA, Europe) (Disc 3).chd</path>
 		<name>Daedalus Episode 1: Nanpasen no Alien</name>
 		<desc>The interstellar war is over, leaving you, a casualty, as a disembodied brain inside a life support system. Your buddies rescue you from the lab so that you can go exploring - scavenging the galaxy for wreckage and artifacts left over from the war. In due course you stumble literally into an alien craft. With your own craft disabled, and the alien ship on a collision course, you must explore it to find out what has gone wrong and to make a course correction.     Gameplay consists of conversations with your colleagues (displayed as live action video), animated exploration sequences, as well as puzzle-solving that mostly involves figuring out how to operate alien mechanisms. There is also a maze sequence and sporadic action-based tasks. There is no inventory to speak of, because, being a brain in a box. you have no pockets.    All the action takes place in an in-game window that is your view of the world. It takes up only a small part of the screen and the rest of the screen is taken up with a kind of fleshy 'inside of your head' background that is there to remind you that you are inside a machine. Three difficulty settings, in-game instruction and assistance, as well as a few extras (such as high-resolution pictures) are included.</desc>
 		<rating>0.8</rating>
@@ -35,7 +35,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Daedalus Encounter, The (USA, Europe) (Disc 4).mp4</video>
 	</game>
 	<game id="105343" source="ScreenScraper.fr">
-		<path>./Daedalus Encounter, The (USA, Europe) (Disc 4).cue</path>
+		<path>./Daedalus Encounter, The (USA, Europe) (Disc 4).chd</path>
 		<name>Daedalus Episode 1: Nanpasen no Alien</name>
 		<desc>The interstellar war is over, leaving you, a casualty, as a disembodied brain inside a life support system. Your buddies rescue you from the lab so that you can go exploring - scavenging the galaxy for wreckage and artifacts left over from the war. In due course you stumble literally into an alien craft. With your own craft disabled, and the alien ship on a collision course, you must explore it to find out what has gone wrong and to make a course correction.     Gameplay consists of conversations with your colleagues (displayed as live action video), animated exploration sequences, as well as puzzle-solving that mostly involves figuring out how to operate alien mechanisms. There is also a maze sequence and sporadic action-based tasks. There is no inventory to speak of, because, being a brain in a box. you have no pockets.    All the action takes place in an in-game window that is your view of the world. It takes up only a small part of the screen and the rest of the screen is taken up with a kind of fleshy 'inside of your head' background that is there to remind you that you are inside a machine. Three difficulty settings, in-game instruction and assistance, as well as a few extras (such as high-resolution pictures) are included.</desc>
 		<rating>0.8</rating>
@@ -63,7 +63,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Daedalus Encounter, The (USA, Europe) (Disc 4).mp4</video>
 	</game>
 	<game>
-		<path>./Crash 'n Burn (USA).cue</path>
+		<path>./Crash 'n Burn (USA).chd</path>
 		<name>Crash 'n' Burn</name>
 		<desc>Crash â€˜n Burn is a racing game with vehicle-mounted guns and rockets. There is both a Rally mode and a Tournament mode to compete in. In the Rally Mode you race your way through up to 30 tracks with the goal of staying alive and destroying the other contenders while you try and finish in the top three. If you succeed then you advance to the next track.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Crash 'n Burn (USA).png</image>
@@ -76,7 +76,7 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Doom (USA).cue</path>
+		<path>./Doom (USA).chd</path>
 		<name>Doom</name>
 		<desc>The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Doom (USA).png</image>
@@ -89,7 +89,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Dragon Lore (USA) (Disc 2).cue</path>
+		<path>./Dragon Lore (USA) (Disc 2).chd</path>
 		<name>Dragon Lore - The Legend Begins</name>
 		<desc>You are Werner Von Wallenrod, an orphan living in a realm lost in time. You leave to travel across these lands and meet fantastically surreal characters who help you in your quest for truth. Your father was assassinated by the Devil's Horseman, Haagen Von Kiakonov, has vowed to destroy everything you know and love. Just before your father died, he was able to entrust you with a farmer in the kingdom, but now the hour has arrived for you to take up arms and defend your country.    Inexperienced in the art of combat, you must prove yourself all throughout the voyage that awaits you.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Dragon Lore (USA) (Disc 2).png</image>
@@ -102,7 +102,7 @@
 		<genre>Adventure-Role playing games</genre>
 	</game>
 	<game>
-		<path>./Family Feud (USA).cue</path>
+		<path>./Family Feud (USA).chd</path>
 		<name>Family Feud</name>
 		<desc>This game is based on the television game show, Family Feud. The game supports both single player and multiplayer. Contestants choose the best answers based on the questions asked by the virtual game show host. The game features families that are in full motion video and the host ask questions in a digitized voice. Besides having the regular rounds, the game also has the Bullseye Round and the Fast Money Round. There are 5 levels of computer intelligence to play against.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Family Feud (USA).png</image>
@@ -115,7 +115,7 @@
 		<genre>Puzzle-Game</genre>
 	</game>
 	<game>
-		<path>./Fatty Bear's Birthday Surprise (USA).cue</path>
+		<path>./Fatty Bear's Birthday Surprise (USA).chd</path>
 		<name>Fatty Bear's Birthday Surprise</name>
 		<desc>Fatty Bear's Birthday Surprise is the second video game made by Humongous Entertainment (the first being Putt-Putt Joins the Parade) and the first and only of the Fatty Bear point and click adventure games, though the character was also used in the mini-game compilation Fatty Bear's Fun Pack and the crossover spinoff Putt-Putt &amp; Fatty Bear's Activity Pack, which was a combination of the previous game as well as a similar game featuring HE's character Putt-Putt. It was released in 1993 on both floppy disks and CD-ROM for DOS and Macintosh as well as the 3DO Interactive Multiplayer.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Fatty Bear's Birthday Surprise (USA).png</image>
@@ -129,7 +129,7 @@
 		<players>1-10</players>
 	</game>
 	<game>
-		<path>./FIFA International Soccer (USA).cue</path>
+		<path>./FIFA International Soccer (USA).chd</path>
 		<name>Fifa International Soccer</name>
 		<desc>Based on international teams (with fictional player names), their abilities in each skill area rated out of 10 to give the player an overall impression of how good they are. The options available follow the standard set: fouls and offsides can be toggled on and off, the match length can be set, and if the timer operates continuously, or only while the ball is in play. Gameplay privileges quick runs, short passes and blistering shots outside the penalty box, and set pieces are controlled by moving a box into the target area for the ball, and then passed, lobbed or kicked directly. On the tactical side, formations can be selected, with 5 different strategies also available (although not all of these combinations make sense) as can the team Coverage - the areas which defenders, midfielders and strikers cover.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/FIFA International Soccer (USA).png</image>
@@ -143,7 +143,7 @@
 		<players>1-6</players>
 	</game>
 	<game>
-		<path>./Night Trap (USA) (Disc 2).cue</path>
+		<path>./Night Trap (USA) (Disc 2).chd</path>
 		<name>Night Trap (Disc 2)</name>
 		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.  Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Night Trap (USA) (Disc 1).png</image>
@@ -156,7 +156,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Pebble Beach Golf Links (USA).cue</path>
+		<path>./Pebble Beach Golf Links (USA).chd</path>
 		<name>Pebble Beach Golf Links</name>
 		<desc>Up to six players can play a round of golf on the world-famous Pebble Beach golf course in Sega Sports' Pebble Beach Golf Links. It features seven play modes including Tournament, Stroke Play, Skins Play, and Match Play, and narration and strategy by golf pro Craig Stadler. You also have the option of creating your own player and selecting your own custom set of golf clubs to challenge Craig Stadler and other AI players on the course. Stats, such as handicaps and course records, are tracked throughout the game. Also, if you ever tire of taking on your friends and the AI, you can play the game in Watch Mode and simply lay back and watch Craig Stadler take on the competition on the Pebble Beach course.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Pebble Beach Golf Links (USA).png</image>
@@ -169,7 +169,7 @@
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./PGA Tour 96 (USA).cue</path>
+		<path>./PGA Tour 96 (USA).chd</path>
 		<name>Pga Tour 96</name>
 		<desc>PGA Tour 96 was the last of the series released for Sega's 16-bit console, and technologically the most advanced one. Instead of offering  several generic courses, the three available (Spyglass Hill, Sawgrass and River Highlands) are in 3D, with height differences visible (as well as the limited 3D abilities of the console allow).  The player can either chose to play as one of the 10 PGA Pros (whose swings were digitized), or go Pro - the game keeps track of statistics (longest drive, driving accuracy, best round, etc), a game (Tournament, Strokeplay, Skins, Match and Shootout), as well as a replay.  Gameplaywise, PGA 96 uses the tried-and-proved triple click system - one to start the swing, other to set strength and a final one for accuracy. It's possible to fade or draw the ball (to bend the trajectory), add backspin and pitch or chip the ball (for some medium range attempts at the hole or go above a bush).The difficulty level affects mostly the leniency of the triple click hit areas - while at novice it is possible to let the accuracy a bit off-center, in pro levels the ball goes where your swing took it - no excuses taken. However, only in Pro it is possible to make the longest drives, as the amateur and novice levels take a few yards from the total capacity of the club.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/PGA Tour 96 (USA).png</image>
@@ -183,7 +183,7 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./PO'ed (USA, Europe).cue</path>
+		<path>./PO'ed (USA, Europe).chd</path>
 		<name>Po'ed</name>
 		<desc>PO'ed is an action game similar to Doom. You are a cook who has to escape an alien world. With such weapons as frying pan and a drill, you must bash your way through levels full of monsters, one of them being a walking arse (yes, not kidding). One of the most useful items in game is a jetpack which you must use frequently to explore levels and get to places where no spacecook has gone before.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/PO'ed (USA, Europe).png</image>
@@ -196,7 +196,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Total Eclipse (USA).cue</path>
+		<path>./Total Eclipse (USA).chd</path>
 		<name>Total Eclipse</name>
 		<desc>Total Eclipse is a futuristic 3D shooter set in 2099 where an alien race by the name of the Drak-Sai are out to destroy humanity by destroying Earth and the Sun. The player controls an aircraft called a FireWing through 20 missions with a perspective behind the craft where the player can manuever the ship up and down, left and right and the gameplay angled towards an on-rail shooter.  Additionally, there are three different levels of power for each weapon that their craft can wield  The game is in the style of 3D textured mapping with the story is told through pre-rendered cut-scenes.  The PlayStation version is essentially the same except for sped up gameplay and a password feature that allows the player to pick up and play at their choosing.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Total Eclipse (USA).png</image>
@@ -209,7 +209,7 @@
 		<genre>Shoot'em Up-Action</genre>
 	</game>
 	<game id="14303" source="ScreenScraper.fr">
-		<path>./D (Europe) (Disc 2).cue</path>
+		<path>./D (Europe) (Disc 2).chd</path>
 		<name>D (Disc 2)</name>
 		<desc>D is basically an adventure game in which the player controlled main character Laura Harris, who must find out why her father has gone on a murderous rampage and is holding hostages in a hospital. The game uses pre-generated computer graphics and full motion video to tell its story. The player has two hours to solve the mystery of why Laura's father went on his bloody maasacre. The player manipulates the Laura character from both a first person and third person perspectives.    The game has several endings, a time's up ending, a good and bad ending, and a 100% completion ending. The ending a player witnessed was based on their actions throughout the game. The 100% complete ending includes the good ending and the addition of the sounds of a newborn baby crying. Some players inexplicably concluded that this sound of a baby crying meant that the visibly not pregnant Laura gave birth at the end of the game, a storyline development that some misguidedly believed would lead directly into the sequel, D2.</desc>
 		<rating>0.8</rating>
@@ -223,7 +223,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/D (Europe) (Disc 2).mp4</video>
 	</game>
 	<game id="14312" source="ScreenScraper.fr">
-		<path>./FIFA International Soccer (Europe).cue</path>
+		<path>./FIFA International Soccer (Europe).chd</path>
 		<name>Fifa International Soccer</name>
 		<desc>Based on international teams (with fictional player names), their abilities in each skill area rated out of 10 to give the player an overall impression of how good they are. The options available follow the standard set: fouls and offsides can be toggled on and off, the match length can be set, and if the timer operates continuously, or only while the ball is in play. Gameplay privileges quick runs, short passes and blistering shots outside the penalty box, and set pieces are controlled by moving a box into the target area for the ball, and then passed, lobbed or kicked directly. On the tactical side, formations can be selected, with 5 different strategies also available (although not all of these combinations make sense) as can the team Coverage - the areas which defenders, midfielders and strikers cover.</desc>
 		<rating>0.5</rating>
@@ -237,7 +237,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/FIFA International Soccer (USA).mp4</video>
 	</game>
 	<game id="14335" source="ScreenScraper.fr">
-		<path>./John Madden NFL Football (Europe).cue</path>
+		<path>./John Madden NFL Football (Europe).chd</path>
 		<name>John Madden Football</name>
 		<desc>John Madden and the NFL team up to create a new version of John Madden Football, designed specifically for the 3DO Interactive Multiplayer. You get the proven gameplay of the best selling 16-bit football game of all time, all new digitized graphics, CD quality sound and over 100 authentic video highlights from NFL Films. So, suit up and experience the only game that delivers real NFL action!</desc>
 		<rating>0</rating>
@@ -251,7 +251,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/John Madden NFL Football (Europe).mp4</video>
 	</game>
 	<game id="122928" source="ScreenScraper.fr">
-		<path>./True Golf Classics - Pebble Beach Golf Links (Europe).cue</path>
+		<path>./True Golf Classics - Pebble Beach Golf Links (Europe).chd</path>
 		<name>Pebble Beach Golf Links</name>
 		<desc>Up to six players can play a round of golf on the world-famous Pebble Beach golf course in Sega Sports' Pebble Beach Golf Links. It features seven play modes including Tournament, Stroke Play, Skins Play, and Match Play, and narration and strategy by golf pro Craig Stadler. You also have the option of creating your own player and selecting your own custom set of golf clubs to challenge Craig Stadler and other AI players on the course. Stats, such as handicaps and course records, are tracked throughout the game. Also, if you ever tire of taking on your friends and the AI, you can play the game in Watch Mode and simply lay back and watch Craig Stadler take on the competition on the Pebble Beach course.</desc>
 		<rating>0.7</rating>
@@ -264,7 +264,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/True Golf Classics - Pebble Beach Golf Links (Europe).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 2).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 2).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -277,7 +277,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 3).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 3).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -290,7 +290,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 4).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 4).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -303,7 +303,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 1).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 1).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -316,7 +316,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 2).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 2).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -329,7 +329,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 3).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 3).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -342,7 +342,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game id="14289" source="ScreenScraper.fr">
-		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 4).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 4).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<rating>0.85</rating>
@@ -355,7 +355,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).mp4</video>
 	</game>
 	<game>
-		<path>./D (Europe) (Disc 1).cue</path>
+		<path>./D (Europe) (Disc 1).chd</path>
 		<name>D (Disc 1)</name>
 		<desc>D is basically an adventure game in which the player controlled main character Laura Harris, who must find out why her father has gone on a murderous rampage and is holding hostages in a hospital. The game uses pre-generated computer graphics and full motion video to tell its story. The player has two hours to solve the mystery of why Laura's father went on his bloody maasacre. The player manipulates the Laura character from both a first person and third person perspectives.    The game has several endings, a time's up ending, a good and bad ending, and a 100% completion ending. The ending a player witnessed was based on their actions throughout the game. The 100% complete ending includes the good ending and the addition of the sounds of a newborn baby crying. Some players inexplicably concluded that this sound of a baby crying meant that the visibly not pregnant Laura gave birth at the end of the game, a storyline development that some misguidedly believed would lead directly into the sequel, D2.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/D (Europe) (Disc 1).png</image>
@@ -368,7 +368,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Foes of Ali (Europe).cue</path>
+		<path>./Foes of Ali (Europe).chd</path>
 		<name>Foes Of Ali</name>
 		<desc>Foes of Ali is a 3-D boxing game with ten different boxers to choose from: George Chuvalo, Henry Cooper, Jimmy Ellis, Bob Foster, Joe Frazier, Sonny Liston, Ken Norton, Leon Spinks, Chuck Wepner and of course the games namesake Muhammad Ali.    There are three modes to choose from: Exhibition where the player can choose any boxer to fight another, or the player can choose any of Ali's historic fights to play, Tournament where a player fights a series of boxers in an 8 man tournament tree to become champion and Career Mode, where the player can only play as Muhammed Ali and fight the other boxers in order as he did in real life.    Players fight opponents with the basic punch moves, jabs, uppercuts and hooks along with defensive moves like blocking and grabbing. Fatigue is not simulated, but players can slow down their opponents after a series of large successful hits along with bruises, blooded and black eyes.    There are 21 different camera views to choose from, including first-person that will react to their fighters being hit (ex. if a player keeps getting hit in the eyes, the screen will start to blacken, simulating a swollen eye and if they take a hard enough punch they will actually see the game through double vision). Championship photos of each boxer is also show before a fight and commentary is provided by Tim Gammon.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Foes of Ali (Europe).png</image>
@@ -382,7 +382,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Immercenary - Combat in a Digital World (USA).cue</path>
+		<path>./Immercenary - Combat in a Digital World (USA).chd</path>
 		<name>Immercenary</name>
 		<desc>In the future, mankind has been enslaved in a virtual reality simulation known as Perfect. This simulation is controlled by an entity known as Perfect1 and it has to be destroyed in order to shut down the system. You are Immercenary Number Five, and it's your job to do it.     From a secret lab you log into the simulation which sends you to a place in Perfect known as the Garden. Every entity in the game has a certain rank that determines its offensive and defensive capabilities. You start at 255, the lowest rank, and must rise in ranks to defeat Perfect1, who holds rank number 1. To do so, you destroy higher-ranked Rithms, as the other entities in the game are called. To pass beyond certain ranks, unique Rithms high in the Perfect hierarchy have to be destroyed.    Different weapons and power-ups can be collected and spent offensive and defensive energy can be recharged at energy spires. In the center of the Garden is a place called DOAsys, which functions as a neutral zone and healing center. There you can talk to other Rithms and ask for hints about combating special Rithms and where to find special items. These dialogue sequences take the form of live action clips of actors in elaborate costumes playing the Rithms.    When the player logs out of the simulation or is violently forced out, he returns to the lab where one may load and save a game and access detailed statistics on the trips to Perfect.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Immercenary - Combat in a Digital World (USA).png</image>
@@ -395,7 +395,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./John Madden Football (USA).cue</path>
+		<path>./John Madden Football (USA).chd</path>
 		<name>John Madden Football</name>
 		<desc>John Madden and the NFL team up to create a new version of John Madden Football, designed specifically for the 3DO Interactive Multiplayer. You get the proven gameplay of the best selling 16-bit football game of all time, all new digitized graphics, CD quality sound and over 100 authentic video highlights from NFL Films. So, suit up and experience the only game that delivers real NFL action!</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/John Madden Football (USA).png</image>
@@ -409,7 +409,7 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Alone in the Dark (Europe) (En,Fr).cue</path>
+		<path>./Alone in the Dark (Europe) (En,Fr).chd</path>
 		<name>Alone In The Dark</name>
 		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.   Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.   To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.   Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Alone in the Dark (Europe) (En,Fr).png</image>
@@ -422,7 +422,7 @@
 		<genre>Action-Adventure</genre>
 	</game>
 	<game>
-		<path>./Killing Time (Europe).cue</path>
+		<path>./Killing Time (Europe).chd</path>
 		<name>Killing Time</name>
 		<desc>In the early 1930's, Tess Conway, obsessed with ancient Egypt, and her guests vanished without trace... right in the middle of a wild party on the Conway island estate. Sixty years after this events it's your mission to investigate the strange events that took place in those days.  Though Killing Time is graphically a typical Doom clone, there are some differences: the game has one huge level instead of many smaller ones which allows you to return to old places at any time, i.e. to pick up health packs or ammunition. Also the spirits of Tess and her guests appear occasionally and bring the story of that evening to light helping you to find keys, to unlock doorways, to locate secret passages and to solve puzzles.  Killing Time was originally developed for the 3DO, and was later converted to the PC.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Killing Time (Europe).png</image>
@@ -435,7 +435,7 @@
 		<genre>Lightgun Shooter-Action</genre>
 	</game>
 	<game>
-		<path>./Night Trap (USA) (Disc 1).cue</path>
+		<path>./Night Trap (USA) (Disc 1).chd</path>
 		<name>Night Trap</name>
 		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.  Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Night Trap (USA) (Disc 1).png</image>
@@ -448,7 +448,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Olympic Soccer (USA).cue</path>
+		<path>./Olympic Soccer (USA).chd</path>
 		<name>Olympic Soccer</name>
 		<desc>While the soccer tournament is often downplayed not only inside the Olympic movement, but also by the soccer-following community, in 1996, by the occasion of the Games of the XXVI Olympiad in Atlanta, US Gold decided to release a game representing the tournament.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Olympic Soccer (USA).png</image>
@@ -461,7 +461,7 @@
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./PaTaank (Europe).cue</path>
+		<path>./PaTaank (Europe).chd</path>
 		<name>Pataank</name>
 		<desc>If you've ever thought of what it feels like to be the ball in a pinball machine, playing PaTaank might give you some idea.  Instead of flapping the flippers, the player controls the ball, or in PaTaank, a UFO-shaped puck around the three different tables.  The tables are named Surf Room, Luv Room, and Disaster Room and they are connected to each other via Nexus.  Player can choose to play one room or in the MetaGame mode, all of them in sequence.  Each room has an objective and in the MetaGame mode, player must reach that objective to advance into the next room via the Nexus.    Like any pinball, there are targets, tunnels, blocks, and all sorts of flashing things that increase the score, light up letters, or grant bonus items.  In addition to inertial control of the puck, player can apply thrust, which is limited, and activate magnetos, which are scattered around the room.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/PaTaank (Europe).png</image>
@@ -474,7 +474,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Primal Rage (Europe).cue</path>
+		<path>./Primal Rage (Europe).chd</path>
 		<name>Primal Rage</name>
 		<desc>A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.  Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Primal Rage (Europe).png</image>
@@ -488,7 +488,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Return Fire - Maps o' Death (Europe).cue</path>
+		<path>./Return Fire - Maps o' Death (Europe).chd</path>
 		<name>Return Fire - Maps O' Death</name>
 		<desc>Return Fire: Maps O' Death is an add-on for the original Return Fire with over 100 new levels to choose from with a variety of environments including massive sandy beaches, water warfare and heavily populated areas. It still supports two players for head-to-head war and a password system to access levels.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Return Fire - Maps o' Death (Europe).png</image>
@@ -501,7 +501,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Sewer Shark (Europe).cue</path>
+		<path>./Sewer Shark (Europe).chd</path>
 		<name>Seewer Shark</name>
 		<desc>Sewer Shark is an FMV-based shooter, and one of the first games released for the Sega CD. You move a crosshair around the screen and shoot targets. Occasionally, you can also choose to change directions at fixed points.    Of course the real attraction in a game like this is the story. In the future, maybe in the year 2000, people will be forced to move underground and live in tunnels. Unfortunately, these tunnels are infested with mutated rat / alligator creatures known as "ratigators." You are pilot of a Sewer Shark, a craft designed to navigate the Sewers and rid them of ratigators. It's a dangerous job, but if you clear out enough vermin you can win a one-way trip to Solar City and sunny beaches.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Sewer Shark (Europe).png</image>
@@ -515,7 +515,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Soccer Kid (USA).cue</path>
+		<path>./Soccer Kid (USA).chd</path>
 		<name>Soccer Kid</name>
 		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.  Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.  There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Soccer Kid (USA).png</image>
@@ -528,7 +528,7 @@
 		<genre>Platform-Action</genre>
 	</game>
 	<game>
-		<path>./Space Ace (Europe) (Demo).cue</path>
+		<path>./Space Ace (Europe) (Demo).chd</path>
 		<name>Space Ace</name>
 		<desc>Following the successful gameplay of Dragon's Lair, Don Bluth released this second conversion of his Laserdisc games series.  You're playing Dexter, a guy fighting the evil madman Borf who has kidnapped your girlfriend Kimberly and is now threatening the world with his dreaded weapon, the "Infanto Ray" which turns adults into small children.  The game plays like a comic strip - visuals are similar to many cartoon movies. In each scene you only have to decide which direction of the keyboard has to be hit in order to avoid one of the countless death screens and to advance to the next screen...</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Space Ace (Europe) (Demo).png</image>
@@ -541,7 +541,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Space Hulk - Vengeance of the Blood Angels (Europe).cue</path>
+		<path>./Space Hulk - Vengeance of the Blood Angels (Europe).chd</path>
 		<name>Space Hulk : Vengeance of the Blood Angels</name>
 		<desc>Space Hulk: Vengeance of the Blood Angels is a mix of a First-Person-Shooter and a tactical fighting game. It is placed in the Warhammer 40k background of the Games Workshop table top games. It is the successor of the PC game Space Hulk from 1993 and it tells of the fight between the imperial Terminator Chapters and the Tyranid Gene Stealers. You control up to ten Terminators. You give them orders in a tactical screen and/or take over one of them and then move in a 3D environment and fight the Gene Stealers just as in a First- Person-Shooter. So the game includes tactical planning and fighting in a good balance.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Space Hulk - Vengeance of the Blood Angels (Europe).png</image>
@@ -554,7 +554,7 @@
 		<genre>Action-Strategy</genre>
 	</game>
 	<game>
-		<path>./Star Fighter (Europe).cue</path>
+		<path>./Star Fighter (Europe).chd</path>
 		<name>Star Fighter</name>
 		<desc>3037. FedNet is now in control of the federation, and at an attempt to gain trust of the population following decades of corruption and warfare, the FedNet Space Corps were sent to the outermost planets to crush the small-time warlords still running the show there. After being "convinced" to join them in a tour of duty, he is assigned to an elite flight group with the only purpose of testing the most cutting edge technology.    A remake of the original game of the same title released a few years before for the Acorn Archimedes platform, Starfighter 3000 features more detailed graphics (now all surfaces are texture-mapped and a fogging filter reduces clipping). Featuring 15 levels in 4 worlds, the player controls the Predator Mark-IV, a fighter ship capable of space and atmospheric flight. However, other than the handy boost button, the player has no control over the throttle, (unless he uses a flight stick with thrust controls such as 3DO's CH Pro stick) and must keep moving at all times.     </desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Star Fighter (Europe).png</image>
@@ -567,7 +567,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Star Wars - Rebel Assault (Europe).cue</path>
+		<path>./Star Wars - Rebel Assault (Europe).chd</path>
 		<name>Star Wars : Rebel Assault</name>
 		<desc>You play a Rebel space cadet and have various missions to complete: Flying starships, destroying Walkers, infiltrating an enemy base etc. All viewpoints and gameplay is through the use of motion video backdrops.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Star Wars - Rebel Assault (Europe).png</image>
@@ -579,7 +579,7 @@
 		<publisher>LucasArts</publisher>
 	</game>
 	<game>
-		<path>./Starblade (Europe).cue</path>
+		<path>./Starblade (Europe).chd</path>
 		<name>Starblade</name>
 		<desc>Sitting in the gunner position of a "GeoSword" fightercraft, you must shoot your way through the enemy armada and bring the fight to their base planet, Redeye. Altogether you'll have around 10 missions to get through before the galaxy is safe and your wingmen will help you along the way. And during those missions, you'll be expected to shoot out the sides of huge enemy battlecruisers, travel inside of enemy carriers and travel through the canyons of Redeye to deliver your payload.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Starblade (Europe).png</image>
@@ -592,7 +592,7 @@
 		<genre>Lightgun Shooter-Action</genre>
 	</game>
 	<game>
-		<path>./Striker - World Cup Special (Europe).cue</path>
+		<path>./Striker - World Cup Special (Europe).chd</path>
 		<name>Striker : World Cup Special</name>
 		<desc>World Cup Tournament action with teams from 24 countries. You can do pass, trap, sliding tackle and more as a player. Six parameters for each player give them realistic character.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Striker - World Cup Special (Europe).png</image>
@@ -605,7 +605,7 @@
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./Super Street Fighter II Turbo (USA).cue</path>
+		<path>./Super Street Fighter II Turbo (USA).chd</path>
 		<name>Super Street Fighter II Turbo</name>
 		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.  Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Super Street Fighter II Turbo (USA).png</image>
@@ -619,7 +619,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Super Street Fighter II Turbo (Europe).cue</path>
+		<path>./Super Street Fighter II Turbo (Europe).chd</path>
 		<name>Super Street Fighter II Turbo</name>
 		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.  Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Super Street Fighter II Turbo (Europe).png</image>
@@ -633,7 +633,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Syndicate (Europe).cue</path>
+		<path>./Syndicate (Europe).chd</path>
 		<name>Syndicate</name>
 		<desc>In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hit man) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.  The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way.  You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Syndicate (Europe).png</image>
@@ -646,7 +646,7 @@
 		<genre>Strategy</genre>
 	</game>
 	<game>
-		<path>./Horde, The (Europe).cue</path>
+		<path>./Horde, The (Europe).chd</path>
 		<name>The Horde</name>
 		<desc>You are Chauncey, a serving lad who saves his monarch from choking on his meal. The King rewards you with his magical sword, Grimthwacker, and a village, and the mission to go forth and prosper by felling waves of Hordlings, who are bent on eating everything in the province. The better you get at defending villagers, crops, and cows from Hordlings, the better equipped you become. Success wins you further favor from the King, along with bigger challenges and more enmity from the evil High Chancellor. There are several types of Hordlings, each with their peculiar style of picking through the edibles under your care. Success is measured by how many villagers and crops survive each season's gluttonous attacks.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Horde, The (Europe).png</image>
@@ -659,7 +659,7 @@
 		<genre>Strategy</genre>
 	</game>
 	<game>
-		<path>./Theme Park (Europe).cue</path>
+		<path>./Theme Park (Europe).chd</path>
 		<name>Theme Park</name>
 		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.  Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest. Staff must be hired to keep everything running smoothly, and they will only work for what they consider a fair rate of pay.  You are competing against other Theme Parks, so don't let them get an advantage over you - monitor your success in attracting customers and financial viability closely using the supplied statistics pages. More important, ensure that research is adequately funded to produce new rides.  It can be played in three modes - Sandbox level lets you concentrate on the park design elements, while Sim and Full add more strategic features.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Theme Park (Europe).png</image>
@@ -672,7 +672,7 @@
 		<genre>Simulation-Strategy</genre>
 	</game>
 	<game>
-		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 1).cue</path>
+		<path>./Wing Commander III - Heart of the Tiger (Europe) (Disc 1).chd</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.    Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Wing Commander III - Heart of the Tiger (Europe) (Disc 1).png</image>
@@ -684,7 +684,7 @@
 		<publisher>Electronic Arts</publisher>
 	</game>
 	<game id="14358" source="ScreenScraper.fr">
-		<path>./Blade Force (Japan).cue</path>
+		<path>./Blade Force (Japan).chd</path>
 		<name>Blade Force</name>
 		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
 		<rating>0.55</rating>
@@ -698,7 +698,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Blade Force (Japan).mp4</video>
 	</game>
 	<game id="88930" source="ScreenScraper.fr">
-		<path>./Emit Vol. 2 - Inochigake no Tabi (Japan).cue</path>
+		<path>./Emit Vol. 2 - Inochigake no Tabi (Japan).chd</path>
 		<name>Emit Vol 1 - Toki No Maigo</name>
 		<desc>The plot is about a girl that can travel through time by walking in a mysterious tunnel.</desc>
 		<rating>0</rating>
@@ -709,7 +709,7 @@
 		<image>/home/pi/addonusb/roms/3do/mixart/Emit Vol. 1 - Toki no Maigo (Japan).png</image>
 	</game>
 	<game id="122876" source="ScreenScraper.fr">
-		<path>./Game no Tatsujin (Japan).cue</path>
+		<path>./Game no Tatsujin (Japan).chd</path>
 		<name>Game No Tatsujin</name>
 		<desc>Game no Tatsujin - a collection of board games, common in Asia. This Mahjong Shogi, Reversi, and 5-in-a-row.</desc>
 		<rating>0</rating>
@@ -719,7 +719,7 @@
 		<marquee>/home/pi/addonusb/roms/3do/wheel/Game no Tatsujin (Japan).png</marquee>
 	</game>
 	<game id="122892" source="ScreenScraper.fr">
-		<path>./Jikki Pachi-Slot Simulator Vol. 1 (Japan).cue</path>
+		<path>./Jikki Pachi-Slot Simulator Vol. 1 (Japan).chd</path>
 		<name>Jikki Pachi Slot Simulator Vol. 1</name>
 		<desc>Jikki Pachi-Slot Simulator Vol. 1 is a Miscellaneous game, published by Electronic Arts Victor, which was released in Japan in 1995</desc>
 		<rating>0</rating>
@@ -727,7 +727,7 @@
 		<image>/home/pi/addonusb/roms/3do/mixart/Jikki Pachi-Slot Simulator Vol. 1 (Japan).png</image>
 	</game>
 	<game id="122893" source="ScreenScraper.fr">
-		<path>./Kakinoki Shougi (Japan).cue</path>
+		<path>./Kakinoki Shougi (Japan).chd</path>
 		<name>Kakinoki Shogi</name>
 		<rating>0</rating>
 		<releasedate />
@@ -735,7 +735,7 @@
 		<marquee>/home/pi/addonusb/roms/3do/wheel/Kakinoki Shougi (Japan).png</marquee>
 	</game>
 	<game id="94247" source="ScreenScraper.fr">
-		<path>./Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).cue</path>
+		<path>./Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).chd</path>
 		<name>Nishimura Kyoutarou Travel Mystery - Akugyaku No Kisetsu</name>
 		<desc>Nishimura Kyoutarou Travel Mystery: Akugyaku no Kisetsu - Tokyo~Nanki Shirahama Renzoku Satsujin Jiken is an Adventure game, developed by TOSE and published by Pack-In-Video,  which was released in Japan in 1994.</desc>
 		<rating>0.8</rating>
@@ -745,14 +745,14 @@
 		<image>/home/pi/addonusb/roms/3do/mixart/Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).png</image>
 	</game>
 	<game id="122914" source="ScreenScraper.fr">
-		<path>./Nobunaga no Yabou - Haouden (Japan).cue</path>
+		<path>./Nobunaga no Yabou - Haouden (Japan).chd</path>
 		<name>Nobunaga No Yabou - Haouden</name>
 		<rating>0</rating>
 		<releasedate />
 		<image>/home/pi/addonusb/roms/3do/mixart/Nobunaga no Yabou - Haouden (Japan).png</image>
 	</game>
 	<game id="122928" source="ScreenScraper.fr">
-		<path>./T&amp;E VR Golf - Pebble Beach no Hatou (Japan).cue</path>
+		<path>./T&amp;E VR Golf - Pebble Beach no Hatou (Japan).chd</path>
 		<name>Pebble Beach Golf Links</name>
 		<desc>Up to six players can play a round of golf on the world-famous Pebble Beach golf course in Sega Sports' Pebble Beach Golf Links. It features seven play modes including Tournament, Stroke Play, Skins Play, and Match Play, and narration and strategy by golf pro Craig Stadler. You also have the option of creating your own player and selecting your own custom set of golf clubs to challenge Craig Stadler and other AI players on the course. Stats, such as handicaps and course records, are tracked throughout the game. Also, if you ever tire of taking on your friends and the AI, you can play the game in Watch Mode and simply lay back and watch Craig Stadler take on the competition on the Pebble Beach course.</desc>
 		<rating>0.7</rating>
@@ -765,7 +765,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/T&amp;E VR Golf - Pebble Beach no Hatou (Japan).mp4</video>
 	</game>
 	<game id="14325" source="ScreenScraper.fr">
-		<path>./Policenauts (Japan) (Disc 2).cue</path>
+		<path>./Policenauts (Japan) (Disc 2).chd</path>
 		<name>Policenauts (Disc 2)</name>
 		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown.   One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.  Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...  This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
 		<rating>0.6</rating>
@@ -779,7 +779,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Policenauts (Japan) (Disc 1).mp4</video>
 	</game>
 	<game id="14309" source="ScreenScraper.fr">
-		<path>./Return Fire (Japan) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).cue</path>
+		<path>./Return Fire (Japan) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).chd</path>
 		<name>Return Fire</name>
 		<desc>Return Fire is the spiritual successor to Fire Power and it fits in both the strategy and action genres. You can take control of one of 4 vehicles, a jeep, helicopter, tank and a missile launching vehicle (but actually called The Armoured Support Vehicle (ASV).  There are are two ways to win, the easier one would be to capture the enemy's flag by bringing it to your bunker with the frail Jeep. This is the main objective. The other way to win is to destroy your enemy, a secondary objective.</desc>
 		<rating>0.6</rating>
@@ -793,14 +793,14 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Return Fire (Japan) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).mp4</video>
 	</game>
 	<game id="167120" source="ScreenScraper.fr">
-		<path>./T&amp;E VR Golf - Devil's Course (Japan).cue</path>
+		<path>./T&amp;E VR Golf - Devil's Course (Japan).chd</path>
 		<name>T And E Vr Golf - Devil's Course</name>
 		<rating>0</rating>
 		<releasedate />
 		<image>/home/pi/addonusb/roms/3do/mixart/T&amp;E VR Golf - Devil's Course (Japan).png</image>
 	</game>
 	<game id="14331" source="ScreenScraper.fr">
-		<path>./Horde, The (Japan).cue</path>
+		<path>./Horde, The (Japan).chd</path>
 		<name>The Horde</name>
 		<desc>You are Chauncey, a serving lad who saves his monarch from choking on his meal. The King rewards you with his magical sword, Grimthwacker, and a village, and the mission to go forth and prosper by felling waves of Hordlings, who are bent on eating everything in the province. The better you get at defending villagers, crops, and cows from Hordlings, the better equipped you become. Success wins you further favor from the King, along with bigger challenges and more enmity from the evil High Chancellor. There are several types of Hordlings, each with their peculiar style of picking through the edibles under your care. Success is measured by how many villagers and crops survive each season's gluttonous attacks.</desc>
 		<rating>0.65</rating>
@@ -814,7 +814,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Horde, The (Japan).mp4</video>
 	</game>
 	<game id="122956" source="ScreenScraper.fr">
-		<path>./Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).cue</path>
+		<path>./Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).chd</path>
 		<name>Tokimeki Mahjong Paradise Special - Koi No Tenpai Beat</name>
 		<rating>0</rating>
 		<releasedate />
@@ -822,7 +822,7 @@
 		<video>/home/pi/addonusb/roms/3do/snap/Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).mp4</video>
 	</game>
 	<game id="14369" source="ScreenScraper.fr">
-		<path>./T&amp;E VR Golf - Waialae no Kiseki (Japan).cue</path>
+		<path>./T&amp;E VR Golf - Waialae no Kiseki (Japan).chd</path>
 		<name>True Golf Classics : Waialae Country Club</name>
 		<desc>Grab your clubs and head for the first tee. This golf sim recreates the world famous Hawaiian Waialae Golf Course, noted for lots of bunkers and very fast greens. You can choose your golfer, assign him a caddy, pick your set of clubs and adjust the power, putting, technical, recovery and wind game stats to suit your personal preference. The game offers a practice training mode, a tournament mode and the ability to challenge your friends in a stroke match. Oddly, this game was not sanctioned by the PGA and assumes that the golfer is always male.</desc>
 		<rating>0</rating>
@@ -835,21 +835,21 @@
 		<video>/home/pi/addonusb/roms/3do/snap/T&amp;E VR Golf - Waialae no Kiseki (Japan).mp4</video>
 	</game>
 	<game id="122966" source="ScreenScraper.fr">
-		<path>./Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).cue</path>
+		<path>./Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).chd</path>
 		<name>Virtual Cameraman Part 1 - Naomi Sawada And Anna Juri</name>
 		<rating>0</rating>
 		<releasedate />
 		<image>/home/pi/addonusb/roms/3do/mixart/Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).png</image>
 	</game>
 	<game id="122967" source="ScreenScraper.fr">
-		<path>./Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).cue</path>
+		<path>./Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).chd</path>
 		<name>Virtual Cameraman Part 2 - Kawai Natsumi And Tachihara Kimi</name>
 		<rating>0</rating>
 		<releasedate />
 		<image>/home/pi/addonusb/roms/3do/mixart/Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).png</image>
 	</game>
 	<game id="14386" source="ScreenScraper.fr">
-		<path>./Winning Post (Japan).cue</path>
+		<path>./Winning Post (Japan).chd</path>
 		<name>Winning Post</name>
 		<desc>Winning Post lets the player take control of a stable of horse, breeding and training them for the ultimate goal, to win the French Grand Prix.  The player can hire breeders, trainers and jockeys and race in over 240 different races to earn more money to buy even better personnel and breed faster and stronger horses as well as keeping their horses healthy.  Players can also bet on races as well.  The gameplay consists of choosing options before races, such as choosing which horses to train and what regiment they undertake, view stats, hire personnel and place bets.  However the player has no controls over races and cannot participate and only view as a spectator.</desc>
 		<rating>0</rating>
@@ -862,14 +862,14 @@
 		<marquee>/home/pi/addonusb/roms/3do/wheel/Winning Post (Japan).png</marquee>
 	</game>
 	<game id="122974" source="ScreenScraper.fr">
-		<path>./Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).cue</path>
+		<path>./Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).chd</path>
 		<name>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken</name>
 		<rating>0</rating>
 		<releasedate />
 		<image>/home/pi/addonusb/roms/3do/mixart/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).png</image>
 	</game>
 	<game>
-		<path>./Alone in the Dark (Japan).cue</path>
+		<path>./Alone in the Dark (Japan).chd</path>
 		<name>Alone In The Dark</name>
 		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.   Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.   To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.   Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Alone in the Dark (Japan).png</image>
@@ -882,7 +882,7 @@
 		<genre>Action-Adventure</genre>
 	</game>
 	<game>
-		<path>./Aqua World - Umibi Monogatari (Japan).cue</path>
+		<path>./Aqua World - Umibi Monogatari (Japan).chd</path>
 		<name>Aqua World - Umibi Monogatari</name>
 		<desc>Aqua World - Umibi Monogatari is a game that invites the player to discover and learn more about the seabed.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Aqua World - Umibi Monogatari (Japan).png</image>
@@ -895,7 +895,7 @@
 		<genre>Puzzle-Game</genre>
 	</game>
 	<game>
-		<path>./Battle Pinball (Japan).cue</path>
+		<path>./Battle Pinball (Japan).chd</path>
 		<name>Battle Pinball</name>
 		<desc>Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.    Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Battle Pinball (Japan).png</image>
@@ -909,7 +909,7 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Chiki Chiki Machine Mou Race 2 - In Space (Japan).cue</path>
+		<path>./Chiki Chiki Machine Mou Race 2 - In Space (Japan).chd</path>
 		<name>Chiki Chiki Machine Mou Race 2 - In Space</name>
 		<desc>A clear story driven Japanese Point and Click/Racing simulation based on the classic Wacky Races cartoon. This game was devoloped and Published by Future Pirates in 1995</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Chiki Chiki Machine Mou Race 2 - In Space (Japan).png</image>
@@ -919,7 +919,7 @@
 		<releasedate />
 	</game>
 	<game>
-		<path>./Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).cue</path>
+		<path>./Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).chd</path>
 		<name>Chiki Chiki Machine Mou-race</name>
 		<desc>Chiki Chiki Machine Mou Race is an Adventure game, developed and published by Future Pirates, which was released in Japan in 1994. The game revolves betting on cars and watching a FMV to see which one will win.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).png</image>
@@ -932,7 +932,7 @@
 		<genre>Adventure / Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./Doctor Hauzer (Japan).cue</path>
+		<path>./Doctor Hauzer (Japan).chd</path>
 		<name>Doctor Hauzer</name>
 		<desc>In 1952, An investigator searching for the archeologist Dr. Hauzer has disappeared. He built his house over an archeologist site and became obsessed with the deity Kellbim to whom he sacrifices his interns. You will die numerous times in the house's deadly traps but you have unlimited save games so you can viewing the death animations is part of the fun. You can switch the view between first-person, third-person or overhead. Choosing a different view will help you overcome some traps.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Doctor Hauzer (Japan).png</image>
@@ -945,7 +945,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Emit Vol. 1 - Toki no Maigo (Japan).cue</path>
+		<path>./Emit Vol. 1 - Toki no Maigo (Japan).chd</path>
 		<name>Emit Vol 1 - Toki No Maigo</name>
 		<desc>The plot is about a girl that can travel through time by walking in a mysterious tunnel.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Emit Vol. 1 - Toki no Maigo (Japan).png</image>
@@ -956,7 +956,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Flopon World (Kashou) (Japan).cue</path>
+		<path>./Flopon World (Kashou) (Japan).chd</path>
 		<name>Furopon World</name>
 		<desc>A Minigame collection for the 3DO, developed and published by WARP, which was released in Japan in 1995.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Flopon World (Kashou) (Japan).png</image>
@@ -965,7 +965,7 @@
 		<releasedate>19700101T010000</releasedate>
 	</game>
 	<game>
-		<path>./Insector War (Japan).cue</path>
+		<path>./Insector War (Japan).chd</path>
 		<name>Insector War</name>
 		<desc>Insect War is an Action game, published by Riverhillsoft,  which was released in Japan in 1994.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Insector War (Japan).png</image>
@@ -977,7 +977,7 @@
 		<publisher>Riverhillsoft</publisher>
 	</game>
 	<game>
-		<path>./J. League Virtual Stadium (Japan).cue</path>
+		<path>./J. League Virtual Stadium (Japan).chd</path>
 		<name>J. League Virtual Stadium</name>
 		<desc>J.League Virtual Stadium is a Sports game, developed and published by Electronic Arts Victor, which was released in Japan in 1994.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/J. League Virtual Stadium (Japan).png</image>
@@ -990,7 +990,7 @@
 		<genre>Sports / Baseball-Sports-Sports / Soccer</genre>
 	</game>
 	<game>
-		<path>./Jurassic Park Interactive (Europe).cue</path>
+		<path>./Jurassic Park Interactive (Europe).chd</path>
 		<name>Jurassic Park Interactive</name>
 		<desc>Based on its namesake film, Jurassic Park Interactive places you as a park security guard and tasks you with guiding five to eleven visitors (based on the skill level you chose) to the safety of the helipad. You select each visitor from an overhead map, and must play one of three randomly-selected minigames to determine if they successfully make it to the next safe house:  - "Spitter Shoot" is a shooting gallery with Dilophosaurs as the targets. You use a stun gun which must be charged up to have maximum effect. Docile dinos also mix with the hostile ones, but turn hostile if shot unnecessarily.  - "T-Rex Chase" is a basic driving game where you must outrun a Tyranosaurus (visible in your rear-view mirror) while simultaneously staying on the road and dodging hazards.  - "Raptor Maze" is a 3D, first-person game where you must escape a darkened building while being stalked by Velociraptors of increasing numbers. You have no weapons, and must instead use gates to block the dinos and alternate pathways to slip by.  You must also hack computer locks to allow you access to the communications systems. Each lock is yet another minigame; these based off of arcade classics (Space Invaders, Asteroids) with dinosaurs and Jurassic Park characters.  Your final rating is given based on your success in both areas.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Jurassic Park Interactive (Europe).png</image>
@@ -1003,7 +1003,7 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Lemmings (Japan).cue</path>
+		<path>./Lemmings (Japan).chd</path>
 		<name>Lemmings</name>
 		<desc>More lemming action this time with new skills and obstacles for them to overcome. Three islands to adventure on each featuring a different tribe of Lemmings to save. They are as follows, Classic Lemmings, Egyptian Lemmings, or the Shadow Lemmings.  Sadly this game was cancelled for the 3DO. Although versions survive for the Amiga, and M-S Dos systems.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Lemmings (Japan).png</image>
@@ -1016,7 +1016,7 @@
 		<genre>Puzzle-Game-Strategy</genre>
 	</game>
 	<game>
-		<path>./T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).cue</path>
+		<path>./T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).chd</path>
 		<name>Masters Harukanaru Augusta 3</name>
 		<desc>Masters New: Harukanaru Augusta 3 is a golf sim and the third game in T&amp;E Soft's Harukanaru Augusta franchise. Like its predecessors, it is officially endorsed by the Masters Tournament golf competition and by Augusta National Golf Club, where the Masters takes place.    The game uses digitized photos for its golfers and crowds, as well as for menus and the title screen, for a sense of realism. The game also produces weather effects that can modify the course.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).png</image>
@@ -1028,7 +1028,7 @@
 		<genre>Sports / Golf-Sports</genre>
 	</game>
 	<game>
-		<path>./Myst (Germany).cue</path>
+		<path>./Myst (Germany).chd</path>
 		<name>Myst</name>
 		<desc>You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a superbly crafted description of an island world. But it's just a book, isn't it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you're here, wherever here is, with no option but to explore.  Myst is a first-person point-and-click adventure where the player controls a character known as The Stranger. Magically transported into the world described in the book, he needs to explore Myst Island and solve its mysteries. The game is presented as a series of static scenes where the player acts with the environment by clicking and manipulating objects. There are no enemies and it is not possible to die. Through Myst Island, the game is further divided into mini-worlds set in different ages accessed through different books.  The PSP version adds new adventure scenarios and includes widescreen support.  The DS version includes a completely new age, the Rime Age, and, next to a code rewrite, includes new and re-mastered sound effects and video clips.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Myst (Germany).png</image>
@@ -1041,7 +1041,7 @@
 		<genre>Adventure-Puzzle-Game</genre>
 	</game>
 	<game>
-		<path>./Myst (Japan).cue</path>
+		<path>./Myst (Japan).chd</path>
 		<name>Myst</name>
 		<desc>You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a superbly crafted description of an island world. But it's just a book, isn't it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you're here, wherever here is, with no option but to explore.  Myst is a first-person point-and-click adventure where the player controls a character known as The Stranger. Magically transported into the world described in the book, he needs to explore Myst Island and solve its mysteries. The game is presented as a series of static scenes where the player acts with the environment by clicking and manipulating objects. There are no enemies and it is not possible to die. Through Myst Island, the game is further divided into mini-worlds set in different ages accessed through different books.  The PSP version adds new adventure scenarios and includes widescreen support.  The DS version includes a completely new age, the Rime Age, and, next to a code rewrite, includes new and re-mastered sound effects and video clips.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Myst (Japan).png</image>
@@ -1054,7 +1054,7 @@
 		<genre>Adventure-Puzzle-Game</genre>
 	</game>
 	<game>
-		<path>./Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).cue</path>
+		<path>./Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).chd</path>
 		<name>Nishimura Kyoutarou Travel Mystery - Akugyaku No Kisetsu</name>
 		<desc>Nishimura Kyoutarou Travel Mystery: Akugyaku no Kisetsu - Tokyo~Nanki Shirahama Renzoku Satsujin Jiken is an Adventure game, developed by TOSE and published by Pack-In-Video,  which was released in Japan in 1994.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).png</image>
@@ -1064,7 +1064,7 @@
 		<publisher>Pack In Video</publisher>
 	</game>
 	<game>
-		<path>./Oceans Below (Japan).cue</path>
+		<path>./Oceans Below (Japan).chd</path>
 		<name>Oceans Below</name>
 		<image>/home/pi/addonusb/roms/3do/mixart/Oceans Below (Japan).png</image>
 		<video>/home/pi/addonusb/roms/3do/snap/Oceans Below (Japan).mp4</video>
@@ -1075,7 +1075,7 @@
 		<publisher>Multisoft</publisher>
 	</game>
 	<game>
-		<path>./Road &amp; Track Presents - Over Drivin' (Japan).cue</path>
+		<path>./Road &amp; Track Presents - Over Drivin' (Japan).chd</path>
 		<name>OverDrivin'</name>
 		<desc>Drive some of your favourite sports cars through wild and fast tracks, including the Dodge Viper, Lamborghini, Ferrari, Porsche, Corvette, Mazda RX7, Toyota Supra Turbo, and Acura NSX. Some of the tracks are open road, meaning you simply fly down a huge highway, with cops following in hot pursuit. One of the options in the game allows you to pick which time of the day to race in.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Road &amp; Track Presents - Over Drivin' (Japan).png</image>
@@ -1088,7 +1088,7 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Powers Kingdom (Japan).cue</path>
+		<path>./Powers Kingdom (Japan).chd</path>
 		<name>Powers Kingdom</name>
 		<desc>In a classic Japanese RPG style, Guardian War pits you as guardian golem against the dark forces of Azrael, the Evil Lord.  Your world is infested with monsters and your job is to destroy them.  Along the way you meet other golems that you need to revive so that they can join your quest.  Your ultimate goal is to defeat Azrael.  RPG elements are fairly standard with hit points, magic points, speed, mobility, skills, etc.  Each golem type has specific abilities, for example Priest is strong in Light Magic whereas Archer is strong in arrow attacks.  General movement is done on the World map which is divided into Fields and player is able to see which Fields are occupied by the enemy.  Shops are only accessible on the World map.  Selecting a Field takes the group of golems into a Field map which is presented in pseudo-3D.  Player can freely travel the Field map, finding treasures and other items, periodically bumping into enemy groups.  Battles are fought in turns on the same map, there is no separate battle screen.  Movement is into main compass directions only and the player controls the whole group when travelling.  Only during battle are each group member individually controllable.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Powers Kingdom (Japan).png</image>
@@ -1101,7 +1101,7 @@
 		<genre>Role playing games</genre>
 	</game>
 	<game>
-		<path>./Puzzle Bobble (Japan).cue</path>
+		<path>./Puzzle Bobble (Japan).chd</path>
 		<name>Puzzle Bobble</name>
 		<desc>Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory. The goal is to aim the bubbles in such a way that they will touch identically colored ones. When such bubbles form a group of three or more, they pop and disappear from the screen.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Puzzle Bobble (Japan).png</image>
@@ -1114,7 +1114,7 @@
 		<genre>Puzzle-Game-Strategy</genre>
 	</game>
 	<game>
-		<path>./Virtual Quest - Pharaoh no Fuuin (Japan).cue</path>
+		<path>./Virtual Quest - Pharaoh no Fuuin (Japan).chd</path>
 		<name>Seal Of The Pharaoh</name>
 		<desc>Seal of the Pharaoh is a mix of RPG, puzzle-solving and first-person adventuring.  The player takes control of the son of a prominent archaeologist, who has recently discovered the long lost tomb of Rassius III, and has gone missing. It is now up to the player to find him by exploring the tomb, but at the same time avoid the various traps and enemies laid out before them.  The perspective is from a first-person view as they progress through the maze-like pyramid equipped with a club, a shield and a diary.  As they progress they must avoid traps, but also use their club and shield to take out enemies such as giant wasps, scorpions and even haunted urns.  More powerful weapons and items can be obtained through further exploration as well as clues to decipher the diary and various puzzles that need to be solved in order to advance.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Virtual Quest - Pharaoh no Fuuin (Japan).png</image>
@@ -1127,14 +1127,14 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Sento Monogatari Sono I (Japan).cue</path>
+		<path>./Sento Monogatari Sono I (Japan).chd</path>
 		<name>Sento Monogatari Sono I</name>
 		<image>/home/pi/addonusb/roms/3do/mixart/Sento Monogatari Sono I (Japan).png</image>
 		<rating>0</rating>
 		<releasedate />
 	</game>
 	<game>
-		<path>./Shock Wave (USA).cue</path>
+		<path>./Shock Wave (USA).chd</path>
 		<name>Shock Wave</name>
 		<desc>The year is 2019 and the alien invasion is here. In a surprise attack, the aliens decimate Earth's military forces. Mankind's only hope is the surviving orbital space carrier Omaha and its squadron of F-177 pilots. As the young and unexperienced member of the squadron, it is your job to drive the aliens from the planet.  From the cockpit of your F-177 fighter, you can destroy the aliens who attack in vehicles like large walkers or quick and small aircraft. Use your lasers or missiles, but watch your ammunition and fuel and refill them from a supply depot if needed. The ten missions take you all over the globe, from Cairo to Los Angeles to the Congo. Between missions, live-action cutscenes continue the story.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Shock Wave (USA).png</image>
@@ -1147,7 +1147,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Shock Wave - Operation JumpGate (Japan).cue</path>
+		<path>./Shock Wave - Operation JumpGate (Japan).chd</path>
 		<name>Shock Wave : Operation JumpGate</name>
 		<desc>It has been 7 years since the alien attack on Earth has been repelled. Now, signs of the aliens have been detected within the solar system. It's again up to you to lead the assault before the aliens launch their second wave. This add-on to Shock Wave takes you to places in the solar system like Mars, the moons of Jupiter and Saturn and the asteroid belt in 5 new missions that feature new enemies. The story is again told through live-action cutscenes.  </desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Shock Wave - Operation JumpGate (Japan).png</image>
@@ -1159,7 +1159,7 @@
 		<publisher>Electronic Arts</publisher>
 	</game>
 	<game>
-		<path>./Super Street Fighter II X - Grand Master Challenge (Japan).cue</path>
+		<path>./Super Street Fighter II X - Grand Master Challenge (Japan).chd</path>
 		<name>Super Street Fighter II Turbo</name>
 		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.  Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Super Street Fighter II X - Grand Master Challenge (Japan).png</image>
@@ -1173,7 +1173,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Sword &amp; Sorcery (Japan).cue</path>
+		<path>./Sword &amp; Sorcery (Japan).chd</path>
 		<name>Sword &amp; Sorcery</name>
 		<desc>Follow the story of an absent-minded young sorceress Lucienne and her gang of misfit monsters, as they try to stop the evil mage Death Shadow from destroying the world.  Lucienne’s Quest is a game in classic roleplaying genre, but presented in full 3D graphics (and sprite characters) uncommon for the time. The battles are fought in traditional turn-based manner, but allow for more strategy than most classic RPGs. The game places ambient obstacles on the battlefield to block some attack paths, but allows the player to strategically reposition his fighters along the bottom two rows of the map before every turn to take advantage of the terrain. The game also features a dynamic day/night system which serves little purpose other than changing one of your party members from human into a werewolf and back.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Sword &amp; Sorcery (Japan).png</image>
@@ -1186,7 +1186,7 @@
 		<genre>Role playing games</genre>
 	</game>
 	<game>
-		<path>./Taiketsu Rumiizu! (Japan).cue</path>
+		<path>./Taiketsu Rumiizu! (Japan).chd</path>
 		<name>Taiketsu Rumiizu!</name>
 		<image>/home/pi/addonusb/roms/3do/mixart/Taiketsu Rumiizu! (Japan).png</image>
 		<video>/home/pi/addonusb/roms/3do/snap/Taiketsu Rumiizu! (Japan).mp4</video>
@@ -1194,14 +1194,14 @@
 		<releasedate>19700101T010000</releasedate>
 	</game>
 	<game>
-		<path>./Toki wo Koeta Tegami (Japan).cue</path>
+		<path>./Toki wo Koeta Tegami (Japan).chd</path>
 		<name>Toki O Koeta Tegami - The Letter That Came Over Time</name>
 		<image>/home/pi/addonusb/roms/3do/mixart/Toki wo Koeta Tegami (Japan).png</image>
 		<rating>0</rating>
 		<releasedate />
 	</game>
 	<game>
-		<path>./Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).cue</path>
+		<path>./Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).chd</path>
 		<name>Virtual Horror: Norowarate Yakata</name>
 		<desc>The undead have been unleashed upon the world. Only a holy talisman can destroy them, but it has been broken into pieces and hidden in Monster Manor. Now you must venture into the cursed mansion and find the pieces so that humanity may be saved.    The game is a first-person-shooter where you have to destroy enemies like ghosts, skeletons and zombies using your only gun. Items scattered around the house include health packs, gun energy, treasure and keys that are used to open doors that block your way to the next talisman piece. The game has twelve levels.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).png</image>
@@ -1215,7 +1215,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Virtuoso (Japan).cue</path>
+		<path>./Virtuoso (Japan).chd</path>
 		<name>Virtuoso</name>
 		<desc>Music and Virtual Reality are your only escapes in a world gone mad. Transform into a rock superstar on a 3D virtual quest where the Angry Red Planet, Mars, awaits your invasion. Or enter an eerie Haunted House with a few spectres of its own. Submerge yourself in our underwater biosphere, but beware, the reefs ahead hold many dangers. Music Video Clips and a hard rock soundtrack set the stage in this head-banging cyberfantasy adventure!</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Virtuoso (Japan).png</image>
@@ -1228,7 +1228,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Way of the Warrior (Japan).cue</path>
+		<path>./Way of the Warrior (Japan).chd</path>
 		<name>Way Of The Warrior</name>
 		<desc>Way of the Warrior is a 2d fighting game that features digitized graphics of real fighters, 3d rendered backgrounds and zoom effects. Players have to defeat 9 of the world's greatest warriors, plus a 'shadow' match, and a dragon to finally wins the opportunity to dethrone the champion.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Way of the Warrior (Japan).png</image>
@@ -1242,14 +1242,14 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).cue</path>
+		<path>./Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).chd</path>
 		<name>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken</name>
 		<image>/home/pi/addonusb/roms/3do/mixart/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).png</image>
 		<rating>0</rating>
 		<releasedate />
 	</game>
 	<game>
-		<path>./BattleSport (Europe).cue</path>
+		<path>./BattleSport (Europe).chd</path>
 		<name>Battlesport</name>
 		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/BattleSport (Europe).png</image>
@@ -1263,7 +1263,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./BladeForce (Europe).cue</path>
+		<path>./BladeForce (Europe).chd</path>
 		<name>Blade Force</name>
 		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/BladeForce (Europe).png</image>
@@ -1276,7 +1276,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Corpse Killer (USA).cue</path>
+		<path>./Corpse Killer (USA).chd</path>
 		<name>Corpse Killer</name>
 		<desc>Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.    The game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Corpse Killer (USA).png</image>
@@ -1290,7 +1290,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Road &amp; Track Presents - The Need for Speed (Europe).cue</path>
+		<path>./Road &amp; Track Presents - The Need for Speed (Europe).chd</path>
 		<name>The Need for Speed</name>
 		<desc>Drive some of your favourite sports cars through wild and fast tracks, including the Dodge Viper, Lamborghini, Ferrari, Porsche, Corvette, Mazda RX7, Toyota Supra Turbo, and Acura NSX. Some of the tracks are open road, meaning you simply fly down a huge highway, with cops following in hot pursuit. One of the options in the game allows you to pick which time of the day to race in.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Road &amp; Track Presents - The Need for Speed (Europe).png</image>
@@ -1303,7 +1303,7 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 1).cue</path>
+		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 1).chd</path>
 		<name>Shock Wave 2 : Beyond the Gate</name>
 		<desc>It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens. You take control of Flint. Aboard the Cortez, you can receive messages from your crew members, scan the planets in the system for possible mission sites and select suitable weapons and equipment for the next mission. Three different craft are available for the missions: a fighter, a hovercraft and a stationary turret used to give cover to your crew mates when they are on a mission. After completed missions, the wreckage from destroyed aliens is analyzed and used to produce better weapons and equipment. The storyline will take you through six different systems, each with a variety of missions to complete. Live-action cut-scenes continue the story.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Shockwave 2 - Beyond the Gate (USA) (Disc 1).png</image>
@@ -1315,7 +1315,7 @@
 		<publisher>Electronic Arts</publisher>
 	</game>
 	<game>
-		<path>./Slam 'n Jam '95 (Europe).cue</path>
+		<path>./Slam 'n Jam '95 (Europe).chd</path>
 		<name>Slam 'n Jam '95</name>
 		<desc>Slam 'N Jam '95 is a game similar in style to the arcade game Run &amp; Gun and NBA Jam, with a five-on-five team game in a 3-D style perspective.  The gameplay is geared towards more of an arcade feel rather than simulation and does not feature any NBA license but resembles actual teams and modeled after top players of the time.  It also features the obligatory modes such as Exhibition, Playoffs and Season and the ability to let friends go head-to-head.  Then CNN sportscaster Van Earl Wright lends his voice talents to the game for in game commentary.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Slam 'n Jam '95 (Europe).png</image>
@@ -1329,7 +1329,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Iron Angel of the Apocalypse (Europe).cue</path>
+		<path>./Iron Angel of the Apocalypse (Europe).chd</path>
 		<name>Tetsujin - Iron Angel of The Apocalypse</name>
 		<desc>You play a character known as Tetsujin. You are a cyborg/robot creation of an evil scientist. The scientist intended to use you to wipe out the human race, but instead you decided to turn against your maker and escape. The story unfolds as you fight your way to the top of a skyscraper to confront the mad scientist.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Iron Angel of the Apocalypse (Europe).png</image>
@@ -1342,7 +1342,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Trip'D (USA).cue</path>
+		<path>./Trip'D (USA).chd</path>
 		<name>Trip'd</name>
 		<desc>Trip'd is a falling block puzzle game similar to Puyo Puyo.  Instead of blocks, alien eggs of multiple colors fall down and the player must arrange them in a line of four of the same color in order to dispose of them.  However, if eggs of the same color are arranged into a square, they will hatch and form a giant alien that can instantly end the game for the player.  Players must complete the stage within a certain time limit or prevent the eggs to reach the top of the screen or else their game will end.  They also have the option to either play solo, against the computer or against a friend.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Trip'D (USA).png</image>
@@ -1355,7 +1355,7 @@
 		<genre>Puzzle-Game</genre>
 	</game>
 	<game>
-		<path>./Twisted - The Game Show (Europe).cue</path>
+		<path>./Twisted - The Game Show (Europe).chd</path>
 		<name>Twisted - The Game Show</name>
 		<desc>Similar to the You Don't Know Jack series of games, Twisted: The Game Show is a trivia challenge game for up to 4 players. The game offers a humorous mix of live character video and computer graphics.    After an introduction by the host Twink Fizzdale, you can select your personality by viewing video clips of the various characters egging you on to select them. You advance or retreat through the game board based on your responses to various puzzles, mini-games and trivia questions.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Twisted - The Game Show (Europe).png</image>
@@ -1369,7 +1369,7 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./VR Stalker (Europe).cue</path>
+		<path>./VR Stalker (Europe).chd</path>
 		<name>Vr Stalker</name>
 		<desc>Sometime in the near future, the United States has come under attack by a mysterious threat.  After New York and Los Angeles are destroyed, many Americans have formed an underground resistance to fight off the attackers using a VR Simulator to control their planes to keep their fighters alive.  The player has been recruited and is codenamed "Stalker" to defend the U.S. and bring back peace and order.    There are 15 missions in all, where the player has to complete certain objectives, such as destroy a certain amount of enemies or defend certain targets.  The planes are mostly modern age such as the A-10 Warthog. The player can choose to use either the plane's machine guns or missiles to bring down enemy targets.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/VR Stalker (Europe).png</image>
@@ -1382,7 +1382,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./World Cup Golf (Europe).cue</path>
+		<path>./World Cup Golf (Europe).chd</path>
 		<name>World Cup Golf - Hyatt Dorado Beach</name>
 		<desc>World Cup Golf takes the player to Puerto Rico's own Hyatt Dorado Beach Golf Course as they can choose from a bevy of fictional golfers or create their own in 18 rounds of golf. There are 15 types of tournaments to choose from including skins, medal and stableford to name a few. Players can also practice their swing on the driving range.    Players can also customize weather conditions as well as choose from a plethora of camera shots including the "Ball Cam" that follows the ball to its location. Like many golf games, a meter is used to determine the accuracy and the power of the players swing and also features in-game commentary.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/World Cup Golf (Europe).png</image>
@@ -1394,7 +1394,7 @@
 		<publisher>U.S. Gold</publisher>
 	</game>
 	<game>
-		<path>./Captain Quazar (USA).cue</path>
+		<path>./Captain Quazar (USA).chd</path>
 		<name>Captain Quazar</name>
 		<desc>The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Captain Quazar (USA).png</image>
@@ -1407,7 +1407,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Real Pinball (Europe).cue</path>
+		<path>./Real Pinball (Europe).chd</path>
 		<name>Fireball</name>
 		<desc>Real Pinball is the standard video game conversion of the actual machines with five different tables to choose from with the main goal being to gain as many points as possible by using the game controller to control the flippers of the machine. The game features realistic graphics made to resemble an actual machine.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Real Pinball (Europe).png</image>
@@ -1420,7 +1420,7 @@
 		<genre>Pinball-Simulation</genre>
 	</game>
 	<game>
-		<path>./Gex (Europe).cue</path>
+		<path>./Gex (Europe).chd</path>
 		<name>Gex</name>
 		<desc>Enter your television to defeat the evil Rez by collecting remotes to  open worlds inside your tv.  You are a gecko with all the usual platform hero skills such as jump, fire and close range attack, but also suction cups to help you scale walls, a tongue to pick up those tricky to get power-ups and plenty of wise-cracks to keep you amused. Use them all to make your way through TV land searching for the remotes, collecting pickups, power-ups and killing TVs.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Gex (Europe).png</image>
@@ -1433,7 +1433,7 @@
 		<genre>Platform-Action</genre>
 	</game>
 	<game>
-		<path>./Iron Angel of the Apocalypse - The Return (USA).cue</path>
+		<path>./Iron Angel of the Apocalypse - The Return (USA).chd</path>
 		<name>Iron Angel of the Apocalypse : The Return</name>
 		<desc>Tetsujin returns in this sequel to Iron Angel of the Apocalypse. The story picks up shortly after the events of the previous game. After his showdown with the Scientist and the Android, Tetsujin finds himself disembodied. A mysterious corporation known as SCR gives you a new body, but their plans for your are mysterious.    The format of this game is mostly similar to the first. This is a first person shooter that relies heavily on video cutscenes to tell a story. The graphics engine has been improved greatly, giving this game a much faster pace than it's predecessor. Whereas the original used a combination of live actors and CG, this one uses CG to depict the humans as well.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Iron Angel of the Apocalypse - The Return (USA).png</image>
@@ -1446,7 +1446,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Mega Race (Japan).cue</path>
+		<path>./Mega Race (Japan).chd</path>
 		<name>Megarace</name>
 		<desc>Virtual Television has given us a chance to do the things that we can't make real in everyday life: Race through 14 great tracks in 5 different environments in a totally virtual place where you can kill each other quite easily with sidekicks or guns. In every track you will see some symbols that can make your car speed up, slow up or even blow up, like your mega-host Lance Boyle says, "Who knows; who cares!" Everything you see in MegaRace is virtual and no one really dies there. So have fun!</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Mega Race (Japan).png</image>
@@ -1461,7 +1461,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Policenauts (Japan) (Disc 1).cue</path>
+		<path>./Policenauts (Japan) (Disc 1).chd</path>
 		<name>Policenauts</name>
 		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown.   One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.  Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...  This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Policenauts (Japan) (Disc 1).png</image>
@@ -1474,7 +1474,7 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Rise of the Robots (USA).cue</path>
+		<path>./Rise of the Robots (USA).chd</path>
 		<name>Rise Of The Robots</name>
 		<desc>You are a cyborg handyman in the far away future sent to a huge megacorporation where an evil AI has taken control of the companies robots. You are charged with facing these robots in combat and eliminating them one by one to reach the core and deactivate the AI.  Gameplay wise this is a standard beat-em-up with gorgeous graphics. It has some annoying limitations like not being able to jump over your enemy and only one fire button.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Rise of the Robots (USA).png</image>
@@ -1488,7 +1488,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Road Rash (USA).cue</path>
+		<path>./Road Rash (USA).chd</path>
 		<name>Road Rash</name>
 		<desc>This is a remake of the original Road Rash from the early nineties. For those who have not played the original, you are competing against thirteen other "Road Rashers" who will stop at nothing to win 1st, 2nd, or 3rd place. During the race, you have two options available to you: you can either do your best to cross the finish line, or use your weapon to bring the Rashers to the ground if they are giving you trouble. If you do the latter, your opponents will do the same to you during the next race that takes place.   There are five circuits to race: The City, The Peninsula, Pacific Highway, Sierra Nevada, and Napa Valley. Some of these circuits are dangerous. As well as the obstacles and traffic that you encounter along the way, there are also cops driving on bikes who will arrest you if you happen to crash or stop your bike near them, and you have to pay a fine in order to get in any more races. Your bike will be wrecked if you crash too many times, and you have to pay for damages, but the amount you have to pay depends on the bike that you are riding. Once you have completed the first five circuits, you have to race them again another four times - but at a much more difficult level. Manage to win all five circuits on all levels, and you win the Road Rash cup.  There are about five bikes to choose from, which are divided into three groups. Rat, Sport, and Super. You start the first level with a Rat bike, but as you proceed through the levels, it is important to pick bikes from a different bike class.  If you have no plans to win the Road Rash cup, you can choose the game's Thrash mode. The difference between this and the other mode is that there is no money involved (ie: you are not allowed to buy bikes), and you are competing against fourteen opponents. And if you wreck your bike or you get busted, you have to start all over again. Regardless of the mode you pick, you will always start in the last place.  The remake also contains FMV movies that usually depict the outcome of the races, as well as limited songs performed by various recording artists, including Soundgarden, Therapy?, Monster Magnet, and Swervedriver. These songs can be changed on-the-fly via the game's options menu.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Road Rash (USA).png</image>
@@ -1501,7 +1501,7 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Samurai Shodown (Europe).cue</path>
+		<path>./Samurai Shodown (Europe).chd</path>
 		<name>Samurai Shodown</name>
 		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness. Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Samurai Shodown (Europe).png</image>
@@ -1515,7 +1515,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 2).cue</path>
+		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 2).chd</path>
 		<name>Shock Wave 2 : Beyond the Gate</name>
 		<desc>It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens. You take control of Flint. Aboard the Cortez, you can receive messages from your crew members, scan the planets in the system for possible mission sites and select suitable weapons and equipment for the next mission. Three different craft are available for the missions: a fighter, a hovercraft and a stationary turret used to give cover to your crew mates when they are on a mission. After completed missions, the wreckage from destroyed aliens is analyzed and used to produce better weapons and equipment. The storyline will take you through six different systems, each with a variety of missions to complete. Live-action cut-scenes continue the story.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Shockwave 2 - Beyond the Gate (USA) (Disc 1).png</image>
@@ -1527,7 +1527,7 @@
 		<publisher>Electronic Arts</publisher>
 	</game>
 	<game>
-		<path>./Super Wing Commander (Europe).cue</path>
+		<path>./Super Wing Commander (Europe).chd</path>
 		<name>Super Wing Commander</name>
 		<desc>A remake of the first Wing Commander with all-new graphics and sound.  As in the original game, the player takes control of a young pilot on the carrier TCS Tiger's Claw to fly missions in the war against the Kilrathi.  Super Wing Commander includes the Vega campaign from the original game and the first Secret Missions add-on campaign. Exclusive to this version is a new campaign set between Secret Missions 1 and 2 where the Tiger's Claw must find and destroy the base where the Sivar dreadnought from Secret Missions 1 was developed.  The look of the original game has been completely redesigned, with ships and people looking completely different from the original. All dialogue is now heard through digitized speech.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Super Wing Commander (Europe).png</image>
@@ -1541,7 +1541,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).cue</path>
+		<path>./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd</path>
 		<name>Supreme Warrior : Ying Heung</name>
 		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</image>
@@ -1555,7 +1555,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Waialae Country Club (USA).cue</path>
+		<path>./Waialae Country Club (USA).chd</path>
 		<name>True Golf Classics : Waialae Country Club</name>
 		<desc>Grab your clubs and head for the first tee. This golf sim recreates the world famous Hawaiian Waialae Golf Course, noted for lots of bunkers and very fast greens. You can choose your golfer, assign him a caddy, pick your set of clubs and adjust the power, putting, technical, recovery and wind game stats to suit your personal preference. The game offers a practice training mode, a tournament mode and the ability to challenge your friends in a stroke match. Oddly, this game was not sanctioned by the PGA and assumes that the golfer is always male.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Waialae Country Club (USA).png</image>
@@ -1568,7 +1568,7 @@
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./Wolfenstein 3D (USA).cue</path>
+		<path>./Wolfenstein 3D (USA).chd</path>
 		<name>Wolfenstein 3d</name>
 		<desc>Inspired by the top-down infiltration game Castle Wolfenstein, this episodic first-person shooter (FPS) puts the player in the boots of  B.J. Blazkowicz, an allied spy. There are six episodes (the first distributed complete as shareware), the second, and the third available after registration and the three final missions (which happen before the events of the first episode) available in the "Nocturnal Missions" pack. However, they do not need to be played in sequence to be enjoyed!  In the first episode (Escape from Wolfenstein), B.J. was captured, but overpowered a guard with the help of a concealed knife and managed to get out of his cell. Throughout the next nine levels the player guides B.J. searching for an escape from Wolfenstein, guarded by Hans Grosse. After returning to Allied territory, B.J. is given the instructions to Operation: Eisenfaust, where he has to stop Dr. Schabbs and his army of mutant prototypes before they are released into the battlefields. The final mission (Die, Führer, Die!) has a simple goal: infiltrate the bunker under the Reichstag, and terminate Hitler (in a robotic suit) himself. The Nocturnal Missions are focused on the Nazi plans for chemical warfare, and start with Dark Secret, where B.J. hunts for lead researcher Dr. Otto Giftmacher. It's followed by Trail of the Madman, where the goal is capturing the war plans guarded by Gretel Grosse, and the final episode Confrontation, where B.J. meets General Fettgesicht, the planner for the chemical assault.  Each episode has nine levels (eight regular and a final boss level), plus a secret level activated by an hidden switch somewhere in the eight first levels. Regular levels often feature a maze-like appearance or large areas with many enemies (the number of them on each area depends on the difficulty level), where the player must reach the exit elevator. To do so, he must kill the enemies (while it's possible to move behind the guards' backs and even there's a slight bonus in attacking them from behind, most enemies have to be dealt with by fire power), and depending on the level, activate "push walls" and/or get silver and golden keys to open certain doors.  Many objects can be found in a level, from medikits, chicken meals, and even dog food (to restore health), ammo and treasures, which solely exist for points. There are four weapons (knife, pistol, machine gun and Gatling), all of them using the same bullets except the knife. The knife and the pistol are given at the start of the level, while the machine gun is either found (usually in secret areas) or picked up from SS troopers and the Gatling is always dropped somewhere in the level. There are five kinds of enemies (excluding bosses) - Dogs (fast, but more a nuisance than life-threatening), Army Soldiers (dressed in regular brown outfit, not very powerful but usually found in large groups), Officers (dressed in white, armed with a very accurate pistol and tough to kill), SS Troopers (blue attire, armed with a machine gun and tough to kill), and Mutants (the rarest and toughest of regular enemies, pale-skinned troopers with green clothes and a machine gun stuck in their chest).  Unlike modern FPS games, the player has a number of lives and once the player loses the last life, the game ends. To win extra lives, the player has to either find the 1-up item in the level or get 20,000 points (by killing enemies and capturing treasures or completing a level below the 'par' time while killing all enemies, finding all secrets by pushing walls, and collecting all treasure points).</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Wolfenstein 3D (USA).png</image>
@@ -1582,7 +1582,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Pyramid Intruder (Japan).cue</path>
+		<path>./Pyramid Intruder (Japan).chd</path>
 		<name>Pyramid Intruder</name>
 		<desc>In the year 2035, humanity discovers a giant pyramid on the planet Mars. It turns out to have been created by the ancient people of Mu, whose advanced civilization had been forgotten by Earth, and who counterattack following humanity's intrusion. The player takes control of a ship leading the resistance by flying directly into the pyramid.    Pyramid Patrol is a very traditional FMV-based rail shooter. The player's ship and small enemies are sprites, while the stages are presented using full-screen FMV stored as laserdisc video. Pyramid Intruder, the 3DO port, improves on the original game by switching from a first-person perspective to a behind-the-ship view in order to make it possible to dodge enemies; it also adds new realtime 3D levels in between the original levels.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Pyramid Intruder (Japan).png</image>
@@ -1595,7 +1595,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Return Fire (Europe).cue</path>
+		<path>./Return Fire (Europe).chd</path>
 		<name>Return Fire</name>
 		<desc>Return Fire is the spiritual successor to Fire Power and it fits in both the strategy and action genres. You can take control of one of 4 vehicles, a jeep, helicopter, tank and a missile launching vehicle (but actually called The Armoured Support Vehicle (ASV).  There are are two ways to win, the easier one would be to capture the enemy's flag by bringing it to your bunker with the frail Jeep. This is the main objective. The other way to win is to destroy your enemy, a secondary objective.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Return Fire (Europe).png</image>
@@ -1609,7 +1609,7 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./AutoBahn Tokio (Japan).cue</path>
+		<path>./AutoBahn Tokio (Japan).chd</path>
 		<name>Autobahn Tokio</name>
 		<desc>Autobahn Tokio is a racing game released only in Japan for the 3DO. Players can select from four unnamed cars with different characteristics, loosely based on real car models. Three tracks are available - a city at night, a coastal highway, and a forest track. Players race against one CPU opponent, while trying to hit checkpoints in the quickest time possible. Both automatic and manual transmissions are available for each car. Cars cannot be tuned, and there is no two-player option. Despite being released only in Japan, all menus and game text is in English.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/AutoBahn Tokio (Japan).png</image>
@@ -1622,7 +1622,7 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Daedalus Encounter, The (USA, Europe) (Disc 1).cue</path>
+		<path>./Daedalus Encounter, The (USA, Europe) (Disc 1).chd</path>
 		<name>Daedalus Episode 1: Nanpasen no Alien</name>
 		<desc>The interstellar war is over, leaving you, a casualty, as a disembodied brain inside a life support system. Your buddies rescue you from the lab so that you can go exploring - scavenging the galaxy for wreckage and artifacts left over from the war. In due course you stumble literally into an alien craft. With your own craft disabled, and the alien ship on a collision course, you must explore it to find out what has gone wrong and to make a course correction.     Gameplay consists of conversations with your colleagues (displayed as live action video), animated exploration sequences, as well as puzzle-solving that mostly involves figuring out how to operate alien mechanisms. There is also a maze sequence and sporadic action-based tasks. There is no inventory to speak of, because, being a brain in a box. you have no pockets.    All the action takes place in an in-game window that is your view of the world. It takes up only a small part of the screen and the rest of the screen is taken up with a kind of fleshy 'inside of your head' background that is there to remind you that you are inside a machine. Three difficulty settings, in-game instruction and assistance, as well as a few extras (such as high-resolution pictures) are included.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Daedalus Encounter, The (USA, Europe) (Disc 1).png</image>
@@ -1636,7 +1636,7 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Dragon's Lair (USA).cue</path>
+		<path>./Dragon's Lair (USA).chd</path>
 		<name>Dragon's Lair</name>
 		<desc>Dragon's Lair features the hero, Dirk the Daring, attempting to rescue Princess Daphne from the evil dragon Singe, who has locked Princess Daphne in the foul wizard Mordroc's castle. The screen shows animated cutscenes, and the player executes an action by selecting a direction or pressing the sword button with correct timing, requiring the player to memorize each scenario in order to clear each quick time event. The comedy aspects of the game stemmed not only from the bizarre looking creatures and humorous death scenes, but also the fact that while Dirk was a skilled knight, he was somewhat clumsy in his efforts, as well as being a reluctant hero, prone to shrieking and reacting in horror to the various dangers he encounters.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Dragon's Lair (USA).png</image>
@@ -1649,7 +1649,7 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Lost Files of Sherlock Holmes, The (USA).cue</path>
+		<path>./Lost Files of Sherlock Holmes, The (USA).chd</path>
 		<name>The Lost Files of Sherlock Holmes</name>
 		<desc>The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel is a verb-based point-and-click graphic adventure game.    London, 1888. Sherlock Holmes, the world’s most famous private investigator, and his faithful companion Dr. Watson, are called to the scene of a gruesome crime: a young actress has been murdered in an alley behind her theatre. Not surprisingly, Scotland Yard’s Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is not so sure -- the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt.    The Lost Files of Sherlock Holmes is a classical crime story with two protagonists. In the role of Sherlock Holmes, you travel through London in the search for clues. Interesting locations are gradually added to a city map. Your most important source of information are dialogues with suspects, witnesses and other people – and with Dr. Watson, who will readily comment on the situation. When talking to persons, you may chose one of several lines that seems most appropriate. Watson notes down all conversations in his journal, where you can access them if needed. True to the novels, Holmes will solve many puzzles through sharp observations and thorough searches of every location (thus discovering clues and deducing connections) as well as clever interrogations.    Readers of the Sherlock Holmes stories will recognize many acquaintances, from Lestrade to Miss Hudson, from Inspector Gregson to Toby the hound. The game's introduction, cutscenes and ending feature digitized speech.</desc>
 		<image>/home/pi/addonusb/roms/3do/mixart/Lost Files of Sherlock Holmes, The (USA).png</image>
