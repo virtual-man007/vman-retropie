@@ -207,6 +207,10 @@ chmod +x /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
 # 2020-07-06 Playbox gamelist-autoclean script updated fix bug - by 2play!
 cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
 chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
+# 2020-07-22 Scummvm retroarch.cfg update for save state reported by @thrillho
+cp -p ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg.VM
+cp -rf ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg
+
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
