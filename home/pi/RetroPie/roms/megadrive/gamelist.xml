@@ -13363,4 +13363,16 @@ In this action game, you navigate your character in top-down view and continuous
 		<genre>Sports</genre>
 		<players>1-2</players>
 	</game>
+	<game>
+		<path>./Street Fighter II Remastered.7z</path>
+		<name>'☆Street Fighter II Remastered</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./mixart/Street Fighter II Remastered.png</image>
+		<video>./snap/Street Fighter II Remastered.mp4</video>
+		<marquee>./wheel/Street Fighter II Remastered.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201807T000000</releasedate>
+		<genre>Fighting-Game</genre>
+		<favorite>true</favorite>
+	</game>
 </gameList>
