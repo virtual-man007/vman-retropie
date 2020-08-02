@@ -2204,4 +2204,32 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
 		<developer>Sony</developer>
 		<publisher>Psygnosis</publisher>
 	</game>
+  <game id="58733" source="ScreenScraper.fr">
+    <path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).cue</path>
+    <name>Dracula Unleashed (Disc 1)</name>
+    <desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>ICOM Simulations</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
+    <marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
+    <video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
+  </game>
+  <game id="58733" source="ScreenScraper.fr">
+    <path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 2 of 2).cue</path>
+    <name>Dracula Unleashed (Disc 2)</name>
+    <desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>ICOM Simulations</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
+    <marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
+    <video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
+  </game>
 </gameList>

@@ -11166,28 +11166,6 @@ This game was inspired by the TRS-80 CoCo game The Phantom Slayer. In this title
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Adventure (USA).zip</path>
-		<name>Adventure</name>
-		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. 
-
-This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.
-
-There are three castles in the Kingdom; the White Castle, the Black Castle, and the Golden Castle. Each castle has a Gate over the entrance. The Gate can be opened with the corresponding colored Key. Inside each Castle are rooms(or dungeons, depending at which Skill Level you are playing).
-
-The Castles are separated by rooms, pathways, and labyrinths. Common to all the Skill Levels is the Blue Labyrinth through which you must find your way to the Black Castle. Skill Levels 2 and 3 have a more complicated Kingdom
-
-Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Adventure creator Warren Robinett even described the dragons as looking like ducks.</desc>
-		<image>./mixart/Adventure (USA).png</image>
-		<video>./snap/Adventure (USA).mp4</video>
-		<marquee>./wheel/Adventure (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sears, Roebuck and Co.</developer>
-		<publisher>Atari</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Barnstorming (USA).zip</path>
 		<name>Barnstorming</name>
 		<desc>In Barnstorming, you are the pilot of a biplane. Your point of view is from the side as the screen scrolls by horizontally. Your goal is to fly through a set number of barns in the shortest amount of time possible. Several obstacles will appear in your way, including flocks of geese, windmills, and weather vanes. Crashing into any of these will cause you to lose speed which will increase your overall time. There are several difficulty levels included which will require that you fly through anywhere from 10 to 25 barns.</desc>
@@ -11199,21 +11177,6 @@ Adventure was the first action-adventure game on a video console, the first to c
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Demon Attack (USA).zip</path>
-		<name>Demon Attack</name>
-		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
-		<image>./mixart/Demon Attack (USA).png</image>
-		<video>./snap/Demon Attack (USA).mp4</video>
-		<marquee>./wheel/Demon Attack (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Imagic</developer>
-		<publisher>Imagic</publisher>
-		<genre>Shooter-Action</genre>
-		<players>1-2</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -11335,5 +11298,42 @@ The food calorie count, from lowest to highest, is:
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Adventure (USA).zip</path>
+		<name>Adventure</name>
+		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. 
+
+This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.
+
+There are three castles in the Kingdom; the White Castle, the Black Castle, and the Golden Castle. Each castle has a Gate over the entrance. The Gate can be opened with the corresponding colored Key. Inside each Castle are rooms(or dungeons, depending at which Skill Level you are playing).
+
+The Castles are separated by rooms, pathways, and labyrinths. Common to all the Skill Levels is the Blue Labyrinth through which you must find your way to the Black Castle. Skill Levels 2 and 3 have a more complicated Kingdom
+
+Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Adventure creator Warren Robinett even described the dragons as looking like ducks.</desc>
+		<image>./mixart/Adventure (USA).png</image>
+		<video>./snap/Adventure (USA).mp4</video>
+		<marquee>./wheel/Adventure (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sears, Roebuck and Co.</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Demon Attack (USA).zip</path>
+		<name>Demon Attack</name>
+		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+		<image>./mixart/Demon Attack (USA).png</image>
+		<video>./snap/Demon Attack (USA).mp4</video>
+		<marquee>./wheel/Demon Attack (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

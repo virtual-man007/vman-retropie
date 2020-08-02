@@ -6,24 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="1468" source="ScreenScraper.fr">
-		<path>./1943 - The Battle of Midway (USA).zip</path>
-		<name>1943 : The Battle of Midway</name>
-		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
-
-Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19881002T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/1943 - The Battle of Midway (USA).png</image>
-		<marquee>./wheel/1943 - The Battle of Midway (USA).png</marquee>
-		<video>./snap/1943 - The Battle of Midway (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="18548" source="ScreenScraper.fr">
 		<path>./3-D WorldRunner (USA).zip</path>
 		<name>3-D WorldRunner</name>
@@ -28212,5 +28194,21 @@ The game has seven stages. The first and the last must be played first and last 
 		<publisher>BNEI</publisher>
 		<genre>Arcade/Hack</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./1943 - The Battle of Midway (USA).zip</path>
+		<name>1943: The Battle of Midway</name>
+		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.
+</desc>
+		<image>./mixart/1943 - The Battle of Midway (USA).png</image>
+		<video>./snap/1943 - The Battle of Midway (USA).mp4</video>
+		<marquee>./wheel/1943 - The Battle of Midway (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881002T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
 	</game>
 </gameList>
