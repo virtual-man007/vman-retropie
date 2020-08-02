@@ -210,7 +210,10 @@ chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
 # 2020-07-22 Scummvm retroarch.cfg update for save state reported by @thrillho
 cp -p ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg.VM
 cp -rf ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg
-
+# 2020-08-02 lr-picodrive retroarch segacd config fix-prep for multi-disc & for future addons
+cp -p /opt/retropie/configs/all/retroarch/config/PicoDrive/PicoDrive.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/PicoDrive.cfg.VM
+cp -p /opt/retropie/configs/all/retroarch/config/PicoDrive/segacd.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/segacd.cfg.VM
+cp -rf ./opt/retropie/configs/all/retroarch/config/PicoDrive/*.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
