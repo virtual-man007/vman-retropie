@@ -2232,4 +2232,667 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
     <marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
     <video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
   </game>
+  <game id="12799" source="ScreenScraper.fr">
+    <path>./Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].chd</path>
+    <name>Annet Again</name>
+    <desc>The story takes place two years after 'El Viento'. After being rescued from certain sacrifice by Earnest Evans, Annet travels across Europe and encounters a group that wants a pendant in her possession. After being ambushed by them she escapes and begins a quest to protect the world from destruction.    </desc>
+    <rating>0.65</rating>
+    <releasedate>19930330T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./mixart/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].png</image>
+    <marquee>./wheel/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].png</marquee>
+    <video>./snap/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].mp4</video>
+  </game>
+  <game id="97343" source="ScreenScraper.fr">
+    <path>./BattleTech - Gray Death Legion (USA) (Unl).chd</path>
+    <name>Battletech - Gray Death Legion</name>
+    <desc>The Gray Death Legion is a mercenary regiment within the Battletech universe. This game demo does not have audio, but is very playable and a blast at that! The game plays very similar to the excellent AH-3 Thunderstrike. Battletech: Gray Death Legion makes use of the Sega CD's scaling and rotation hardware to create an impressive 3D environment with a smooth frame rate. Features a very long 3D animated Battletech intro that is also very impressive.</desc>
+    <rating>0</rating>
+    <releasedate>20070101T000000</releasedate>
+    <developer>Imagineering</developer>
+    <publisher>Absolute Entertainment</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./mixart/BattleTech - Gray Death Legion (USA) (Unl).png</image>
+    <marquee>./wheel/BattleTech - Gray Death Legion (USA) (Unl).png</marquee>
+  </game>
+  <game id="12826" source="ScreenScraper.fr">
+    <path>./Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd</path>
+    <name>Bloodshot</name>
+    <desc>The year is 2049. An alien armada assaults the Solar System. You are a nameless hero whose mission is to board the enemy's main battle cruiser and to disable all sixteen of its main plasma nodes.  A special Battle Frenzy chip (code name Bloodshot) is implanted into your neural net, making you the one ultimate soldier on whom the entire humanity depends now.  This is a 3D first-person shooter. You move through maze-like corridors of the alien ship, getting weapons and items, and blasting everything you encounter on your way. There is also a two players mode with split screens.</desc>
+    <rating>0.55</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Domark</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+    <image>./mixart/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).png</image>
+    <marquee>./wheel/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).png</marquee>
+    <video>./snap/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).mp4</video>
+  </game>
+  <game id="97344" source="ScreenScraper.fr">
+    <path>./Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).chd</path>
+    <name>Bug Blasters - The Exterminators</name>
+    <desc>Los Angeles - a quiet little town until... THEY CAME!    Now a terrified city crawling with crime!    A band of warrior insects calling themselves "The League of Insects" under the control of General Grub and El Roacho have captured city hall and are holding Los Angeles hostage! You are the rookie member of the elite fighting force, The Bug Blasters. Accompanied by a team of experts, including Team Captain McVay, a veteran of the New York City Roach Wars of '79, you must vanquish the insect threat throughout the city and the long overlooked underground tunnels in which they have been swarming. Prevent these pests from further capturing and cocooning humans. You are an exterminator. Destroy their hive, and get out before it's too late!    "Who ya Gonna call?" BUG BLASTERS    "You've got a problem... We're here to SOLVE IT!"</desc>
+    <rating>0.5</rating>
+    <releasedate>20010101T000000</releasedate>
+    <developer>Stargate</developer>
+    <publisher>Good Deal Games</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).png</image>
+    <marquee>./wheel/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).png</marquee>
+    <video>./snap/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).mp4</video>
+  </game>
+  <game id="97345" source="ScreenScraper.fr">
+    <path>./Burning Fists - Force Striker (USA) (Unl).chd</path>
+    <name>Burning Fists - Force Striker</name>
+    <desc>Burning Fist (also known as Force Striker in its early alpha build) is a cancelled fighting game that was in development in 1994 by Sega of Japan for the Mega CD. As we can read at Sega Base, both the Force Striker alpha and the Burning Fists beta were leaked rom a former SoJ employee and sold on eBay some years ago. Burning Fist was never officially released, but in 2006 those alpha / beta builds were re-sold to Good Deal Games.</desc>
+    <rating>0.35</rating>
+    <releasedate>20060101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Good Deal Game</publisher>
+    <genre>Fight</genre>
+    <players>2</players>
+    <image>./mixart/Burning Fists - Force Striker (USA) (Unl).png</image>
+    <marquee>./wheel/Burning Fists - Force Striker (USA) (Unl).png</marquee>
+    <video>./snap/Burning Fists - Force Striker (USA) (Unl).mp4</video>
+  </game>
+  <game id="12771" source="ScreenScraper.fr">
+    <path>./Earnest Evans (Japan).chd</path>
+    <name>Earnest Evans</name>
+    <desc>The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...  This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.</desc>
+    <rating>0.55</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Renovation Products</developer>
+    <publisher>Renovation Products</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Earnest Evans (Japan).png</image>
+    <marquee>./wheel/Earnest Evans (Japan).png</marquee>
+    <video>./snap/Earnest Evans (Japan).mp4</video>
+  </game>
+  <game id="12839" source="ScreenScraper.fr">
+    <path>./ESPN Baseball Tonight (USA).chd</path>
+    <name>ESPN Baseball Tonight</name>
+    <desc>ESPN Baseball Tonight is a baseball game with both exhibition and playoff modes. Other modes included are both practice (both pitching and batting) and Home Run Derby modes. The game contains 28 real MLB teams but no actual players. Gameplay options include being able to turn errors on or off and to have assisted fielding on or off.  Gameplay has the behind the batter viewpoint, whether pitching or batting. One thing to note when fielding, the player must manually throw the ball back to the pitcher for the game to continue.  The Sega CD version is an update which includes the option for an 162 game season and has over 10 minutes of video highlights.</desc>
+    <rating>0</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Sony</developer>
+    <publisher>Stormfront Studios</publisher>
+    <genre>Sports</genre>
+    <players>1-2</players>
+    <image>./mixart/ESPN Baseball Tonight (USA).png</image>
+    <marquee>./wheel/ESPN Baseball Tonight (USA).png</marquee>
+    <video>./snap/ESPN Baseball Tonight (USA).mp4</video>
+  </game>
+  <game id="12765" source="ScreenScraper.fr">
+    <path>./ESPN NBA Hangtime '95 (USA).chd</path>
+    <name>ESPN NBA Hangtime '95</name>
+    <desc>NBA HAngtime '95 takes it to the hoop with the ultimate in 2-on-2 half-court action. Choose from 81 of the hottest players in the NBA from all 27 teams. Special button combos let you unleash awesome player moves - two handed power dunks by Hakeem Olajuwon, reverse dunks by Chris Webber, spin moves by Scottie Pippen and more! Then for something completely different, play ESPN 2-on-2 World Tour mode with streetball players from around the world. NBA Hangtime '95, Everything Else is Just Practice.</desc>
+    <rating>0.6</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Sony</developer>
+    <publisher>SCEE Studio Cambridge</publisher>
+    <genre>Sports</genre>
+    <players>1-4</players>
+    <image>./mixart/ESPN NBA Hangtime '95 (USA).png</image>
+    <marquee>./wheel/ESPN NBA Hangtime '95 (USA).png</marquee>
+    <video>./snap/ESPN NBA Hangtime '95 (USA).mp4</video>
+  </game>
+  <game id="58737" source="ScreenScraper.fr">
+    <path>./F1 Circus CD (Japan).chd</path>
+    <name>F1 Circus CD</name>
+    <desc>F1 Circus CD  is a formula one racing game released for the Sega Mega-CD exclusively in Japan. It is the sequel to F1 Circus MD.</desc>
+    <rating>0</rating>
+    <releasedate>19940318T000000</releasedate>
+    <developer>Nichibutsu</developer>
+    <publisher>Nichibutsu</publisher>
+    <genre>Race, Driving</genre>
+    <players>2</players>
+    <image>./mixart/F1 Circus CD (Japan).png</image>
+    <marquee>./wheel/F1 Circus CD (Japan).png</marquee>
+    <video>./snap/F1 Circus CD (Japan).mp4</video>
+  </game>
+  <game id="12749" source="ScreenScraper.fr">
+    <path>./Ground Zero Texas (disc 1) (Sega CD) (U).chd</path>
+    <name>Ground Zero Texas</name>
+    <desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940201T000000</releasedate>
+    <developer>SCE Santa Monica Studio</developer>
+    <publisher>Sony Imagesoft</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Ground Zero Texas (disc 1) (Sega CD) (U).png</image>
+    <marquee>./wheel/Ground Zero Texas (disc 1) (Sega CD) (U).png</marquee>
+    <video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
+  </game>
+  <game id="12749" source="ScreenScraper.fr">
+    <path>./Ground Zero Texas (disc 2) (Sega CD) (U).chd</path>
+    <name>Ground Zero Texas</name>
+    <desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940201T000000</releasedate>
+    <developer>SCE Santa Monica Studio</developer>
+    <publisher>Sony Imagesoft</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Ground Zero Texas (disc 1) (Sega CD) (U).png</image>
+    <marquee>./wheel/Ground Zero Texas (disc 1) (Sega CD) (U).png</marquee>
+    <video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
+  </game>
+  <game id="58717" source="ScreenScraper.fr">
+    <path>./Heavy Nova (Japan).chd</path>
+    <name>Heavy Nova</name>
+    <desc>In an era of frequent alien attacks, the Earth has a unified Government, which relies on a line of cyborgs known as the Heavy Dolls for defense. The greatest of these are known as the Heavy Nova, a title earned by passing a rigorous training regime.  You are taking on the simulated proving grounds, which are split into two styles of alternating action. In the first you must progress (initially purely horizontally, though later with vertical flick-scrolling as well) through a hostile environment of enemies, bombs and traps, gaining points for doing it quickly and with lots of energy left. Initially you can fly and kick as needed.  Once this section is complete, you move on to one-on-one combat of the Street Fighter 2 style. The early foes have far less energy than you begin with. As you progress through the game, you are awarded extra attacking moves, in a manner similar to Brutal: Paws of Fury</desc>
+    <rating>0.8</rating>
+    <releasedate>19911212T000000</releasedate>
+    <developer>Holocronet</developer>
+    <publisher>Micronet</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./mixart/Heavy Nova (Japan).png</image>
+    <marquee>./wheel/Heavy Nova (Japan).png</marquee>
+    <video>./snap/Heavy Nova (Japan).mp4</video>
+  </game>
+  <game id="12792" source="ScreenScraper.fr">
+    <path>./Lethal_Enforcers_II-Gun_Fighters(US-Genesis).chd</path>
+    <name>Lethal Enforcers II: Gun Fighters</name>
+    <desc>In this sequel to Lethal Enforcers you are the sheriff of a town set in the old Wild West. Using the control pad or Konami's own Justifier lightgun, you'll be taking out outlaws who are robbing banks and kidnapping innocents. You have the opportunity to u</desc>
+    <rating>0</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Lightgun Shooter</genre>
+    <players>1-2</players>
+    <image>./mixart/Lethal_Enforcers_II-Gun_Fighters(US-Genesis).png</image>
+    <marquee>./wheel/Lethal_Enforcers_II-Gun_Fighters(US-Genesis).png</marquee>
+    <video>./snap/Lethal_Enforcers_II-Gun_Fighters(US-Genesis).mp4</video>
+  </game>
+  <game id="58720" source="ScreenScraper.fr">
+    <path>./Lethal Enforcers (Sega CD) (U).chd</path>
+    <name>Lethal Enforcers</name>
+    <desc>Pick up your pistol and be the cop you need to be in order to rid the streets of the criminals out to make your day hell. Aim wisely and quickly, otherwise your lives will be lost quickly in this 1st person arcade shooter, cleaning up the streets. The higher the difficulty level, the more crimes there will be to eliminate, but watch out for the other weapons that can help you along the way.  Go straight into the mayhem, practice in the targeting range or have a friend back you up in two player mode. Use a gun accessory or play with the gamepad.</desc>
+    <rating>0</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Shoot'em Up-Action</genre>
+    <players>1-2</players>
+    <image>./mixart/Lethal Enforcers (Sega CD) (U).png</image>
+    <marquee>./wheel/Lethal Enforcers (Sega CD) (U).png</marquee>
+    <video>./snap/Lethal Enforcers (Sega CD) (U).mp4</video>
+  </game>
+  <game id="58740" source="ScreenScraper.fr">
+    <path>./Links - The Challenge of Golf (USA) (RE).chd</path>
+    <name>Links: The Challenge of Golf</name>
+    <desc>Links: The Challenge of Golf is a golf simulation that tries to implement realistic aspects of golf in a video game format.</desc>
+    <rating>0</rating>
+    <releasedate>19940901T000000</releasedate>
+    <developer>Papyrus</developer>
+    <publisher>Virgin</publisher>
+    <genre>Sports-Sports / Golf</genre>
+    <players>1</players>
+    <image>./mixart/Links - The Challenge of Golf (USA) (RE).png</image>
+    <marquee>./wheel/Links - The Challenge of Golf (USA) (RE).png</marquee>
+    <video>./snap/Links - The Challenge of Golf (USA) (RE).mp4</video>
+  </game>
+  <game id="12836" source="ScreenScraper.fr">
+    <path>./Make My Video - Kris Kross (USA).chd</path>
+    <name>Make My Video: Kris Kross</name>
+    <desc>Yo! Check it out. Now you've got the power to create your own music videos for mega rap act Kris Kross. In this revolutionary new music video experience for the Sega CD, a guest VJ gets in your face and tells you exactly the kinds of videos he's looking for. Then it's totally up to you to deliver. You control it all as you select, edit, slice and dice. You're working with hundreds of clips from real music videos, movies and never-before-seen video footage--all in synch with dizzying special effects and the freshest, hottest music ever. Wrap it up and get your grade straight from the veejay himself. If your video's good enough, you go to the next level. If not... well, let's just say our VJ doesn't take kindly to hacks. If you need to fine-tune your work, the edit mode enables you to edit your music videos to perfection -- just like the pros in the studios. And if you want to save your work, just use the video recorder interface with your VCR.</desc>
+    <rating>0.15</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Music and Dance</genre>
+    <players>1</players>
+    <image>./mixart/Make My Video - Kris Kross (USA).png</image>
+    <marquee>./wheel/Make My Video - Kris Kross (USA).png</marquee>
+    <video>./snap/Make My Video - Kris Kross (USA).mp4</video>
+  </game>
+  <game id="12762" source="ScreenScraper.fr">
+    <path>./Yumemi Mystery Mansion (Europe) (Made in EU).chd</path>
+    <name>Mansion of Hidden Souls</name>
+    <desc>Mansion of Hidden Souls is an adventure game created entirely with full-motion video. It takes place in a pre-rendered mansion that the player explores from a first-person perspective. As they wander from room to room, the action unfolds via video sequences.    The player takes on the role of Jonathan, a boy whose sister has wandered into the spooky mansion. When she entered the mansion, she disappeared! What's more, the mansion is full of talking butterflies. The player must search the whole mansion to unlock its secrets and find Jonathan's sister.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940301T000000</releasedate>
+    <developer>Tokai Engineering</developer>
+    <publisher>Sega</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Yumemi Mystery Mansion (Europe) (Made in EU).png</image>
+    <marquee>./wheel/Yumemi Mystery Mansion (Europe) (Made in EU).png</marquee>
+    <video>./snap/Yumemi Mystery Mansion (Europe) (Made in EU).mp4</video>
+  </game>
+  <game id="102825" source="ScreenScraper.fr">
+    <path>./Make My Video - Marky Mark and the Funky Bunch (USA).chd</path>
+    <name>Marky Mark And The Funky Bunch</name>
+    <desc>Marky Mark and the Funky Bunch is an entry in the Make my Video series for the Sega Mega-CD. It features music from Marky Mark and the Funky Bunch. This is the only Make my Video game not to be released in Europe. </desc>
+    <rating>0</rating>
+    <releasedate>19921015T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>N/A</genre>
+    <players>1</players>
+    <image>./mixart/Make My Video - Marky Mark and the Funky Bunch (USA).png</image>
+    <marquee>./wheel/Make My Video - Marky Mark and the Funky Bunch (USA).png</marquee>
+    <video>./snap/Make My Video - Marky Mark and the Funky Bunch (USA).mp4</video>
+  </game>
+  <game id="140537" source="ScreenScraper.fr">
+    <path>./MegaRace (1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].chd</path>
+    <name>MegaRace</name>
+    <desc>Virtual Television has given us a chance to do the things that we can't make real in everyday life: Race through 14 great tracks in 5 different environments in a totally virtual place where you can kill each other quite easily with sidekicks or guns. In every track you will see some symbols that can make your car speed up, slow up or even blow up, like your mega-host Lance Boyle says, "Who knows; who cares!" Everything you see in MegaRace is virtual and no one really dies there. So have fun!</desc>
+    <rating>0</rating>
+    <releasedate>19931201T000000</releasedate>
+    <developer>Cryo Interactive</developer>
+    <publisher>The Software Toolworks</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/MegaRace (1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].png</image>
+    <marquee>./wheel/MegaRace (1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].png</marquee>
+    <video>./snap/MegaRace (1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].mp4</video>
+  </game>
+  <game id="12793" source="ScreenScraper.fr">
+    <path>./Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].chd</path>
+    <name>Panic!</name>
+    <desc>A virus has infected the world's computer network, which effects all electronical devices on the earth. However, a special program called "Panic!" is designed to counter the effects of the virus and restore the network back to working order. You play Slap the Boy and his sidekick, Stick the Dog(they're not actions, it's their names) who set out to restore the network back to working order. </desc>
+    <rating>0</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game-Adventure</genre>
+    <image>./mixart/Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].png</image>
+    <marquee>./wheel/Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].png</marquee>
+    <video>./snap/Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].mp4</video>
+  </game>
+  <game id="12835" source="ScreenScraper.fr">
+    <path>./Power Factory (USA).chd</path>
+    <name>Power Factory Featuring C+C Music Factory</name>
+    <desc>The first of Digital Pictures' "Make My Video" line has you "editing" three of C + C Music Factory's most famous songs - "Gonna Make You Sweat," "Things That Make You Go Hmm..." and "Here We Go Let's Rock &amp; Roll."  The plot puts you inside the music factory of the game's name, where two linemen sweat and toil under the oppressive thumb of a wheelchair-bound corporate executive. Video discs literally roll down an assembly line while C + C record their sounds behind three closed doors. You are asked to help out in editing these videos, appease the corporate masters, and lift the burden from everyone.  The game is played from a panel meant to resemble and act as a non-linear editor. Editing is entirely linear however, as three distinct video "feeds" run simultaneously along the bottom of the screen. Each is mapped to the A, B, or C button, and pressing one sends that video to master viewer, where it is recorded. The D-pad toggles various effects on and off from a bin in the upper left. One feed will always be of C + C's actual video, with the other two holding appropriate stock footage (like a doorbell timed to appear with the lyrics "Ding dong, who is it?")  The video can not be stopped or rewound once the editing process begins, so the player must quickly route video to the viewer and apply effects within a given amount of time. This allows for editing challenges, where the player must fill specific requests, like having fast cuts or showing no dancers.  After a video is edited, the player gets to watch their cut in its entirety. They are then graded by the FMV characters and move to the next song, or try a new edit of the previous one.</desc>
+    <rating>0.5</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sony</publisher>
+    <genre>Action-Various</genre>
+    <players>1</players>
+    <image>./mixart/Power Factory (USA).png</image>
+    <marquee>./wheel/Power Factory (USA).png</marquee>
+    <video>./snap/Power Factory (USA).mp4</video>
+  </game>
+  <game id="12816" source="ScreenScraper.fr">
+    <path>./Power Monger (USA).chd</path>
+    <name>Power Monger</name>
+    <desc>Powermonger takes the basic design and concepts of Bullfrog's previous game Populous, and places it in a war context. The game cast the player as a dispossessed warlord plundering his way through 195 territories on the way to world conquest. Several other leaders have the same goal.  The gameworld is now made up of polygons, so the view can be rotated and moved with greater freedom than Populous. Trade, diplomacy, inventions, and scorched earth invasions all play a key role in how the player progressed through the game.  Two-player games via modem links are available on computer versions.</desc>
+    <rating>0.55</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Bullfrog</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Strategy</genre>
+    <players>1</players>
+    <image>./mixart/Power Monger (USA).png</image>
+    <marquee>./wheel/Power Monger (USA).png</marquee>
+    <video>./snap/Power Monger (USA).mp4</video>
+  </game>
+  <game id="12821" source="ScreenScraper.fr">
+    <path>./prize fighter disc 1.chd</path>
+    <name>Prize Fighter</name>
+    <desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports-Fight</genre>
+    <players>1</players>
+    <image>./mixart/prize fighter disc 2.png</image>
+    <marquee>./wheel/prize fighter disc 2.png</marquee>
+    <video>./snap/prize fighter disc 2.mp4</video>
+  </game>
+  <game id="12821" source="ScreenScraper.fr">
+    <path>./prize fighter disc 2.chd</path>
+    <name>Prize Fighter</name>
+    <desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports-Fight</genre>
+    <players>1</players>
+    <image>./mixart/prize fighter disc 2.png</image>
+    <marquee>./wheel/prize fighter disc 2.png</marquee>
+    <video>./snap/prize fighter disc 2.mp4</video>
+  </game>
+  <game id="12782" source="ScreenScraper.fr">
+    <path>./Puggsy (Sega CD) (U).chd</path>
+    <name>Puggsy</name>
+    <desc>Puggsy is a platform game with a combination of action and puzzle-solving elements. You control the the creature Puggsy, who has crash landed on an alien planet and had his spaceship stolen. Your goal is find the spaceship so you can get off the planet and return home.  To do this, you will need to make your way from the start to the exit of numerous levels which take place in a variety of environments. Throughout each level are a variety of objects which you can pick up; on many of the levels you will need to figure out how to use the objects available to you in order to reach the exit. Some objects can used (like a gun or keys), and objects may be thrown, moved around and stacked. Of course, each level will also have a variety of bad guys wandering about which will cost Puggsy one of his lives if he's caught. On your quest there will also be six evil guardians which will need to be defeated before you get your spaceship back!</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Travellers Tales</developer>
+    <publisher>Psygnosis</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Puggsy (Sega CD) (U).png</image>
+    <marquee>./wheel/Puggsy (Sega CD) (U).png</marquee>
+    <video>./snap/Puggsy (Sega CD) (U).mp4</video>
+  </game>
+  <game id="12813" source="ScreenScraper.fr">
+    <path>./Racing Aces (1993)(Sega)(NTSC)(US)[CDAC-055000 1].chd</path>
+    <name>Racing Aces</name>
+    <desc>The cold war has ended. Big defense contractors, specifically the ones that make fighter planes, organize a new sport. Pilots fly planes of various historical significance in low altitude races for big prizes.  Racing Aces puts you behind the stick of World War 1, World War 2, and modern day fighting aircraft.  Each competition is a dogfight as much as a race, and you will have to gun down your enemies to win. The tracks are littered with power up balloons to give you extra weapons and speed.  The races are viewed from a behind-the-plane perspective, and the courses are drawn in 3D using polygons.</desc>
+    <rating>0</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/Racing Aces (1993)(Sega)(NTSC)(US)[CDAC-055000 1].png</image>
+    <marquee>./wheel/Racing Aces (1993)(Sega)(NTSC)(US)[CDAC-055000 1].png</marquee>
+    <video>./snap/Racing Aces (1993)(Sega)(NTSC)(US)[CDAC-055000 1].mp4</video>
+  </game>
+  <game id="97374" source="ScreenScraper.fr">
+    <path>./RDF - Global Conflict (USA).chd</path>
+    <name>RDF: Global Conflict</name>
+    <desc>Using a thrilling combination of 3D rendering and explosive combat action, RDF: GLOBAL CONFLICT is an interactive multimedia experience that pushes the Sega CD system to its limits! As a tank commander in the RDF - the elite Rapid Deployment Force - you'll test your battle savvy in a realistic virtual world, from the war-torn countryside of Eastern Europe to Alaska's desolate tundra! But watch your back! An evil genius may pose a threat not only to the team - but to all of mankind!</desc>
+    <rating>0.6</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Imagineering</developer>
+    <publisher>Absolute Entertainment</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/RDF - Global Conflict (USA).png</image>
+    <marquee>./wheel/RDF - Global Conflict (USA).png</marquee>
+    <video>./snap/RDF - Global Conflict (USA).mp4</video>
+  </game>
+  <game id="97380" source="ScreenScraper.fr">
+    <path>./Sengoku Denshou (Japan).chd</path>
+    <name>Sengoku Denshou</name>
+    <desc>It's the final battle. A warlord in the past planned to conquer the world by brutal attack. Now, 400 years later, this "Demon Castle" suddenly appeared in the sky above Washington D.C. The prophecy came true! Only two samurai warriors with the special weapon can stop the revival of this ghost!</desc>
+    <rating>0.65</rating>
+    <releasedate>19931228T000000</releasedate>
+    <developer>SNK</developer>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./mixart/Sengoku Denshou (Japan).png</image>
+    <marquee>./wheel/Sengoku Denshou (Japan).png</marquee>
+    <video>./snap/Sengoku Denshou (Japan).mp4</video>
+  </game>
+  <game id="12814" source="ScreenScraper.fr">
+    <path>./Sensible Soccer (Europe).chd</path>
+    <name>Sensible Soccer</name>
+    <desc>Sensible Soccer on Mega-CD includes the players names present in European clubs during the season 92/93. You can also take part in qualifying for the World Cup 94. One of the main arguments of the game when it was released, was the taking into account of the faults and cards.</desc>
+    <rating>0</rating>
+    <releasedate>19940601T000000</releasedate>
+    <developer>Renegade Kid</developer>
+    <publisher>Sony</publisher>
+    <genre>Sports</genre>
+    <players>1-2</players>
+    <image>./mixart/Sensible Soccer (Europe).png</image>
+    <marquee>./wheel/Sensible Soccer (Europe).png</marquee>
+    <video>./snap/Sensible Soccer (Europe).mp4</video>
+  </game>
+  <game id="12822" source="ScreenScraper.fr">
+    <path>./Sewer Shark (1992)(Sony Imagesoft)(US) [T-06201].chd</path>
+    <name>Sewer Shark</name>
+    <desc>Sewer Shark is an FMV-based shooter, and one of the first games released for the Sega CD.  You move a crosshair around the screen and shoot targets.  Occasionally, you can also choose to change directions at fixed points.  Of course the real attraction in a game like this is the story.  In the future, maybe in the year 2000, people will be forced to move underground and live in tunnels.  Unfortunately, these tunnels are infested with mutated rat / alligator creatures known as "ratigators."  You are pilot of a Sewer Shark, a craft designed to navigate the Sewers and rid them of ratigators.  It's a dangerous job, but if you clear out enough vermin you can win a one-way trip to Solar City and sunny beaches.</desc>
+    <rating>0.6</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Sony Electronic Publishing</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Action-Lightgun Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Sewer Shark (1992)(Sony Imagesoft)(US) [T-06201].png</image>
+    <marquee>./wheel/Sewer Shark (1992)(Sony Imagesoft)(US) [T-06201].png</marquee>
+    <video>./snap/Sewer Shark (1992)(Sony Imagesoft)(US) [T-06201].mp4</video>
+  </game>
+  <game id="200267" source="ScreenScraper.fr">
+    <path>./Sonic MegaMix (USA) (Unl).chd</path>
+    <name>Sonic MegaMix</name>
+    <rating>0</rating>
+    <releasedate />
+    <image>./mixart/Sonic MegaMix (USA) (Unl).png</image>
+    <video>./snap/Sonic MegaMix (USA) (Unl).mp4</video>
+  </game>
+  <game id="97383" source="ScreenScraper.fr">
+    <path>./Stellar-Fire (Sega CD) (U).chd</path>
+    <name>Stellar-Fire</name>
+    <desc>The dreaded Draxon race has been at it again, pushing the human race around, working to either enslave all 10 billion humans or wipe them out completely. As the last surviving pilot sent on a mission to thwart the Draxons' plans, all hope rests on you. Invade each of the fortified moons orbiting the Draxons' homeworld of Arctaurus and then aim for the mother planet itself.  The action takes place in your hovermorph craft. In the game's introduction, the ship proves to be a deadly starfighter. When it enters the moon's atmosphere and approaches the surface, the hovermorph transforms into a powerful hovership. Blast away Draxon enemies, both ground- and air-based, from a first-person perspective on a 3D polygonal battlefield.</desc>
+    <rating>0.5</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Infinite Laser Dog</developer>
+    <publisher>Dynamix</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Stellar-Fire (Sega CD) (U).png</image>
+    <marquee>./wheel/Stellar-Fire (Sega CD) (U).png</marquee>
+    <video>./snap/Stellar-Fire (Sega CD) (U).mp4</video>
+  </game>
+  <game id="12753" source="ScreenScraper.fr">
+    <path>./Ninja Warriors, The (Japan).chd</path>
+    <name>The Ninja Warriors</name>
+    <desc>Two player side scrolling beat-em-up converted from the Taito coin-op that featured three monitor screens side by side. The Amiga version was developed in letterbox format in order to show as much of the wide screen background graphics as possible.   The player(s) controlled robot Ninjas, which battled their way through the levels using Shuriken and knives. As the Ninja's took damage their classic Ninja garb was torn away to reveal robotic limbs, torso or head. When the damage reached critical the Ninja Robot would explode, scattering mechanical body parts.  As with The Sales Curve's later title SWIV, The Ninja Warriors used the company's Dynamic Loading System to load sprites, sound and background graphics from disk on the fly.</desc>
+    <rating>0.6</rating>
+    <releasedate>19930312T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1</players>
+    <image>./mixart/Ninja Warriors, The (Japan).png</image>
+    <marquee>./wheel/Ninja Warriors, The (Japan).png</marquee>
+    <video>./snap/Ninja Warriors, The (Japan).mp4</video>
+  </game>
+  <game id="12802" source="ScreenScraper.fr">
+    <path>./Thunderhawk (Europe) (En,Fr,De,Es) (RE).chd</path>
+    <name>Thunderhawk</name>
+    <desc>Thunderhawk is an action game on Mega-CD that gives you control of a combat helicopter in a series of six futuristic campaigns. The original version includes a total of 60 operations with various objectives. Before flying in the sky, the player can adapt the embarked arsenal to suit it. Piloting is technical but accessible, without being as complex as other simulations available in 1993.</desc>
+    <rating>0</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>JVC</developer>
+    <publisher>Core Design</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+    <image>./mixart/Thunderhawk (Europe) (En,Fr,De,Es) (RE).png</image>
+    <marquee>./wheel/Thunderhawk (Europe) (En,Fr,De,Es) (RE).png</marquee>
+    <video>./snap/Thunderhawk (Europe) (En,Fr,De,Es) (RE).mp4</video>
+  </game>
+  <game id="97365" source="ScreenScraper.fr">
+    <path>./Wild_Woody.chd</path>
+    <name>Wild Woody</name>
+    <desc>An adventurer named Dusty returns home with an enchanted Totem Pole. Due to an assortment of rare events, the spirits of the Totem have been freed and they have created a bizarre parallel universe that can devour the world. Lowman, the "head" of the Totem, needs some "muscle" as he calls it, to bring them back. He finds a pencil on the desk and makes it come to life. The pencil tells Lowman to call him Woody, WILLLLLLLLD Woody. Lowman explains what has happened with his Totem brothers and now Woody goes into the parallel universe, dimension by dimension, and rounds up Lowman's Totem brothers.  In this game, you destroy your enemies by jumping on top of them and Woody can also wipe them out with his eraser. You can erase certain walls to get through them and you can also erase boxes that most of the time teleport if you press down. Other boxes contain items. You also can sketch things and they will come to life, but you can only do this twice because Woody shrinks very quickly from doing this. There are also power-ups that make you grow again.</desc>
+    <rating>0.55</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Wild_Woody.png</image>
+    <marquee>./wheel/Wild_Woody.png</marquee>
+    <video>./snap/Wild_Woody.mp4</video>
+  </game>
+  <game id="12832" source="ScreenScraper.fr">
+    <path>./wirehead.chd</path>
+    <name>Wirehead</name>
+    <desc>Wirehead has you controlling Ned Hubbard, a man with a wireless controller implanted in his brain, via your Genesis joypad.  The bad guys are chasing after Ned for his "mind implant", and of course, the only way to get it is to open his head. Reminiscent of Dragon's Lair, a path will open up, and you have to choose the right direction or Ned gets it.   The sets and locations are probably the largest scope ever for a FMV game, with real life chase sequences and stunts that take the player through areas like the Queen Mary, a saloon fight, an airplane, a water raft, multiple car chases, and even wrestling with a bear!</desc>
+    <rating>0.45</rating>
+    <releasedate>19950901T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/wirehead.png</image>
+    <marquee>./wheel/wirehead.png</marquee>
+    <video>./snap/wirehead.mp4</video>
+  </game>
+  <game id="12749" source="ScreenScraper.fr">
+    <path>./Ground Zero Texas (disc 1) (Sega CD) (U).cue</path>
+    <name>Ground Zero Texas (Disc 1)</name>
+    <desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
+    <rating>0.75</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>SCE Santa Monica Studio</developer>
+    <publisher>Sony Imagesoft</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Ground Zero Texas (disc 2) (Sega CD) (U).png</image>
+    <marquee>./wheel/Ground Zero Texas (disc 2) (Sega CD) (U).png</marquee>
+    <video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
+  </game>
+  <game id="12749" source="ScreenScraper.fr">
+    <path>./Ground Zero Texas (disc 2) (Sega CD) (U).cue</path>
+    <name>Ground Zero Texas (Disc 2)</name>
+    <desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
+    <rating>0.75</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>SCE Santa Monica Studio</developer>
+    <publisher>Sony Imagesoft</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Ground Zero Texas (disc 2) (Sega CD) (U).png</image>
+    <marquee>./wheel/Ground Zero Texas (disc 2) (Sega CD) (U).png</marquee>
+    <video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
+  </game>
+  <game id="12821" source="ScreenScraper.fr">
+    <path>./prize fighter disc 1.cue</path>
+    <name>Prize Fighter (Disc 1)</name>
+    <desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports-Fight</genre>
+    <players>1</players>
+    <image>./mixart/prize fighter disc 2.png</image>
+    <marquee>./wheel/prize fighter disc 2.png</marquee>
+    <video>./snap/prize fighter disc 1.mp4</video>
+  </game>
+  <game id="12821" source="ScreenScraper.fr">
+    <path>./prize fighter disc 2.cue</path>
+    <name>Prize Fighter (Disc 2)</name>
+    <desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports-Fight</genre>
+    <players>1</players>
+    <image>./mixart/prize fighter disc 2.png</image>
+    <marquee>./wheel/prize fighter disc 2.png</marquee>
+    <video>./snap/prize fighter disc 1.mp4</video>
+  </game>
+  <game id="12766" source="ScreenScraper.fr">
+    <path>./Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).cue</path>
+    <name>Fahrenheit (Disc 1)</name>
+    <desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
+    <rating>0.75</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</image>
+    <thumbnail>./wheel/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</thumbnail>
+    <video>./snap/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).mp4</video>
+  </game>
+  <game id="12766" source="ScreenScraper.fr">
+    <path>./Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 2 of 2).cue</path>
+    <name>Fahrenheit (Disc 2)</name>
+    <desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
+    <rating>0.75</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</image>
+    <thumbnail>./wheel/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</thumbnail>
+    <video>./snap/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).mp4</video>
+  </game>
+  <game id="97381" source="ScreenScraper.fr">
+    <path>./Slam City with Scottie Pippen (U) (32x) - Disc 1.cue</path>
+    <name>Slam City with Scottie Pippen (Disc 1)</name>
+    <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+    <rating>0.2</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Sports</genre>
+    <players>1</players>
+    <image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+    <thumbnail>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</thumbnail>
+    <video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+  </game>
+  <game id="97381" source="ScreenScraper.fr">
+    <path>./Slam City with Scottie Pippen (U) (32x) - Disc 2.cue</path>
+    <name>Slam City with Scottie Pippen (Disc 2)</name>
+    <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+    <rating>0.2</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Sports</genre>
+    <players>1</players>
+    <image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+    <thumbnail>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</thumbnail>
+    <video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+  </game>
+  <game id="97381" source="ScreenScraper.fr">
+    <path>./Slam City with Scottie Pippen (U) (32x) - Disc 3.cue</path>
+    <name>Slam City with Scottie Pippen (Disc 3)</name>
+    <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+    <rating>0.2</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Sports</genre>
+    <players>1</players>
+    <image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+    <thumbnail>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</thumbnail>
+    <video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+  </game>
+  <game id="97381" source="ScreenScraper.fr">
+    <path>./Slam City with Scottie Pippen (U) (32x) - Disc 4.cue</path>
+    <name>Slam City with Scottie Pippen (Disc 4)</name>
+    <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+    <rating>0.2</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Sports</genre>
+    <players>1</players>
+    <image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+    <thumbnail>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</thumbnail>
+    <video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+  </game>
+  <game id="200539" source="ScreenScraper.fr">
+    <path>./Supreme Warrior (32X) (disc 1) (U).cue</path>
+    <name>Supreme Warrior (Disc 1)</name>
+    <desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
+    <rating>0.8</rating>
+    <releasedate>19941101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Action-Fight-Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Supreme Warrior (32X) (disc 2) (U).png</image>
+    <thumbnail>./wheel/Supreme Warrior (32X) (disc 2) (U).png</thumbnail>
+    <video>./snap/Supreme Warrior (32X) (disc 2) (U).mp4</video>
+  </game>
+  <game id="200539" source="ScreenScraper.fr">
+    <path>./Supreme Warrior (32X) (disc 2) (U).cue</path>
+    <name>Supreme Warrior (Disc 2)</name>
+    <desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
+    <rating>0.8</rating>
+    <releasedate>19941101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures</publisher>
+    <genre>Action-Fight-Adventure</genre>
+    <players>1</players>
+    <image>./mixart/Supreme Warrior (32X) (disc 2) (U).png</image>
+    <marquee>./wheel/Supreme Warrior (32X) (disc 2) (U).png</marquee>
+    <video>./snap/Supreme Warrior (32X) (disc 2) (U).mp4</video>
+  </game>
 </gameList>
