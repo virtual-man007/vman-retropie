@@ -2258,6 +2258,7 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
     <players>1</players>
     <image>./mixart/BattleTech - Gray Death Legion (USA) (Unl).png</image>
     <marquee>./wheel/BattleTech - Gray Death Legion (USA) (Unl).png</marquee>
+    <video>./snap/BattleTech - Gray Death Legion (USA) (Unl).mp4</video>
   </game>
   <game id="12826" source="ScreenScraper.fr">
     <path>./Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd</path>

@@ -293,9 +293,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Xash3D.sh</path>
 		<name>Half-Life</name>
 		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
-		<image>~/addonusb/roms/ports/mixart/Half-Life.png</image>
-		<video>~/addonusb/roms/ports/snap/Half-Life.mp4</video>
-		<marquee>~/addonusb/roms/ports/wheel/Half-Life.png</marquee>
+		<image>./mixart/Half-Life.png</image>
+		<video>./snap/Half-Life.mp4</video>
+		<marquee>./wheel/Half-Life.png</marquee>
 		<rating>0.75</rating>
 		<releasedate />
 		<developer>Valve</developer>
@@ -306,9 +306,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Star Wars - Jedi Knight - Jedi Academy (MP).sh</path>
 		<name>Star Wars - Jedi Academy (MP)</name>
 		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
-		<image>~/addonusb/roms/ports/mixart/JediKnightAcademy.png</image>
-		<video>~/addonusb/roms/ports/snap/JediKnightAcademy.mp4</video>
-		<marquee>~/addonusb/roms/ports/wheel/JediKnightAcademy.png</marquee>
+		<image>./mixart/JediKnightAcademy.png</image>
+		<video>./snap/JediKnightAcademy.mp4</video>
+		<marquee>./wheel/JediKnightAcademy.png</marquee>
 		<rating>0.75</rating>
 		<releasedate />
 		<developer>Aspyre</developer>
@@ -319,9 +319,9 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<path>./Star Wars - Jedi Knight - Jedi Academy (SP).sh</path>
 		<name>Star Wars - Jedi Academy (SP)</name>
 		<desc>Star Wars Jedi Knight: Jedi Academy is a 2003 first- and third-person shooter action video game set in the Star Wars universe, and is the final entry in the Star Wars: Jedi Knight game series..</desc>
-		<image>~/addonusb/roms/ports/mixart/JediKnightAcademy.png</image>
-		<video>~/addonusb/roms/ports/snap/JediKnightAcademy.mp4</video>
-		<marquee>~/addonusb/roms/ports/wheel/JediKnightAcademy.png</marquee>
+		<image>./mixart/JediKnightAcademy.png</image>
+		<video>./snap/JediKnightAcademy.mp4</video>
+		<marquee>./wheel/JediKnightAcademy.png</marquee>
 		<rating>0.75</rating>
 		<releasedate />
 		<developer>Aspyre</developer>
@@ -417,5 +417,29 @@ NOTE: Requires keyboard to exit!</desc>
 		<video>./snap/Return to Castle Wolfenstein.mp4</video>
 		<marquee>./wheel/Return to Castle Wolfenstein.png</marquee>
 		<rating>0.85</rating>
+	</game>
+	<game>
+		<path>./SuperTuxKart.sh</path>
+		<name>SuperTuxKart</name>
+		<desc>SuperTuxKart is a Free 3d kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer. (a network multiplayer feature is planned) See the great lighthouse or drive through the sand and visit the pyramids. Race underground or in space, watching the stars passing by. Have some rest under the palms on the beach (watching the other karts overtaking you :) ). But don't eat the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by opponents. You can do a single race against other karts, compete in one of several Grand Prix, try to beat the high score in time trials on your own, play battle mode against your friends, and more!</desc>
+		<image>./mixart/SuperTuxKart.png</image>
+		<video>./snap/SuperTuxKart.mp4</video>
+		<marquee>./wheel/SuperTuxKart.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030401T000000</releasedate>
+		<developer>SuperTux Development Team</developer>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Hurrican.sh</path>
+		<name>Hurrican</name>
+		<desc>Hurrican a Turrican remake with HD enhancements!</desc>
+		<rating>0.85</rating>
+		<releasedate>20200401T000000</releasedate>
+		<developer>Hurrican Development Team</developer>
+		<image>./mixart/Hurrican.png</image>
+		<video>./snap/Hurrican.mp4</video>
+		<marquee>./wheel/Hurrican.png</marquee>
+		<genre>Platform</genre>
 	</game>
 </gameList>
