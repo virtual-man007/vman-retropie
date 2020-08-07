@@ -1,4 +1,6 @@
 import os
+import pwd
+import grp
 import time
 import random
 #import pygame # if you don't have pygame: sudo apt-get install python-pygame
@@ -14,15 +16,17 @@ startsong = "" # if this is not blank, this is the EXACT, CaSeSeNsAtIvE filename
 
 #local variables
 bgm = [mp3 for mp3 in os.listdir(musicdir) if mp3[-4:] == ".mp3" or mp3[-4:] == ".ogg"] # Find everything that's .mp3 or .ogg
+played = [0] * len(bgm) # keep an array to track what has been played
 lastsong = -1
 currentsong = -1
+playedsongs = 0 # track the number of uniquely played songs 
 from pygame import mixer # import PyGame's music mixer
 mixer.init() # Prep that bad boy up.
 random.seed()
 volume = maxvolume # Store this for later use to handle fading out.
 
 #TODO: Fill in all of the current RetroPie Emulator process names in this list.This includes all new ports you add in the future.
-emulatornames = ["retroarch","ags","uae4all2","uae4arm","capricerpi","linapple","hatari","stella","atari800","xroar","vice","daphne.sh","reicast","pifba","osmose","gpsp","jzintv","basiliskll","mame","advmame","dgen","openmsx","mupen64plus","gngeo","dosbox","PPSSPPSDL","simcoupe","scummvm","snes9x","pisnes","frotz","fbzx","fuse","gemrb","cgenesis","zdoom","eduke32","lincity","love","kodi","alephone","micropolis","openbor","openttd","opentyrian","cannonball","tyrquake","ioquake3","residualvm","xrick","sdlpop","uqm","stratagus","wolf4sdl.sh","solarus_run","smw","ppsspp","lr-ppsspp","drastic","psp","amiberry","fm7","redream","oricutron","cdogs-sdl","cgenius","descent2","descent1","digger","doom","duke3d","giana_rpi","coolcv_pi","cyclone","fruitbox","as1600","dasm1600","minivmac","np2","pcsx","fba2x","px68k","quasi88.sdl","rpix86","sdltrs","ti99sim-sdl","xm7","zesarux","loader","d1x-rebirth","d2x-rebirth","zsdx","zsxd","zelda_roth_se","beebem","beebem0.13","CGeniusExe","vice.sh","PicoDrive1.81","PicoDrive1.92","mednafen","yabause","darkplaces-sdl","prince","Xorg","wolf4sdl-3dr-v14","wolf4sdl-gt-v14","wolf4sdl-spear","wolf4sdl-sw-v14","xvic","xvic cart","xplus4","xpet","x128","x64sc","x64","OpenBOR","bgdi-330","redream.elf","splitwolf-wolf3","OpenJazz","openjk_sp.arm","openjk_mp.arm","openjk.arm","xash3d","lzdoom","iowolfsp.armv7l","iowolfmp.armv7l"]
+emulatornames = ["retroarch","ags","uae4all2","uae4arm","capricerpi","linapple","hatari","stella","atari800","xroar","vice","daphne.sh","reicast","pifba","osmose","gpsp","jzintv","basiliskll","mame","advmame","dgen","openmsx","mupen64plus","gngeo","dosbox","PPSSPPSDL","simcoupe","scummvm","snes9x","pisnes","frotz","fbzx","fuse","gemrb","cgenesis","zdoom","eduke32","lincity","love","kodi","alephone","micropolis","openbor","openttd","opentyrian","cannonball","tyrquake","ioquake3","residualvm","xrick","sdlpop","uqm","stratagus","wolf4sdl.sh","solarus_run","smw","ppsspp","lr-ppsspp","drastic","psp","amiberry","fm7","redream","oricutron","cdogs-sdl","cgenius","descent2","descent1","digger","doom","duke3d","giana_rpi","coolcv_pi","cyclone","fruitbox","as1600","dasm1600","minivmac","np2","pcsx","fba2x","px68k","quasi88.sdl","rpix86","sdltrs","ti99sim-sdl","xm7","zesarux","loader","d1x-rebirth","d2x-rebirth","zsdx","zsxd","zelda_roth_se","beebem","beebem0.13","CGeniusExe","vice.sh","PicoDrive1.81","PicoDrive1.92","mednafen","yabause","darkplaces-sdl","prince","Xorg","wolf4sdl-3dr-v14","wolf4sdl-gt-v14","wolf4sdl-spear","wolf4sdl-sw-v14","xvic","xvic cart","xplus4","xpet","x128","x64sc","x64","OpenBOR","bgdi-330","redream.elf","splitwolf-wolf3","OpenJazz","sorr","bgdi","lzdoom","doom1mods","doom2mods","doomumods","hexen2","hcl","openjk.arm","openjkded.arm","openjk_sp.arm","xash3d","iowolfsp.armv71","rtcw","iowolfded.armv7l","iowolfmp.armv7l","iowolfsp.armv7l","bstone","hurrican"]
 #With omxplayer added below. Comment above and uncomment below...
 #emulatornames = ["retroarch","ags","uae4all2","uae4arm","capricerpi","linapple","hatari","stella","atari800","xroar","vice","daphne.sh","reicast","pifba","osmose","gpsp","jzintv","basiliskll","mame","advmame","dgen","openmsx","mupen64plus","gngeo","dosbox","PPSSPPSDL","simcoupe","scummvm","snes9x","pisnes","frotz","fbzx","fuse","gemrb","cgenesis","zdoom","eduke32","lincity","love","kodi","alephone","micropolis","openbor","openttd","opentyrian","cannonball","tyrquake","ioquake3","residualvm","xrick","sdlpop","uqm","stratagus","wolf4sdl.sh","solarus_run","smw","ppsspp","lr-ppsspp","drastic","psp","amiberry","fm7","redream","oricutron","cdogs-sdl","cgenius","descent2","descent1","digger","doom","duke3d","giana_rpi","coolcv_pi","cyclone","fruitbox","as1600","dasm1600","minivmac","np2","pcsx","fba2x","px68k","quasi88.sdl","rpix86","sdltrs","ti99sim-sdl","xm7","zesarux","loader","d1x-rebirth","d2x-rebirth","zsdx","zsxd","zelda_roth_se","beebem","beebem0.13","CGeniusExe","vice.sh","PicoDrive1.81","PicoDrive1.92","mednafen","yabause","darkplaces-sdl","prince","Xorg","wolf4sdl-3dr-v14","wolf4sdl-gt-v14","wolf4sdl-spear","wolf4sdl-sw-v14","xvic","xvic cart","xplus4","xpet","x128","x64sc","x64","OpenBOR","omxplayer.bin"]
 
@@ -36,14 +40,14 @@ while not esStarted:
 			procname = open(os.path.join('/proc',pid,'comm'),'rb').read()
 			if procname[:-1] == "emulationstatio": # Emulation Station's actual process name is apparently short 1 letter.
 				esStarted=True
-		except IOError:	
+		except IOError:
 			continue
 
 #ES Should be going, see if we need to delay our start
 
 if startdelay > 0:
 	time.sleep(startdelay) # Delay audio start per config option above
-	
+
 #Look for OMXplayer - if it's running, someone's got a splash screen going!
 pids = [pid for pid in os.listdir('/proc') if pid.isdigit()]
 for pid in pids:
@@ -52,9 +56,9 @@ for pid in pids:
 		if procname[:-1] == "omxplayer" or procname[:-1] == "omxplayer.bin": # Looking for a splash screen!
 			while os.path.exists('/proc/'+pid):
 				time.sleep(1) #OMXPlayer is running, sleep 1 to prevent the need for a splash.
-	except IOError:	
+	except IOError:
 		continue
-		
+
 #Check for a starting song
 if not startsong == "":
 	try:
@@ -74,9 +78,9 @@ while True:
 				procname = open(os.path.join('/proc',pid,'comm'),'rb').read()
 				if procname[:-1] == "emulationstatio": # Emulation Station's actual process name is apparently short 1 letter.
 					esStarted=True # Will cause us to break out of the loop because ES is now running.
-			except IOError:	
+			except IOError:
 				continue
-				
+
 	#Check to see if the DisableMusic file exists; if it does, stop doing everything!
 	if os.path.exists('/home/pi/.DisableMusic'):
 		if mixer.music.get_busy():
@@ -84,18 +88,38 @@ while True:
 		while (os.path.exists('/home/pi/.DisableMusic')):
 			time.sleep(5)
 
-
+        #
+        # Need a better randomizer... play every song randomly until we've played them all, then reset and do it again
+        #
 	if not mixer.music.get_busy(): # We aren't currently playing any music
-		while currentsong == lastsong and len(bgm) > 1:	#If we have more than one BGM, choose a new one until we get one that isn't what we just played.
-			currentsong = random.randint(0,len(bgm)-1)
-		song = os.path.join(musicdir,bgm[currentsong])
+		while currentsong == lastsong and len(bgm) > 1:	# If we have more than one BGM, choose a new one until we get one that isn't what we just played.
+                        currentsong = random.randint(0, len(bgm) - 1)
+                        while played[currentsong] == 1:
+			        currentsong = random.randint(0, len(bgm) - 1)
+                # print("currentsong:  ", currentsong)
+                playedsongs = playedsongs + 1
+                played[currentsong] = 1
+                song = os.path.join(musicdir, bgm[currentsong])
+                if playedsongs == len(bgm): # reset to replay all songs randomly
+                        # print("resetting. need to make sure last song of the playlist doesn't get played first")
+                        firstsong = currentsong
+                        playedsongs = 0
+                        played = [0] * len(bgm)
+                # write the current song name to a file
+                log_file = open('/home/pi/.playing_song.log', "w")
+                n = log_file.write('Playing song: ' + song + '\n')
+                log_file.close()
+                # make 'pi' user the owner of the file
+                os.chown('/home/pi/.playing_song.log', pwd.getpwnam("pi").pw_uid, grp.getgrnam("pi").gr_gid)
+
+                # load and play song
 		mixer.music.load(song)
 		lastsong=currentsong
 		mixer.music.set_volume(maxvolume) # Pygame sets this to 1.0 on new song; in case max volume -isnt- 1, set it to max volume.
 		mixer.music.play()
-		
+
 	#Emulator check
-	pids = [pid for pid in os.listdir('/proc') if pid.isdigit()] 
+	pids = [pid for pid in os.listdir('/proc') if pid.isdigit()]
 	emulator = -1;
 	esStarted=False #New check 4-23-16 - set this to False (assume ES is no longer running until proven otherwise)
 	for pid in pids:
@@ -103,7 +127,7 @@ while True:
 			procname = open(os.path.join('/proc',pid,'comm'),'rb').read()
 			if procname[:-1] == "emulationstatio": # Killing 2 birds with one stone, while we look for emulators, make sure EmulationStation is still running.
 					esStarted=True # And turn it back to True, because it wasn't done running.  This will prevent the loop above from stopping the music.
-			
+
 			if procname[:-1] in emulatornames: #If the process name is in our list of known emulators
 				emulator = pid;
 				#Turn down the music
@@ -113,7 +137,7 @@ while True:
 					if volume < 0:
 						volume=0
 					mixer.music.set_volume(volume);
-					time.sleep(0.05)			
+					time.sleep(0.05)
 				if restart:
 					mixer.music.stop() #we aren't going to resume the audio, so stop it outright.
 				else:
@@ -125,12 +149,12 @@ while True:
 				#print "Emulator finished, resuming audio..."
 				if not restart:
 					mixer.music.unpause() #resume
-					while volume < maxvolume: 
+					while volume < maxvolume:
 						volume = volume + volumefadespeed;
 						if volume > maxvolume:
 							volume=maxvolume
 						mixer.music.set_volume(volume);
-						time.sleep(0.05)				
+						time.sleep(0.05)
 				#print "Restored."
 				volume=maxvolume # ensures that the volume is manually set (if restart is True, volume would be at zero)
 
@@ -139,5 +163,5 @@ while True:
 
 	time.sleep(1);
 	#end of the main while loop
-	
+
 print "An error has occurred that has stopped Test1.py from executing." #theoretically you should never get this far.
