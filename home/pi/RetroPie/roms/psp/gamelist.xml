@@ -283,20 +283,6 @@
 		<image>./mixart/Infected.png</image>
 		<marquee>./wheel/Infected.png</marquee>
 	</game>
-	<game id="27964" source="ScreenScraper.fr">
-		<path>./Killzone Liberation.cso</path>
-		<name>Killzone : Liberation</name>
-		<desc>In Killzone: Liberation, two months after the events of "Killzone," (PS2) most of southern Vekta is still under Helghast control. The rules of war have been cast aside with the Helghast General, Metrac, employing brutal measures in order to seize the initiative and strengthen his position further. Returning as Templar, players will be sent on a mission to undertake a covert operation to save hostages captured by Metrac, while ISA troops continue the fight for liberty. Featuring an intelligent third person camera system, Killzone: Liberation allows players a more tactical surveillance viewpoint to view their action and read the enemy's behavior during gameplay. Set in an intense postmodern war reminiscent of the previous PS2 title, Killzone: Liberation features the unique graphical style to showcase pure grit and realism. During gameplay, players will have access to variety of weapons that are unique and innovative, inspired by modern military equipment.</desc>
-		<rating>0.85</rating>
-		<releasedate>20061108T000000</releasedate>
-		<developer>Guerrilla</developer>
-		<publisher>Sony</publisher>
-		<genre>Strategy</genre>
-		<players>2-6</players>
-		<image>./mixart/Killzone Liberation.png</image>
-		<marquee>./wheel/Killzone Liberation.png</marquee>
-		<video>./snap/Killzone Liberation.mp4</video>
-	</game>
 	<game id="28125" source="ScreenScraper.fr">
 		<path>./Loco Roco (USA).cso</path>
 		<name>LocoRoco</name>
@@ -1581,19 +1567,6 @@
 		<genre>Beat'em Up-Action</genre>
 	</game>
 	<game>
-		<path>./God of War - Ghost of Sparta.cso</path>
-		<name>God of War : Ghost of Sparta</name>
-		<desc>Set in the realm of Greek mythology, God of War: Ghost of Sparta is a single-player game that allows players to take on the powerful role of Spartan warrior Kratos. This new adventure picks up after God of War concludes, telling the story of Kratos' ascension to power as the God of War. In his quest to rid himself of the nightmares that haunt him, Kratos must embark on a journey that will reveal the origins of lost worlds, and finally answer long-awaited questions about his dark past. Armed with the deadly chained Blades of Chaos, he will have to overcome armies of mythological monsters, legions of undead soldiers, and amazingly dangerous and brutal landscapes throughout his merciless quest.</desc>
-		<image>./mixart/God of War - Ghost of Sparta.png</image>
-		<video>./snap/God of War - Ghost of Sparta.mp4</video>
-		<marquee>./wheel/God of War - Ghost of Sparta.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20101103T000000</releasedate>
-		<developer>Ready At Dawn Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Beat'em Up</genre>
-	</game>
-	<game>
 		<path>./SEGA RALLY Revo.cso</path>
 		<name>Sega Rally Revo</name>
 		<desc>With dynamically deformable terrain, proprietary next-generation graphics, realistic physics, and competitive bumper-to-bumper racing, Sega Rally Revo is a high-tempo driving experience that is every racing fan's driving fantasy. Vehicle selection affects driving strategy in Sega Rally Revo, as race course surfaces dynamically deform upon repeated contact with vehicle tires and changing weather effects. Sega Rally Revo features a variety of fully deformable surfaces, from gravel-littered tracks and smooth tarmac roads, to snow-covered mountain passes.</desc>
@@ -1618,20 +1591,6 @@
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Platform-Action</genre>
-	</game>
-	<game>
-		<path>./300.cso</path>
-		<name>300 : March to Glory</name>
-		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
-		<image>./mixart/300.png</image>
-		<video>./snap/300.mp4</video>
-		<marquee>./wheel/300.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20070330T000000</releasedate>
-		<developer>Collision Studios</developer>
-		<publisher>Warner Brothers</publisher>
-		<genre>Beat'em Up</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Kingdom Hearts - Birth by Sleep (EU).cso</path>
@@ -3682,19 +3641,6 @@ Needed for Pinball Hero's to play all tables.</desc>
 		<developer>Activision</developer>
 		<publisher>Savage Entertainment</publisher>
 		<players>2-4</players>
-	</game>
-	<game>
-		<path>./From_Russia_With_Love_EUR_PSP-pSyPSP.cso</path>
-		<name>007 : From Russia with Love</name>
-		<desc>James Bond 007 : From Russia With Love will be the first game to put players in the universe of the classic James Bond films. Set in the original 60's Bond era, the game features movie-based missions as well as original, action-intensive sequences, a broad and deep variety of gameplay, fully-integrated vehicles, social multiplayer experiences, gorgeous women, and classic, upgradeable weapons and gadgetry with modern mechanics.</desc>
-		<image>./mixart/From_Russia_With_Love_EUR_PSP-pSyPSP.png</image>
-		<video>./snap/From_Russia_With_Love_EUR_PSP-pSyPSP.mp4</video>
-		<marquee>./wheel/From_Russia_With_Love_EUR_PSP-pSyPSP.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20060403T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>1-6</players>
 	</game>
 	<game>
 		<path>./50_Cent_-_Bulletproof_-_G-Unit_Edition.cso</path>
@@ -6898,5 +6844,59 @@ Needed for Pinball Hero's to play all tables.</desc>
 		<genre>Fight</genre>
 		<players>1-2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./300.cso</path>
+		<name>300 : March to Glory</name>
+		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
+		<image>./mixart/300.png</image>
+		<video>./snap/300.mp4</video>
+		<marquee>./wheel/300.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070330T000000</releasedate>
+		<developer>Collision Studios</developer>
+		<publisher>Warner Brothers</publisher>
+		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./From_Russia_With_Love_EUR_PSP-pSyPSP.cso</path>
+		<name>007 : From Russia with Love</name>
+		<desc>James Bond 007 : From Russia With Love will be the first game to put players in the universe of the classic James Bond films. Set in the original 60's Bond era, the game features movie-based missions as well as original, action-intensive sequences, a broad and deep variety of gameplay, fully-integrated vehicles, social multiplayer experiences, gorgeous women, and classic, upgradeable weapons and gadgetry with modern mechanics.</desc>
+		<image>./mixart/From_Russia_With_Love_EUR_PSP-pSyPSP.png</image>
+		<video>./snap/From_Russia_With_Love_EUR_PSP-pSyPSP.mp4</video>
+		<marquee>./wheel/From_Russia_With_Love_EUR_PSP-pSyPSP.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20060403T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>6</players>
+	</game>
+	<game>
+		<path>./God of War - Ghost of Sparta.cso</path>
+		<name>God of War : Ghost of Sparta</name>
+		<desc>Set in the realm of Greek mythology, God of War: Ghost of Sparta is a single-player game that allows players to take on the powerful role of Spartan warrior Kratos. This new adventure picks up after God of War concludes, telling the story of Kratos' ascension to power as the God of War. In his quest to rid himself of the nightmares that haunt him, Kratos must embark on a journey that will reveal the origins of lost worlds, and finally answer long-awaited questions about his dark past. Armed with the deadly chained Blades of Chaos, he will have to overcome armies of mythological monsters, legions of undead soldiers, and amazingly dangerous and brutal landscapes throughout his merciless quest.</desc>
+		<image>./mixart/God of War - Ghost of Sparta.png</image>
+		<video>./snap/God of War - Ghost of Sparta.mp4</video>
+		<marquee>./wheel/God of War - Ghost of Sparta.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20101103T000000</releasedate>
+		<developer>Ready At Dawn Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Beat'em Up</genre>
+	</game>
+	<game>
+		<path>./Killzone Liberation.cso</path>
+		<name>Killzone : Liberation</name>
+		<desc>In Killzone: Liberation, two months after the events of "Killzone," (PS2) most of southern Vekta is still under Helghast control. The rules of war have been cast aside with the Helghast General, Metrac, employing brutal measures in order to seize the initiative and strengthen his position further. Returning as Templar, players will be sent on a mission to undertake a covert operation to save hostages captured by Metrac, while ISA troops continue the fight for liberty. Featuring an intelligent third person camera system, Killzone: Liberation allows players a more tactical surveillance viewpoint to view their action and read the enemy's behavior during gameplay. Set in an intense postmodern war reminiscent of the previous PS2 title, Killzone: Liberation features the unique graphical style to showcase pure grit and realism. During gameplay, players will have access to variety of weapons that are unique and innovative, inspired by modern military equipment.</desc>
+		<image>./mixart/Killzone Liberation.png</image>
+		<video>./snap/Killzone Liberation.mp4</video>
+		<marquee>./wheel/Killzone Liberation.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061108T000000</releasedate>
+		<developer>Guerrilla</developer>
+		<publisher>Sony</publisher>
+		<genre>Strategy</genre>
+		<players>2-6</players>
 	</game>
 </gameList>

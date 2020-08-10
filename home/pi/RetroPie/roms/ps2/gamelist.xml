@@ -1,798 +1,794 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0"?>
 <gameList>
-  <provider>
-    <System>Playstation 2</System>
-    <software>Skraper</software>
-    <database>ScreenScraper.fr</database>
-    <web>http://www.screenscraper.fr</web>
-  </provider>
-  <game id="22198" source="ScreenScraper.fr">
-    <path>./Ace Combat 5 - The Unsung War (USA).gz</path>
-    <name>Ace Combat 5 : The Unsung War</name>
-    <desc>Ace Combat 5: The Unsung War is a first person air combat and flight simulator. Like other Ace Combat games, each mission is determined by a level briefing and objectives. There are 32 missions in the main campaign mode, while an additional "arcade" mode puts the player in the role of Mobius One (from Ace Combat 04: Shattered Skies) as he faces endless waves of enemy attacks. Regardless of the mode chosen, once in the air the player will have control over speed, direction, altitude, gun cannon, missiles and special weapon of their aircraft. A new feature from previous Ace Combat games, is the concept of Wingmen and being able to issue simple orders to them in the air. This allows the player to better coordinated group attacks as well as giving each wingman a personality of their own. Additionally, the player as squadron leader will be asked to make decisions ("Yes/No") while flying in the air. Between missions, the story is progressed through a series of cutscenes.</desc>
-    <rating>0.85</rating>
-    <releasedate>20050223T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <players>1</players>
-    <image>./mixart/Ace Combat 5 - The Unsung War (USA).png</image>
-    <marquee>./wheel/Ace Combat 5 - The Unsung War (USA).png</marquee>
-    <video>./snap/Ace Combat 5 - The Unsung War (USA).mp4</video>
-  </game>
-  <game id="22956" source="ScreenScraper.fr">
-    <path>./Armored Core 3 (USA).gz</path>
-    <name>Armored Core 3</name>
-    <desc>Armored Core 3 once again puts you in the shoes of a Raven mercinary, with the task of piloting your own battle machine to use in a range of tasks (from destroying other mechs to seek and destroy missions).    After each missions, you are payed in full. The money raised can then go on towards the purchase of items for your mech. Weapon upgrades, better shields, even the opportunity to purchase what's called an Exceed Orbit, smaller robot gun emplacements that hover around your mech, giving you an added boost of fire power in the crunch.    4 player deathmatch modes are also included, where you each pit your supped-up mechs against each other to see who is the last robot standing.</desc>
-    <rating>0.9</rating>
-    <releasedate>20030615T000000</releasedate>
-    <developer>Metro3D</developer>
-    <publisher>From Software</publisher>
-    <image>./mixart/Armored Core 3 (USA).png</image>
-    <marquee>./wheel/Armored Core 3 (USA).png</marquee>
-    <video>./snap/Armored Core 3 (USA).mp4</video>
-  </game>
-  <game id="22059" source="ScreenScraper.fr">
-    <path>./Bloody Roar 4 (USA).gz</path>
-    <name>Bloody Roar 4</name>
-    <desc>During the XGC (X-Genome Code) Incident one year ago, riots raged over the earth by beasts that did not show the XCG, and all over the country small earthquakes shook the land. The cause was unknown, but as the Crest Incident came to an end and the rioting and earthquakes subsided, people began to claim that all was due to the influence of the Stone Seal. Although the Stone Seal has been locked away, the rioting and earthquakes have returned. This time, the incidents are on a larger scale than those of a year ago. What could be behind it all?    Bloody Roar 4 is the last title in the series, and is once again a full-3D fighting game featuring the series' trademark transformation abilities. Unlike previous titles in the series, the beast gauge now acts as its own health bar; if a character's health gauge is depleted, they will automatically transform. The game features 18 playable fighters and a variety of game modes, including standard arcade, versus, time-attack, training, and survival modes. Of special mention is the career mode, in which fighting battles will earn so-called "DNA points," which can be spent on abilities and equipment to customize a character for use in other modes.</desc>
-    <rating>0.8</rating>
-    <releasedate>20031102T000000</releasedate>
-    <developer>Eighting Co., Ltd.</developer>
-    <publisher>Konami</publisher>
-    <genre>Action-Fight</genre>
-    <players>2</players>
-    <image>./mixart/Bloody Roar 4 (USA).png</image>
-    <marquee>./wheel/Bloody Roar 4 (USA).png</marquee>
-    <video>./snap/Bloody Roar 4 (USA).mp4</video>
-  </game>
-  <game id="22057" source="ScreenScraper.fr">
-    <path>./Burnout 3 - Takedown (USA).gz</path>
-    <name>Burnout 3 : Takedown</name>
-    <desc>Burnout 3: Takedown is a racing game which encourages aggressive driving and lets you use your vehicle to smash your way to the finish line by taking out your rivals and causing massive multi-car pileups. The more cars you take out, damage you inflict, the more events and cars you can unlock. Burnout 3 also has a "crash" mode which puts your vehicle at a variety of traffic junctions jam-packed with moving vehicles and pickups to see just how much monetary damage you can inflict.    Burnout 3: Takedown continues the racing series with more cars, more tracks, a more detailed crash engine, and a multitude of new gameplay modes for single players, multiple players on one system, and online play.</desc>
-    <rating>0.9</rating>
-    <releasedate>20040907T000000</releasedate>
-    <developer>Criterion Studios</developer>
-    <publisher>Electronic Arts</publisher>
-    <genre>Race, Driving</genre>
-    <players>2-8</players>
-    <image>./mixart/Burnout 3 - Takedown (USA).png</image>
-    <marquee>./wheel/Burnout 3 - Takedown (USA).png</marquee>
-    <video>./snap/Burnout 3 - Takedown (USA).mp4</video>
-  </game>
-  <game id="22596" source="ScreenScraper.fr">
-    <path>./Contra - Shattered Soldier (USA).gz</path>
-    <name>Contra : Shattered Soldier</name>
-    <desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
-    <rating>0.75</rating>
-    <releasedate>20030214T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-    <players>2</players>
-    <image>./mixart/Contra - Shattered Soldier (USA).png</image>
-    <marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
-    <video>./snap/Contra - Shattered Soldier (USA).mp4</video>
-  </game>
-  <game id="21950" source="ScreenScraper.fr">
-    <path>./Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).gz</path>
-    <name>Devil May Cry 3 : Dante's Awakening</name>
-    <desc>Raise Hell! Dante's past is revealed as Devil May Cry returns to its roots. Master Dante's multiple fighting styles while battling never before seen demons and new characters as you fight your way towards a brutal confrontation with Dante's mysterious twin brother Vergil.     Choose Dante's Fighting Style - maximize the impact of close-up blade attacks or blow enemies away from a distance with a huge arsenal of weapons including handguns, shotguns, swords and more. Battle against a a horde of demonic enemies that are more ferocious than ever with powerful weapons and the abilities to transform and fly.</desc>
-    <rating>0.85</rating>
-    <releasedate>20050324T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Platform-Beat'em Up</genre>
-    <players>1</players>
-    <image>./mixart/Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).png</image>
-    <marquee>./wheel/Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).png</marquee>
-    <video>./snap/Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).mp4</video>
-  </game>
-  <game id="21878" source="ScreenScraper.fr">
-    <path>./Final Fantasy X (USA).gz</path>
-    <name>Final Fantasy X</name>
-    <desc>Square's acclaimed role-playing series makes its PlayStation 2 debut with Final Fantasy X. Players assume the role of Tidus, an athletic teenager who witnessed the destruction of his home city by an evil entity named Sin. While his life was spared, Tidus' contact with Sin opened a portal through time. Some 1,000 years have passed since the encounter, and Tidus now finds himself in a strange land with unfamiliar faces. As Tidus struggles to find a way back home, he will meet a variety of characters, including Yuna, a girl faced with the daunting task of defeating Sin.   Final Fantasy X features a number of new features over previous installments. Backgrounds and characters are rendered entirely in 3D, with real-time facial expressions visible on each character. When characters are surprised, for example, they will raise their eyebrows or open their mouths in astonishment. For the first time in the series, dialogue has been recorded using professional voice actors. The U.S. version features voices in English, with optional English subtitles selectable from the menu screen.</desc>
-    <rating>0.9</rating>
-    <releasedate>20020517T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Square Enix</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Final Fantasy X (USA).png</image>
-    <marquee>./wheel/Final Fantasy X (USA).png</marquee>
-    <video>./snap/Final Fantasy X (USA).mp4</video>
-  </game>
-  <game id="128570" source="ScreenScraper.fr">
-    <path>./God of War II (USA).gz</path>
-    <name>God of War II</name>
-    <desc>Kratos, thanks to your help, is no longer a lowly mortal but a legendary god. The former warrior of Sparta has not been the same after usurping Ares, however. His mind is filled with persistent thoughts of blood, brutal suffering, and violent conflict, as the rest of the gods on Mount Olympus embroil themselves in petty politics and duplicitous deeds. Kratos wishes to end his torment, and he makes a solemn oath to end his reign as the God of War in unprecedented fashion: by permanently altering his fate. God of War II has you twirling Kratos' twin blades for more adventurous action in Ancient Greece, as the grim hero encounters an assortment of new mythological creatures and environmental dangers on his path to redemption.</desc>
-    <rating>0.9</rating>
-    <releasedate>20070313T000000</releasedate>
-    <developer>SCE Santa Monica Studio</developer>
-    <publisher>Sony</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1</players>
-    <image>./mixart/God of War II (USA).png</image>
-    <marquee>./wheel/God of War II (USA).png</marquee>
-    <video>./snap/God of War II (USA).mp4</video>
-  </game>
-  <game id="21899" source="ScreenScraper.fr">
-    <path>./God of War (USA).gz</path>
-    <name>God of War</name>
-    <desc>God of War is an action-oriented adventure game with a strong focus on fast-paced combat. Players take control of Kratos, a mystically powerful hero in the ancient Greece of classic mythology. Kratos can perform super-human leaps, agile dodges, and magically enhanced combo attacks, which all flow together in a stream of intense engagement. The fast-paced, over-the-top fighting, combined with the tense environments and computer-directed camera angles, give gameplay the feel of combat-adventures such as Devil May Cry or Otogi.   Unlike those earlier blends of survival-horror presentation and combat-minded control schemes, however, God of War is set in a world more immediately familiar to all fans of western fantasy. The ultimate goal of Kratos is a conclusive confrontation with Ares -- the god of war himself -- but the hero must face a deadly succession of monsters and villains from Greek mythology as he pursues this end. The Hydra, Medusa, the Cyclops, the Minotaur, and other legendary creatures will all have their chances to destroy Kratos before he meets his final destiny.</desc>
-    <rating>0.9</rating>
-    <releasedate>20050708T000000</releasedate>
-    <developer>SCE Santa Monica Studio</developer>
-    <publisher>Sony</publisher>
-    <genre>Platform-Action-Action / Adventure-Beat'em Up</genre>
-    <players>1</players>
-    <image>./mixart/God of War (USA).png</image>
-    <marquee>./wheel/God of War (USA).png</marquee>
-    <video>./snap/God of War (USA).mp4</video>
-  </game>
-  <game id="21911" source="ScreenScraper.fr">
-    <path>./Gran Turismo 4 (USA).gz</path>
-    <name>Gran Turismo 4</name>
-    <desc>GT4 continues in its predecessors' footsteps by offering an extremely large list of cars; the PAL version features 721 cars from 80 manufacturers.     Players now accumulate points by winning races in the normal first-person driving mode, called A-Spec mode. Each race event can yield up to a maximum of 200 A-Spec points. Generally, a win using a car with less of an advantage over the AI opponents is worth more points. Points can only be won once, so to win further points from a previously-won event, it must be re-won using a car with less of an advantage over the AI. There are also the 34 Missions which can yield 250 points each. Despite this, A-Spec points are experience points, not money.</desc>
-    <rating>0.9</rating>
-    <releasedate>20050222T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Polyphony Digital</publisher>
-    <genre>Race, Driving</genre>
-    <players>1-2</players>
-    <image>./mixart/Gran Turismo 4 (USA).png</image>
-    <marquee>./wheel/Gran Turismo 4 (USA).png</marquee>
-    <video>./snap/Gran Turismo 4 (USA).mp4</video>
-  </game>
-  <game id="21877" source="ScreenScraper.fr">
-    <path>./Grand Theft Auto - San Andreas (USA).gz</path>
-    <name>Grand Theft Auto : San Andreas</name>
-    <desc>Grand Theft Auto: San Andreas takes place within the state San Andreas, which is based on sections of California and Nevada. It comprises three major fictional cities: Los Santos corresponds to real-life Los Angeles; San Fierro corresponds to real-life San Francisco; and Las Venturas and the surrounding desert correspond to real-life Las Vegas and the Nevada and Arizona desert.    The game features set co-op scenarios in a free roam mode as well as a cooperative "rampage" gameplay mode.</desc>
-    <rating>0.95</rating>
-    <releasedate>20041026T000000</releasedate>
-    <developer>Rockstar North</developer>
-    <publisher>Rockstar Games</publisher>
-    <genre>Action-Shooter-Action / Adventure</genre>
-    <players>1-2</players>
-    <image>./mixart/Grand Theft Auto - San Andreas (USA).png</image>
-    <marquee>./wheel/Grand Theft Auto - San Andreas (USA).png</marquee>
-    <video>./snap/Grand Theft Auto - San Andreas (USA).mp4</video>
-  </game>
-  <game id="21890" source="ScreenScraper.fr">
-    <path>./Grand Theft Auto - Vice City (USA).gz</path>
-    <name>Grand Theft Auto : Vice City</name>
-    <desc>The player takes on the role of Tommy Vercetti, a man who was released from prison in 1986 after serving 15 years for killing eleven people. The leader of the organization for whom he used to work, Sonny Forelli, fears that Tommy's presence in Liberty City will heighten tensions and bring unwanted attention upon his organization's criminal activities. To prevent this, Sonny ostensibly "promotes" Tommy and sends him to Vice City to act as their buyer for a series of cocaine deals.[7] During Tommy's first meeting with the drug dealers, an ambush by an unknown party results in the death of Tommy's bodyguards, Harry and Lee, and the cocaine dealer. There is another survivor, the pilot of the dealer's helicopter, who flies off and escapes. Tommy narrowly escapes with his life, but he loses both the Forelli's money and the cocaine.</desc>
-    <rating>0.9</rating>
-    <releasedate>20021027T000000</releasedate>
-    <developer>Take 2 Interactive</developer>
-    <publisher>Rockstar North</publisher>
-    <players>1</players>
-    <image>./mixart/Grand Theft Auto - Vice City (USA).png</image>
-    <marquee>./wheel/Grand Theft Auto - Vice City (USA).png</marquee>
-    <video>./snap/Grand Theft Auto - Vice City (USA).mp4</video>
-  </game>
-  <game id="21945" source="ScreenScraper.fr">
-    <path>./Ico (USA).gz</path>
-    <name>Ico</name>
-    <desc>A young boy in a magical world has been born with a strange deformity: large horns that jut out of both sides of his head. The people of his village, fearful of retribution from above, feel they have no choice but to sacrifice this mutant child to appease their gods. To that end, they have taken this boy, named Ico, to a massive, supposedly deserted castle and left him in a giant urn. But when the urn breaks, spilling Ico into the bowels of the fortress, he will soon find his adventure is just beginning. Along the way he'll meet a mysterious princess who has been held captive in the castle for untold years. Although they cannot communicate through speech, they soon forge an unspoken bond, and it is clear that if either of them wants to make it out of the castle alive, their destinies must remain intertwined.</desc>
-    <rating>0.85</rating>
-    <releasedate>20010924T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Sony</publisher>
-    <genre>Platform-Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Ico (USA).png</image>
-    <marquee>./wheel/Ico (USA).png</marquee>
-    <video>./snap/Ico (USA).mp4</video>
-  </game>
-  <game id="21903" source="ScreenScraper.fr">
-    <path>./Kingdom Hearts - Re Chain of Memories (USA).gz</path>
-    <name>Kingdom Hearts : Re-Chain of Memories</name>
-    <desc>Sora, Donald and Goofy travel down a long road that meanders through endless fields, and come to a crossroads. As Sora stands in the crossroads, he gazes up at the night sky and thinks of his lost friends. Just then, a mysterious man approaches from down one of the branching paths. "Ahead lies something you need," he says, "but to claim it, you must lose something dear." The man vanishes before a single path, leading to a castle that eerily resembles a girl's drawing... In the coming journey, what will Sora and his companions gain, and what will they lose? In addition to Sora, players can control Riku in this adventure that bridges the gap between KINGDOM HEARTS and KINGDOM HEARTS II A full 3D remake of the original GBA release, KINGDOM HEARTS Re:Chain of Memories offers a refreshing rendition of the hit title for the PlayStation 2 system. The talented voice cast from the North American releases of KINGDOM HEARTS and KINGDOM HEARTS II, including David Gallagher and Haley Joel Osment, return to breathe new life into the beloved characters. The mini-game catalog has been completely renewed, now with four brand new experiences accompanying the main adventure.</desc>
-    <rating>0.85</rating>
-    <releasedate>20081202T000000</releasedate>
-    <developer>Square Enix</developer>
-    <publisher>Square Enix</publisher>
-    <genre>Playing cards-Role playing games</genre>
-    <image>./mixart/Kingdom Hearts - Re Chain of Memories (USA).png</image>
-    <marquee>./wheel/Kingdom Hearts - Re Chain of Memories (USA).png</marquee>
-    <video>./snap/Kingdom Hearts - Re Chain of Memories (USA).mp4</video>
-  </game>
-  <game id="21898" source="ScreenScraper.fr">
-    <path>./Kingdom Hearts II (USA).gz</path>
-    <name>Kingdom Hearts II</name>
-    <desc>Sora, Donald, and Goofy are back in the third installment (second for PS2) of the Kingdom Hearts series, continuing where Kingdom Hearts: Chain of Memories left off. The trio awakens from their sleep and goes to Twilight Town. When the game begins, you will first have control over a boy name Roxas who wields a dual-Keyblade. He is trying to enjoy the remainder of his summer vacation with his friends but he keeps having flash-backs of someone else's memories.    When he meets up with Sora, the two learns they have a special connection with one another. Afterwards, the group will continue their search for King Mickey and Riku. This time, they will travel to new worlds and work with various characters from the Disney and Final Fantasy universes. This includes worlds from not only Disney's animated movies but other movies as well like Pirates of the Caribbean and TRON.</desc>
-    <rating>0.95</rating>
-    <releasedate>20051222T000000</releasedate>
-    <developer>Ubisoft</developer>
-    <publisher>Square Enix</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Kingdom Hearts II (USA).png</image>
-    <marquee>./wheel/Kingdom Hearts II (USA).png</marquee>
-    <video>./snap/Kingdom Hearts II (USA).mp4</video>
-  </game>
-  <game id="21883" source="ScreenScraper.fr">
-    <path>./Kingdom Hearts (USA).gz</path>
-    <name>Kingdom Hearts</name>
-    <desc>Created with the support of two multimedia entertainment powerhouses, Kingdom Hearts provides a new adventure with some familiar faces. This 3D action-oriented role-playing title from developers at Square features popular Disney characters like Donald Duck and Goofy adventuring alongside more conventional Final Fantasy-styled heroes.   Tetsuya Nomura, who designed several of the characters in earlier Final Fantasy titles, supervised this game's development. In addition to the well-established Donald and Goofy, Kingdom Hearts introduces several new characters to the Disney universe.</desc>
-    <rating>0.9</rating>
-    <releasedate>20021115T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Square Enix</publisher>
-    <genre>Role playing games-Action</genre>
-    <players>1</players>
-    <image>./mixart/Kingdom Hearts (USA).png</image>
-    <marquee>./wheel/Kingdom Hearts (USA).png</marquee>
-    <video>./snap/Kingdom Hearts (USA).mp4</video>
-  </game>
-  <game id="22103" source="ScreenScraper.fr">
-    <path>./Max Payne (USA).gz</path>
-    <name>Max Payne</name>
-    <desc>Max Payne was a police officer of the New York City police. On one terrible day, his wife and newborn daughter were killed by three junkies, who broke into his apartment after having ingested a new designer drug known as Valkyr. After the tragedy, Max quit the police force and joined the Drug Enforcement Administration. Three years later, during a raid on a mafia compound that was reportedly trafficking Valkyr, his best friend and fellow DEA agent Alex is killed, and he becomes the prime suspect in his murder. Now Max is all alone in the cold, snowy night of New York. The mob is out to get him. The police are out to get him. The only way out is with guns blazing, because he has nothing to lose.</desc>
-    <rating>0.8</rating>
-    <releasedate>20011208T000000</releasedate>
-    <developer>Remedy</developer>
-    <publisher>Take 2 Interactive</publisher>
-    <genre>Shooter-Action</genre>
-    <players>1</players>
-    <image>./mixart/Max Payne (USA).png</image>
-    <marquee>./wheel/Max Payne (USA).png</marquee>
-    <video>./snap/Max Payne (USA).mp4</video>
-  </game>
-  <game id="21895" source="ScreenScraper.fr">
-    <path>./Metal Gear Solid 2 - Sons of Liberty (USA).gz</path>
-    <name>Metal Gear Solid 2 : Sons of Liberty</name>
-    <desc>A stealth action video game directed by Hideo Kojima, developed by Konami Computer Entertainment Japan and published by Konami for the PlayStation 2 in 2001. It is the sixth canonical game in the Metal Gear series and the sequel to Metal Gear Solid. The story revolves around a massive offshore clean-up facility that has been seized by terrorists calling themselves the "Sons of Liberty." They demand a massive ransom in exchange for the life of the President of the United States, and threaten to destroy the facility and create a cataclysmic environmental disaster if their demands are not met. The motives and identities of many of the antagonists and allies change rapidly, as the heroes discover a world-shaking conspiracy constructed by a powerful organization known as the Patriots.</desc>
-    <rating>0.9</rating>
-    <releasedate>20020308T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Adventure-Action</genre>
-    <players>1</players>
-    <image>./mixart/Metal Gear Solid 2 - Sons of Liberty (USA).png</image>
-    <marquee>./wheel/Metal Gear Solid 2 - Sons of Liberty (USA).png</marquee>
-    <video>./snap/Metal Gear Solid 2 - Sons of Liberty (USA).mp4</video>
-  </game>
-  <game id="21892" source="ScreenScraper.fr">
-    <path>./Metal Gear Solid 3 - Snake Eater (USA).gz</path>
-    <name>Metal Gear Solid 3 : Snake Eater</name>
-    <desc>Hideo Kojima's critically acclaimed "tactical espionage action" series returns to PlayStation 2 in the anticipated follow-up to 2001's Sons of Liberty. Instead of slinking around futuristic installations, knocking on metal to distract guards, or crawling underneath a cardboard box, players are given a whole new Snake to wrangle. Drawing its inspiration from films like First Blood and Rambo: First Blood Part II, Snake Eater drops players in the middle of a thick jungle teeming with wildlife and, of course, terrorists.   Heavily armed enemies dressed in camouflage gear will patrol the dense forests, waterfalls, and surrounding areas, so players will be able to climb trees, fire pistols while hanging down from branches, and crawl through hollowed out logs to stalk their prey. Along the way, Snake will have to find sustenance by catching fish or other wildlife, while being mindful of natural hazards such hornets nests, cliffs, and rapids. Metal Gear Solid 3: Snake Eater was first revealed in a 12-minute preview displayed at 2003's E3 in Los Angeles, California.  </desc>
-    <rating>0.95</rating>
-    <releasedate>20041117T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Metal Gear Solid 3 - Snake Eater (USA).png</image>
-    <marquee>./wheel/Metal Gear Solid 3 - Snake Eater (USA).png</marquee>
-    <video>./snap/Metal Gear Solid 3 - Snake Eater (USA).mp4</video>
-  </game>
-  <game id="21917" source="ScreenScraper.fr">
-    <path>./Okami (USA).gz</path>
-    <name>Okami</name>
-    <desc> The game is set in a Nippon (Japan) based on Japanese folklore, and begins with a flashback to events 100 years prior to the game's present; the narrator describes how Shiranui, a pure white wolf, and Nagi, a swordsman, together fought the eight-headed demon Orochi to save Kamiki Village and the maiden Nami, Nagi's beloved. Shiranui and Nagi are unable to defeat Orochi, but manage to seal the demon away.   In the game's present, Susano, a descendant of Nagi and self-proclaimed greatest warrior, breaks Orochi's seal due to the fact that he does not believe in the legend and wants to prove it false; Orochi escapes and curses the lands, sapping the life from every living being. Sakuya, the wood sprite and guardian of Kamiki Village, calls forth Amaterasu, the sun goddess, known to the villagers as the reincarnation of the white wolf Shiranui, and pleads for her to remove the curse that covers the land. Accompanied by the artist Issun (an inch-high creature known as a Poncle), Amaterasu is able to restore the land to its former beauty.</desc>
-    <rating>0.95</rating>
-    <releasedate>20070209T000000</releasedate>
-    <developer>Clover</developer>
-    <publisher>Capcom</publisher>
-    <genre>Platform-Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Okami (USA).png</image>
-    <marquee>./wheel/Okami (USA).png</marquee>
-    <video>./snap/Okami (USA).mp4</video>
-  </game>
-  <game id="21961" source="ScreenScraper.fr">
-    <path>./Ratchet &amp; Clank - Going Commando (USA).gz</path>
-    <name>Ratchet &amp; Clank : Going Commando</name>
-    <desc>Ratchet &amp; Clank 2 est un jeu d'action/plate-forme à la 3ème personne sorti sur PlayStation 2. Incarnez Ratchet, toujours accompagné de son fidèle robot Clank, et usez, voire abusez, des 36 armes mises à votre disposition pour tout détruire dans ce jeu à l'humour omniprésent.</desc>
-    <rating>0.9</rating>
-    <releasedate>20031119T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Insomniac Games</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-    <image>./mixart/Ratchet &amp; Clank - Going Commando (USA).png</image>
-    <marquee>./wheel/Ratchet &amp; Clank - Going Commando (USA).png</marquee>
-    <video>./snap/Ratchet &amp; Clank - Going Commando (USA).mp4</video>
-  </game>
-  <game id="21891" source="ScreenScraper.fr">
-    <path>./Resident Evil 4 (USA).gz</path>
-    <name>Resident Evil 4</name>
-    <desc>Picking up six years after Resident Evil 2, the fourth game in the series follows former cop (now US agent) Leon S. Kennedy to Europe on a top secret mission to investigate the disappearance of the president's daughter Ashley. As Leon encounters unimaginable horrors, he must find out who or what is behind everything. Old friends...and enemies...lurk around every corner as Leon attempts to find out who is truly behind the kidnapping of the president's daughter.   The first game in Capcom's blockbuster survival-horror series designed with a real-time 3D polygonal engine, Resident Evil 4 is freed from the camera limitations and static backgrounds of past titles. Players guide Leon S. Kennedy, the lead protagonist in Resident Evil 2, in an adventure taking them deep within the Umbrella Corporation.</desc>
-    <rating>0.95</rating>
-    <releasedate>20061013T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Adventure-Action</genre>
-    <players>1</players>
-    <image>./mixart/Resident Evil 4 (USA).png</image>
-    <marquee>./wheel/Resident Evil 4 (USA).png</marquee>
-    <video>./snap/Resident Evil 4 (USA).mp4</video>
-  </game>
-  <game id="21887" source="ScreenScraper.fr">
-    <path>./Shadow of the Colossus (USA).gz</path>
-    <name>Shadow of the Colossus</name>
-    <desc>End-level bosses are standard fare in video games, but the bosses are the levels in this unusual adventure. Developed by the studio that created the PS2's critically acclaimed Ico, Shadow of the Colossus is another fantasy-themed puzzle adventure that's light on dialog and heavy on beautifully expressive environments.   Players take the role of a young knight who sets out to rescue his sleeping-beauty princess from a magic-induced state of suspended animation. To do so, he'll need to defeat the 16 Colossi -- landscape-sized enemies so enormous that they can only be conquered by exploring them, platform-game style, to discover their weaknesses. Against some Colossi, the hero may ride his faithful steed alongside the monster, galloping at full speed just to keep up with its mile-long strides. Other Colossi require the player to actually climb aboard, and crawl, run, and leap across their massive forms to find the hidden vulnerability that can be used to bring them down.  </desc>
-    <rating>0.9</rating>
-    <releasedate>20051018T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Sony</publisher>
-    <genre>Beat'em Up-Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Shadow of the Colossus (USA).png</image>
-    <marquee>./wheel/Shadow of the Colossus (USA).png</marquee>
-    <video>./snap/Shadow of the Colossus (USA).mp4</video>
-  </game>
-  <game id="22226" source="ScreenScraper.fr">
-    <path>./SSX 3 (USA).gz</path>
-    <name>SSX 3</name>
-    <desc>Players can discover the open mountain in the newest version of the smash-hit SSX snowboarding franchise.    SSX 3 allows gamers to go anywhere gravity will take them. Players will discover a colossal mountain where they can immerse themselves in a free-roaming snow paradise. The ultimate all-mountain experience, SSX 3 features all-new events and courses, awe-inspiring tricks and a cast of cool, customisable characters. Discover the open terrain, explore its hidden crevices, and conquer its peaks.    Produced under the EA SPORTS BIG brand, the SSX 3 development team at EA Canada is adding technologies that bring to life rich natural graphics such as snow that sparkles and blows in the wind and realistic character shadowing. A new gameplay experience allows users to seamlessly ride from one awesome area to the next- entering competitions, taking on Big Challenges and discovering hidden collectibles. SSX 3 has blown out the trick component with unlimited combos and new, over-the-top tricks.    In addition to the new boarding venues, Big Challenges rewards players for completing any of the more than 100 unique challenges as they explore the mountain's vast world. Grind billboards, board press logs, even hand plant the fence line.    The musical soundtrack features a broad range of music from artists including the X-Ecutioners, Felix Da Housecat, Queens of the Stone Age, N.E.R.D., and many more.</desc>
-    <rating>0.9</rating>
-    <releasedate>20031002T000000</releasedate>
-    <developer>EA Sports</developer>
-    <publisher>Electronic Arts</publisher>
-    <genre>Sports</genre>
-    <players>2</players>
-    <image>./mixart/SSX 3 (USA).png</image>
-    <marquee>./wheel/SSX 3 (USA).png</marquee>
-    <video>./snap/SSX 3 (USA).mp4</video>
-  </game>
-  <game id="22661" source="ScreenScraper.fr">
-    <path>./Virtua Fighter 4 - Evolution (USA).gz</path>
-    <name>Virtua Fighter 4 : Evolution</name>
-    <desc>Evolution was an updated version of Virtua Fighter 4. The game introduced two new characters and adjusted every other character as well. The two new characters were the Judoka-assassin, Goh Hinogami and the Muay Thai boxer Brad Burns. With the addition of Brad Burns, Vanessa Lewis's alternate Muay Thai style from Virtua Fighter 4 was removed and replaced with a Vale Tudo "Offensive" style; making her a solely Vale Tudo brawler.    All of the stages were adjusted. For example, Lei-Fei's stage in Virtua Fighter 4 previously took place during sunset, in Evolution it takes place during the morning.</desc>
-    <rating>0.8</rating>
-    <releasedate>20030702T000000</releasedate>
-    <developer>AM2</developer>
-    <publisher>Sega</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/Virtua Fighter 4 - Evolution (USA).png</image>
-    <marquee>./wheel/Virtua Fighter 4 - Evolution (USA).png</marquee>
-    <video>./snap/Virtua Fighter 4 - Evolution (USA).mp4</video>
-  </game>
-  <game id="22659" source="ScreenScraper.fr">
-    <path>./Virtua Fighter 4 (USA).gz</path>
-    <name>Virtua Fighter 4</name>
-    <desc>Virtua Fighter 4  Returning characters  Akira Yuki ;Pai Chan; Lau Chan; Wolf Hawkfield; Jeffry McWild; Kage-Maru; Sarah Bryant; Jacky Bryant; Shun Di; Lion Rafale; Aoi Umenokoji; Dural    New characters  Lei-Fei: Vanessa Lewis:</desc>
-    <rating>0.8</rating>
-    <releasedate>20020317T000000</releasedate>
-    <developer>AM2</developer>
-    <publisher>Sega</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/Virtua Fighter 4 (USA).png</image>
-    <marquee>./wheel/Virtua Fighter 4 (USA).png</marquee>
-    <video>./snap/Virtua Fighter 4 (USA).mp4</video>
-  </game>
-  <game id="22506" source="ScreenScraper.fr">
-    <path>./Def Jam - Vendetta (USA).gz</path>
-    <name>Def Jam : Vendetta</name>
-    <desc>The unlikely combination of Def Jam recording artists and underground wrestling is the subject of this Electronic Arts release, which features the 3D likenesses of such musicians as Ludacris, Redman, DMX, Scarface, Ghostface Killa, Method Man, and more as playable characters.   Developed by AKI Corporation, whose previous experience in the genre includes WWF No Mercy and WCW/NWO Revenge, Def Jam Vendetta offers an estimated 1,500 animations for each of the 45 included characters. A total of ten different venues are available, and one of the featured modes offers a storyline complete with soap opera-style drama to go along with the suplexes and body slams. Up to four players can compete in Single, Tag-Team, Handicap, or Battle Royale matches.  </desc>
-    <rating>0.8</rating>
-    <releasedate>20030523T000000</releasedate>
-    <developer>EA Sports</developer>
-    <publisher>Electronic Arts</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/Def Jam - Vendetta (USA).png</image>
-    <marquee>./wheel/Def Jam - Vendetta (USA).png</marquee>
-    <video>./snap/Def Jam - Vendetta (USA).mp4</video>
-  </game>
-  <game id="22736" source="ScreenScraper.fr">
-    <path>./Katamari Damacy (USA).gz</path>
-    <name>Katamari Damacy</name>
-    <desc>The King of All Cosmos accidentally destroyed the stars andâ€”having recoveredâ€”wants the prince to rebuild them. Unfortunately the prince stands a little less than half a foot tall, so recreating the stars will require some effort. Enter the Katamari, a sphere the prince can push around our world to â€œroll upâ€  items increasing the Katamariâ€™s size until itâ€™s suitable for the King.    Taking place in stylized versions of Japanese houses, cities, and environs, the prince pushes the Katamari around collecting items which adhere to it. At first, the prince can only pick up smaller items, but as the Katamari grows, the more it can collect. Push pins and paper clips cling to the Katamari increasing its size so it can roll over obstacles and pick up bigger items. Over many levels, the Katamari can eventually pick up people, cars, and other bigger items.    Players steer the Katamari from a third-person perspective using the analog sticks on the PS2. A tutorial stage takes the player through the controls and sets up the story as well as introducing a side story about a Japanese girl who can feel the cosmos. Wanting to challenge the prince, the King sets requirements on the Katamariâ€™s size and sets time limits on the level. Bonus missions restore constellations and have their own restrictions.     The world of Katamari Damacy is brought to life with off-beat animation and a catchy soundtrack. Players can find presents hidden in the levels that contain accessories for the prince. Two players can also battle head-to-head in a Katamari competition.</desc>
-    <rating>0.85</rating>
-    <releasedate>20040922T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <genre>Puzzle-Game-Adventure</genre>
-    <players>2</players>
-    <image>./mixart/Katamari Damacy (USA).png</image>
-    <marquee>./wheel/Katamari Damacy (USA).png</marquee>
-    <video>./snap/Katamari Damacy (USA).mp4</video>
-  </game>
-  <game id="22039" source="ScreenScraper.fr">
-    <path>./Castlevania - Curse of Darkness (USA).gz</path>
-    <name>Castlevania : Curse of Darkness</name>
-    <desc>In Castlevania: Curse of Darkness you play Hector, a former Dracula servant and a Devil Forgemaster, who disowns his dark gifts and aims to live a normal life. This event left Dracula vulnerable to the attacks of the Belmont clan. Now that Dracula is vanished, you must fight back the curse cast upon all Europe. There is but one problem, another Dracula servant does not approve with your plan.    Being a Devil Forgemaster now gives the player an ability to forge familiars to fight by your side. As the player himself, they have levels and they can even morph to a different stage depending which weapon you use to fight with them.      </desc>
-    <rating>0.8</rating>
-    <releasedate>20060216T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1</players>
-    <image>./mixart/Castlevania - Curse of Darkness (USA).png</image>
-    <marquee>./wheel/Castlevania - Curse of Darkness (USA).png</marquee>
-    <video>./snap/Castlevania - Curse of Darkness (USA).mp4</video>
-  </game>
-  <game id="22055" source="ScreenScraper.fr">
-    <path>./Castlevania - Lament of Innocence (USA).gz</path>
-    <name>Castlevania : Lament of Innocence</name>
-    <desc>Konami's whip-wielding, vampire-killing series makes its PlayStation 2 debut with Castlevania: Lament of Innocence. Set in the 11th century, the game traces the origins of the Belmont family through the story of original vampire hunter Leon Belmont.   You play Leon Belmont, who was once a Baron for the King. After his betrothed, Sara, was kidnapped and taken to a large castle, Leon asked the Church for permission to command his underlings to attack the castle. Because of the Crusades going on in the East, he is denied such. But because of his love for Sara, he denounces his title and leaves, going with no weapon or clue to the castle. He is stopped by an alchemist named Rinaldo, who was once a vampire-hunter himself. He gives Leon the Whip of Alchemy, offers to help him further in his quest, and sends him on his way.</desc>
-    <rating>0.85</rating>
-    <releasedate>20031127T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Platform-Beat'em Up-Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Castlevania - Lament of Innocence (USA).png</image>
-    <marquee>./wheel/Castlevania - Lament of Innocence (USA).png</marquee>
-    <video>./snap/Castlevania - Lament of Innocence (USA).mp4</video>
-  </game>
-  <game id="21920" source="ScreenScraper.fr">
-    <path>./Dark Cloud 2 (USA).gz</path>
-    <name>Dark Cloud 2</name>
-    <desc>As a young inventor, you are called upon to search the dangerous dungeons, battle evil monsters and re-claim towns and cities.    By fighting your way through the various dungeons, you must find various ores hidden away. With these ores, you can determine which parts you need to re-build a town. It is up to you to find or create the parts needed to build the various buildings of each town, as well various other parts to each town.    During your adventure, you can also take pictures of various items. Once you have a certain amount, you can then come up with ideas for an invention that will aid you in your quest. From there, you must again find the parts needed to create the invention, and then use the invention either to help you defeat enemies or build the towns.</desc>
-    <rating>0.9</rating>
-    <releasedate>20050310T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Level-5</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Dark Cloud 2 (USA).png</image>
-    <marquee>./wheel/Dark Cloud 2 (USA).png</marquee>
-    <video>./snap/Dark Cloud 2 (USA).mp4</video>
-  </game>
-  <game id="21972" source="ScreenScraper.fr">
-    <path>./Dark Cloud (USA).gz</path>
-    <name>Dark Cloud</name>
-    <desc>Dark Cloud is set within a fantastic world with two moons called Terra. The world is made of two main continents referred to as the East and West. The eastern continent has a focus on technology, and the civilization is advanced whereas the western continent is less so, and its people prefer to "live in harmony with nature".  On the western continent are settlements that were sealed away by the Fairy King during the attack by the Dark Genie and where the game primarily takes place; Norune, Matataki, Brownboo, Queens, Muska Lacka and a settlement on one of Terra's moons, Yellow Drops (Brownboo and Yellow Drops being unaffected).</desc>
-    <rating>0.85</rating>
-    <releasedate>20010530T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Sony</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Dark Cloud (USA).png</image>
-    <marquee>./wheel/Dark Cloud (USA).png</marquee>
-    <video>./snap/Dark Cloud (USA).mp4</video>
-  </game>
-  <game id="22482" source="ScreenScraper.fr">
-    <path>./Gladius (USA).gz</path>
-    <name>Gladius</name>
-    <desc>In the tradition of films like Gladiator and Spartacus comes Gladius, an action RPG taking place in the world of gladiatorial combat. As one of two principal characters, Ursula and Valens, players must train and lead a team of warriors to compete in the 20 coliseums and arenas found in four regions around the world. As a gladiator team trains and fights, warriors become more experienced and eventually develop new abilities.   Each battle is fought using a combination of steel, magic, and projectiles as players recruit from a pool of 16 distinct fighter classes, including Imperial Legionaries, Galdr witches, and javelin-throwing Peltasts. Over 400 pieces of equipment can be used in combat, and Gladius offers over 100 customizable characters as players win the certificates required to enter new regions through successful battles.</desc>
-    <rating>0.85</rating>
-    <releasedate>20031028T000000</releasedate>
-    <developer>LucasArts</developer>
-    <publisher>Activision</publisher>
-    <genre>Action-Strategy-Role playing games</genre>
-    <players>2</players>
-    <image>./mixart/Gladius (USA).png</image>
-    <marquee>./wheel/Gladius (USA).png</marquee>
-    <video>./snap/Gladius (USA).mp4</video>
-  </game>
-  <game id="23066" source="ScreenScraper.fr">
-    <path>./Gradius III and IV (USA).gz</path>
-    <name>Gradius III and IV</name>
-    <desc>Players take control of the InterDimensional Vic Viper ship in a solitary attempt to repel an overwhelming invasion force from the planet Bacterian. The rest of the United Gradius World Forces were destroyed prior to Gradius III because they were "badly outnumbered." So now you're alone, in an attempt to destroy all who dare stand in your way.   Gradius III offers a standard One-Player mode, an alternating Two-Player mode, and an Options screen to customize key features. Gradius IV adds a Boss Attack mode, where players go through a timed series of battles with the bosses found throughout the game. Your ship is fully powered-up during the mode, regardless of how many times you may die.   The Vic Viper can be powered up through speed-ups, "double" shots that add shots and/or potential directions to fire in, various types of missiles, lasers, and "option" fighters. Option fighters are indestructible orange globes that follow the Vic Viper and add firepower. Multiple levels of difficulty are also included, as well as the option to select which stage to begin on.</desc>
-    <rating>0.6</rating>
-    <releasedate>20001124T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Shooter-Compilation-Shoot'em Up</genre>
-    <players>2</players>
-    <image>./mixart/Gradius III and IV (USA).png</image>
-    <marquee>./wheel/Gradius III and IV (USA).png</marquee>
-    <video>./snap/Gradius III and IV (USA).mp4</video>
-  </game>
-  <game id="22764" source="ScreenScraper.fr">
-    <path>./Gradius V (USA).gz</path>
-    <name>Gradius V</name>
-    <desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story  </desc>
-    <rating>0.9</rating>
-    <releasedate>20041004T000000</releasedate>
-    <developer>Treasure</developer>
-    <publisher>Konami</publisher>
-    <genre>Action-Shoot'em Up</genre>
-    <players>2</players>
-    <image>./mixart/Gradius V (USA).png</image>
-    <marquee>./wheel/Gradius V (USA).png</marquee>
-    <video>./snap/Gradius V (USA).mp4</video>
-  </game>
-  <game id="21986" source="ScreenScraper.fr">
-    <path>./Half-Life (USA).gz</path>
-    <name>Half-Life</name>
-    <desc>The PlayStation 2 version of Half-Life is a port of the Windows game, but with a significant overhaul for the weapons and character models, as well as the overall map geometry and some extended levels.   It also includes an expansion pack that is referred to as Half-Life: Decay, which was never officially available as an expansion for the Windows game until it was eventually recreated as a modification. The third expansion for the original game, it features two-player cooperative gameplay (in split-screen) with the two female scientists Gina Cross and Colette Green as the protagonists. It is meant to be played with two players at the same time as it is more puzzle-oriented than the original game and the first two expansions. Singleplayer is also possible, but then switching between the two characters is necessary to advance. When not active, the other character is AI controlled for basic actions.</desc>
-    <rating>0.8</rating>
-    <releasedate>20011130T000000</releasedate>
-    <developer>Sierra</developer>
-    <publisher>Valve</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-    <image>./mixart/Half-Life (USA).png</image>
-    <marquee>./wheel/Half-Life (USA).png</marquee>
-    <video>./snap/Half-Life (USA).mp4</video>
-  </game>
-  <game id="22788" source="ScreenScraper.fr">
-    <path>./Hot Shots Golf Fore! (USA).gz</path>
-    <name>Hot Shots Golf Fore!</name>
-    <desc>Clap Hanz Limited invites PlayStation 2 gamers back for another round, in this fourth edition of the cartoonish golf sim with the serious gameplay. Sticking to the series' successful mix of approachable interface and realistic action, the game offers players numerous perspectives of each lie and shots are made through button taps, timed to a fluctuating bar that determines power and accuracy.   Hot Shots Golf Fore! offers a dozen courses (some of which were featured in Hot Shots Golf 3), and an even greater selection of characters to play through them. As in earlier games, certain characters are available from the start and players will need to unlock the others, but all can be customized with different clothing and equipment. A number of caricatured caddies are also available, to offer support and advice (sometimes, whether it's wanted or not).   A favorite feature from the PlayStation's original Hot Shots Golf returns in this version: the ability to play 18 holes of carom-friendly miniature golf. Hot Shots Golf Fore! is also the first in the series to offer online play. PlayStation 2 gamers with the PS2 Network Adaptor can log in to join other virtual golfers from all over the country. The online mode supports text chat, allowing two players to talk back and forth in real-time via keyboard.</desc>
-    <rating>0.85</rating>
-    <releasedate>20031127T000000</releasedate>
-    <developer>Clap Hanz</developer>
-    <publisher>Sony</publisher>
-    <genre>Sports</genre>
-    <players>4</players>
-    <image>./mixart/Hot Shots Golf Fore! (USA).png</image>
-    <marquee>./wheel/Hot Shots Golf Fore! (USA).png</marquee>
-    <video>./snap/Hot Shots Golf Fore! (USA).mp4</video>
-  </game>
-  <game id="23096" source="ScreenScraper.fr">
-    <path>./Hot Shots Tennis (USA).gz</path>
-    <name>Hot Shots Tennis</name>
-    <desc>Developer Clap Hanz's whimsical approach to sports games moves from the links to the courts with Hot Shots Tennis. Building on what made Hot Shots Golf a success, Hot Shots Tennis features a cast of quirky, cartoon-like characters, a variety of unlockable extras, and a realistic physics engine behind the arcade-style action. Players can choose one of 14 characters while trying to improve their stats and overall ranking by winning events against stronger opponents. Eleven offbeat court locales are included, ranging from tropical beaches to ancient ruins.</desc>
-    <rating>0.75</rating>
-    <releasedate>20070717T000000</releasedate>
-    <developer>Clap Hanz</developer>
-    <publisher>Sony</publisher>
-    <genre>Sports / Tennis-Sports</genre>
-    <players>2-4</players>
-    <image>./mixart/Hot Shots Tennis (USA).png</image>
-    <marquee>./wheel/Hot Shots Tennis (USA).png</marquee>
-    <video>./snap/Hot Shots Tennis (USA).mp4</video>
-  </game>
-  <game id="22017" source="ScreenScraper.fr">
-    <path>./Killzone (USA).gz</path>
-    <name>Killzone</name>
-    <desc>Inspired by the courage demonstrated and devastation sustained in the warfare of the 20th century, Killzone makes its debut as a PS2 exclusive, bringing with it an assortment of features. The game offers four playable characters and 27 different weapons. Players will engage the enemy in more than 11 detailed environments, designed to showcase the grueling settings of a war-ridden planet. There are several gameplay modes to chose from, including single-player and multiplayer (team-based and competitive), as well as online play for up to 12 players.</desc>
-    <rating>0.85</rating>
-    <releasedate>20041126T000000</releasedate>
-    <developer>Guerrilla</developer>
-    <publisher>Sony</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-    <image>./mixart/Killzone (USA).png</image>
-    <marquee>./wheel/Killzone (USA).png</marquee>
-    <video>./snap/Killzone (USA).mp4</video>
-  </game>
-  <game id="22172" source="ScreenScraper.fr">
-    <path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
-    <name>Mortal Kombat : Armageddon</name>
-    <desc>The fighting genre's poster (whipping?) boy for gruesome violence makes its final appearance on PlayStation 2 before moving in a new direction for Xbox 360 and PlayStation 3. Mortal Kombat: Armageddon is thus a hostile homage to its frenzied fans, a love letter of sorts that tears away the heart-tugging sentiment for the still-beating heart. Armageddon offers the most significant throng of Mortal Kombat fighters thus far, with a roster spanning 62 combatants -- every minor and major character that has appeared in the series to date. The entire cast is also immediately playable from the opening screen.</desc>
-    <rating>0.85</rating>
-    <releasedate>20061027T000000</releasedate>
-    <developer>Midway</developer>
-    <publisher>Midway</publisher>
-    <genre>Fight</genre>
-    <players>2-8</players>
-    <image>./mixart/Mortal Kombat - Armageddon (USA) (Premium Edition).png</image>
-    <marquee>./wheel/Mortal Kombat - Armageddon (USA) (Premium Edition).png</marquee>
-    <video>./snap/Mortal Kombat - Armageddon (USA) (Premium Edition).mp4</video>
-  </game>
-  <game id="22563" source="ScreenScraper.fr">
-    <path>./MotorStorm - Arctic Edge (USA).gz</path>
-    <name>MotorStorm : Arctic Edge</name>
-    <desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.    </desc>
-    <rating>0.85</rating>
-    <releasedate>20091014T000000</releasedate>
-    <developer>Bigbig Studios</developer>
-    <publisher>Sony</publisher>
-    <genre>Race, Driving</genre>
-    <players>2</players>
-    <image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
-    <marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
-    <video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
-  </game>
-  <game id="23060" source="ScreenScraper.fr">
-    <path>./Neo Contra (USA).gz</path>
-    <name>Neo Contra</name>
-    <desc>Neo Contra is the tenth video game in the Contra series by Konami. It was developed by Team Neo Kijirushi, a group of staff members within Konami Computer Entertainment Tokyo, and released for the PlayStation 2 in 2004. The game is a direct follow-up to Contra: Shattered Soldier and is a departure from the traditional scrolling shooter formula from previous games.  </desc>
-    <rating>0.75</rating>
-    <releasedate>20041019T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Platform-Action</genre>
-    <players>2</players>
-    <image>./mixart/Neo Contra (USA).png</image>
-    <marquee>./wheel/Neo Contra (USA).png</marquee>
-    <video>./snap/Neo Contra (USA).mp4</video>
-  </game>
-  <game id="23566" source="ScreenScraper.fr">
-    <path>./Outlaw Golf 2 (USA).gz</path>
-    <name>Outlaw Golf 2</name>
-    <desc>Following the style of its predecessor, the original Outlaw Golf, the game stays true to bad attitude, sexual themes and bunch of losers who just happen to find something in common to take upon - a game of golf. The magnificent four are back, Harley, Summer, El Suave and Ice Trey, with several more characters to be unlocked as you blast through the courses, speaking of which, the former three from the original are back, and again, with newer ones to be played after earned and unlocked. If you wanna practice your moves and skills, you can select exhibition mode, or if you feel contempt enough, go take a tour and show 'em what you're made of. There are several additions not seen in the original game, such as different game modes as well as golf cart racing which lets you earn the legendary burning shot, though the beating of your caddy to raise your composure is still included. The game also supports online play.</desc>
-    <rating>0</rating>
-    <releasedate>20050121T000000</releasedate>
-    <developer>Hypnotix</developer>
-    <publisher>Take 2 Interactive</publisher>
-    <genre>Sports</genre>
-    <players>2-4</players>
-    <image>./mixart/Outlaw Golf 2 (USA).png</image>
-    <marquee>./wheel/Outlaw Golf 2 (USA).png</marquee>
-    <video>./snap/Outlaw Golf 2 (USA).mp4</video>
-  </game>
-  <game id="23118" source="ScreenScraper.fr">
-    <path>./OutRun 2006 - Coast 2 Coast (USA).gz</path>
-    <name>OutRun 2006 : Coast 2 Coast</name>
-    <desc>OutRun 2006: Coast 2 Coast features 15 unique cars, the most ever seen in any OutRun game. In addition to the ten cars from OutRun 2 SP, new models include the 550 Barchetta, F355 Spider, Superamerica, 328 GTS, and the Ferrari F430. Some models cannot be unlocked on the PlayStation Portable or PlayStation 2 without the use of the cross-system connectivity feature inherent of the two systems.</desc>
-    <rating>0.9</rating>
-    <releasedate>20060331T000000</releasedate>
-    <developer>Sumo Digital</developer>
-    <publisher>Sega</publisher>
-    <genre>Race, Driving</genre>
-    <players>2-6</players>
-    <image>./mixart/OutRun 2006 - Coast 2 Coast (USA).png</image>
-    <marquee>./wheel/OutRun 2006 - Coast 2 Coast (USA).png</marquee>
-    <video>./snap/OutRun 2006 - Coast 2 Coast (USA).mp4</video>
-  </game>
-  <game id="23738" source="ScreenScraper.fr">
-    <path>./Pac-Man Fever (USA).gz</path>
-    <name>Pac-Man Fever</name>
-    <desc>Pac-Man takes break from eating dots and ghosts in the fun new party game Pac-Man Fever. In addition to our yellow hero, the game also features Ms. Pac-Man and many other Namco favorites from franchises such as Tekken, Ridge Racer, and Soul Calibur. Up to four players partake in more than 30 minigames and three differently themed game boards. Try to recover all of the minigames stolen by those pesky, party-crashing Ghosts and determine who the real party animal is.</desc>
-    <rating>0.25</rating>
-    <releasedate>20020903T000000</releasedate>
-    <developer>Mass Media</developer>
-    <publisher>Namco</publisher>
-    <image>./mixart/Pac-Man Fever (USA).png</image>
-    <marquee>./wheel/Pac-Man Fever (USA).png</marquee>
-    <video>./snap/Pac-Man Fever (USA).mp4</video>
-  </game>
-  <game id="127838" source="ScreenScraper.fr">
-    <path>./Pinball Hall of Fame - The Gottlieb Collection (USA).gz</path>
-    <name>Pinball Hall of Fame : The Gottlieb Collection</name>
-    <desc>Though it offers authentic, playable simulations of more than eight classic machines from the 1960s through the 1990s, Pinball Hall of Fame aims also to provide players with an entertaining, interactive reference to the history of pinball. Developers at FarSight Studios (NCAA Football '99, NASCAR Road Racing, ESPN NFL Primetime 2002) worked with the "curators" of the real-life "Pinball Hall of Fame" (a project headquartered in Las Vegas) in an effort to craft an accurate and relevant simulation.  </desc>
-    <rating>0.35</rating>
-    <releasedate>20050429T000000</releasedate>
-    <developer>Astroll</developer>
-    <publisher>Play It</publisher>
-    <genre>Pinball</genre>
-    <players>2-4</players>
-    <image>./mixart/Pinball Hall of Fame - The Gottlieb Collection (USA).png</image>
-    <marquee>./wheel/Pinball Hall of Fame - The Gottlieb Collection (USA).png</marquee>
-    <video>./snap/Pinball Hall of Fame - The Gottlieb Collection (USA).mp4</video>
-  </game>
-  <game id="23778" source="ScreenScraper.fr">
-    <path>./Pinball Hall of Fame - The Williams Collection (USA).gz</path>
-    <name>Pinball Hall of Fame : The Williams Collection</name>
-    <desc>Pinball Hall of Fame: The Williams Collection faithfully recreates eight of the most memorable tables from the golden age of pinball in photorealistic 3D. Working closely with Williams to ensure authenticity of each of the games, the collection is highlighted by some of the most popular and innovative Williams pinball tables, including Gorgar, the first-ever talking pinball machine, Black Knight, which introduced "Magna-Save" and Bonus Ball, and Space Shuttle, which took the pinball industry by storm in 1984. Every table has been meticulously recreated to bring players the visuals, sound effects and gameplay that made these games legendary successes. Pinball Hall of Fame: The Williams Collection harkens back to the arcades of the 1980s. Players begin Pinball Hall of Fame: The Williams Collection with access to four pinball tables, and the remaining four tables are unlocked as the game progresses. Players can spend as little as two minutes on a quick pinball challenge, or delve deeper into the game, gaining rewards in a token-based system as they unlock each of the pinball tables. Single-player Arcade and Challenge modes provide hours of solo entertainment, and a Multiplayer mode lets players face each other head-on.</desc>
-    <rating>0.7</rating>
-    <releasedate>20080226T000000</releasedate>
-    <developer>FarSight Studios</developer>
-    <publisher>Crave Entertainment</publisher>
-    <genre>Pinball</genre>
-    <image>./mixart/Pinball Hall of Fame - The Williams Collection (USA).png</image>
-    <marquee>./wheel/Pinball Hall of Fame - The Williams Collection (USA).png</marquee>
-    <video>./snap/Pinball Hall of Fame - The Williams Collection (USA).mp4</video>
-  </game>
-  <game id="22665" source="ScreenScraper.fr">
-    <path>./Quake III - Revolution (USA).gz</path>
-    <name>Quake III : Revolution</name>
-    <desc>An updated single player mode is available, as well as several multiplayer modes. Choose from Deatmatch, Team Deathmatch, Single Weapon Deathmatch, Single Weapon Team Deathmatch, 1 Flag Capture the Flag, Capture the Flag, Team Possession, and Possession. Up to 4 players can play together through split-screen.    In this console version players get to use a variety of weapons: the Plasma Gun, Shotgun, Rocket Launcher, Chain Gun, Rail Gun and Machine Gun. The game's levels include many different landscapes ranging from wide open areas to winding tunnels. There are lava pits, water ways and a space station.</desc>
-    <rating>0.75</rating>
-    <releasedate>20010326T000000</releasedate>
-    <developer>Electronic Arts</developer>
-    <publisher>id Software</publisher>
-    <genre>Action</genre>
-    <players>2-4</players>
-    <image>./mixart/Quake III - Revolution (USA).png</image>
-    <marquee>./wheel/Quake III - Revolution (USA).png</marquee>
-    <video>./snap/Quake III - Revolution (USA).mp4</video>
-  </game>
-  <game id="23190" source="ScreenScraper.fr">
-    <path>./Raiden III (USA).gz</path>
-    <name>Raiden III</name>
-    <desc>Raiden III is the follow-up to the early 90's shoot 'em-ups Raiden and Raiden II. Once again you control the Raiden "Fighting Thunder ME-02" trying to fend off the attack of the alien invaders. There are in total 7 levels, the first three set on Earth and the last three in space.     This is a vertically scrolling shoot 'em-up which (as many other vertically scrolling shooters do) offers the option to either play the game in "yoko" or "tate" screen flipping modes depending on whether your tv is placed on its side or not.    </desc>
-    <rating>0.55</rating>
-    <releasedate>20060901T000000</releasedate>
-    <developer>MOSS</developer>
-    <publisher>Codemasters</publisher>
-    <genre>Shoot'em Up</genre>
-    <players>2</players>
-    <image>./mixart/Raiden III (USA).png</image>
-    <marquee>./wheel/Raiden III (USA).png</marquee>
-    <video>./snap/Raiden III (USA).mp4</video>
-  </game>
-  <game id="22973" source="ScreenScraper.fr">
-    <path>./Rogue Trooper (USA).gz</path>
-    <name>Rogue Trooper</name>
-    <desc>Rebellion invites comics fans and action gamers back to the future with this video game adaptation of 2000AD's Rogue Trooper.   A planned attack on Nu Earth goes wrong when a General turns traitor resulting in the massacre of Rogue's comrades.   The game starts with Rogue and his comrades launched from a drop-ship. They come under fire from the Norts due to the information that had been leaked by the General. Upon landing the first mission is a tutorial in how to use Rogue?s skills and also the Bio-chips of Gunnar and then Bagman. The third Bio-chip of Helm is received in a later mission. The Bio-chips have their own abilities. Gunnar is stuck to the side of Rogue?s rifle and can be used as a sentry while Rogue flanks the enemy. </desc>
-    <rating>0.7</rating>
-    <releasedate>20060523T000000</releasedate>
-    <developer>Rebellion</developer>
-    <publisher>Eidos Interactive</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-    <image>./mixart/Rogue Trooper (USA).png</image>
-    <marquee>./wheel/Rogue Trooper (USA).png</marquee>
-    <video>./snap/Rogue Trooper (USA).mp4</video>
-  </game>
-  <game id="22574" source="ScreenScraper.fr">
-    <path>./R-Type Final (USA).gz</path>
-    <name>R-Type Final</name>
-    <desc>Inspired by the arcade's 1987 side-scrolling shooter, this 3D PS2 version of R-Type places players in control of a well-armed, side-scrolling spaceship for some old fashioned blast-away combat action. R-Type Final is designed to bring on the tense, fast-paced feel of the original coin-op game while adding console-friendly features such as customizable ships, multiple difficulty settings, and a mode that allows player to battle against AI-controlled versions of their own ships. Following the four games it introduced stateside in 2002, Fresh Games publishes R-Type Final in the U.S. and Canada, returning to its strategy of bringing distinct Japanese console games to North American gamers.   In R-Type Final, your enemy is the Bydo, an evil (and living) weapon capable of reproducing itself. Humanity has fought the Bydo four times so far, and each time was victorious. However, each time the Bydo appears it is stronger than before, and now it's back and you need to destroy it again!  </desc>
-    <rating>0.8</rating>
-    <releasedate>20040326T000000</releasedate>
-    <developer>Nobilis</developer>
-    <publisher>Irem</publisher>
-    <genre>Action-Shoot'em Up</genre>
-    <players>1</players>
-    <image>./mixart/R-Type Final (USA).png</image>
-    <marquee>./wheel/R-Type Final (USA).png</marquee>
-    <video>./snap/R-Type Final (USA).mp4</video>
-  </game>
-  <game id="22435" source="ScreenScraper.fr">
-    <path>./Rygar - The Legendary Adventure (USA).gz</path>
-    <name>Rygar : The Legendary Adventure</name>
-    <desc>Tecmo revisits a character from the arcades, NES, and Atari Lynx in this new 3D adventure for the PlayStation 2. Players take on the role of legendary warrior Rygar as he fights mythological beasts and foes throughout locales inspired by Ancient Greece. The island of Argus has plunged into chaos with the abduction of Princess Harmonia at the mighty hands of the Titans. Equipped with a multipurpose shield called the Diskarmor, Rygar sets out to free Princess Harmonia from captivity and restore peace to his home.   As Rygar advances through shrines, coliseums, and mysterious labyrinths, he will develop new moves and abilities. Rygar can learn to slide to squeeze through narrow passageways, stomp on enemies or objects, push or lift items, and use the Diskarmor to hang from ledges, grapple onto objects and then swing across chasms. Attacks involve pressing various button combinations, the result of which vary depending on the Diskarmor's abilities at the time. Rygar can power-up his magical shield and use it as a projectile weapon as well as for defense.</desc>
-    <rating>0.7</rating>
-    <releasedate>20021126T000000</releasedate>
-    <developer>Tecmo</developer>
-    <publisher>Wanadoo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Rygar - The Legendary Adventure (USA).png</image>
-    <marquee>./wheel/Rygar - The Legendary Adventure (USA).png</marquee>
-    <video>./snap/Rygar - The Legendary Adventure (USA).mp4</video>
-  </game>
-  <game id="21944" source="ScreenScraper.fr">
-    <path>./Soulcalibur III (USA).gz</path>
-    <name>Soulcalibur III</name>
-    <desc>Soulcalibur III (ã‚½ã‚¦ãƒ«ã‚­ãƒ£ãƒªãƒ ãƒ¼III SÅ ruKyaribÄ  SurÄ«?) is a fighting game produced by Namco as a sequel to Soulcalibur II and the fourth installment in the Soul series. It was originally released exclusively for the PlayStation 2 in 2005. An improved arcade version, Soulcalibur III: Arcade Edition, was released in 2006.</desc>
-    <rating>0.9</rating>
-    <releasedate>20051025T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/Soulcalibur III (USA).png</image>
-    <marquee>./wheel/Soulcalibur III (USA).png</marquee>
-    <video>./snap/Soulcalibur III (USA).mp4</video>
-  </game>
-  <game id="22474" source="ScreenScraper.fr">
-    <path>./Star Wars - Starfighter (USA).gz</path>
-    <name>Star Wars : Starfighter</name>
-    <desc>Based on the events of Star Wars Episode 1: The Phantom Menace, there are three main characters: Rhys Dallows, Vana Sage, and Nym, each with their own perspectives on the events surrounding the battle for Naboo. Each character has their own ships for you to fly, with both positives and negatives attached, but either way you must stop the Trade Federation and their plans to destroy the peaceful planet.</desc>
-    <rating>0.75</rating>
-    <releasedate>20010323T000000</releasedate>
-    <developer>Ubisoft</developer>
-    <publisher>LucasArts</publisher>
-    <genre>Simulation</genre>
-    <players>1</players>
-    <image>./mixart/Star Wars - Starfighter (USA).png</image>
-    <marquee>./wheel/Star Wars - Starfighter (USA).png</marquee>
-    <video>./snap/Star Wars - Starfighter (USA).mp4</video>
-  </game>
-  <game id="22348" source="ScreenScraper.fr">
-    <path>./Street Fighter EX3 (USA).gz</path>
-    <name>Street Fighter EX3</name>
-    <desc>Street Fighter EX3 est un jeu de combat en 3D sur PS2. Choisissez l'un des 16 personnages issus de l'univers de Street Fighter et combattez en solo ou en équipe. Le jeu propose quatre modes de jeu : Original, Arena, Character Edit et Training.</desc>
-    <rating>0.65</rating>
-    <releasedate>20001014T000000</releasedate>
-    <developer>Arika</developer>
-    <publisher>Capcom</publisher>
-    <genre>Fight</genre>
-    <players>2-4</players>
-    <image>./mixart/Street Fighter EX3 (USA).png</image>
-    <marquee>./wheel/Street Fighter EX3 (USA).png</marquee>
-    <video>./snap/Street Fighter EX3 (USA).mp4</video>
-  </game>
-  <game id="22155" source="ScreenScraper.fr">
-    <path>./Tekken Tag Tournament (USA).gz</path>
-    <name>Tekken Tag Tournament</name>
-    <desc>Forget the fancy full-motion video intros of the past. The cutting-edge gameplay that is promised in the extended intros of fighting games is finally realised in Tekken Tag Tournament This visually stunning action game contains fully rendered 3-D characters who can execute smoothly animated martial-arts moves. With polygonal characters and texture maps this real, you will end up looking for the coin slot on your PS2.    With more than 30 characters to fight against or beside, this game allows you to pull off the ultimate human combo: tag-team fighting. By choosing two fighters who have broadly divergent skills, you can increase your threat to the other fighters greatly. Also, switching out fighters can give an overextended partner enough time to rest up his or her stamina for the next tag. See what happens when one partner throws a foe, tags, and the other partner comes in to keep the foe... uh... airborne. Tekken Tag Tournament contains 20 classic characters from other parts of the acclaimed Tekken series, as well as 12 new characters who can be unlocked during gameplay.</desc>
-    <rating>0.8</rating>
-    <releasedate>20001025T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Sony</publisher>
-    <genre>Fight</genre>
-    <players>2-4</players>
-    <image>./mixart/Tekken Tag Tournament (USA).png</image>
-    <marquee>./wheel/Tekken Tag Tournament (USA).png</marquee>
-    <video>./snap/Tekken Tag Tournament (USA).mp4</video>
-  </game>
-  <game id="22754" source="ScreenScraper.fr">
-    <path>./Terminator, The - Dawn of Fate (USA).gz</path>
-    <name>The Terminator : Dawn of Fate</name>
-    <desc>The Terminator : Un Autre Futur est un jeu d'action sur Playstation 2. L'histoire se déroule juste avant le premier film Terminator et vous devez tenter d'empêcher les machines de tuer John Connor dans un futur complètement ravagé par la guerre. Vous pouvez incarner différents personnages tout au long de l'aventure et vous battre contre des cyborgs encore jamais dévoilés dans les films.</desc>
-    <rating>0.7</rating>
-    <releasedate>20021025T000000</releasedate>
-    <developer>Paradigm Entertainment</developer>
-    <publisher>Atari</publisher>
-    <players>1</players>
-    <image>./mixart/Terminator, The - Dawn of Fate (USA).png</image>
-    <marquee>./wheel/Terminator, The - Dawn of Fate (USA).png</marquee>
-    <video>./snap/Terminator, The - Dawn of Fate (USA).mp4</video>
-  </game>
+	<provider>
+		<System>Playstation 2</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="22198" source="ScreenScraper.fr">
+		<path>./Ace Combat 5 - The Unsung War (USA).gz</path>
+		<name>Ace Combat 5 : The Unsung War</name>
+		<desc>Ace Combat 5: The Unsung War is a first person air combat and flight simulator. Like other Ace Combat games, each mission is determined by a level briefing and objectives. There are 32 missions in the main campaign mode, while an additional "arcade" mode puts the player in the role of Mobius One (from Ace Combat 04: Shattered Skies) as he faces endless waves of enemy attacks. Regardless of the mode chosen, once in the air the player will have control over speed, direction, altitude, gun cannon, missiles and special weapon of their aircraft. A new feature from previous Ace Combat games, is the concept of Wingmen and being able to issue simple orders to them in the air. This allows the player to better coordinated group attacks as well as giving each wingman a personality of their own. Additionally, the player as squadron leader will be asked to make decisions ("Yes/No") while flying in the air. Between missions, the story is progressed through a series of cutscenes.</desc>
+		<rating>0.85</rating>
+		<releasedate>20050223T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<players>1</players>
+		<image>./mixart/Ace Combat 5 - The Unsung War (USA).png</image>
+		<marquee>./wheel/Ace Combat 5 - The Unsung War (USA).png</marquee>
+		<video>./snap/Ace Combat 5 - The Unsung War (USA).mp4</video>
+	</game>
+	<game id="22956" source="ScreenScraper.fr">
+		<path>./Armored Core 3 (USA).gz</path>
+		<name>Armored Core 3</name>
+		<desc>Armored Core 3 once again puts you in the shoes of a Raven mercinary, with the task of piloting your own battle machine to use in a range of tasks (from destroying other mechs to seek and destroy missions).    After each missions, you are payed in full. The money raised can then go on towards the purchase of items for your mech. Weapon upgrades, better shields, even the opportunity to purchase what's called an Exceed Orbit, smaller robot gun emplacements that hover around your mech, giving you an added boost of fire power in the crunch.    4 player deathmatch modes are also included, where you each pit your supped-up mechs against each other to see who is the last robot standing.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030615T000000</releasedate>
+		<developer>Metro3D</developer>
+		<publisher>From Software</publisher>
+		<image>./mixart/Armored Core 3 (USA).png</image>
+		<marquee>./wheel/Armored Core 3 (USA).png</marquee>
+		<video>./snap/Armored Core 3 (USA).mp4</video>
+	</game>
+	<game id="22057" source="ScreenScraper.fr">
+		<path>./Burnout 3 - Takedown (USA).gz</path>
+		<name>Burnout 3 : Takedown</name>
+		<desc>Burnout 3: Takedown is a racing game which encourages aggressive driving and lets you use your vehicle to smash your way to the finish line by taking out your rivals and causing massive multi-car pileups. The more cars you take out, damage you inflict, the more events and cars you can unlock. Burnout 3 also has a "crash" mode which puts your vehicle at a variety of traffic junctions jam-packed with moving vehicles and pickups to see just how much monetary damage you can inflict.    Burnout 3: Takedown continues the racing series with more cars, more tracks, a more detailed crash engine, and a multitude of new gameplay modes for single players, multiple players on one system, and online play.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040907T000000</releasedate>
+		<developer>Criterion Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-8</players>
+		<image>./mixart/Burnout 3 - Takedown (USA).png</image>
+		<marquee>./wheel/Burnout 3 - Takedown (USA).png</marquee>
+		<video>./snap/Burnout 3 - Takedown (USA).mp4</video>
+	</game>
+	<game id="21878" source="ScreenScraper.fr">
+		<path>./Final Fantasy X (USA).gz</path>
+		<name>Final Fantasy X</name>
+		<desc>Square's acclaimed role-playing series makes its PlayStation 2 debut with Final Fantasy X. Players assume the role of Tidus, an athletic teenager who witnessed the destruction of his home city by an evil entity named Sin. While his life was spared, Tidus' contact with Sin opened a portal through time. Some 1,000 years have passed since the encounter, and Tidus now finds himself in a strange land with unfamiliar faces. As Tidus struggles to find a way back home, he will meet a variety of characters, including Yuna, a girl faced with the daunting task of defeating Sin.   Final Fantasy X features a number of new features over previous installments. Backgrounds and characters are rendered entirely in 3D, with real-time facial expressions visible on each character. When characters are surprised, for example, they will raise their eyebrows or open their mouths in astonishment. For the first time in the series, dialogue has been recorded using professional voice actors. The U.S. version features voices in English, with optional English subtitles selectable from the menu screen.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020517T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Final Fantasy X (USA).png</image>
+		<marquee>./wheel/Final Fantasy X (USA).png</marquee>
+		<video>./snap/Final Fantasy X (USA).mp4</video>
+	</game>
+	<game id="21899" source="ScreenScraper.fr">
+		<path>./God of War (USA).gz</path>
+		<name>God of War</name>
+		<desc>God of War is an action-oriented adventure game with a strong focus on fast-paced combat. Players take control of Kratos, a mystically powerful hero in the ancient Greece of classic mythology. Kratos can perform super-human leaps, agile dodges, and magically enhanced combo attacks, which all flow together in a stream of intense engagement. The fast-paced, over-the-top fighting, combined with the tense environments and computer-directed camera angles, give gameplay the feel of combat-adventures such as Devil May Cry or Otogi.   Unlike those earlier blends of survival-horror presentation and combat-minded control schemes, however, God of War is set in a world more immediately familiar to all fans of western fantasy. The ultimate goal of Kratos is a conclusive confrontation with Ares -- the god of war himself -- but the hero must face a deadly succession of monsters and villains from Greek mythology as he pursues this end. The Hydra, Medusa, the Cyclops, the Minotaur, and other legendary creatures will all have their chances to destroy Kratos before he meets his final destiny.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050708T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform-Action-Action / Adventure-Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/God of War (USA).png</image>
+		<marquee>./wheel/God of War (USA).png</marquee>
+		<video>./snap/God of War (USA).mp4</video>
+	</game>
+	<game id="21911" source="ScreenScraper.fr">
+		<path>./Gran Turismo 4 (USA).gz</path>
+		<name>Gran Turismo 4</name>
+		<desc>GT4 continues in its predecessors' footsteps by offering an extremely large list of cars; the PAL version features 721 cars from 80 manufacturers.     Players now accumulate points by winning races in the normal first-person driving mode, called A-Spec mode. Each race event can yield up to a maximum of 200 A-Spec points. Generally, a win using a car with less of an advantage over the AI opponents is worth more points. Points can only be won once, so to win further points from a previously-won event, it must be re-won using a car with less of an advantage over the AI. There are also the 34 Missions which can yield 250 points each. Despite this, A-Spec points are experience points, not money.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050222T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Polyphony Digital</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<image>./mixart/Gran Turismo 4 (USA).png</image>
+		<marquee>./wheel/Gran Turismo 4 (USA).png</marquee>
+		<video>./snap/Gran Turismo 4 (USA).mp4</video>
+	</game>
+	<game id="21877" source="ScreenScraper.fr">
+		<path>./Grand Theft Auto - San Andreas (USA).gz</path>
+		<name>Grand Theft Auto : San Andreas</name>
+		<desc>Grand Theft Auto: San Andreas takes place within the state San Andreas, which is based on sections of California and Nevada. It comprises three major fictional cities: Los Santos corresponds to real-life Los Angeles; San Fierro corresponds to real-life San Francisco; and Las Venturas and the surrounding desert correspond to real-life Las Vegas and the Nevada and Arizona desert.    The game features set co-op scenarios in a free roam mode as well as a cooperative "rampage" gameplay mode.</desc>
+		<rating>0.95</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action-Shooter-Action / Adventure</genre>
+		<players>1-2</players>
+		<image>./mixart/Grand Theft Auto - San Andreas (USA).png</image>
+		<marquee>./wheel/Grand Theft Auto - San Andreas (USA).png</marquee>
+		<video>./snap/Grand Theft Auto - San Andreas (USA).mp4</video>
+	</game>
+	<game id="21890" source="ScreenScraper.fr">
+		<path>./Grand Theft Auto - Vice City (USA).gz</path>
+		<name>Grand Theft Auto : Vice City</name>
+		<desc>The player takes on the role of Tommy Vercetti, a man who was released from prison in 1986 after serving 15 years for killing eleven people. The leader of the organization for whom he used to work, Sonny Forelli, fears that Tommy's presence in Liberty City will heighten tensions and bring unwanted attention upon his organization's criminal activities. To prevent this, Sonny ostensibly "promotes" Tommy and sends him to Vice City to act as their buyer for a series of cocaine deals.[7] During Tommy's first meeting with the drug dealers, an ambush by an unknown party results in the death of Tommy's bodyguards, Harry and Lee, and the cocaine dealer. There is another survivor, the pilot of the dealer's helicopter, who flies off and escapes. Tommy narrowly escapes with his life, but he loses both the Forelli's money and the cocaine.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021027T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar North</publisher>
+		<players>1</players>
+		<image>./mixart/Grand Theft Auto - Vice City (USA).png</image>
+		<marquee>./wheel/Grand Theft Auto - Vice City (USA).png</marquee>
+		<video>./snap/Grand Theft Auto - Vice City (USA).mp4</video>
+	</game>
+	<game id="21945" source="ScreenScraper.fr">
+		<path>./Ico (USA).gz</path>
+		<name>Ico</name>
+		<desc>A young boy in a magical world has been born with a strange deformity: large horns that jut out of both sides of his head. The people of his village, fearful of retribution from above, feel they have no choice but to sacrifice this mutant child to appease their gods. To that end, they have taken this boy, named Ico, to a massive, supposedly deserted castle and left him in a giant urn. But when the urn breaks, spilling Ico into the bowels of the fortress, he will soon find his adventure is just beginning. Along the way he'll meet a mysterious princess who has been held captive in the castle for untold years. Although they cannot communicate through speech, they soon forge an unspoken bond, and it is clear that if either of them wants to make it out of the castle alive, their destinies must remain intertwined.</desc>
+		<rating>0.85</rating>
+		<releasedate>20010924T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform-Action-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Ico (USA).png</image>
+		<marquee>./wheel/Ico (USA).png</marquee>
+		<video>./snap/Ico (USA).mp4</video>
+	</game>
+	<game id="21903" source="ScreenScraper.fr">
+		<path>./Kingdom Hearts - Re Chain of Memories (USA).gz</path>
+		<name>Kingdom Hearts : Re-Chain of Memories</name>
+		<desc>Sora, Donald and Goofy travel down a long road that meanders through endless fields, and come to a crossroads. As Sora stands in the crossroads, he gazes up at the night sky and thinks of his lost friends. Just then, a mysterious man approaches from down one of the branching paths. "Ahead lies something you need," he says, "but to claim it, you must lose something dear." The man vanishes before a single path, leading to a castle that eerily resembles a girl's drawing... In the coming journey, what will Sora and his companions gain, and what will they lose? In addition to Sora, players can control Riku in this adventure that bridges the gap between KINGDOM HEARTS and KINGDOM HEARTS II A full 3D remake of the original GBA release, KINGDOM HEARTS Re:Chain of Memories offers a refreshing rendition of the hit title for the PlayStation 2 system. The talented voice cast from the North American releases of KINGDOM HEARTS and KINGDOM HEARTS II, including David Gallagher and Haley Joel Osment, return to breathe new life into the beloved characters. The mini-game catalog has been completely renewed, now with four brand new experiences accompanying the main adventure.</desc>
+		<rating>0.85</rating>
+		<releasedate>20081202T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Playing cards-Role playing games</genre>
+		<image>./mixart/Kingdom Hearts - Re Chain of Memories (USA).png</image>
+		<marquee>./wheel/Kingdom Hearts - Re Chain of Memories (USA).png</marquee>
+		<video>./snap/Kingdom Hearts - Re Chain of Memories (USA).mp4</video>
+	</game>
+	<game id="21898" source="ScreenScraper.fr">
+		<path>./Kingdom Hearts II (USA).gz</path>
+		<name>Kingdom Hearts II</name>
+		<desc>Sora, Donald, and Goofy are back in the third installment (second for PS2) of the Kingdom Hearts series, continuing where Kingdom Hearts: Chain of Memories left off. The trio awakens from their sleep and goes to Twilight Town. When the game begins, you will first have control over a boy name Roxas who wields a dual-Keyblade. He is trying to enjoy the remainder of his summer vacation with his friends but he keeps having flash-backs of someone else's memories.    When he meets up with Sora, the two learns they have a special connection with one another. Afterwards, the group will continue their search for King Mickey and Riku. This time, they will travel to new worlds and work with various characters from the Disney and Final Fantasy universes. This includes worlds from not only Disney's animated movies but other movies as well like Pirates of the Caribbean and TRON.</desc>
+		<rating>0.95</rating>
+		<releasedate>20051222T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Kingdom Hearts II (USA).png</image>
+		<marquee>./wheel/Kingdom Hearts II (USA).png</marquee>
+		<video>./snap/Kingdom Hearts II (USA).mp4</video>
+	</game>
+	<game id="21883" source="ScreenScraper.fr">
+		<path>./Kingdom Hearts (USA).gz</path>
+		<name>Kingdom Hearts</name>
+		<desc>Created with the support of two multimedia entertainment powerhouses, Kingdom Hearts provides a new adventure with some familiar faces. This 3D action-oriented role-playing title from developers at Square features popular Disney characters like Donald Duck and Goofy adventuring alongside more conventional Final Fantasy-styled heroes.   Tetsuya Nomura, who designed several of the characters in earlier Final Fantasy titles, supervised this game's development. In addition to the well-established Donald and Goofy, Kingdom Hearts introduces several new characters to the Disney universe.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021115T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games-Action</genre>
+		<players>1</players>
+		<image>./mixart/Kingdom Hearts (USA).png</image>
+		<marquee>./wheel/Kingdom Hearts (USA).png</marquee>
+		<video>./snap/Kingdom Hearts (USA).mp4</video>
+	</game>
+	<game id="22103" source="ScreenScraper.fr">
+		<path>./Max Payne (USA).gz</path>
+		<name>Max Payne</name>
+		<desc>Max Payne was a police officer of the New York City police. On one terrible day, his wife and newborn daughter were killed by three junkies, who broke into his apartment after having ingested a new designer drug known as Valkyr. After the tragedy, Max quit the police force and joined the Drug Enforcement Administration. Three years later, during a raid on a mafia compound that was reportedly trafficking Valkyr, his best friend and fellow DEA agent Alex is killed, and he becomes the prime suspect in his murder. Now Max is all alone in the cold, snowy night of New York. The mob is out to get him. The police are out to get him. The only way out is with guns blazing, because he has nothing to lose.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011208T000000</releasedate>
+		<developer>Remedy</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1</players>
+		<image>./mixart/Max Payne (USA).png</image>
+		<marquee>./wheel/Max Payne (USA).png</marquee>
+		<video>./snap/Max Payne (USA).mp4</video>
+	</game>
+	<game id="21895" source="ScreenScraper.fr">
+		<path>./Metal Gear Solid 2 - Sons of Liberty (USA).gz</path>
+		<name>Metal Gear Solid 2 : Sons of Liberty</name>
+		<desc>A stealth action video game directed by Hideo Kojima, developed by Konami Computer Entertainment Japan and published by Konami for the PlayStation 2 in 2001. It is the sixth canonical game in the Metal Gear series and the sequel to Metal Gear Solid. The story revolves around a massive offshore clean-up facility that has been seized by terrorists calling themselves the "Sons of Liberty." They demand a massive ransom in exchange for the life of the President of the United States, and threaten to destroy the facility and create a cataclysmic environmental disaster if their demands are not met. The motives and identities of many of the antagonists and allies change rapidly, as the heroes discover a world-shaking conspiracy constructed by a powerful organization known as the Patriots.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020308T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<image>./mixart/Metal Gear Solid 2 - Sons of Liberty (USA).png</image>
+		<marquee>./wheel/Metal Gear Solid 2 - Sons of Liberty (USA).png</marquee>
+		<video>./snap/Metal Gear Solid 2 - Sons of Liberty (USA).mp4</video>
+	</game>
+	<game id="21892" source="ScreenScraper.fr">
+		<path>./Metal Gear Solid 3 - Snake Eater (USA).gz</path>
+		<name>Metal Gear Solid 3 : Snake Eater</name>
+		<desc>Hideo Kojima's critically acclaimed "tactical espionage action" series returns to PlayStation 2 in the anticipated follow-up to 2001's Sons of Liberty. Instead of slinking around futuristic installations, knocking on metal to distract guards, or crawling underneath a cardboard box, players are given a whole new Snake to wrangle. Drawing its inspiration from films like First Blood and Rambo: First Blood Part II, Snake Eater drops players in the middle of a thick jungle teeming with wildlife and, of course, terrorists.   Heavily armed enemies dressed in camouflage gear will patrol the dense forests, waterfalls, and surrounding areas, so players will be able to climb trees, fire pistols while hanging down from branches, and crawl through hollowed out logs to stalk their prey. Along the way, Snake will have to find sustenance by catching fish or other wildlife, while being mindful of natural hazards such hornets nests, cliffs, and rapids. Metal Gear Solid 3: Snake Eater was first revealed in a 12-minute preview displayed at 2003's E3 in Los Angeles, California.  </desc>
+		<rating>0.95</rating>
+		<releasedate>20041117T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Metal Gear Solid 3 - Snake Eater (USA).png</image>
+		<marquee>./wheel/Metal Gear Solid 3 - Snake Eater (USA).png</marquee>
+		<video>./snap/Metal Gear Solid 3 - Snake Eater (USA).mp4</video>
+	</game>
+	<game id="21917" source="ScreenScraper.fr">
+		<path>./Okami (USA).gz</path>
+		<name>Okami</name>
+		<desc> The game is set in a Nippon (Japan) based on Japanese folklore, and begins with a flashback to events 100 years prior to the game's present; the narrator describes how Shiranui, a pure white wolf, and Nagi, a swordsman, together fought the eight-headed demon Orochi to save Kamiki Village and the maiden Nami, Nagi's beloved. Shiranui and Nagi are unable to defeat Orochi, but manage to seal the demon away.   In the game's present, Susano, a descendant of Nagi and self-proclaimed greatest warrior, breaks Orochi's seal due to the fact that he does not believe in the legend and wants to prove it false; Orochi escapes and curses the lands, sapping the life from every living being. Sakuya, the wood sprite and guardian of Kamiki Village, calls forth Amaterasu, the sun goddess, known to the villagers as the reincarnation of the white wolf Shiranui, and pleads for her to remove the curse that covers the land. Accompanied by the artist Issun (an inch-high creature known as a Poncle), Amaterasu is able to restore the land to its former beauty.</desc>
+		<rating>0.95</rating>
+		<releasedate>20070209T000000</releasedate>
+		<developer>Clover</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Okami (USA).png</image>
+		<marquee>./wheel/Okami (USA).png</marquee>
+		<video>./snap/Okami (USA).mp4</video>
+	</game>
+	<game id="21961" source="ScreenScraper.fr">
+		<path>./Ratchet &amp; Clank - Going Commando (USA).gz</path>
+		<name>Ratchet &amp; Clank : Going Commando</name>
+		<desc>Ratchet &amp; Clank 2 est un jeu d'action/plate-forme à la 3ème personne sorti sur PlayStation 2. Incarnez Ratchet, toujours accompagné de son fidèle robot Clank, et usez, voire abusez, des 36 armes mises à votre disposition pour tout détruire dans ce jeu à l'humour omniprésent.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031119T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Insomniac Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Ratchet &amp; Clank - Going Commando (USA).png</image>
+		<marquee>./wheel/Ratchet &amp; Clank - Going Commando (USA).png</marquee>
+		<video>./snap/Ratchet &amp; Clank - Going Commando (USA).mp4</video>
+	</game>
+	<game id="21891" source="ScreenScraper.fr">
+		<path>./Resident Evil 4 (USA).gz</path>
+		<name>Resident Evil 4</name>
+		<desc>Picking up six years after Resident Evil 2, the fourth game in the series follows former cop (now US agent) Leon S. Kennedy to Europe on a top secret mission to investigate the disappearance of the president's daughter Ashley. As Leon encounters unimaginable horrors, he must find out who or what is behind everything. Old friends...and enemies...lurk around every corner as Leon attempts to find out who is truly behind the kidnapping of the president's daughter.   The first game in Capcom's blockbuster survival-horror series designed with a real-time 3D polygonal engine, Resident Evil 4 is freed from the camera limitations and static backgrounds of past titles. Players guide Leon S. Kennedy, the lead protagonist in Resident Evil 2, in an adventure taking them deep within the Umbrella Corporation.</desc>
+		<rating>0.95</rating>
+		<releasedate>20061013T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<image>./mixart/Resident Evil 4 (USA).png</image>
+		<marquee>./wheel/Resident Evil 4 (USA).png</marquee>
+		<video>./snap/Resident Evil 4 (USA).mp4</video>
+	</game>
+	<game id="22226" source="ScreenScraper.fr">
+		<path>./SSX 3 (USA).gz</path>
+		<name>SSX 3</name>
+		<desc>Players can discover the open mountain in the newest version of the smash-hit SSX snowboarding franchise.    SSX 3 allows gamers to go anywhere gravity will take them. Players will discover a colossal mountain where they can immerse themselves in a free-roaming snow paradise. The ultimate all-mountain experience, SSX 3 features all-new events and courses, awe-inspiring tricks and a cast of cool, customisable characters. Discover the open terrain, explore its hidden crevices, and conquer its peaks.    Produced under the EA SPORTS BIG brand, the SSX 3 development team at EA Canada is adding technologies that bring to life rich natural graphics such as snow that sparkles and blows in the wind and realistic character shadowing. A new gameplay experience allows users to seamlessly ride from one awesome area to the next- entering competitions, taking on Big Challenges and discovering hidden collectibles. SSX 3 has blown out the trick component with unlimited combos and new, over-the-top tricks.    In addition to the new boarding venues, Big Challenges rewards players for completing any of the more than 100 unique challenges as they explore the mountain's vast world. Grind billboards, board press logs, even hand plant the fence line.    The musical soundtrack features a broad range of music from artists including the X-Ecutioners, Felix Da Housecat, Queens of the Stone Age, N.E.R.D., and many more.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031002T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>./mixart/SSX 3 (USA).png</image>
+		<marquee>./wheel/SSX 3 (USA).png</marquee>
+		<video>./snap/SSX 3 (USA).mp4</video>
+	</game>
+	<game id="22661" source="ScreenScraper.fr">
+		<path>./Virtua Fighter 4 - Evolution (USA).gz</path>
+		<name>Virtua Fighter 4 : Evolution</name>
+		<desc>Evolution was an updated version of Virtua Fighter 4. The game introduced two new characters and adjusted every other character as well. The two new characters were the Judoka-assassin, Goh Hinogami and the Muay Thai boxer Brad Burns. With the addition of Brad Burns, Vanessa Lewis's alternate Muay Thai style from Virtua Fighter 4 was removed and replaced with a Vale Tudo "Offensive" style; making her a solely Vale Tudo brawler.    All of the stages were adjusted. For example, Lei-Fei's stage in Virtua Fighter 4 previously took place during sunset, in Evolution it takes place during the morning.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030702T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Virtua Fighter 4 - Evolution (USA).png</image>
+		<marquee>./wheel/Virtua Fighter 4 - Evolution (USA).png</marquee>
+		<video>./snap/Virtua Fighter 4 - Evolution (USA).mp4</video>
+	</game>
+	<game id="22659" source="ScreenScraper.fr">
+		<path>./Virtua Fighter 4 (USA).gz</path>
+		<name>Virtua Fighter 4</name>
+		<desc>Virtua Fighter 4  Returning characters  Akira Yuki ;Pai Chan; Lau Chan; Wolf Hawkfield; Jeffry McWild; Kage-Maru; Sarah Bryant; Jacky Bryant; Shun Di; Lion Rafale; Aoi Umenokoji; Dural    New characters  Lei-Fei: Vanessa Lewis:</desc>
+		<rating>0.8</rating>
+		<releasedate>20020317T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Virtua Fighter 4 (USA).png</image>
+		<marquee>./wheel/Virtua Fighter 4 (USA).png</marquee>
+		<video>./snap/Virtua Fighter 4 (USA).mp4</video>
+	</game>
+	<game id="22506" source="ScreenScraper.fr">
+		<path>./Def Jam - Vendetta (USA).gz</path>
+		<name>Def Jam : Vendetta</name>
+		<desc>The unlikely combination of Def Jam recording artists and underground wrestling is the subject of this Electronic Arts release, which features the 3D likenesses of such musicians as Ludacris, Redman, DMX, Scarface, Ghostface Killa, Method Man, and more as playable characters.   Developed by AKI Corporation, whose previous experience in the genre includes WWF No Mercy and WCW/NWO Revenge, Def Jam Vendetta offers an estimated 1,500 animations for each of the 45 included characters. A total of ten different venues are available, and one of the featured modes offers a storyline complete with soap opera-style drama to go along with the suplexes and body slams. Up to four players can compete in Single, Tag-Team, Handicap, or Battle Royale matches.  </desc>
+		<rating>0.8</rating>
+		<releasedate>20030523T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Def Jam - Vendetta (USA).png</image>
+		<marquee>./wheel/Def Jam - Vendetta (USA).png</marquee>
+		<video>./snap/Def Jam - Vendetta (USA).mp4</video>
+	</game>
+	<game id="22736" source="ScreenScraper.fr">
+		<path>./Katamari Damacy (USA).gz</path>
+		<name>Katamari Damacy</name>
+		<desc>The King of All Cosmos accidentally destroyed the stars andâ€”having recoveredâ€”wants the prince to rebuild them. Unfortunately the prince stands a little less than half a foot tall, so recreating the stars will require some effort. Enter the Katamari, a sphere the prince can push around our world to â€œroll upâ€  items increasing the Katamariâ€™s size until itâ€™s suitable for the King.    Taking place in stylized versions of Japanese houses, cities, and environs, the prince pushes the Katamari around collecting items which adhere to it. At first, the prince can only pick up smaller items, but as the Katamari grows, the more it can collect. Push pins and paper clips cling to the Katamari increasing its size so it can roll over obstacles and pick up bigger items. Over many levels, the Katamari can eventually pick up people, cars, and other bigger items.    Players steer the Katamari from a third-person perspective using the analog sticks on the PS2. A tutorial stage takes the player through the controls and sets up the story as well as introducing a side story about a Japanese girl who can feel the cosmos. Wanting to challenge the prince, the King sets requirements on the Katamariâ€™s size and sets time limits on the level. Bonus missions restore constellations and have their own restrictions.     The world of Katamari Damacy is brought to life with off-beat animation and a catchy soundtrack. Players can find presents hidden in the levels that contain accessories for the prince. Two players can also battle head-to-head in a Katamari competition.</desc>
+		<rating>0.85</rating>
+		<releasedate>20040922T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle-Game-Adventure</genre>
+		<players>2</players>
+		<image>./mixart/Katamari Damacy (USA).png</image>
+		<marquee>./wheel/Katamari Damacy (USA).png</marquee>
+		<video>./snap/Katamari Damacy (USA).mp4</video>
+	</game>
+	<game id="22039" source="ScreenScraper.fr">
+		<path>./Castlevania - Curse of Darkness (USA).gz</path>
+		<name>Castlevania : Curse of Darkness</name>
+		<desc>In Castlevania: Curse of Darkness you play Hector, a former Dracula servant and a Devil Forgemaster, who disowns his dark gifts and aims to live a normal life. This event left Dracula vulnerable to the attacks of the Belmont clan. Now that Dracula is vanished, you must fight back the curse cast upon all Europe. There is but one problem, another Dracula servant does not approve with your plan.    Being a Devil Forgemaster now gives the player an ability to forge familiars to fight by your side. As the player himself, they have levels and they can even morph to a different stage depending which weapon you use to fight with them.      </desc>
+		<rating>0.8</rating>
+		<releasedate>20060216T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Castlevania - Curse of Darkness (USA).png</image>
+		<marquee>./wheel/Castlevania - Curse of Darkness (USA).png</marquee>
+		<video>./snap/Castlevania - Curse of Darkness (USA).mp4</video>
+	</game>
+	<game id="21920" source="ScreenScraper.fr">
+		<path>./Dark Cloud 2 (USA).gz</path>
+		<name>Dark Cloud 2</name>
+		<desc>As a young inventor, you are called upon to search the dangerous dungeons, battle evil monsters and re-claim towns and cities.    By fighting your way through the various dungeons, you must find various ores hidden away. With these ores, you can determine which parts you need to re-build a town. It is up to you to find or create the parts needed to build the various buildings of each town, as well various other parts to each town.    During your adventure, you can also take pictures of various items. Once you have a certain amount, you can then come up with ideas for an invention that will aid you in your quest. From there, you must again find the parts needed to create the invention, and then use the invention either to help you defeat enemies or build the towns.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050310T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Level-5</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Dark Cloud 2 (USA).png</image>
+		<marquee>./wheel/Dark Cloud 2 (USA).png</marquee>
+		<video>./snap/Dark Cloud 2 (USA).mp4</video>
+	</game>
+	<game id="21972" source="ScreenScraper.fr">
+		<path>./Dark Cloud (USA).gz</path>
+		<name>Dark Cloud</name>
+		<desc>Dark Cloud is set within a fantastic world with two moons called Terra. The world is made of two main continents referred to as the East and West. The eastern continent has a focus on technology, and the civilization is advanced whereas the western continent is less so, and its people prefer to "live in harmony with nature".  On the western continent are settlements that were sealed away by the Fairy King during the attack by the Dark Genie and where the game primarily takes place; Norune, Matataki, Brownboo, Queens, Muska Lacka and a settlement on one of Terra's moons, Yellow Drops (Brownboo and Yellow Drops being unaffected).</desc>
+		<rating>0.85</rating>
+		<releasedate>20010530T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Dark Cloud (USA).png</image>
+		<marquee>./wheel/Dark Cloud (USA).png</marquee>
+		<video>./snap/Dark Cloud (USA).mp4</video>
+	</game>
+	<game id="22482" source="ScreenScraper.fr">
+		<path>./Gladius (USA).gz</path>
+		<name>Gladius</name>
+		<desc>In the tradition of films like Gladiator and Spartacus comes Gladius, an action RPG taking place in the world of gladiatorial combat. As one of two principal characters, Ursula and Valens, players must train and lead a team of warriors to compete in the 20 coliseums and arenas found in four regions around the world. As a gladiator team trains and fights, warriors become more experienced and eventually develop new abilities.   Each battle is fought using a combination of steel, magic, and projectiles as players recruit from a pool of 16 distinct fighter classes, including Imperial Legionaries, Galdr witches, and javelin-throwing Peltasts. Over 400 pieces of equipment can be used in combat, and Gladius offers over 100 customizable characters as players win the certificates required to enter new regions through successful battles.</desc>
+		<rating>0.85</rating>
+		<releasedate>20031028T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Strategy-Role playing games</genre>
+		<players>2</players>
+		<image>./mixart/Gladius (USA).png</image>
+		<marquee>./wheel/Gladius (USA).png</marquee>
+		<video>./snap/Gladius (USA).mp4</video>
+	</game>
+	<game id="23066" source="ScreenScraper.fr">
+		<path>./Gradius III and IV (USA).gz</path>
+		<name>Gradius III and IV</name>
+		<desc>Players take control of the InterDimensional Vic Viper ship in a solitary attempt to repel an overwhelming invasion force from the planet Bacterian. The rest of the United Gradius World Forces were destroyed prior to Gradius III because they were "badly outnumbered." So now you're alone, in an attempt to destroy all who dare stand in your way.   Gradius III offers a standard One-Player mode, an alternating Two-Player mode, and an Options screen to customize key features. Gradius IV adds a Boss Attack mode, where players go through a timed series of battles with the bosses found throughout the game. Your ship is fully powered-up during the mode, regardless of how many times you may die.   The Vic Viper can be powered up through speed-ups, "double" shots that add shots and/or potential directions to fire in, various types of missiles, lasers, and "option" fighters. Option fighters are indestructible orange globes that follow the Vic Viper and add firepower. Multiple levels of difficulty are also included, as well as the option to select which stage to begin on.</desc>
+		<rating>0.6</rating>
+		<releasedate>20001124T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Compilation-Shoot'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Gradius III and IV (USA).png</image>
+		<marquee>./wheel/Gradius III and IV (USA).png</marquee>
+		<video>./snap/Gradius III and IV (USA).mp4</video>
+	</game>
+	<game id="22788" source="ScreenScraper.fr">
+		<path>./Hot Shots Golf Fore! (USA).gz</path>
+		<name>Hot Shots Golf Fore!</name>
+		<desc>Clap Hanz Limited invites PlayStation 2 gamers back for another round, in this fourth edition of the cartoonish golf sim with the serious gameplay. Sticking to the series' successful mix of approachable interface and realistic action, the game offers players numerous perspectives of each lie and shots are made through button taps, timed to a fluctuating bar that determines power and accuracy.   Hot Shots Golf Fore! offers a dozen courses (some of which were featured in Hot Shots Golf 3), and an even greater selection of characters to play through them. As in earlier games, certain characters are available from the start and players will need to unlock the others, but all can be customized with different clothing and equipment. A number of caricatured caddies are also available, to offer support and advice (sometimes, whether it's wanted or not).   A favorite feature from the PlayStation's original Hot Shots Golf returns in this version: the ability to play 18 holes of carom-friendly miniature golf. Hot Shots Golf Fore! is also the first in the series to offer online play. PlayStation 2 gamers with the PS2 Network Adaptor can log in to join other virtual golfers from all over the country. The online mode supports text chat, allowing two players to talk back and forth in real-time via keyboard.</desc>
+		<rating>0.85</rating>
+		<releasedate>20031127T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<image>./mixart/Hot Shots Golf Fore! (USA).png</image>
+		<marquee>./wheel/Hot Shots Golf Fore! (USA).png</marquee>
+		<video>./snap/Hot Shots Golf Fore! (USA).mp4</video>
+	</game>
+	<game id="23096" source="ScreenScraper.fr">
+		<path>./Hot Shots Tennis (USA).gz</path>
+		<name>Hot Shots Tennis</name>
+		<desc>Developer Clap Hanz's whimsical approach to sports games moves from the links to the courts with Hot Shots Tennis. Building on what made Hot Shots Golf a success, Hot Shots Tennis features a cast of quirky, cartoon-like characters, a variety of unlockable extras, and a realistic physics engine behind the arcade-style action. Players can choose one of 14 characters while trying to improve their stats and overall ranking by winning events against stronger opponents. Eleven offbeat court locales are included, ranging from tropical beaches to ancient ruins.</desc>
+		<rating>0.75</rating>
+		<releasedate>20070717T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports / Tennis-Sports</genre>
+		<players>2-4</players>
+		<image>./mixart/Hot Shots Tennis (USA).png</image>
+		<marquee>./wheel/Hot Shots Tennis (USA).png</marquee>
+		<video>./snap/Hot Shots Tennis (USA).mp4</video>
+	</game>
+	<game id="23060" source="ScreenScraper.fr">
+		<path>./Neo Contra (USA).gz</path>
+		<name>Neo Contra</name>
+		<desc>Neo Contra is the tenth video game in the Contra series by Konami. It was developed by Team Neo Kijirushi, a group of staff members within Konami Computer Entertainment Tokyo, and released for the PlayStation 2 in 2004. The game is a direct follow-up to Contra: Shattered Soldier and is a departure from the traditional scrolling shooter formula from previous games.  </desc>
+		<rating>0.75</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform-Action</genre>
+		<players>2</players>
+		<image>./mixart/Neo Contra (USA).png</image>
+		<marquee>./wheel/Neo Contra (USA).png</marquee>
+		<video>./snap/Neo Contra (USA).mp4</video>
+	</game>
+	<game id="23566" source="ScreenScraper.fr">
+		<path>./Outlaw Golf 2 (USA).gz</path>
+		<name>Outlaw Golf 2</name>
+		<desc>Following the style of its predecessor, the original Outlaw Golf, the game stays true to bad attitude, sexual themes and bunch of losers who just happen to find something in common to take upon - a game of golf. The magnificent four are back, Harley, Summer, El Suave and Ice Trey, with several more characters to be unlocked as you blast through the courses, speaking of which, the former three from the original are back, and again, with newer ones to be played after earned and unlocked. If you wanna practice your moves and skills, you can select exhibition mode, or if you feel contempt enough, go take a tour and show 'em what you're made of. There are several additions not seen in the original game, such as different game modes as well as golf cart racing which lets you earn the legendary burning shot, though the beating of your caddy to raise your composure is still included. The game also supports online play.</desc>
+		<rating>0</rating>
+		<releasedate>20050121T000000</releasedate>
+		<developer>Hypnotix</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Sports</genre>
+		<players>2-4</players>
+		<image>./mixart/Outlaw Golf 2 (USA).png</image>
+		<marquee>./wheel/Outlaw Golf 2 (USA).png</marquee>
+		<video>./snap/Outlaw Golf 2 (USA).mp4</video>
+	</game>
+	<game id="23738" source="ScreenScraper.fr">
+		<path>./Pac-Man Fever (USA).gz</path>
+		<name>Pac-Man Fever</name>
+		<desc>Pac-Man takes break from eating dots and ghosts in the fun new party game Pac-Man Fever. In addition to our yellow hero, the game also features Ms. Pac-Man and many other Namco favorites from franchises such as Tekken, Ridge Racer, and Soul Calibur. Up to four players partake in more than 30 minigames and three differently themed game boards. Try to recover all of the minigames stolen by those pesky, party-crashing Ghosts and determine who the real party animal is.</desc>
+		<rating>0.25</rating>
+		<releasedate>20020903T000000</releasedate>
+		<developer>Mass Media</developer>
+		<publisher>Namco</publisher>
+		<image>./mixart/Pac-Man Fever (USA).png</image>
+		<marquee>./wheel/Pac-Man Fever (USA).png</marquee>
+		<video>./snap/Pac-Man Fever (USA).mp4</video>
+	</game>
+	<game id="127838" source="ScreenScraper.fr">
+		<path>./Pinball Hall of Fame - The Gottlieb Collection (USA).gz</path>
+		<name>Pinball Hall of Fame : The Gottlieb Collection</name>
+		<desc>Though it offers authentic, playable simulations of more than eight classic machines from the 1960s through the 1990s, Pinball Hall of Fame aims also to provide players with an entertaining, interactive reference to the history of pinball. Developers at FarSight Studios (NCAA Football '99, NASCAR Road Racing, ESPN NFL Primetime 2002) worked with the "curators" of the real-life "Pinball Hall of Fame" (a project headquartered in Las Vegas) in an effort to craft an accurate and relevant simulation.  </desc>
+		<rating>0.35</rating>
+		<releasedate>20050429T000000</releasedate>
+		<developer>Astroll</developer>
+		<publisher>Play It</publisher>
+		<genre>Pinball</genre>
+		<players>2-4</players>
+		<image>./mixart/Pinball Hall of Fame - The Gottlieb Collection (USA).png</image>
+		<marquee>./wheel/Pinball Hall of Fame - The Gottlieb Collection (USA).png</marquee>
+		<video>./snap/Pinball Hall of Fame - The Gottlieb Collection (USA).mp4</video>
+	</game>
+	<game id="22665" source="ScreenScraper.fr">
+		<path>./Quake III - Revolution (USA).gz</path>
+		<name>Quake III : Revolution</name>
+		<desc>An updated single player mode is available, as well as several multiplayer modes. Choose from Deatmatch, Team Deathmatch, Single Weapon Deathmatch, Single Weapon Team Deathmatch, 1 Flag Capture the Flag, Capture the Flag, Team Possession, and Possession. Up to 4 players can play together through split-screen.    In this console version players get to use a variety of weapons: the Plasma Gun, Shotgun, Rocket Launcher, Chain Gun, Rail Gun and Machine Gun. The game's levels include many different landscapes ranging from wide open areas to winding tunnels. There are lava pits, water ways and a space station.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010326T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>id Software</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<image>./mixart/Quake III - Revolution (USA).png</image>
+		<marquee>./wheel/Quake III - Revolution (USA).png</marquee>
+		<video>./snap/Quake III - Revolution (USA).mp4</video>
+	</game>
+	<game id="23190" source="ScreenScraper.fr">
+		<path>./Raiden III (USA).gz</path>
+		<name>Raiden III</name>
+		<desc>Raiden III is the follow-up to the early 90's shoot 'em-ups Raiden and Raiden II. Once again you control the Raiden "Fighting Thunder ME-02" trying to fend off the attack of the alien invaders. There are in total 7 levels, the first three set on Earth and the last three in space.     This is a vertically scrolling shoot 'em-up which (as many other vertically scrolling shooters do) offers the option to either play the game in "yoko" or "tate" screen flipping modes depending on whether your tv is placed on its side or not.    </desc>
+		<rating>0.55</rating>
+		<releasedate>20060901T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Raiden III (USA).png</image>
+		<marquee>./wheel/Raiden III (USA).png</marquee>
+		<video>./snap/Raiden III (USA).mp4</video>
+	</game>
+	<game id="22973" source="ScreenScraper.fr">
+		<path>./Rogue Trooper (USA).gz</path>
+		<name>Rogue Trooper</name>
+		<desc>Rebellion invites comics fans and action gamers back to the future with this video game adaptation of 2000AD's Rogue Trooper.   A planned attack on Nu Earth goes wrong when a General turns traitor resulting in the massacre of Rogue's comrades.   The game starts with Rogue and his comrades launched from a drop-ship. They come under fire from the Norts due to the information that had been leaked by the General. Upon landing the first mission is a tutorial in how to use Rogue?s skills and also the Bio-chips of Gunnar and then Bagman. The third Bio-chip of Helm is received in a later mission. The Bio-chips have their own abilities. Gunnar is stuck to the side of Rogue?s rifle and can be used as a sentry while Rogue flanks the enemy. </desc>
+		<rating>0.7</rating>
+		<releasedate>20060523T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<image>./mixart/Rogue Trooper (USA).png</image>
+		<marquee>./wheel/Rogue Trooper (USA).png</marquee>
+		<video>./snap/Rogue Trooper (USA).mp4</video>
+	</game>
+	<game id="22574" source="ScreenScraper.fr">
+		<path>./R-Type Final (USA).gz</path>
+		<name>R-Type Final</name>
+		<desc>Inspired by the arcade's 1987 side-scrolling shooter, this 3D PS2 version of R-Type places players in control of a well-armed, side-scrolling spaceship for some old fashioned blast-away combat action. R-Type Final is designed to bring on the tense, fast-paced feel of the original coin-op game while adding console-friendly features such as customizable ships, multiple difficulty settings, and a mode that allows player to battle against AI-controlled versions of their own ships. Following the four games it introduced stateside in 2002, Fresh Games publishes R-Type Final in the U.S. and Canada, returning to its strategy of bringing distinct Japanese console games to North American gamers.   In R-Type Final, your enemy is the Bydo, an evil (and living) weapon capable of reproducing itself. Humanity has fought the Bydo four times so far, and each time was victorious. However, each time the Bydo appears it is stronger than before, and now it's back and you need to destroy it again!  </desc>
+		<rating>0.8</rating>
+		<releasedate>20040326T000000</releasedate>
+		<developer>Nobilis</developer>
+		<publisher>Irem</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>1</players>
+		<image>./mixart/R-Type Final (USA).png</image>
+		<marquee>./wheel/R-Type Final (USA).png</marquee>
+		<video>./snap/R-Type Final (USA).mp4</video>
+	</game>
+	<game id="22435" source="ScreenScraper.fr">
+		<path>./Rygar - The Legendary Adventure (USA).gz</path>
+		<name>Rygar : The Legendary Adventure</name>
+		<desc>Tecmo revisits a character from the arcades, NES, and Atari Lynx in this new 3D adventure for the PlayStation 2. Players take on the role of legendary warrior Rygar as he fights mythological beasts and foes throughout locales inspired by Ancient Greece. The island of Argus has plunged into chaos with the abduction of Princess Harmonia at the mighty hands of the Titans. Equipped with a multipurpose shield called the Diskarmor, Rygar sets out to free Princess Harmonia from captivity and restore peace to his home.   As Rygar advances through shrines, coliseums, and mysterious labyrinths, he will develop new moves and abilities. Rygar can learn to slide to squeeze through narrow passageways, stomp on enemies or objects, push or lift items, and use the Diskarmor to hang from ledges, grapple onto objects and then swing across chasms. Attacks involve pressing various button combinations, the result of which vary depending on the Diskarmor's abilities at the time. Rygar can power-up his magical shield and use it as a projectile weapon as well as for defense.</desc>
+		<rating>0.7</rating>
+		<releasedate>20021126T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Wanadoo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Rygar - The Legendary Adventure (USA).png</image>
+		<marquee>./wheel/Rygar - The Legendary Adventure (USA).png</marquee>
+		<video>./snap/Rygar - The Legendary Adventure (USA).mp4</video>
+	</game>
+	<game id="21944" source="ScreenScraper.fr">
+		<path>./Soulcalibur III (USA).gz</path>
+		<name>Soulcalibur III</name>
+		<desc>Soulcalibur III (ã‚½ã‚¦ãƒ«ã‚­ãƒ£ãƒªãƒ ãƒ¼III SÅ ruKyaribÄ  SurÄ«?) is a fighting game produced by Namco as a sequel to Soulcalibur II and the fourth installment in the Soul series. It was originally released exclusively for the PlayStation 2 in 2005. An improved arcade version, Soulcalibur III: Arcade Edition, was released in 2006.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051025T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Soulcalibur III (USA).png</image>
+		<marquee>./wheel/Soulcalibur III (USA).png</marquee>
+		<video>./snap/Soulcalibur III (USA).mp4</video>
+	</game>
+	<game id="22474" source="ScreenScraper.fr">
+		<path>./Star Wars - Starfighter (USA).gz</path>
+		<name>Star Wars : Starfighter</name>
+		<desc>Based on the events of Star Wars Episode 1: The Phantom Menace, there are three main characters: Rhys Dallows, Vana Sage, and Nym, each with their own perspectives on the events surrounding the battle for Naboo. Each character has their own ships for you to fly, with both positives and negatives attached, but either way you must stop the Trade Federation and their plans to destroy the peaceful planet.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010323T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Star Wars - Starfighter (USA).png</image>
+		<marquee>./wheel/Star Wars - Starfighter (USA).png</marquee>
+		<video>./snap/Star Wars - Starfighter (USA).mp4</video>
+	</game>
+	<game id="22348" source="ScreenScraper.fr">
+		<path>./Street Fighter EX3 (USA).gz</path>
+		<name>Street Fighter EX3</name>
+		<desc>Street Fighter EX3 est un jeu de combat en 3D sur PS2. Choisissez l'un des 16 personnages issus de l'univers de Street Fighter et combattez en solo ou en équipe. Le jeu propose quatre modes de jeu : Original, Arena, Character Edit et Training.</desc>
+		<rating>0.65</rating>
+		<releasedate>20001014T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<image>./mixart/Street Fighter EX3 (USA).png</image>
+		<marquee>./wheel/Street Fighter EX3 (USA).png</marquee>
+		<video>./snap/Street Fighter EX3 (USA).mp4</video>
+	</game>
+	<game id="22155" source="ScreenScraper.fr">
+		<path>./Tekken Tag Tournament (USA).gz</path>
+		<name>Tekken Tag Tournament</name>
+		<desc>Forget the fancy full-motion video intros of the past. The cutting-edge gameplay that is promised in the extended intros of fighting games is finally realised in Tekken Tag Tournament This visually stunning action game contains fully rendered 3-D characters who can execute smoothly animated martial-arts moves. With polygonal characters and texture maps this real, you will end up looking for the coin slot on your PS2.    With more than 30 characters to fight against or beside, this game allows you to pull off the ultimate human combo: tag-team fighting. By choosing two fighters who have broadly divergent skills, you can increase your threat to the other fighters greatly. Also, switching out fighters can give an overextended partner enough time to rest up his or her stamina for the next tag. See what happens when one partner throws a foe, tags, and the other partner comes in to keep the foe... uh... airborne. Tekken Tag Tournament contains 20 classic characters from other parts of the acclaimed Tekken series, as well as 12 new characters who can be unlocked during gameplay.</desc>
+		<rating>0.8</rating>
+		<releasedate>20001025T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<image>./mixart/Tekken Tag Tournament (USA).png</image>
+		<marquee>./wheel/Tekken Tag Tournament (USA).png</marquee>
+		<video>./snap/Tekken Tag Tournament (USA).mp4</video>
+	</game>
+	<game id="22754" source="ScreenScraper.fr">
+		<path>./Terminator, The - Dawn of Fate (USA).gz</path>
+		<name>The Terminator : Dawn of Fate</name>
+		<desc>The Terminator : Un Autre Futur est un jeu d'action sur Playstation 2. L'histoire se déroule juste avant le premier film Terminator et vous devez tenter d'empêcher les machines de tuer John Connor dans un futur complètement ravagé par la guerre. Vous pouvez incarner différents personnages tout au long de l'aventure et vous battre contre des cyborgs encore jamais dévoilés dans les films.</desc>
+		<rating>0.7</rating>
+		<releasedate>20021025T000000</releasedate>
+		<developer>Paradigm Entertainment</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<image>./mixart/Terminator, The - Dawn of Fate (USA).png</image>
+		<marquee>./wheel/Terminator, The - Dawn of Fate (USA).png</marquee>
+		<video>./snap/Terminator, The - Dawn of Fate (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania - Lament of Innocence (USA).gz</path>
+		<name>Castlevania : Lament of Innocence</name>
+		<desc>Konami's whip-wielding, vampire-killing series makes its PlayStation 2 debut with Castlevania: Lament of Innocence. Set in the 11th century, the game traces the origins of the Belmont family through the story of original vampire hunter Leon Belmont.   You play Leon Belmont, who was once a Baron for the King. After his betrothed, Sara, was kidnapped and taken to a large castle, Leon asked the Church for permission to command his underlings to attack the castle. Because of the Crusades going on in the East, he is denied such. But because of his love for Sara, he denounces his title and leaves, going with no weapon or clue to the castle. He is stopped by an alchemist named Rinaldo, who was once a vampire-hunter himself. He gives Leon the Whip of Alchemy, offers to help him further in his quest, and sends him on his way.</desc>
+		<image>./mixart/Castlevania - Lament of Innocence (USA).png</image>
+		<video>./snap/Castlevania - Lament of Innocence (USA).mp4</video>
+		<marquee>./wheel/Castlevania - Lament of Innocence (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20031127T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform-Beat'em Up-Action-Adventure</genre>
+	</game>
+	<game>
+		<path>./Bloody Roar 4 (USA).gz</path>
+		<name>Bloody Roar 4</name>
+		<desc>During the XGC (X-Genome Code) Incident one year ago, riots raged over the earth by beasts that did not show the XCG, and all over the country small earthquakes shook the land. The cause was unknown, but as the Crest Incident came to an end and the rioting and earthquakes subsided, people began to claim that all was due to the influence of the Stone Seal. Although the Stone Seal has been locked away, the rioting and earthquakes have returned. This time, the incidents are on a larger scale than those of a year ago. What could be behind it all?    Bloody Roar 4 is the last title in the series, and is once again a full-3D fighting game featuring the series' trademark transformation abilities. Unlike previous titles in the series, the beast gauge now acts as its own health bar; if a character's health gauge is depleted, they will automatically transform. The game features 18 playable fighters and a variety of game modes, including standard arcade, versus, time-attack, training, and survival modes. Of special mention is the career mode, in which fighting battles will earn so-called "DNA points," which can be spent on abilities and equipment to customize a character for use in other modes.</desc>
+		<image>./mixart/Bloody Roar 4 (USA).png</image>
+		<video>./snap/Bloody Roar 4 (USA).mp4</video>
+		<marquee>./wheel/Bloody Roar 4 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031102T000000</releasedate>
+		<developer>Eighting Co., Ltd.</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Contra - Shattered Soldier (USA).gz</path>
+		<name>Contra : Shattered Soldier</name>
+		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
+		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
+		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
+		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030214T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).gz</path>
+		<name>Devil May Cry 3 : Dante's Awakening</name>
+		<desc>Raise Hell! Dante's past is revealed as Devil May Cry returns to its roots. Master Dante's multiple fighting styles while battling never before seen demons and new characters as you fight your way towards a brutal confrontation with Dante's mysterious twin brother Vergil.     Choose Dante's Fighting Style - maximize the impact of close-up blade attacks or blow enemies away from a distance with a huge arsenal of weapons including handguns, shotguns, swords and more. Battle against a a horde of demonic enemies that are more ferocious than ever with powerful weapons and the abilities to transform and fly.</desc>
+		<image>./mixart/Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).png</image>
+		<video>./snap/Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).mp4</video>
+		<marquee>./wheel/Devil May Cry 3 - Dante's Awakening (USA) (Special Edition).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050324T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Beat'em Up</genre>
+	</game>
+	<game>
+		<path>./God of War II (USA).gz</path>
+		<name>God of War II</name>
+		<desc>Kratos, thanks to your help, is no longer a lowly mortal but a legendary god. The former warrior of Sparta has not been the same after usurping Ares, however. His mind is filled with persistent thoughts of blood, brutal suffering, and violent conflict, as the rest of the gods on Mount Olympus embroil themselves in petty politics and duplicitous deeds. Kratos wishes to end his torment, and he makes a solemn oath to end his reign as the God of War in unprecedented fashion: by permanently altering his fate. God of War II has you twirling Kratos' twin blades for more adventurous action in Ancient Greece, as the grim hero encounters an assortment of new mythological creatures and environmental dangers on his path to redemption.</desc>
+		<image>./mixart/God of War II (USA).png</image>
+		<video>./snap/God of War II (USA).mp4</video>
+		<marquee>./wheel/God of War II (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070313T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony</publisher>
+		<genre>Beat'em Up</genre>
+	</game>
+	<game>
+		<path>./Gradius V (USA).gz</path>
+		<name>Gradius V</name>
+		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story  </desc>
+		<image>./mixart/Gradius V (USA).png</image>
+		<video>./snap/Gradius V (USA).mp4</video>
+		<marquee>./wheel/Gradius V (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Half-Life (USA).gz</path>
+		<name>Half-Life</name>
+		<desc>The PlayStation 2 version of Half-Life is a port of the Windows game, but with a significant overhaul for the weapons and character models, as well as the overall map geometry and some extended levels.   It also includes an expansion pack that is referred to as Half-Life: Decay, which was never officially available as an expansion for the Windows game until it was eventually recreated as a modification. The third expansion for the original game, it features two-player cooperative gameplay (in split-screen) with the two female scientists Gina Cross and Colette Green as the protagonists. It is meant to be played with two players at the same time as it is more puzzle-oriented than the original game and the first two expansions. Singleplayer is also possible, but then switching between the two characters is necessary to advance. When not active, the other character is AI controlled for basic actions.</desc>
+		<image>./mixart/Half-Life (USA).png</image>
+		<video>./snap/Half-Life (USA).mp4</video>
+		<marquee>./wheel/Half-Life (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20011130T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Valve</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Killzone (USA).gz</path>
+		<name>Killzone</name>
+		<desc>Inspired by the courage demonstrated and devastation sustained in the warfare of the 20th century, Killzone makes its debut as a PS2 exclusive, bringing with it an assortment of features. The game offers four playable characters and 27 different weapons. Players will engage the enemy in more than 11 detailed environments, designed to showcase the grueling settings of a war-ridden planet. There are several gameplay modes to chose from, including single-player and multiplayer (team-based and competitive), as well as online play for up to 12 players.</desc>
+		<image>./mixart/Killzone (USA).png</image>
+		<video>./snap/Killzone (USA).mp4</video>
+		<marquee>./wheel/Killzone (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20041126T000000</releasedate>
+		<developer>Guerrilla</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
+		<name>Mortal Kombat : Armageddon</name>
+		<desc>The fighting genre's poster (whipping?) boy for gruesome violence makes its final appearance on PlayStation 2 before moving in a new direction for Xbox 360 and PlayStation 3. Mortal Kombat: Armageddon is thus a hostile homage to its frenzied fans, a love letter of sorts that tears away the heart-tugging sentiment for the still-beating heart. Armageddon offers the most significant throng of Mortal Kombat fighters thus far, with a roster spanning 62 combatants -- every minor and major character that has appeared in the series to date. The entire cast is also immediately playable from the opening screen.</desc>
+		<image>./mixart/Mortal Kombat - Armageddon (USA) (Premium Edition).png</image>
+		<video>./snap/Mortal Kombat - Armageddon (USA) (Premium Edition).mp4</video>
+		<marquee>./wheel/Mortal Kombat - Armageddon (USA) (Premium Edition).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061027T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight</genre>
+		<players>2-8</players>
+	</game>
+	<game>
+		<path>./MotorStorm - Arctic Edge (USA).gz</path>
+		<name>MotorStorm : Arctic Edge</name>
+		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.    </desc>
+		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
+		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
+		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091014T000000</releasedate>
+		<developer>Bigbig Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./OutRun 2006 - Coast 2 Coast (USA).gz</path>
+		<name>OutRun 2006 : Coast 2 Coast</name>
+		<desc>OutRun 2006: Coast 2 Coast features 15 unique cars, the most ever seen in any OutRun game. In addition to the ten cars from OutRun 2 SP, new models include the 550 Barchetta, F355 Spider, Superamerica, 328 GTS, and the Ferrari F430. Some models cannot be unlocked on the PlayStation Portable or PlayStation 2 without the use of the cross-system connectivity feature inherent of the two systems.</desc>
+		<image>./mixart/OutRun 2006 - Coast 2 Coast (USA).png</image>
+		<video>./snap/OutRun 2006 - Coast 2 Coast (USA).mp4</video>
+		<marquee>./wheel/OutRun 2006 - Coast 2 Coast (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060331T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-6</players>
+	</game>
+	<game>
+		<path>./Pinball Hall of Fame - The Williams Collection (USA).gz</path>
+		<name>Pinball Hall of Fame : The Williams Collection</name>
+		<desc>Pinball Hall of Fame: The Williams Collection faithfully recreates eight of the most memorable tables from the golden age of pinball in photorealistic 3D. Working closely with Williams to ensure authenticity of each of the games, the collection is highlighted by some of the most popular and innovative Williams pinball tables, including Gorgar, the first-ever talking pinball machine, Black Knight, which introduced "Magna-Save" and Bonus Ball, and Space Shuttle, which took the pinball industry by storm in 1984. Every table has been meticulously recreated to bring players the visuals, sound effects and gameplay that made these games legendary successes. Pinball Hall of Fame: The Williams Collection harkens back to the arcades of the 1980s. Players begin Pinball Hall of Fame: The Williams Collection with access to four pinball tables, and the remaining four tables are unlocked as the game progresses. Players can spend as little as two minutes on a quick pinball challenge, or delve deeper into the game, gaining rewards in a token-based system as they unlock each of the pinball tables. Single-player Arcade and Challenge modes provide hours of solo entertainment, and a Multiplayer mode lets players face each other head-on.</desc>
+		<image>./mixart/Pinball Hall of Fame - The Williams Collection (USA).png</image>
+		<video>./snap/Pinball Hall of Fame - The Williams Collection (USA).mp4</video>
+		<marquee>./wheel/Pinball Hall of Fame - The Williams Collection (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20080226T000000</releasedate>
+		<developer>FarSight Studios</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./Shadow of the Colossus (USA).gz</path>
+		<name>Shadow of the Colossus</name>
+		<desc>End-level bosses are standard fare in video games, but the bosses are the levels in this unusual adventure. Developed by the studio that created the PS2's critically acclaimed Ico, Shadow of the Colossus is another fantasy-themed puzzle adventure that's light on dialog and heavy on beautifully expressive environments.   Players take the role of a young knight who sets out to rescue his sleeping-beauty princess from a magic-induced state of suspended animation. To do so, he'll need to defeat the 16 Colossi -- landscape-sized enemies so enormous that they can only be conquered by exploring them, platform-game style, to discover their weaknesses. Against some Colossi, the hero may ride his faithful steed alongside the monster, galloping at full speed just to keep up with its mile-long strides. Other Colossi require the player to actually climb aboard, and crawl, run, and leap across their massive forms to find the hidden vulnerability that can be used to bring them down.  </desc>
+		<image>./mixart/Shadow of the Colossus (USA).png</image>
+		<video>./snap/Shadow of the Colossus (USA).mp4</video>
+		<marquee>./wheel/Shadow of the Colossus (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Beat'em Up-Action-Adventure</genre>
+	</game>
 </gameList>

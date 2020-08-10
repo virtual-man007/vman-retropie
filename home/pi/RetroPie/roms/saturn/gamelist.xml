@@ -90,20 +90,6 @@
 		<marquee>./wheel/A+M+O+K (USA).png</marquee>
 		<video>./snap/A+M+O+K (USA).mp4</video>
 	</game>
-	<game id="13219" source="ScreenScraper.fr">
-		<path>./Andretti Racing (USA).chd</path>
-		<name>Andretti Racing</name>
-		<desc>For the first time ever in an arcade racer, take control of either NASCAR or Indy cars and cruise around 16 detailed tracks. There are 3 views available to drive from. As well as individual races, you can play a full career. Derek Daly and Bob Jenkins provide a running commentary. Outside factors such as pit-crew mistakes and mechanical failures can affect your races.</desc>
-		<rating>0.55</rating>
-		<releasedate>19970207T000000</releasedate>
-		<developer>Stormfront Studios</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<image>./mixart/Andretti Racing (USA).png</image>
-		<marquee>./wheel/Andretti Racing (USA).png</marquee>
-		<video>./snap/Andretti Racing (USA).mp4</video>
-	</game>
 	<game id="143864" source="ScreenScraper.fr">
 		<path>./Arcade's Greatest Hits - The Atari Collection 1 (USA).chd</path>
 		<name>Arcade's Greatest Hits : The Atari Collection 1</name>
@@ -962,20 +948,6 @@
 		<image>./mixart/Darklight Conflict (USA).png</image>
 		<marquee>./wheel/Darklight Conflict (USA).png</marquee>
 		<video>./snap/Darklight Conflict (USA).mp4</video>
-	</game>
-	<game id="13204" source="ScreenScraper.fr">
-		<path>./Daytona USA - Championship Circuit Edition (USA).chd</path>
-		<name>Daytona USA : Championship Circuit Edition</name>
-		<desc>All of its predecessor and then some. More tracks, many more cars (hidden cars as well), smarter AI, more music (no more lyrics for the in-game race music either), broader 2-player gameplay, more refined arcade physics...and on top of everything else- BETTER GRAPHICS! The first Daytona on the Saturn boasted some hefty visuals, great for displaying the Saturn's power to the masses at the console's birth; but for the Saturn to be revered for everything it was, Sega (and AM2) had to make something a little flashier. All the graphics in the game have been updated...both the cars and tracks have higher polygon count, better texture mapping; the framerate is QUITE noticeably improved, everything is very smooth.</desc>
-		<rating>0.7</rating>
-		<releasedate>19961121T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<image>./mixart/Daytona USA - Championship Circuit Edition (USA).png</image>
-		<marquee>./wheel/Daytona USA - Championship Circuit Edition (USA).png</marquee>
-		<video>./snap/Daytona USA - Championship Circuit Edition (USA).mp4</video>
 	</game>
 	<game id="13179" source="ScreenScraper.fr">
 		<path>./Dead or Alive (Japan).chd</path>
@@ -4349,19 +4321,6 @@
 		<video>./snap/Z (Europe).mp4</video>
 	</game>
 	<game>
-		<path>./Albert Odyssey - Legend of Eldean (USA).chd</path>
-		<name>Albert Odyssey : Legend of Eldean</name>
-		<desc>The game follows the adventure of Pike, a young boy whose family was murdered by a horde of monsters while still an infant, and is raised by a family of winged humanoids known as Harpies. Ten years later, his adoptive sister is turned to stone by an evil mage. Together with Cirrus, a talking sword housing the spirit of one of the legendary Eldean siblings, Pike travels the world to search for a cure, and discovers a plot by a group of evil magicians to turn the world's races against each other and revive the ancient god Vlag. Together with the help of friends he meets along his journey, Pike must prevent the evil's resurrection.</desc>
-		<image>./mixart/Albert Odyssey - Legend of Eldean (USA).png</image>
-		<video>./snap/Albert Odyssey - Legend of Eldean (USA).mp4</video>
-		<marquee>./wheel/Albert Odyssey - Legend of Eldean (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19970731T000000</releasedate>
-		<developer>Working Designs</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Role playing games</genre>
-	</game>
-	<game>
 		<path>./Astal (USA).chd</path>
 		<name>Astal</name>
 		<desc>Antowas has created a land of striking beauty and magic, with Astal and his beloved Leda among its happy inhabitants. However, Jerado has set out to destroy it, capturing Leda and forcing Astal to set off to save her.  Astal is a side-scrolling platform game with lots of Anime-esque background detail. You have birds helping you if you can rescue them. Special moves such as a smart bomb can be collected.</desc>
@@ -4374,19 +4333,6 @@
 		<publisher>Sega</publisher>
 		<genre>Action-Platform</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Daytona USA (USA).chd</path>
-		<name>Daytona USA</name>
-		<desc>A port of the most successful arcade racer ever, the home versions of Daytona USA include the same elements that made the original version successful: three highly detailed tracks, arcade driving physics that challenge the player to find the best trajectory to make a flying lap without kissing the rails and beating the checkpoint timer. The 40 cars of the Easy race (later named 3-7 Speedway), one of the stalwarts of the original version, are also present in this version.  These home versions include a new mode (Saturn or PC Mode, depending on the platform) where the three tracks are played without the timer, and optionally in mirror mode, using one of the bonus cars (with additional abilities such as driving on grass or hitting the rails without losing speed) and in one of three lengths: Normal (identical to the arcade original), Grand Prix (2.5 times longer) and Endurance (10 times longer).   On the downside, detail and frame rate suffered a drop to fit the game into the limited hardware of the Saturn and Personal Computers, and lacking any kind of multiplayer, comparing to the two to eight player rumbles of the arcade version.</desc>
-		<image>./mixart/Daytona USA (USA).png</image>
-		<video>./snap/Daytona USA (USA).mp4</video>
-		<marquee>./wheel/Daytona USA (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
 	</game>
 	<game>
 		<path>./Virtua Cop 2 (USA).chd</path>
@@ -4414,6 +4360,240 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Action-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Daytona USA (USA).chd</path>
+		<name>Daytona USA</name>
+		<desc>A port of the most successful arcade racer ever, the home versions of Daytona USA include the same elements that made the original version successful: three highly detailed tracks, arcade driving physics that challenge the player to find the best trajectory to make a flying lap without kissing the rails and beating the checkpoint timer. The 40 cars of the Easy race (later named 3-7 Speedway), one of the stalwarts of the original version, are also present in this version.  These home versions include a new mode (Saturn or PC Mode, depending on the platform) where the three tracks are played without the timer, and optionally in mirror mode, using one of the bonus cars (with additional abilities such as driving on grass or hitting the rails without losing speed) and in one of three lengths: Normal (identical to the arcade original), Grand Prix (2.5 times longer) and Endurance (10 times longer).   On the downside, detail and frame rate suffered a drop to fit the game into the limited hardware of the Saturn and Personal Computers, and lacking any kind of multiplayer, comparing to the two to eight player rumbles of the arcade version.</desc>
+		<image>./mixart/Daytona USA (USA).png</image>
+		<video>./snap/Daytona USA (USA).mp4</video>
+		<marquee>./wheel/Daytona USA (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200802T160913</lastplayed>
+	</game>
+	<game>
+		<path>./Daytona USA - Championship Circuit Edition (USA).chd</path>
+		<name>Daytona USA : Championship Circuit Edition</name>
+		<desc>All of its predecessor and then some. More tracks, many more cars (hidden cars as well), smarter AI, more music (no more lyrics for the in-game race music either), broader 2-player gameplay, more refined arcade physics...and on top of everything else- BETTER GRAPHICS! The first Daytona on the Saturn boasted some hefty visuals, great for displaying the Saturn's power to the masses at the console's birth; but for the Saturn to be revered for everything it was, Sega (and AM2) had to make something a little flashier. All the graphics in the game have been updated...both the cars and tracks have higher polygon count, better texture mapping; the framerate is QUITE noticeably improved, everything is very smooth.</desc>
+		<image>./mixart/Daytona USA - Championship Circuit Edition (USA).png</image>
+		<video>./snap/Daytona USA - Championship Circuit Edition (USA).mp4</video>
+		<marquee>./wheel/Daytona USA - Championship Circuit Edition (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19961121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200802T161204</lastplayed>
+	</game>
+	<game id="97662" source="ScreenScraper.fr">
+		<path>./Assault Suit Leynos 2 (JAP) (DW0195).chd</path>
+		<name>Assault Suit Leynos 2</name>
+		<desc>Japan-only sequel to Target Earth, Leynos 2 puts you in the cockpit of a giant mecha robot as you scroll and shoot your way through a series of 7 individual missions tied loosely together by a generic sci-fi plot.   The game itself plays as a side-scrolling shooter set in different planets as well as outer space (where you can fly anywhere with your jump-jets). You have a variety of upgradeable weaponry which allow you to shoot anywhere on-screen as well as auto-lock individual enemies, and depending on how well you do on each stage you get a specific rating score that allows you to upgrade and customize your mech.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970221T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Assault Suit Leynos 2 (JAP) (DW0195).png</image>
+		<marquee>./wheel/Assault Suit Leynos 2 (JAP) (DW0195).png</marquee>
+		<video>./snap/Assault Suit Leynos 2 (JAP) (DW0195).mp4</video>
+	</game>
+	<game id="97663" source="ScreenScraper.fr">
+		<path>./Astra Superstars (Japan).chd</path>
+		<name>Astra Superstars</name>
+		<desc>A one-on-one 2D fighting game, Astra Superstars pits all the champions of the magical kingdom against each other in a series of 3-round fights to earn the right to challenge the evil Satan Volte and try to put an end to his reign of terror.  Seeing as how all the fighters have magical abilities, the fights take place in mid-air, allowing you and your opponent to fly all over the arena while you try to defeat each other using your basic attacks, special moves (triggered by specific controller motions) and super attacks (which deplete your energy bar but cause tremendous damage).  Graphics-wise the games uses 2D sprites, with colorful doll-ish designs. Gameplay modes include 1P arcade, 2P Vs mode, an art gallery featuring conceptual artwork and a story mode with selectable dialogue options that influence match difficulty.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980806T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Fight-Fight / 2D-Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Astra Superstars (Japan).png</image>
+		<marquee>./wheel/Astra Superstars (Japan).png</marquee>
+		<video>./snap/Astra Superstars (Japan).mp4</video>
+	</game>
+	<game id="13315" source="ScreenScraper.fr">
+		<path>./Battle Garegga (Japan).chd</path>
+		<name>Battle Garegga</name>
+		<desc>One of the earliest in the Shutokou Battle series, where the player took control of 12 different cars and 60 different parts and upgrades available to choose from.    There are a variety of tracks to choose from, all recreated to resemble actual Tokyo roads and highways and featured the "Drift" button that allowed the player to take a turn faster. Players can also earn points through this action as well as from winning races to upgrade their car and go head-to-head against the computer or against three CPU opponents.    Keiichi Tsuchiya, a racing champion from Tokyo and Masaaki Bando, a top automotive expert from Japan both lent their expertise to the game to ensure authentic handling and physics for each vehicle that was rendered in the game.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980226T000000</releasedate>
+		<developer>Eighting</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/Battle Garegga (Japan).png</image>
+		<marquee>./wheel/Battle Garegga (Japan).png</marquee>
+		<video>./snap/Battle Garegga (Japan).mp4</video>
+	</game>
+	<game id="13216" source="ScreenScraper.fr">
+		<path>./Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan).chd</path>
+		<name>Chou Aniki : Kyuukyoku... Otoko no Gyakushuu</name>
+		<desc>Cho Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko is an Action game, developed by Pre Stage and published by Nippon Computer System, which was released in Japan in 1996.</desc>
+		<rating>0.55</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan).png</image>
+		<marquee>./wheel/Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan).png</marquee>
+		<video>./snap/Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan).mp4</video>
+	</game>
+	<game id="13198" source="ScreenScraper.fr">
+		<path>./Crows - The Battle Action for SegaSaturn (Japan).chd</path>
+		<name>Crows : The Battle Action for SegaSaturn</name>
+		<desc>Crows : The Battle Action est un jeu d'action sur Saturn. Directement inspiré du manga japonais, le jeu vous propose d'incarner un jeune délinquant et d'affronter de nombreuses bandes rivales en plein milieu des rues de la ville. Un total de quatre personnages sont disponibles dont deux sont à débloquer au fil de votre progression. De nombreux coups sont à votre disposition pour terrasser vos ennemis et notamment le mythique «German Souplex».</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Athena</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/Crows - The Battle Action for SegaSaturn (Japan).png</image>
+		<marquee>./wheel/Crows - The Battle Action for SegaSaturn (Japan).png</marquee>
+		<video>./snap/Crows - The Battle Action for SegaSaturn (Japan).mp4</video>
+	</game>
+	<game id="126297" source="ScreenScraper.fr">
+		<path>./Initial D (J)(Saturn).chd</path>
+		<name>Koudou Saisoku Densetsu : Initial D</name>
+		<desc>Initial D: Koudou Saisoku Densetsu is a 1998 racing game for the Sega Saturn tying into the Initial D media franchise. It was the only game in the franchise released on a Sega system; Sega themselves would later license the franchise for an on-going series of arcade and console games.     Initial D, a popular long running manga series, has spawned not only an equally popular anime series and a live-action movie adaptation, but several video games over the years. The series' first appearance on home consoles occurred in 1998, with the release of Initial D for PlayStation and Sega Saturn.     The series follows Takumi, an indolent teenager who, after delivering tofu for his dad's business in the early hours of the morning, finds himself to be something of an expert in the art of drifting down mountain roads. This in turn leads to him and others racing each other on a variety of Japanese mountains â€“ perfect video game fodder.     The main guts of the game is the Story Mode which sets up a series of races via some FMV clips and static CG images. There is no voice acting in either of these which is immediately jarring and something that instantly stands out when played today.     The music deserves a mention also. Anyone who has even a basic knowledge of Initial D will know that it is defined by not only fast paced drift racing, but an equally high energy Eurobeat soundtrack. Inexplicably, this is missing entirely from the game. The music used sets the atmosphere well, but fans will notice the change and will lament what feels like a missed opportunity to add to the authenticity of the game.</desc>
+		<rating>0.6</rating>
+		<releasedate>19980625T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>Kodansha</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<players>1</players>
+		<image>./mixart/Initial D (J)(Saturn).png</image>
+		<marquee>./wheel/Initial D (J)(Saturn).png</marquee>
+		<video>./snap/Initial D (J)(Saturn).mp4</video>
+	</game>
+	<game id="126330" source="ScreenScraper.fr">
+		<path>./Layer Section II (J).chd</path>
+		<name>Layer Section II</name>
+		<desc>RayStorm is a shoot'em-up game created for the arcades, later ported to the Playstation and Saturn home consoles. Although there is no story connection, it is often thought of as the spiritual successor to RayForce, which had similar gameplay.    You have 2 weapons at you disposal, a vulcan gun and a lock-on missile attack. You can also do 2 special attacks by using the lock-on system in a special way. The graphics are all in 3D, but the gameplay mechanics are in 2D. There are 7 stages, each ending with a giant end boss.</desc>
+		<rating>0</rating>
+		<releasedate>19971030T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Media Quest</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+		<image>./mixart/Layer Section II (J).png</image>
+		<marquee>./wheel/Layer Section II (J).png</marquee>
+		<video>./snap/Layer Section II (J).mp4</video>
+	</game>
+	<game id="126333" source="ScreenScraper.fr">
+		<path>./Linkle Liver Story (English v1).chd</path>
+		<name>Linkle Liver Story</name>
+		<desc>Linkle Liver Story is an action-oriented RPG that takes place on a distant planet called Mamuuna whose inhabitants are humans with animal qualities. The story centers around the "Mother Flower" which gives life to all new beings on the planet when one day it disappears.    This is where the player takes control of a cat-girl character by the name of Kittchu, who is accompanied by a pink seed-pod that resembles a pig, traveling the planet from continent to continent in a tornado whirlwind, vanquishing enemies in an attempt to recover the "Mother Flower" and bring order back to the planet.    The gameplay is reminiscent of the earlier Zelda games, where the player uses various weapons to hack and slash enemies, likewise the players seed companion will charge at enemies from distance. To obtain weapons, the player must search for weapons seeds and using water left behind vanquished enemies to grow them. There are six different color coded seeds to be found which are powered up through four different levels which gives over 120 different weapons to be used. Likewise, health recovery items are acquired in the same manner, by using water to grow special trees that will produce fruit.</desc>
+		<rating>0</rating>
+		<releasedate>19960315T000000</releasedate>
+		<developer>NexTech</developer>
+		<publisher>Sega</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Linkle Liver Story (English v1).png</image>
+		<marquee>./wheel/Linkle Liver Story (English v1).png</marquee>
+		<video>./snap/Linkle Liver Story (English v1).mp4</video>
+	</game>
+	<game id="126410" source="ScreenScraper.fr">
+		<path>./Rabbit (Japan).chd</path>
+		<name>Rabbit</name>
+		<desc>Rabbit is a 2D fighting game, with cartoonish colorful graphics. The game has 8 playable characters - Wu Ling (Rabbit), Tien-Ren (hawk), Eight (ox), Hou-En (wolf), Ja-Koh (snake), Yu-Lan (fox), Rex (tiger) and Eddy (wild boar). The player chooses one from these heroes, and must defeat all opponents, plus the final boss.    Each character has a special animal spirit that helps with the battle (e.g. JoJo's Bizarre Adventure) - and they have a spirit' bar to use these specials. The game uses the joystick plus 4 buttons - for light punch, heavy punch, light kick, and heavy kick.</desc>
+		<rating>0</rating>
+		<releasedate>19970627T000000</releasedate>
+		<developer>Aorn </developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2D</genre>
+		<players>1-2</players>
+		<image>./mixart/Rabbit (Japan).png</image>
+		<marquee>./wheel/Rabbit (Japan).png</marquee>
+		<video>./snap/Rabbit (Japan).mp4</video>
+	</game>
+	<game id="126427" source="ScreenScraper.fr">
+		<path>./Sakura Wars - Steam Radio Show (J)(Saturn) Disc1.chd</path>
+		<name>Sakura Wars - Steam Radio Show (Disc 1)</name>
+		<desc>The second fan disc to come out after the initial game, this time in November of 1997. It's a much more substantial offering than Hanagumi Ts?shin, featuring actual new art assets and gameplay. It is presented as two distinct sub-products in one package, each on its own disc and each with its own manual. Disc one is the ?Play Disc? and disc two is the Disc two is the ?Musical Disc?.</desc>
+		<rating>0</rating>
+		<releasedate>19971113T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Sega</publisher>
+		<image>./mixart/Sakura Wars - Steam Radio Show (J)(Saturn).png</image>
+		<marquee>./wheel/Sakura Wars - Steam Radio Show (J)(Saturn).png</marquee>
+		<video>./snap/Sakura Wars - Steam Radio Show (J)(Saturn).mp4</video>
+	</game>
+	<game id="126427" source="ScreenScraper.fr">
+		<path>./Sakura Wars - Steam Radio Show (J)(Saturn) Disc2.chd</path>
+		<name>Sakura Wars - Steam Radio Show (Disc 2)</name>
+		<desc>The second fan disc to come out after the initial game, this time in November of 1997. It's a much more substantial offering than Hanagumi Ts?shin, featuring actual new art assets and gameplay. It is presented as two distinct sub-products in one package, each on its own disc and each with its own manual. Disc one is the ?Play Disc? and disc two is the Disc two is the ?Musical Disc?.</desc>
+		<rating>0</rating>
+		<releasedate>19971113T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Sega</publisher>
+		<image>./mixart/Sakura Wars - Steam Radio Show (J)(Saturn).png</image>
+		<marquee>./wheel/Sakura Wars - Steam Radio Show (J)(Saturn).png</marquee>
+		<video>./snap/Sakura Wars - Steam Radio Show (J)(Saturn).mp4</video>
+	</game>
+	<game id="126427" source="ScreenScraper.fr">
+		<path>./Sakura Wars - Steam Radio Show (J)(Saturn).m3u</path>
+		<name>Sakura Wars - Steam Radio Show</name>
+		<desc>The second fan disc to come out after the initial game, this time in November of 1997. It's a much more substantial offering than Hanagumi Ts?shin, featuring actual new art assets and gameplay. It is presented as two distinct sub-products in one package, each on its own disc and each with its own manual. Disc one is the ?Play Disc? and disc two is the Disc two is the ?Musical Disc?.</desc>
+		<rating>0</rating>
+		<releasedate>19971113T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Sega</publisher>
+		<image>./mixart/Sakura Wars - Steam Radio Show (J)(Saturn).png</image>
+		<marquee>./wheel/Sakura Wars - Steam Radio Show (J)(Saturn).png</marquee>
+		<video>./snap/Sakura Wars - Steam Radio Show (J)(Saturn).mp4</video>
+	</game>
+	<game id="13314" source="ScreenScraper.fr">
+		<path>./All Japan Pro Wrestling Featuring Virtua (J)(Saturn).chd</path>
+		<name>Zen Nihon Pro Wres Featuring Virtua</name>
+		<desc>25 years of All Japan Pro Wrestling comes to Sega Saturn, and now the warriors of Virtua Fighter has taken to the ring to challenge the champions of the world! 12 wrestlers compete to showcase their skills and win the Triple Crown. 3 modes of play allows friends go head-to-head and compete in the ultimate battle of spirits!</desc>
+		<rating>0.8</rating>
+		<releasedate>19971023T000000</releasedate>
+		<developer>Scarab</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/All Japan Pro Wrestling Featuring Virtua (J)(Saturn).png</image>
+		<marquee>./wheel/All Japan Pro Wrestling Featuring Virtua (J)(Saturn).png</marquee>
+		<video>./snap/All Japan Pro Wrestling Featuring Virtua (J)(Saturn).mp4</video>
+	</game>
+	<game>
+		<path>./Albert Odyssey - Legend of Eldean (USA).chd</path>
+		<name>Albert Odyssey : Legend of Eldean</name>
+		<desc>The game follows the adventure of Pike, a young boy whose family was murdered by a horde of monsters while still an infant, and is raised by a family of winged humanoids known as Harpies. Ten years later, his adoptive sister is turned to stone by an evil mage. Together with Cirrus, a talking sword housing the spirit of one of the legendary Eldean siblings, Pike travels the world to search for a cure, and discovers a plot by a group of evil magicians to turn the world's races against each other and revive the ancient god Vlag. Together with the help of friends he meets along his journey, Pike must prevent the evil's resurrection.</desc>
+		<image>./mixart/Albert Odyssey - Legend of Eldean (USA).png</image>
+		<video>./snap/Albert Odyssey - Legend of Eldean (USA).mp4</video>
+		<marquee>./wheel/Albert Odyssey - Legend of Eldean (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970731T000000</releasedate>
+		<developer>Working Designs</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Andretti Racing (USA).chd</path>
+		<name>Andretti Racing</name>
+		<desc>For the first time ever in an arcade racer, take control of either NASCAR or Indy cars and cruise around 16 detailed tracks. There are 3 views available to drive from. As well as individual races, you can play a full career. Derek Daly and Bob Jenkins provide a running commentary. Outside factors such as pit-crew mistakes and mechanical failures can affect your races.</desc>
+		<image>./mixart/Andretti Racing (USA).png</image>
+		<video>./snap/Andretti Racing (USA).mp4</video>
+		<marquee>./wheel/Andretti Racing (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19970207T000000</releasedate>
+		<developer>Stormfront Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
 		<players>1-2</players>
 	</game>
 </gameList>

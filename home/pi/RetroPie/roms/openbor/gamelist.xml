@@ -3755,8 +3755,6 @@
 		<rating>4.8</rating>
 		<releasedate>19700101T010000</releasedate>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20200530T193001</lastplayed>
 	</game>
 	<game>
 		<path>./Ultimate Super Mega Beatdown.pak</path>
@@ -3765,27 +3763,27 @@
 		<video>./snap/Ultimate Super Mega Beatdown.mp4</video>
 		<marquee>./wheel/Ultimate Super Mega Beatdown.png</marquee>
 		<rating>4</rating>
+		<releasedate />
+	</game>
+	<game id="204383" source="ScreenScraper.fr">
+		<path>./Legend of the Double Dragon v1.5 Cinematic Edition.pak</path>
+		<name>Legend of the Double Dragon</name>
+		<desc>The game tries to give a cinematic view to the untold story of Return of Double Dragon, the Japanese version of Super Double Dragon, based on the original vision of Mr. Muneki Ebinuma, original Technos producer of the 90's game. The Best bro's edition uses SNES music and cuts the cinematics.</desc>
+		<rating>0</rating>
+		<releasedate>20121227T000000</releasedate>
+		<developer>Mahcneto</developer>
+		<players>1-2</players>
+		<image>./mixart/Legend of the Double Dragon v1.5 Cinematic Edition.png</image>
+		<marquee>./wheel/Legend of the Double Dragon v1.5 Cinematic Edition.png</marquee>
+		<video>./snap/Legend of the Double Dragon v1.5 Cinematic Edition.mp4</video>
+	</game>
+	<game>
+		<path>./TMNT Rescue-Palooza! v0.9.3.pak</path>
+		<name>Tmnt Rescue-palooza!</name>
+		<image>./mixart/TMNT Rescue-Palooza! v0.9.3.png</image>
+		<video>./snap/TMNT Rescue-Palooza! v0.9.3.mp4</video>
+		<marquee>./wheel/TMNT Rescue-Palooza! v0.9.3.png</marquee>
+		<rating>0</rating>
 		<releasedate></releasedate>
 	</game>
-  <game id="204383" source="ScreenScraper.fr">
-    <path>./Legend of the Double Dragon v1.5 Cinematic Edition.pak</path>
-    <name>Legend of the Double Dragon</name>
-    <desc>The game tries to give a cinematic view to the untold story of Return of Double Dragon, the Japanese version of Super Double Dragon, based on the original vision of Mr. Muneki Ebinuma, original Technos producer of the 90's game. The Best bro's edition uses SNES music and cuts the cinematics.</desc>
-    <rating>0</rating>
-    <releasedate>20121227T000000</releasedate>
-    <developer>Mahcneto</developer>
-    <players>1-2</players>
-    <image>./mixart/Legend of the Double Dragon v1.5 Cinematic Edition.png</image>
-    <marquee>./wheel/Legend of the Double Dragon v1.5 Cinematic Edition.png</marquee>
-    <video>./snap/Legend of the Double Dragon v1.5 Cinematic Edition.mp4</video>
-  </game>
-  <game id="192025" source="ScreenScraper.fr">
-    <path>./TMNT Rescue-Palooza! v0.9.3.pak</path>
-    <name>Tmnt Rescue-palooza!</name>
-    <rating>0</rating>
-    <releasedate />
-    <image>./mixart/TMNT Rescue-Palooza! v0.9.3.png</image>
-    <marquee>./wheel/TMNT Rescue-Palooza! v0.9.3.png</marquee>
-    <video>./snap/TMNT Rescue-Palooza! v0.9.3.mp4</video>
-  </game>
 </gameList>
