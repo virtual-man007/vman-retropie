@@ -1,497 +1,649 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0"?>
 <gameList>
-  <provider>
-    <System>PC Dos</System>
-    <software>Skraper</software>
-    <database>ScreenScraper.fr</database>
-    <web>http://www.screenscraper.fr</web>
-  </provider>
-  <game id="187137" source="ScreenScraper.fr">
-    <path>./Alien Breed.sh</path>
-    <name>Alien Breed</name>
-    <desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.  Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.   Other major bonuses found on the floor are emergency kits for restoring your health, and credits. The credits come in handy when you find an Infotex terminal. There, you can access information about your current mission and your vital statistics, as well as buy supplies such as ammunition, weapons and keys.  Music is forfeited in this game, in favour of ambience sounds from machinery, machine gun sounds and the sounds of the aliens running around the base.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Team 17</developer>
-    <publisher>Team 17</publisher>
-    <players>1</players>
-    <image>./mixart/Alien Breed.png</image>
-    <marquee>./wheel/Alien Breed.png</marquee>
-    <video>./snap/Alien Breed.mp4</video>
-  </game>
-  <game id="155714" source="ScreenScraper.fr">
-    <path>./Alone in the Dark.sh</path>
-    <name>Alone in the Dark</name>
-    <desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.   Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.   To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.   Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
-    <rating>0</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Infogrames</developer>
-    <publisher>Infogrames</publisher>
-    <genre>Adventure / Survival Horror-Adventure</genre>
-    <image>./mixart/Alone in the Dark.png</image>
-    <marquee>./wheel/Alone in the Dark.png</marquee>
-    <video>./snap/Alone in the Dark.mp4</video>
-  </game>
-  <game id="157412" source="ScreenScraper.fr">
-    <path>./Atomix.sh</path>
-    <name>Atomix</name>
-    <desc>Atomix is a puzzle game. On each level, you are given a couple of atoms, and your task is to arrange them into a specific shapes.   In a top-down view, you see all the atoms available for you to move, and all the directions they can connect to. Down below on the left side is a small picture of what you must get. That picture represents some molecular structure that you must complete by moving atoms horizontally and vertically. Once you move your atom, it won't stop unless it bumps into something, so you have to use other atoms as blockades to prevent it from going into unwanted areas.   There are over 50 levels, and you have limited time for each level. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>TaleSoft</developer>
-    <publisher>Thalion Software</publisher>
-    <genre>Strategy</genre>
-    <image>./mixart/Atomix.png</image>
-    <marquee>./wheel/Atomix.png</marquee>
-    <video>./snap/Atomix.mp4</video>
-  </game>
-  <game id="187288" source="ScreenScraper.fr">
-    <path>./Blood.sh</path>
-    <name>Blood</name>
-    <desc>Caleb was once a feared gunslinger, until he met a woman who was involved with a mysterious cult known as Cabal. Caleb, too, is sucked in, and soon becomes one of the Chosen - the most favored worshippers of the evil god Tchernobog. But one day, Tchernobog inexplicably kills the four Chosen, including Caleb. Mysteriously resurrected years later, Caleb is out to get revenge, and learn why his lord cast him down so abruptly.  Blood is a first-person shooter with horror elements, which uses the Build engine. Similarly to Duke Nukem 3D, the environment is interactive: many objects can be physically moved or affected in other ways. Destruction of landscapes is possible (although only in specific spots), with bullet holes being left by misplaced shots. The Build engine version is 2.5D, so there are rooms above rooms and puzzles which are based on this.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Monolith Productions, Inc.</developer>
-    <publisher>GT Interactive</publisher>
-    <image>./mixart/Blood.png</image>
-    <marquee>./wheel/Blood.png</marquee>
-    <video>./snap/Blood.mp4</video>
-  </game>
-  <game id="152323" source="ScreenScraper.fr">
-    <path>./Bomberman.sh</path>
-    <name>Dyna Blaster</name>
-    <desc>The black spaceman kidnapped Bomberman's beloved and brought her to his chambers in the castle, far beyond his reach, over the rivers, forest and mountains. Bomberman's job is to save her, battling the sea of the enemies, with only bombs at his disposal.    The range of Bomberman's bomb explosions can be upgraded with time, but if he dies, the range resets back to the minimum range and Bomberman loses his previous skills. Some updates can make Bomberman walk through the walls, increase his speed, and give him some other assets to aid him in his quest to save the woman he loves.    This top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final one consisting of the boss that will have to be dealt with. Bomberman can move horizontally and vertically and lay down bombs behind him, thus evaporating the enemies, but beware: Bomberman can block himself with his own bomb, and thus become a victim of his own bomb.</desc>
-    <rating>0</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Hudson</developer>
-    <publisher>Hudson</publisher>
-    <genre>Action</genre>
-    <players>4+</players>
-    <image>./mixart/Bomberman.png</image>
-    <marquee>./wheel/Bomberman.png</marquee>
-    <video>./snap/Bomberman.mp4</video>
-  </game>
-  <game id="171822" source="ScreenScraper.fr">
-    <path>./Comanche Cd.sh</path>
-    <name>Comanche CD</name>
-    <desc>This is a compilation of the voxel-based simulations of the helicopter RAH-66. It contains the following games: Comanche: Maximum Overkill (base game) Comanche: Global Challenge (add-on) Comanche: Over the Edge (add-on) In addition, the compilation offers ten bonus missions.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Novalogic</developer>
-    <publisher>Novalogic</publisher>
-    <genre>Simulation</genre>
-    <image>./mixart/Comanche Cd.png</image>
-    <marquee>./wheel/Comanche Cd.png</marquee>
-    <video>./snap/Comanche Cd.mp4</video>
-  </game>
-  <game id="156365" source="ScreenScraper.fr">
-    <path>./Dark Seed.sh</path>
-    <name>Dark Seed</name>
-    <desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration.  You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep...  ... and wake up from a terrible dream, only to find out that your life has just become a worse nightmare: an unknown source has implanted a seed of darkness in your mind, and you only have three days to find a way to stop it.</desc>
-    <rating>0</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Cyberdreams, Inc.</developer>
-    <publisher>Cyberdreams, Inc.</publisher>
-    <genre>Adventure</genre>
-    <image>./mixart/Dark Seed.png</image>
-    <marquee>./wheel/Dark Seed.png</marquee>
-    <video>./snap/Dark Seed.mp4</video>
-  </game>
-  <game id="152335" source="ScreenScraper.fr">
-    <path>./Aladdin.sh</path>
-    <name>Disney's Aladdin</name>
-    <desc>As Aladdin, baffle the guards in the streets of Agrabah. Elude the tempting traps in the Cave of Wonders, and the dangers of the Sultan's Palace. Ride the magic carpet through breathtaking skies. Then challenge the evil Jafar to a duel of swords and magic!</desc>
+	<provider>
+		<System>PC Dos</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="187137" source="ScreenScraper.fr">
+		<path>./Alien Breed.sh</path>
+		<name>Alien Breed</name>
+		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.  Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.   Other major bonuses found on the floor are emergency kits for restoring your health, and credits. The credits come in handy when you find an Infotex terminal. There, you can access information about your current mission and your vital statistics, as well as buy supplies such as ammunition, weapons and keys.  Music is forfeited in this game, in favour of ambience sounds from machinery, machine gun sounds and the sounds of the aliens running around the base.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<players>1</players>
+		<image>./mixart/Alien Breed.png</image>
+		<marquee>./wheel/Alien Breed.png</marquee>
+		<video>./snap/Alien Breed.mp4</video>
+	</game>
+	<game id="155714" source="ScreenScraper.fr">
+		<path>./Alone in the Dark.sh</path>
+		<name>Alone in the Dark</name>
+		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.   Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.   To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.   Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Adventure / Survival Horror-Adventure</genre>
+		<image>./mixart/Alone in the Dark.png</image>
+		<marquee>./wheel/Alone in the Dark.png</marquee>
+		<video>./snap/Alone in the Dark.mp4</video>
+	</game>
+	<game id="157412" source="ScreenScraper.fr">
+		<path>./Atomix.sh</path>
+		<name>Atomix</name>
+		<desc>Atomix is a puzzle game. On each level, you are given a couple of atoms, and your task is to arrange them into a specific shapes.   In a top-down view, you see all the atoms available for you to move, and all the directions they can connect to. Down below on the left side is a small picture of what you must get. That picture represents some molecular structure that you must complete by moving atoms horizontally and vertically. Once you move your atom, it won't stop unless it bumps into something, so you have to use other atoms as blockades to prevent it from going into unwanted areas.   There are over 50 levels, and you have limited time for each level. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>TaleSoft</developer>
+		<publisher>Thalion Software</publisher>
+		<genre>Strategy</genre>
+		<image>./mixart/Atomix.png</image>
+		<marquee>./wheel/Atomix.png</marquee>
+		<video>./snap/Atomix.mp4</video>
+	</game>
+	<game id="152323" source="ScreenScraper.fr">
+		<path>./Bomberman.sh</path>
+		<name>Dyna Blaster</name>
+		<desc>The black spaceman kidnapped Bomberman's beloved and brought her to his chambers in the castle, far beyond his reach, over the rivers, forest and mountains. Bomberman's job is to save her, battling the sea of the enemies, with only bombs at his disposal.    The range of Bomberman's bomb explosions can be upgraded with time, but if he dies, the range resets back to the minimum range and Bomberman loses his previous skills. Some updates can make Bomberman walk through the walls, increase his speed, and give him some other assets to aid him in his quest to save the woman he loves.    This top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final one consisting of the boss that will have to be dealt with. Bomberman can move horizontally and vertically and lay down bombs behind him, thus evaporating the enemies, but beware: Bomberman can block himself with his own bomb, and thus become a victim of his own bomb.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<image>./mixart/Bomberman.png</image>
+		<marquee>./wheel/Bomberman.png</marquee>
+		<video>./snap/Bomberman.mp4</video>
+	</game>
+	<game id="171822" source="ScreenScraper.fr">
+		<path>./Comanche Cd.sh</path>
+		<name>Comanche CD</name>
+		<desc>This is a compilation of the voxel-based simulations of the helicopter RAH-66. It contains the following games: Comanche: Maximum Overkill (base game) Comanche: Global Challenge (add-on) Comanche: Over the Edge (add-on) In addition, the compilation offers ten bonus missions.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Novalogic</developer>
+		<publisher>Novalogic</publisher>
+		<genre>Simulation</genre>
+		<image>./mixart/Comanche Cd.png</image>
+		<marquee>./wheel/Comanche Cd.png</marquee>
+		<video>./snap/Comanche Cd.mp4</video>
+	</game>
+	<game id="156365" source="ScreenScraper.fr">
+		<path>./Dark Seed.sh</path>
+		<name>Dark Seed</name>
+		<desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration.  You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep...  ... and wake up from a terrible dream, only to find out that your life has just become a worse nightmare: an unknown source has implanted a seed of darkness in your mind, and you only have three days to find a way to stop it.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Cyberdreams, Inc.</developer>
+		<publisher>Cyberdreams, Inc.</publisher>
+		<genre>Adventure</genre>
+		<image>./mixart/Dark Seed.png</image>
+		<marquee>./wheel/Dark Seed.png</marquee>
+		<video>./snap/Dark Seed.mp4</video>
+	</game>
+	<game id="152335" source="ScreenScraper.fr">
+		<path>./Aladdin.sh</path>
+		<name>Disney's Aladdin</name>
+		<desc>As Aladdin, baffle the guards in the streets of Agrabah. Elude the tempting traps in the Cave of Wonders, and the dangers of the Sultan's Palace. Ride the magic carpet through breathtaking skies. Then challenge the evil Jafar to a duel of swords and magic!</desc>
+		<rating>0.9</rating>
+		<releasedate>19931111T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<image>./mixart/Aladdin.png</image>
+		<marquee>./wheel/Aladdin.png</marquee>
+		<video>./snap/Aladdin.mp4</video>
+	</game>
+	<game id="158391" source="ScreenScraper.fr">
+		<path>./Dune 2 - The Building Of A Dynasty.sh</path>
+		<name>Dune II: The Building of a Dynasty</name>
+		<desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.  Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.  The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.  After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Dune 2 - The Building Of A Dynasty.png</image>
+		<marquee>./wheel/Dune 2 - The Building Of A Dynasty.png</marquee>
+		<video>./snap/Dune 2 - The Building Of A Dynasty.mp4</video>
+	</game>
+	<game id="187804" source="ScreenScraper.fr">
+		<path>./Gods.sh</path>
+		<name>Gods</name>
+		<desc>Hercules is aiming to achieve immortality by completing the task the Gods have set him. His task is presented as a  platform adventure set in ancient Greece, featuring a variety of enemies as you play it through.Of more significance, however, is the game's Artificial Intelligence system, in which creatures monitor how you play, and try to find safer positions. Also, the game offers more bonuses and power-ups if you're struggling to progress. Even without those, there are lots of bonus sections to find and unlock. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Bitmap Brothers, The</developer>
+		<publisher>Konami</publisher>
+		<image>./mixart/Gods.png</image>
+		<marquee>./wheel/Gods.png</marquee>
+		<video>./snap/Gods.mp4</video>
+	</game>
+	<game id="170548" source="ScreenScraper.fr">
+		<path>./Hi Octane.sh</path>
+		<name>Hi-Octane</name>
+		<desc>A futuristic racing game with hover cars, in the same line as Wipeout, using a modified version of the Magic Carpet 2 engine.  Gameplay takes a straightforward approach, with the directional keys controlling the steering and throttle, and three keys to fire the minigun, missiles or charge the booster. While the minigun has unlimited ammo, both fuel, armour and missiles must be replenished by passing through some marked areas or picking up powerups in the track or by left destroyed opponents. While the vehicles float on the track they are still influenced by the ground material: they slow down on dirt and even more on water. Each track has a number of shortcuts or alternate routes that offer powerups, and some tracks feature gates and ramps that open or close randomly.  Includes 9 tracks and several game modes (for Saturn owners and PC players with the 1.2 patch installed) such as single race mode (with option to change the number of laps), a Championship mode, Split Screen, Clone Race (beating the ghost of the best race time), Death Match (Where instead of finishing first what matters is finish alive and with the most kills) and Hot Seat, where up to eight players can compete in the same race by taking turns, with the computer taking control of the players' vehicles waiting for their turn. There are six hover cars to choose from: the fast Flexiwing and Outrider, the balanced KD-1 Speeder and Vampyr and the slow but armed to the teeth Berserker and Jugga. In addition to the natural capacity of each, their Minigun, Missle and Booster capacities can be upgraded by picking up powerups during the race. There are Eight teams to choose from, which change the colour of the vehicle: Mad Medicine (white), Bullfrog (aqua green), Storm Riders (purple), Fire Phreaks (orange), DethFest (blue), Foo Fighters (yellow), Gorehounds (red) and Assassins Anonymous (black).</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<image>./mixart/Hi Octane.png</image>
+		<marquee>./wheel/Hi Octane.png</marquee>
+		<video>./snap/Hi Octane.mp4</video>
+	</game>
+	<game id="187969" source="ScreenScraper.fr">
+		<path>./Judge Dredd.sh</path>
+		<name>Judge Dredd</name>
+		<desc>Judge Dredd is a platform action game based on the British comic book character of the same name and the 1995 movie that tarnished that name.  The game was a multi system release so it fits the standard console jump/shoot/duck formula although it does add some unique twists such as wounding enemies so that they surrender and can be arrested.The initial levels follow the plot of the movie with futuristic lawman Judge Dredd framed and sent to the Aspen penal colony from which he must escape and prove his innocence.  Following the fight at the top of the Statue of Liberty that ended the film, the game continues on with levels and characters inspired by the comic book culminating with a battle against the Dark Judges on Deadworld. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Probe Entertainment Ltd.</developer>
+		<publisher>Acclaim</publisher>
+		<image>./mixart/Judge Dredd.png</image>
+		<marquee>./wheel/Judge Dredd.png</marquee>
+		<video>./snap/Judge Dredd.mp4</video>
+	</game>
+	<game id="187976" source="ScreenScraper.fr">
+		<path>./Jungle Strike.sh</path>
+		<name>Jungle Strike</name>
+		<desc>Some time after Operation Desert Strike, Ibn Kilbaba, son of Kilbaba S.R, threatens to annihilate America. After his father was killed, the people who were under his control, sent his son running off, along with his father's money and nuclear weapons program. Kilbaba, more ruthless than his father, longs for revenge of his father's death and decides to shed the blood of those who killed him, the Americans. Already armed, Kilbaba hires Carlos Ortega to help him set up his Nuclear Weapons program, deep in South America. Carlos Ortega, the world's most notorious druglord, also yearns to seek revenge. With his own private army, armed with the most hi-tech weapons, he's ready to fight America at all costs. Because of this threat, you're hired again to battle these two characters, following their paths in the jungles of South America. Armed with the Commache, numerous other vehicles, and destructive weapons, you must take out their private army. Blow up the enemy with your hellfires, hydras, chain guns. Use the watercraft to launch mines at enemy ships. Pull off a drive-by on the enemy with guns on the side. Take out the evil duo and forever rid this threat.....in the jungle! </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Electronic Arts</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<image>./mixart/Jungle Strike.png</image>
+		<marquee>./wheel/Jungle Strike.png</marquee>
+		<video>./snap/Jungle Strike.mp4</video>
+	</game>
+	<game id="171266" source="ScreenScraper.fr">
+		<path>./Lamborghini American Challenge.sh</path>
+		<name>Lamborghini: American Challenge</name>
+		<desc> Description  Starting out with just a basic Lamborghini and $6000, your aim is to rise to the top of the 4 divisions of racing through success on 60 racetracks across America. In each division there are 20 rival racers, up to 3 of which compete in each race at a time.  The races also feature lots of local drivers (who can take crucial positions away from you and the other championship drivers), Sunday drivers going at normal speed, and police. before each race you will be told of the quality of the locals and the likelihood of police presence.  When police are in the area, speeding beyond 110 Km/h could see you branded as an offender, at which point the police will try to ram you off the road, Chase H.Q.-style. You can attempt to reach the end of the race despite this damage (which eventually hampers your speed), or simply pull over and accept a fine and the loss of race points. If the police subsequently stop you, the fine is heavier.  Each race costs money to enter, and your earnings can be boosted by betting on the results with the other championship drivers. If one of you wins, each driver gives you either the amount they bet or the amount you bet, whichever is lower; if a local wins you get your stake back.  Lots of power-ups can be bought along the way, including tires, radar jammers, engine improvements and nitro boosts. To move up a division you must take the Divisional Challenge, a one-off trek through a tough section within the time limit. You buy a set of 3 passes for this, each allowing one attempt.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Simulation</genre>
+		<image>./mixart/Lamborghini American Challenge.png</image>
+		<marquee>./wheel/Lamborghini American Challenge.png</marquee>
+		<video>./snap/Lamborghini American Challenge.mp4</video>
+	</game>
+	<game id="188081" source="ScreenScraper.fr">
+		<path>./Magic Carpet.sh</path>
+		<name>Magic Carpet</name>
+		<desc>Magic Carpet is a first-person perspective game, in which you are a mage who flies on a, well, magic carpet and casts spells. The game has 50 levels, called ''worlds''; each of those is set in a sea terrain with several mountainous islands. Your goal on each level is to amass enough mana within your castle to ''restore the equilibrium'' within the world. Once this happens, you can head to the next level. To collect mana, you have to find it (it is represented by golden spheres) and cast a specific spell to make it ''yours''. To collect this mana, you have to use a special spell to raise a castle of your own out of the ground. A balloon will appear over the newly created castle; it will proceed to fly around the level and collect ''your'' mana. Initially, your castle will be small and won't be able to hold much mana, so you'll have to keep casting the ''castle'' spell at it to make it bigger. The levels typically have monsters and rival mages in them. Not only they can hurt you with their attacks, but killing them is often necessary, as upon death they will release some of the mana you need to complete the level. To attack your enemies, you have a variety of spells at your disposal: fireballs, lightning bolts and meteors. There are also many other spells available to you - they allow you to heal yourself, surround yourself with a protective shield, teleport around, summon a skeleton army, or even modify the terrain by creating volcanoes and splitting landmasses. Not all spells are available to you from the beginning, though. Throughout all the levels, you are on your flying carpet, which can move in 3 dimensions. You can bring up a top-down map at any time.  </desc>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<image>./mixart/Magic Carpet.png</image>
+		<marquee>./wheel/Magic Carpet.png</marquee>
+		<video>./snap/Magic Carpet.mp4</video>
+	</game>
+	<game id="188085" source="ScreenScraper.fr">
+		<path>./Magic Pockets.sh</path>
+		<name>Magic Pockets</name>
+		<desc>In Magic Pockets, players control the cool Bitmap Kid who has deep pockets that can store virtually anything. Bitmap Kid's mission is to get back his toys that were stolen by some creatures.The game is a side-scrolling shooter that plays out across four worlds inhabited by a variety of enemies. Players can cause more damage to these enemies by charging their shots before firing. The player's weapon also changes its shape and features according to the requirements of each world.The Bitmap Kid has special athletic abilities. He can jump high by stepping on whirlwinds, and can even destroy all the creatures he hits after falling down from a high place. In addition, players can drive a bike, dive, and even fly through the use of special items. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Bitmap Brothers, The</developer>
+		<publisher>Konami</publisher>
+		<image>./mixart/Magic Pockets.png</image>
+		<marquee>./wheel/Magic Pockets.png</marquee>
+		<video>./snap/Magic Pockets.mp4</video>
+	</game>
+	<game id="157440" source="ScreenScraper.fr">
+		<path>./Master Of Orion 2 - Battle At Antares.sh</path>
+		<name>Master of Orion II: Battle at Antares</name>
+		<desc>Legends speak somewhere in space of the mystical planet Orion. Created by the Ancients, it remains unclaimed due to a powerful Guardian that orbits the planet and keeps out intruders. These same Ancients long ago fought a war against the Antarans and banished them into another dimension. Now... long after the Ancients empire has vanished, new races take to the stars, wishing to establish their own star empires, defeat the Antarans and become... The Master of Orion.  Master of Orion II: Battle At Antares is a turn-based 4x space empire game and is the sequel to Master of Orion, reinterpreting that game from scratch. Unlike the original the game can be played single player or with other human players. The player takes the role of a ruler of one of 8 races. They must manage planet resources to build ships and facilities, improving producion. Exploration of the galaxy is done via scouts and colony ships, which can establish new planets as part of the empire. Research must also be done to discover and utilize new technologies. Alien civilizations which are encountered can be negotiated with, or ships can engage in combat in a turn-based grid system. As new systems are explored, random events are triggered and strange artifacts found in orbit around unexplored planets. Wormholes can also be found which allow transport across dozens of parsecs into new star systems.  The game can be won in different ways: Through conquest of all other races, Being voted supreme leader of the galaxy or destruction of the Antarans race.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>SimTex, Inc.</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<image>./mixart/Master Of Orion 2 - Battle At Antares.png</image>
+		<marquee>./wheel/Master Of Orion 2 - Battle At Antares.png</marquee>
+		<video>./snap/Master Of Orion 2 - Battle At Antares.mp4</video>
+	</game>
+	<game id="157439" source="ScreenScraper.fr">
+		<path>./Master of Orion.sh</path>
+		<name>Master of Orion</name>
+		<desc>Master of Orion overlaps with Civilization insofar as you are the leader of one of several races. Technological advance, realm expansion and combat are all key elements. Where it differs is in being set in space.  The planet Orion itself is a lush, fertile planet with vast mineral resources. It is guarded by the Guardian - a powerful vessel which you have to defeat in order to plunder Orion's riches.  As you attempt to expand your empire, you will have to trade and steal technologies form rivals, again much like Civ. Your ships can be improved over the game, in terms of engine power, shields, cloaking devices and weapons, and different combinations of these can be integrated. Resource management is largely set using sliders, which reduces the amount of time spent on micro-management.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SimTex, Inc.</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Master of Orion.png</image>
+		<marquee>./wheel/Master of Orion.png</marquee>
+		<video>./snap/Master Of Orion.mp4</video>
+	</game>
+	<game id="156979" source="ScreenScraper.fr">
+		<path>./Normality.sh</path>
+		<name>Normality</name>
+		<desc>Kent lives in the police state of Neutropolis where everyone and everything is supposed to be normal. But Kent doesn't want to be normal.  In this 1st-person 3D animated graphic adventure (ala Tex Murphy, but more cartoony), you must elude the police and solve puzzles as you travel through the many locations.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Gremlin Interactive</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<image>./mixart/Normality.png</image>
+		<marquee>./wheel/Normality.png</marquee>
+		<video>./snap/Normality.mp4</video>
+	</game>
+	<game id="157896" source="ScreenScraper.fr">
+		<path>./North &amp; South.sh</path>
+		<name>North &amp; South</name>
+		<desc>Based on the Belgian comic book, ''Les Tuniques Bleues'', this strategy game allows you to replay the American Civil War from both the North and the South sides.  In the strategy part of the game, you can move your troops on a map of the US. If two opposing armies enter the same state, the battle is played out in an action sequence. Additional action sequences must be accomplished when capturing an enemy fort or train.  The game also offers a two-player-mode.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Strategy</genre>
+		<image>./mixart/North &amp; South.png</image>
+		<marquee>./wheel/North &amp; South.png</marquee>
+		<video>./snap/North &amp; South.mp4</video>
+	</game>
+	<game id="171585" source="ScreenScraper.fr">
+		<path>./Pinball Fantasies.sh</path>
+		<name>Pinball Fantasies</name>
+		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Digital Illusions CE AB</developer>
+		<publisher>21st Century</publisher>
+		<genre>Simulation</genre>
+		<image>./mixart/Pinball Fantasies.png</image>
+		<marquee>./wheel/Pinball Fantasies.png</marquee>
+		<video>./snap/Pinball Fantasies.mp4</video>
+	</game>
+	<game id="152355" source="ScreenScraper.fr">
+		<path>./Prehistorik 2.sh</path>
+		<name>Prehistorik 2</name>
+		<desc>Prehistorik 2 takes up the story of its predecessor, for another caveman-era platform game.     The hero must use his club to crush animal enemies, many of which then release bonus items to collect. He no longer needs to feed his clan, so there is no required minimum food target, unlike the original game. Other bonus items are located around the levels, while yet more can be found by using your club creatively and adventurously.     Passwords for every level can be found written in various places and they are different on every computer. You also encounter bosses after every few levels. In addition, the game includes hidden locations, multiple level exits and even hidden levels.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Prehistorik 2.png</image>
+		<marquee>./wheel/Prehistorik 2.png</marquee>
+		<video>./snap/Prehistorik 2.mp4</video>
+	</game>
+	<game id="152354" source="ScreenScraper.fr">
+		<path>./Prehistorik.sh</path>
+		<name>Prehistorik</name>
+		<desc>Prehistorik is a side-view platform game with a superficial similarity to Chuck Rock. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.  These include fire-breathing Pyro-Tax dragons, the Turtosaurus, and the Bad Bat. Each of these must be clubbed to death, some taking up to 5 hits, and then walked over. Some other enemies are indestructible, with the monkeys who throw coconuts at you particularly fiendish.  You will have to complete the level within the time limit, and avoid contact with these foes. However, bombs and improved weapons can be collected, as can extra lives, time bonuses and an improved jump.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Prehistorik.png</image>
+		<marquee>./wheel/Prehistorik.png</marquee>
+		<video>./snap/Prehistorik.mp4</video>
+	</game>
+	<game id="188585" source="ScreenScraper.fr">
+		<path>./Chaos Engine, The.sh</path>
+		<name>The Chaos Engine</name>
+		<desc>A time traveler from the future was stranded in Victorian England, and his knowledge of yet unknown technological inventions was passed to the Royal Society, headed by Baron Fortesque.  With the help of this knowledge, Fortesque managed to construct an immensely complex artificial intelligence known as the Chaos Engine. However, creation rebelled against its creator, assimilated its mind, and turned Britain into a war zone populated by mad machines. Mercenaries are willing to enter this dangerous place and put an end to the chaos, hoping for an appropriate reward.Chaos Engine (Soldiers of Fortune in the US) is a run-and-gun overhead shooter. Sixteen levels (in four groups of four) await the players in the game. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and other features in the maps. The visuals are in the 'metallic and blue' style Bitmap Brothers appeared to favor.There are six characters available in the game, each with different strengths and weaknesses, and different starting prices. In two-player mode each player chooses a character and plays co-operatively, but in one-player games the player also chooses a character for the computer to control, with its artificial intelligence allowing it to open doors, pick up power-ups and take on enemies away from the ones occupying the player-controlled character. </desc>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Bitmap Brothers, The</developer>
+		<publisher>Renegade Software</publisher>
+		<players>1-2</players>
+		<image>./mixart/Chaos Engine, The.png</image>
+		<marquee>./wheel/Chaos Engine, The.png</marquee>
+		<video>./snap/Chaos Engine, The.mp4</video>
+	</game>
+	<game id="171646" source="ScreenScraper.fr">
+		<path>./Star Wars Tie Fighter.sh</path>
+		<name>Star Wars Tie Fighter</name>
+		<desc>In the wake of the Battle of Hoth, through their treachery at Yavin, the alliance of Rebels and other criminals have threatened the very foundation of the peaceful Empire. The Imperial Navy is called upon to eradicate the last of the rebellion and restore law and order. As an Imperial navy starfighter pilot, you will safeguard imperiled lives thoughout the galaxy. Join the Emperor's cause in eliminating the Rebel uprising as the Empire strikes back!</desc>
+		<rating>0.85</rating>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Totally Games</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Simulation-Simulation / SciFi</genre>
+		<players>1</players>
+		<image>./mixart/Star Wars Tie Fighter.png</image>
+		<marquee>./wheel/Star Wars Tie Fighter.png</marquee>
+		<video>./snap/Star Wars Tie Fighter.mp4</video>
+	</game>
+	<game id="188648" source="ScreenScraper.fr">
+		<path>./Star Wars.sh</path>
+		<name>Star Wars</name>
+		<desc>Star Wars is a conversion of Atari Games' first-person shoot 'em up based around the original Star Wars film.You take on the role of Luke Skywalker, aiming to destroy the Death Star - which, as any fan knows, involves attacking the 'weak spot' near the exhaust. To even get to this you have to pass swarms of TIE Fighters. Complete the game and it loops back around at ever-increasing difficulty. The game uses vector graphics, which allow lots of action at high speed on comparatively slow systems. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Atari Info</developer>
+		<publisher>Br?derbund Software, Inc.</publisher>
+		<image>./mixart/Star Wars.png</image>
+		<marquee>./wheel/Star Wars.png</marquee>
+		<video>./snap/Star Wars.mp4</video>
+	</game>
+	<game id="188649" source="ScreenScraper.fr">
+		<path>./Star Wars Dark Forces.sh</path>
+		<name>Star Wars: Dark Forces</name>
+		<desc>Kyle Katarn is a former Imperial officer turned mercenary, now hired by the Rebel Alliance.  After having stolen the Death Star plans from a remote facility, he is tasked with investigating the sudden destruction of a hidden Rebel base. This leads him to face off against Imperial General Rom Mohc and the various iterations of his ''Dark Troopers'' - cybernetic soldiers with the armor and firepower to turn the tide of the war.Dark Forces is a close prequel to the original Star Wars movie trilogy. The game marks LucasArts' first attempt to enter the first-person shooter market. Instead of licensing the Doom engine, like many competitors, LucasArts created its own internal ''Jedi'' engine. The Jedi engine contains advanced features over similar tech, including the ability to look up and down, jump, crouch, and limited support (in the build used for Dark Forces) for rooms (sectors) over rooms. 3D models also make occasional appearances inside the game, as turrets or Kyle's ship dropping him off or picking him up from each mission. Most levels have a fairly complex, often maze-like structure, and include various switches that need to be activated to change the layout of the level. Jumping is integrated into the gameplay, as certain areas can only be accessed in that way. In addition to weapons, Kyle can use shields to protect himself from damage, a head lamp to illuminate dark areas, as well as specific items used to counter environmental hazards. The player character is given a certain amount of ''lives'' per level; he dies permanently once he runs out of all of them. Game progress can be saved only between missions.The game features fourteen substantial levels as Kyle works to disarm the Dark Trooper project. Many levels reference characters or areas from the Star Wars movie trilogy, such as a visit with Jabba the Hutt, a trip to Coruscant, and a battle through the interior of a Star Destroyer.  As opposed to most first-person shooters of the time period, every level has objectives for Kyle to complete, ranging from grabbing a clue and getting out alive, to planting charges around a facility to demolish it.  Cutscenes appear between key missions to update the plot.The Star Wars license gets plenty of use, and the game features Imperial officers, stormtroopers, and a collection of aliens seen in the films as enemies. Blaster rifles and thermal detonators are used as weapons, along with other firearms inspired by the tech of the films. Dark Forces also uses the iMuse engine to dynamically change the music during action scenes, with much of the music based off, or directly replicating, John Williams' original film score. The game is entirely a single-player campaign, and no multiplayer is included or supported. </desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Shooter-Shooter / 1st person</genre>
+		<players>1</players>
+		<image>./mixart/Star Wars Dark Forces.png</image>
+		<marquee>./wheel/Star Wars Dark Forces.png</marquee>
+		<video>./snap/Star Wars Dark Forces.mp4</video>
+	</game>
+	<game id="188651" source="ScreenScraper.fr">
+		<path>./Star Wars - Rebel Assault 2 - The Hidden Empire.sh</path>
+		<name>Star Wars: Rebel Assault II - The Hidden Empire</name>
+		<desc>Following his successes for the Rebel Alliance in the previous game, the adventures of the starfighter pilot ''Rookie One'' continue. While out scouting in the Dreighton Nebula, Rookie One's patrols receive a distress call from a freighter. As this is an area where ships are known to disappear, any deviation from the flight path is dangerous. But what they find is an Imperial presence where there shouldn't be one... and a new secret project to bring about the destruction of the Rebel Alliance.Rebel Assault II is a rail-shooter ''interactive movie'' featuring a variety of action sequences. Rookie One will fly sequences in an X-Wing, the Millennium Falcon, speeder bikes and being on foot. His only real ability is the precise targeting and shooting of laser weapon and occasionally the chance to take cover and avoid obstacles. Rookie One will team up with other characters who will aid him and need to be defended in turn. Occasionally different paths can be chosen in the animation and different events triggered, but for the most part the game is a closed environment. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<image>./mixart/Star Wars - Rebel Assault 2 - The Hidden Empire.png</image>
+		<marquee>./wheel/Star Wars - Rebel Assault 2 - The Hidden Empire.png</marquee>
+		<video>./snap/Star Wars - Rebel Assault 2 - The Hidden Empire.mp4</video>
+	</game>
+	<game id="188650" source="ScreenScraper.fr">
+		<path>./Star Wars Rebel Assault.sh</path>
+		<name>Star Wars: Rebel Assault</name>
+		<desc>You play a Rebel space cadet and have various missions to complete: Flying starships, destroying Walkers, infiltrating an enemy base etc.  All viewpoints and gameplay is through the use of motion video backdrops. </desc>
+		<rating>0</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<players>1</players>
+		<image>./mixart/Star Wars Rebel Assault.png</image>
+		<marquee>./wheel/Star Wars Rebel Assault.png</marquee>
+		<video>./snap/Star Wars Rebel Assault.mp4</video>
+	</game>
+	<game id="170782" source="ScreenScraper.fr">
+		<path>./Star Wars X Wing.sh</path>
+		<name>Star Wars: X-Wing</name>
+		<desc>Star Wars: X-Wing is a space simulation video game.    The player's character flies starfighters, including the eponymous X-wing (but also A-Wing and Y-Wing), for the Rebel Alliance as part of a narrative that precedes and parallels the events of Star Wars Episode IV: A New Hope.    Later, an expansion adds the B-wing as a playable vehicle.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Totally Games</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Star Wars X Wing.png</image>
+		<marquee>./wheel/Star Wars X Wing.png</marquee>
+		<video>./snap/Star Wars X Wing.mp4</video>
+	</game>
+	<game id="187294" source="ScreenScraper.fr">
+		<path>./The Blues Brothers.sh</path>
+		<name>The Blues Brothers</name>
+		<desc>The Blues Brothers are on the run from the law. Take control of either bulky Jake or nippy Elwood in this five-level platform game. You must cross a prison, a river and the big city to reach freedom. You also must find your missing records and collect these. Everything and everyone is against you, but you can pick up and throw warehouse crates to defeat your opponents.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<image>./mixart/The Blues Brothers.png</image>
+		<marquee>./wheel/The Blues Brothers.png</marquee>
+		<video>./snap/The Blues Brothers.mp4</video>
+	</game>
+	<game id="157735" source="ScreenScraper.fr">
+		<path>./Worms - Reinforcements.sh</path>
+		<name>Worms - Reinforcements</name>
+		<desc>Worms: Reinforcements is an add-on to Worms. It includes some modifications to the gameplay, such as the ability to choose the worm the player wants to use each turn, as well as additional levels and multiplayer support. It also allows the creation and the use of custom levels and speech packs.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Ocean</publisher>
+		<genre>Strategy</genre>
+		<image>./mixart/Worms - Reinforcements.png</image>
+		<marquee>./wheel/Worms - Reinforcements.png</marquee>
+		<video>./snap/Worms - Reinforcements.mp4</video>
+	</game>
+	<game id="155706" source="ScreenScraper.fr">
+		<path>./XCOM - UFO Defense.sh</path>
+		<name>Xcom Ufo Defense</name>
+		<desc>In the year 1998, the amount of reports of UFO sightings has been drastically increased. Stories about abductions and alien attacks became more and more widespread. Finally, after various nations of the world have failed to intercept the UFOs, their representatives met in a conference of global importance in Geneva, Switzerland. It was eventually decided to organize a secret paramilitary group, dubbed Extraterrestrial Combat Unit (X-COM). Starting with one base, two fighters, one transport, and a few soldiers, X-COM must locate the aliens, learn about their origins and technology, find out where their base is, and destroy it.X-COM: UFO Defense is a strategy game featuring separate but interlinked elements. On the strategic side, called GeoScape, you get a rotating view of the globe, where you see all visible UFOs (those that are within your detection range) as well as major cities and your base(s). You order movements from here, such as sending out fighters to intercept UFOs, transports with soldiers to assault/recover UFOs, and perhaps assaults on alien bases (if you find any). You also control your research, as you must invent better weapons (the Terran weapons are just no match against the alien weapons) quickly, not to mention all the other cool tech you can recover from the aliens. You also need to control your budget, as you can't afford to overextend your reach. Researchers need to be paid, engineers (who build the new toys) need to be paid, base(s) need to be be built/expanded, planes need to be bought/maintained, supplies need to be replenished, and so on.You can earn money by selling unneeded stuff, and you receive funding from the nations of the world; however, a nation can decrease its funding if it decides you aren't operating efficiently enough within its region. It's even possible that a nation gets so fed up with you that it signs a pact with the aliens and ceases funding altogether. Once you join a ground battle, the game switches to Battlescape, which is an isometric view of the battlefield with realistic line-of-sight calculations and turn-based combat. Your mission is usually extermination of all aliens on the battlefield, though if you can capture a few it would surely help your research efforts. If you win, you also recover any alien artifacts left on the field, which can then be researched.In combat, each of your soldiers has a specific number of Time Units. Doing anything (moving, shooting, turning around, rearranging objects in the inventory etc.) costs a number of TUs. Once a soldier is out of TUs, he cannot act any more this turn (he gets all his TUs back on the next turn, though).  </desc>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mythos Games Ltd.</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./mixart/XCOM - UFO Defense.png</image>
+		<marquee>./wheel/XCOM - UFO Defense.png</marquee>
+		<video>./snap/XCOM - UFO Defense.mp4</video>
+	</game>
+	<game id="188239" source="ScreenScraper.fr">
+		<path>./Oddworld - Abe's Oddysee.sh</path>
+		<name>Oddworld: Abe's Oddysee</name>
+		<rating>0</rating>
+		<releasedate />
+		<image>./mixart/Oddworld - Abe's Oddysee.png</image>
+		<marquee>./wheel/Oddworld - Abe's Oddysee.png</marquee>
+		<video>./snap/Oddworld - Abe's Oddysee.mp4</video>
+	</game>
+	<game id="188083" source="ScreenScraper.fr">
+		<path>./Magic Carpet 2 - The Netherworlds.sh</path>
+		<name>Magic Carpet 2: The Netherworlds</name>
+		<desc>The evil demon lord Vissuluth has taken control of the realms of the Netherworld. Once prosperous lands have been infested with monsters and several evil wizards, Vissuluth's side-kicks, are up to no good either. Fortunately the magician Kafkar knows a promising young apprentice who may stand up to Vissuluth. You're that apprentice!Magic Carpet 2: The Netherworlds is the sequel to Magic Carpet and uses a new 3D engine to produce better looking graphics. New spells and monsters are also included. It's an action game with some elements from other genres thrown into the mix. The biggest part of the gameplay is FPS action. You fly around on your magic carpet, clearing levels by killing monsters and battling other wizards. Instead of guns, you use offensive spells like fireball, meteor, lightning, tornado etc.Every monster you kill leaves behind a certain amount of mana which you can possess and store in your castle. You need this mana to cast spells and if you store it in your castle other wizards can't steal it (in some levels you need to defend your castle from attacks by monsters and rival wizards). With enough mana you can upgrade your castle which allows you to cast more powerful spells. During the course of the game you'll get all kinds of new spells and improve the ones you already have.Like many other games by Bullfrog Magic Carpet 2 is also a bit of a god game. Many realms are inhabited by neutral citizens; you can help them by destroying monsters that attack them or destroy their cities yourself. You can also completely transform each game world with spells like volcano, earthquake and gravity well. </desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<image>./mixart/Magic Carpet 2 - The Netherworlds.png</image>
+		<marquee>./wheel/Magic Carpet 2 - The Netherworlds.png</marquee>
+		<video>./snap/Magic Carpet 2 - The Netherworlds.mp4</video>
+	</game>
+	<game id="156430" source="ScreenScraper.fr">
+		<path>./Martian Memorandum.sh</path>
+		<name>Martian Memorandum</name>
+		<desc>Martian Memorandum is the sequel to Mean Streets. Six years have found Tex broke, down on his luck, and seriously in need of a new case. He gets a call from Marshall Alexander, a business tycoon who owns most of the industry on Mars. It seems his daughter Alexis has run away from home, and taken ''something else'' with her. Marshall won't say what that ''something else'' is, but he is willing to pay handsomely to get it, and his daughter, back.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Access Games</developer>
+		<publisher>Access Games</publisher>
+		<genre>Adventure</genre>
+		<image>./mixart/Martian Memorandum.png</image>
+		<marquee>./wheel/Martian Memorandum.png</marquee>
+		<video>./snap/Martian Memorandum.mp4</video>
+	</game>
+	<game>
+		<path>./Blood.sh</path>
+		<name>Blood</name>
+		<desc>Caleb was once a feared gunslinger, until he met a woman who was involved with a mysterious cult known as Cabal. Caleb, too, is sucked in, and soon becomes one of the Chosen - the most favored worshippers of the evil god Tchernobog. But one day, Tchernobog inexplicably kills the four Chosen, including Caleb. Mysteriously resurrected years later, Caleb is out to get revenge, and learn why his lord cast him down so abruptly.  Blood is a first-person shooter with horror elements, which uses the Build engine. Similarly to Duke Nukem 3D, the environment is interactive: many objects can be physically moved or affected in other ways. Destruction of landscapes is possible (although only in specific spots), with bullet holes being left by misplaced shots. The Build engine version is 2.5D, so there are rooms above rooms and puzzles which are based on this.</desc>
+		<image>./mixart/Blood.png</image>
+		<video>./snap/Blood.mp4</video>
+		<marquee>./wheel/Blood.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Monolith Productions, Inc.</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Epic Pinball.sh</path>
+		<name>Epic Pinball</name>
+		<desc>While you are limited to only one board in the shareware version, you will love the sound effects and bouncing action of this PC version of pinball. All the elements of the classic game are preserved, including the concentration of keeping your ball rolling, tilting the tables and getting all the right combinations of letters and channels to score maximum.</desc>
+		<image>./mixart/Epic Pinball.png</image>
+		<video>./snap/Epic Pinball.mp4</video>
+		<marquee>./wheel/Epic Pinball.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Epic MegaGames, Inc.</publisher>
+		<genre>Pinball-Shooter Small</genre>
+	</game>
+	<game>
+		<path>./Turrican II - The Final Fight.sh</path>
+		<name>Turrican II: The Final Fight</name>
+		<desc>Turrican II: The Final Fight is a platformer/shooter as typically seen on consoles, but designed for home computers from the ground up.Its plot is - naturally - very simple: an evil mega-robot called The Machine attacks the United Planets Ship Avalon 1, slaughtering all who resist. All - except Bren McGuire, who manages to escape and slips into the experimental Turrican bionic armor. As Turrican, he strives to show The Machine who's the boss.Unlike other games of its type, this game contains three levels of horizontal shooter action in the spirit of R-Type or the developers' own Katakis. Six large worlds are to be explored, where you are basically free to go everywhere you want, since there is no automatic scrolling and the levels are packed with hidden extra lives and weapons. All those levels are very different: the first one in the rock desert is pretty colorful with parallaxing rainbow background and happy music, while the following worlds get darker and darker.Turrican can get some different weapons for his arm cannon:   The bounce weapon which rebounds from surfaces into smaller bouncing balls when powered up;  The laser, which can shoots beams as large as Turrican himself when maxed out;   the multiple shot beam, which can shoot up to five beams covering approximately a 90 degree angle.   The Turrican suit weaponry is not limited to the arm cannon however:   He also can fire a continuous beam, activated by holding the fire button. This beam can be rotated around Turrican, so it is possible to blast things below him in this way;  Additionally, he can fire power lines by pressing the space bar, resulting in two energy bars as high as the screen going from the Turrican suit to the left and right of the screen, severely damaging enemies in the process;  If the space bar is pressed when the hero is crouching, the Turrican will morph into a shuriken shape. In this state, it will roll to the left or the right, damaging enemies while being invincible and small bombs can be dropped by pressing the fire button;  Finally, the most powerful attack, which can only be used one time per life, can be delivered by pressing the fire button and the space bar at the same time. The Turrican suit will morph into a shuriken shape and fly around the screen for several seconds, while firing shots of the different weapons in multiple directions.  </desc>
+		<image>./mixart/Turrican II - The Final Fight.png</image>
+		<video>./snap/Turrican II - The Final Fight.mp4</video>
+		<marquee>./wheel/Turrican II - The Final Fight.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Factor 5</developer>
+		<publisher>Rainbow Arts (Softgold)</publisher>
+	</game>
+  <game id="152322" source="ScreenScraper.fr">
+    <path>./Alien Carnage.sh</path>
+    <name>Alien Carnage</name>
+    <desc>Alien Carnage (also known as Halloween Harry) is a follow-up to the 1985 game Halloween Harry, created for the Microbee System by John Passfield in 1985, but it has very little in common with the original game.    In this side-scrolling platformer, earth is being invaded by aliens who turn humans into zombies in order to enslave them. Harry is the only saviour of earth, and he has to traverse different levels and rescue the kidnapped humans. There are many different weapons to collect, and most have a limited amount of ammo.</desc>
     <rating>0.9</rating>
-    <releasedate>19931111T000000</releasedate>
-    <developer>Virgin</developer>
-    <publisher>Virgin</publisher>
-    <genre>Platform</genre>
-    <image>./mixart/Aladdin.png</image>
-    <marquee>./wheel/Aladdin.png</marquee>
-    <video>./snap/Aladdin.mp4</video>
+    <releasedate>19931010T000000</releasedate>
+    <developer>Interactive Binary Illusions</developer>
+    <publisher>Apogee Software, Ltd.</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./mixart/Alien Carnage.png</image>
+    <marquee>./wheel/Alien Carnage.png</marquee>
+    <video>./snap/Alien Carnage.mp4</video>
   </game>
-  <game id="158391" source="ScreenScraper.fr">
-    <path>./Dune 2 - The Building Of A Dynasty.sh</path>
-    <name>Dune II: The Building of a Dynasty</name>
-    <desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.  Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.  The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.  After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.</desc>
-    <rating>0.75</rating>
-    <releasedate>19920101T000000</releasedate>
+  <game id="155814" source="ScreenScraper.fr">
+    <path>./The Elder Scrolls - Daggerfall.sh</path>
+    <name>Elder Scrolls - Daggerfall, The</name>
+    <desc>L'histoire se déroule six ans après les évènements d'Arena. Mandaté par l'Empereur lui-même, le héros est envoyé vers la Baie d'Illiac, bordée par les Provinces de High Rock et de Hammerfell. Sa mission : enquêter sur la mort de feu Lysandus, roi de Daggerfall, qui hante les rues de la capitale depuis qu'il a perdu la vie lors de la Guerre de Bretony. Le joueur doit également retrouver une mystérieuse lettre que l'Empereur avait envoyée à la Reine de Daggerfall, et qui n'est visiblement jamais arrivée à destination. Une seconde mission apparemment anodine qui cache en fait une gigantesque lutte d'influence pour la possession d'un antique artefact dwemer qui pourrait bien décider de l'avenir de l'Empire tout entier.</desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Bethesda Softworks</developer>
+    <publisher>Bethesda Softworks</publisher>
+    <genre>Role playing games</genre>
+    <image>./mixart/The Elder Scrolls - Daggerfall.png</image>
+    <marquee>./wheel/The Elder Scrolls - Daggerfall.png</marquee>
+    <video>./snap/The Elder Scrolls - Daggerfall.mp4</video>
+  </game>
+  <game id="188403" source="ScreenScraper.fr">
+    <path>./Realms of Chaos.sh</path>
+    <name>Realms of Chaos</name>
+    <desc>Realms of Chaos is one of the many action 3D Realms made back in the days they called themselves Apogee.Endrick, the warrior, and Elandra, the sorceress, have to travel through 26 levels, split into 3 'episodes' to find the source of what's corrupting the land of Mysteria. Endrick uses his sword fight enemies in close combat, and Elandra uses a supply of gems to blast them with fireballs from a distance.You can switch between characters at any time, but they both share their own health bars, and if one dies, you'll still need to restart the level. </desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Apogee Software, Ltd.</developer>
+    <publisher>Apogee Software, Ltd.</publisher>
+    <image>./mixart/Realms of Chaos.png</image>
+    <marquee>./wheel/Realms of Chaos.png</marquee>
+    <video>./snap/Realms of Chaos.mp4</video>
+  </game>
+  <game id="188411" source="ScreenScraper.fr">
+    <path>./Redneck Rampage.sh</path>
+    <name>Redneck Rampage</name>
+    <desc>Redneck Rampage is a pseudo-3D first person shooter much like Duke Nukem 3D, with 2D sprites for enemies and other objects. In fact, it uses the same Build engine as Duke Nukem 3D.Redneck Rampage also has a singularly unique setting... instead of taking place in an alien installation or secret government facility, the game is set in the backwater small town of Hickston, Arkansas. It seems that a bunch of tabloid leather-fetish cyborg aliens have abducted the town's stereotypical redneck inhabitants and cloned them. The aliens have also abducted Bessie, the prize pig of brothers Leonard and Bubba. As Leonard you'll have to fight the local yokel clones as well as the aliens throughout Hickston to rescue your pig. The 'Redneck' theme is used very heavily. Levels range from trailer parks to chicken processing plants, and the arsenal of odd weapons include a gun that shoots circular saws, a TNT crossbow, and even a machine gun bra. Also, instead of armor and health kits, you restore health and become tougher by drinking whisky and eating pork rinds. But if you drink too much you go into ''drunk mode'' with blurred vision and stumbling movement. </desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Xatrix</developer>
+    <publisher>Interplay</publisher>
+    <image>./mixart/Redneck Rampage.png</image>
+    <marquee>./wheel/Redneck Rampage.png</marquee>
+    <video>./snap/Redneck Rampage.mp4</video>
+  </game>
+  <game id="188432" source="ScreenScraper.fr">
+    <path>./Rise Of The Triad - Dark War.sh</path>
+    <name>Rise of the Triad: Dark War</name>
+    <desc>A madman with power to kill millions has been discovered, and HUNT (High-risk United Nations Taskforce) has been dispatched to discover his plans. Your team was infiltrating his island stronghold when everything went to hell. The infiltration boat exploded and fire came from all directions. The only way out is in, into the the fortress, but to stay out here would be certain death. So in you go, guns blazing...Rise of the Triad, a first-person shooter, is the successor of Wolfenstein 3D, with a somewhat improved 3D engine. Everything is still composed from blocks, but multiple vertical levels have been added; there are stairs made of platforms floating in air, and jump pads which launch you (and the enemies) high up so that you can walk over tall barriers in your way. The game offers a lot of weapons. You begin with a pistol, but later you can find an extra pistol for John Woo-style shooting, and a MP40 rifle. All these weapons have unlimited ammo. You can also find more potent weapons - from classic rocket launcher, to quite wacky contraptions such as a ''drunk missile'' launcher or the ''Excalibat'', a powerful baseball bat. However, you can carry only one such a strong weapon at a time, and they have limited ammo. Enemies are mostly humans equipped with various weapons. Their attacks can be quite varied; some of them can steal your weapons (though you can retrieve them after killing them), other shoot nets at you that trap you (you have to wriggle out, unless you found a knife, which will allow you to cut your way out). Apart from enemies, you'll be endangered by fireball launchers, rolling boulders and crushing walls. There's a lot of power-ups you can pick up. They all have various wacky effects: for example, ''God Mode'' makes you immortal and allows you to toss homing, insta-death missiles; ''Dog Mode'' turns you into a... dog, which can fit into small spaces (and is inexplicably invulnerable to weapons); ''Shrooms Mode'' makes everything shine with bright colours, as if you were on drugs; ''Elasto Mode'' makes you very prone to bouncing off walls when you run into them. ROTT also offers a lot of multi-player game modes; there's the standard deathmatch and ''Capture the Triad'', but there are also more varied modes - e.g. in ''Collector'' the players have no weapons, instead trying to collect as many ''triads'' as possible; in ''Deluder'', the players earn points by destroying ''eluders'' which move around the level.  </desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Developers of Incredible Power, The</developer>
+    <publisher>Apogee Software, Ltd.</publisher>
+    <image>./mixart/Rise Of The Triad - Dark War.png</image>
+    <marquee>./wheel/Rise Of The Triad - Dark War.png</marquee>
+    <video>./snap/Rise Of The Triad - Dark War.mp4</video>
+  </game>
+  <game id="188783" source="ScreenScraper.fr">
+    <path>./Tomb Raider Gold.sh</path>
+    <name>Tomb Raider Gold</name>
+    <desc>The Gold Edition of Tomb Raider adds two new chapters to the original release. The first chapter takes place in Egypt, and occurs several months after the events of Tomb Raider. Lara returns to the city of Khamoon, where she must investigate a hidden temple dedicated to the feline goddess Bast. The second chapter is a prequel to the first, and continues directly the events of the original game, starting with Lara sliding down the slope of the last level, preparing to deal with the remnants of the Atlantean race. </desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Core Design</developer>
+    <publisher>Eidos Interactive</publisher>
+    <image>./mixart/Tomb Raider Gold.png</image>
+    <marquee>./wheel/Tomb Raider Gold.png</marquee>
+    <video>./snap/Tomb Raider Gold.mp4</video>
+  </game>
+  <game id="188783" source="ScreenScraper.fr">
+    <path>./Tomb Raider.sh</path>
+    <name>Tomb Raider</name>
+    <desc>In Tomb Raider, the player controls the female archaeologist Lara Croft, in search for the three mysterious Scion artefacts across the world. The game is presented in third person perspective. Lara is always visible and the camera follows the action from behind or over her shoulder. The world she inhabits is fully drawn in three dimensions and characterized by its cubic nature. Ledges, walls and ceilings mostly sit at 90 degrees to each other, but sometimes feature sloping planes. The object of Tomb Raider is to guide Lara through a series of tombs and other locations in search of treasures and artefacts. On the way, she must kill dangerous animals and other creatures, while collecting objects and solving puzzles to gain access to an ultimate prize, usually a powerful artefact. Gunplay is restricted to the killing of various animals that appear throughout each stage, although occasionally Lara may be faced with a human opponent. Instead the emphasis lies on solving puzzles and performing trick jumps to complete each level.</desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Core Design</developer>
+    <publisher>Eidos Interactive</publisher>
+    <image>./mixart/Tomb Raider.png</image>
+    <marquee>./wheel/Tomb Raider.png</marquee>
+    <video>./snap/Tomb Raider.mp4</video>
+  </game>
+  <game id="157320" source="ScreenScraper.fr">
+    <path>./Warcraft - Orcs and Humans.sh</path>
+    <name>WarCraft: Orcs &amp; Humans</name>
+    <desc>The Kingdom of Azeroth was relatively peaceful and ruled by King Llane. That was until a powerful mage named Medivh commanded forces that opened up a portal in the Swamp of Sorrow, leading to another world. This ushered in the Age of Chaos, as Orcs were summoned to this world and attempted to establish an empire. As the Orcish hordes swarmed from the portal, they met with the Humans of Azeroth and battles ensured. Peaceful co-existence is not an option. Only one race will attain dominance over the land.  Warcraft: Orcs &amp; Humans is the first real-time fantasy strategy game from Blizzard Entertainment. By playing either the Humans or the Orcs in this saga, two separate story lines evolve with 12 scenarios per side telling the tale of the battle for Azeroth. Players must mine gold and chop wood in order to construct buildings and create new units. From swords to sorcery, all the elements of classic fantasy are here to explore: rich forests, dark dungeons and bubbling swamps await the stalwart troops amassed to fight for dominance. Command many unique armies and creatures including Knights, Archers, Clerics, Warlocks, Daemons, Elementals, and Necromancers who are able to raise the dead.  The multiplayer aspects of the game allow 2 players to challenge one another on over 20 custom maps and determine who is the supreme warlord. Head to head play is supported over modem, serial link, and IPX networks, and works cross-platform between the IBM-PC and Macintosh versions.</desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Blizzard Entertainment Inc.</developer>
+    <publisher>Blizzard Entertainment Inc.</publisher>
+    <genre>Strategy</genre>
+    <image>./mixart/Warcraft - Orcs and Humans.png</image>
+    <marquee>./wheel/Warcraft - Orcs and Humans.png</marquee>
+    <video>./snap/Warcraft - Orcs and Humans.mp4</video>
+  </game>
+<game id="157177" source="ScreenScraper.fr">
+    <path>./Command and Conquer.sh</path>
+    <name>Command &amp; Conquer</name>
+    <desc>Includes Covert Operations Add-On.  Command &amp; Conquer developed ideas from Westwood's previous game Dune 2, forming a real-time strategy (RTS) game which has influenced many. The control system involves selecting units with the mouse and then directing them, while the opponents make their moves without waiting for a ''turn'' to end.  The game focuses on a war between two organizations, The Brotherhood of Nod and the Global Defense Initiative. The player can take control of either side for more than 15 missions. Both have different units and structures, including artillery, tanks and light infantry.  In most missions, a base needs to be built first in order to build new units and structures. Most important are the harvesters, which collect Tiberium and deliver it to a refinery, where it's converted into money, thus funding the construction of a base and an army.</desc>
+    <rating>0.9</rating>
+    <releasedate>19950831T000000</releasedate>
     <developer>Westwood Studios</developer>
     <publisher>Virgin</publisher>
     <genre>Strategy</genre>
-    <players>1</players>
-    <image>./mixart/Dune 2 - The Building Of A Dynasty.png</image>
-    <marquee>./wheel/Dune 2 - The Building Of A Dynasty.png</marquee>
-    <video>./snap/Dune 2 - The Building Of A Dynasty.mp4</video>
+    <image>./mixart/Command and Conquer.png</image>
+    <marquee>./wheel/Command and Conquer.png</marquee>
+    <video>./snap/Command and Conquer.mp4</video>
   </game>
-  <game id="187804" source="ScreenScraper.fr">
-    <path>./Gods.sh</path>
-    <name>Gods</name>
-    <desc>Hercules is aiming to achieve immortality by completing the task the Gods have set him. His task is presented as a  platform adventure set in ancient Greece, featuring a variety of enemies as you play it through.Of more significance, however, is the game's Artificial Intelligence system, in which creatures monitor how you play, and try to find safer positions. Also, the game offers more bonuses and power-ups if you're struggling to progress. Even without those, there are lots of bonus sections to find and unlock. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Bitmap Brothers, The</developer>
-    <publisher>Konami</publisher>
-    <image>./mixart/Gods.png</image>
-    <marquee>./wheel/Gods.png</marquee>
-    <video>./snap/Gods.mp4</video>
-  </game>
-  <game id="170548" source="ScreenScraper.fr">
-    <path>./Hi Octane.sh</path>
-    <name>Hi-Octane</name>
-    <desc>A futuristic racing game with hover cars, in the same line as Wipeout, using a modified version of the Magic Carpet 2 engine.  Gameplay takes a straightforward approach, with the directional keys controlling the steering and throttle, and three keys to fire the minigun, missiles or charge the booster. While the minigun has unlimited ammo, both fuel, armour and missiles must be replenished by passing through some marked areas or picking up powerups in the track or by left destroyed opponents. While the vehicles float on the track they are still influenced by the ground material: they slow down on dirt and even more on water. Each track has a number of shortcuts or alternate routes that offer powerups, and some tracks feature gates and ramps that open or close randomly.  Includes 9 tracks and several game modes (for Saturn owners and PC players with the 1.2 patch installed) such as single race mode (with option to change the number of laps), a Championship mode, Split Screen, Clone Race (beating the ghost of the best race time), Death Match (Where instead of finishing first what matters is finish alive and with the most kills) and Hot Seat, where up to eight players can compete in the same race by taking turns, with the computer taking control of the players' vehicles waiting for their turn. There are six hover cars to choose from: the fast Flexiwing and Outrider, the balanced KD-1 Speeder and Vampyr and the slow but armed to the teeth Berserker and Jugga. In addition to the natural capacity of each, their Minigun, Missle and Booster capacities can be upgraded by picking up powerups during the race. There are Eight teams to choose from, which change the colour of the vehicle: Mad Medicine (white), Bullfrog (aqua green), Storm Riders (purple), Fire Phreaks (orange), DethFest (blue), Foo Fighters (yellow), Gorehounds (red) and Assassins Anonymous (black).</desc>
+  <game id="155690" source="ScreenScraper.fr">
+    <path>./Syndicate.sh</path>
+    <name>Syndicate</name>
+    <desc>In the future, the world is controlled by a handful of global corporations (syndicates). You are the Marketing director (hit man) for one of these companies. It is your job to take control away from the competitors. The job is not one of diplomacy, but one of brute force and physical control. Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories. The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way. You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates. As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.</desc>
     <rating>0</rating>
     <releasedate />
     <developer>Bullfrog</developer>
     <publisher>Electronic Arts</publisher>
-    <genre>Simulation</genre>
-    <image>./mixart/Hi Octane.png</image>
-    <marquee>./wheel/Hi Octane.png</marquee>
-    <video>./snap/Hi Octane.mp4</video>
-  </game>
-  <game id="187969" source="ScreenScraper.fr">
-    <path>./Judge Dredd.sh</path>
-    <name>Judge Dredd</name>
-    <desc>Judge Dredd is a platform action game based on the British comic book character of the same name and the 1995 movie that tarnished that name.  The game was a multi system release so it fits the standard console jump/shoot/duck formula although it does add some unique twists such as wounding enemies so that they surrender and can be arrested.The initial levels follow the plot of the movie with futuristic lawman Judge Dredd framed and sent to the Aspen penal colony from which he must escape and prove his innocence.  Following the fight at the top of the Statue of Liberty that ended the film, the game continues on with levels and characters inspired by the comic book culminating with a battle against the Dark Judges on Deadworld. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Probe Entertainment Ltd.</developer>
-    <publisher>Acclaim</publisher>
-    <image>./mixart/Judge Dredd.png</image>
-    <marquee>./wheel/Judge Dredd.png</marquee>
-    <video>./snap/Judge Dredd.mp4</video>
-  </game>
-  <game id="187976" source="ScreenScraper.fr">
-    <path>./Jungle Strike.sh</path>
-    <name>Jungle Strike</name>
-    <desc>Some time after Operation Desert Strike, Ibn Kilbaba, son of Kilbaba S.R, threatens to annihilate America. After his father was killed, the people who were under his control, sent his son running off, along with his father's money and nuclear weapons program. Kilbaba, more ruthless than his father, longs for revenge of his father's death and decides to shed the blood of those who killed him, the Americans. Already armed, Kilbaba hires Carlos Ortega to help him set up his Nuclear Weapons program, deep in South America. Carlos Ortega, the world's most notorious druglord, also yearns to seek revenge. With his own private army, armed with the most hi-tech weapons, he's ready to fight America at all costs. Because of this threat, you're hired again to battle these two characters, following their paths in the jungles of South America. Armed with the Commache, numerous other vehicles, and destructive weapons, you must take out their private army. Blow up the enemy with your hellfires, hydras, chain guns. Use the watercraft to launch mines at enemy ships. Pull off a drive-by on the enemy with guns on the side. Take out the evil duo and forever rid this threat.....in the jungle! </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Electronic Arts</developer>
-    <publisher>Gremlin Interactive</publisher>
-    <image>./mixart/Jungle Strike.png</image>
-    <marquee>./wheel/Jungle Strike.png</marquee>
-    <video>./snap/Jungle Strike.mp4</video>
-  </game>
-  <game id="171266" source="ScreenScraper.fr">
-    <path>./Lamborghini American Challenge.sh</path>
-    <name>Lamborghini: American Challenge</name>
-    <desc> Description  Starting out with just a basic Lamborghini and $6000, your aim is to rise to the top of the 4 divisions of racing through success on 60 racetracks across America. In each division there are 20 rival racers, up to 3 of which compete in each race at a time.  The races also feature lots of local drivers (who can take crucial positions away from you and the other championship drivers), Sunday drivers going at normal speed, and police. before each race you will be told of the quality of the locals and the likelihood of police presence.  When police are in the area, speeding beyond 110 Km/h could see you branded as an offender, at which point the police will try to ram you off the road, Chase H.Q.-style. You can attempt to reach the end of the race despite this damage (which eventually hampers your speed), or simply pull over and accept a fine and the loss of race points. If the police subsequently stop you, the fine is heavier.  Each race costs money to enter, and your earnings can be boosted by betting on the results with the other championship drivers. If one of you wins, each driver gives you either the amount they bet or the amount you bet, whichever is lower; if a local wins you get your stake back.  Lots of power-ups can be bought along the way, including tires, radar jammers, engine improvements and nitro boosts. To move up a division you must take the Divisional Challenge, a one-off trek through a tough section within the time limit. You buy a set of 3 passes for this, each allowing one attempt.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Titus</developer>
-    <publisher>Titus</publisher>
-    <genre>Simulation</genre>
-    <image>./mixart/Lamborghini American Challenge.png</image>
-    <marquee>./wheel/Lamborghini American Challenge.png</marquee>
-    <video>./snap/Lamborghini American Challenge.mp4</video>
-  </game>
-  <game id="188081" source="ScreenScraper.fr">
-    <path>./Magic Carpet.sh</path>
-    <name>Magic Carpet</name>
-    <desc>Magic Carpet is a first-person perspective game, in which you are a mage who flies on a, well, magic carpet and casts spells. The game has 50 levels, called ''worlds''; each of those is set in a sea terrain with several mountainous islands. Your goal on each level is to amass enough mana within your castle to ''restore the equilibrium'' within the world. Once this happens, you can head to the next level. To collect mana, you have to find it (it is represented by golden spheres) and cast a specific spell to make it ''yours''. To collect this mana, you have to use a special spell to raise a castle of your own out of the ground. A balloon will appear over the newly created castle; it will proceed to fly around the level and collect ''your'' mana. Initially, your castle will be small and won't be able to hold much mana, so you'll have to keep casting the ''castle'' spell at it to make it bigger. The levels typically have monsters and rival mages in them. Not only they can hurt you with their attacks, but killing them is often necessary, as upon death they will release some of the mana you need to complete the level. To attack your enemies, you have a variety of spells at your disposal: fireballs, lightning bolts and meteors. There are also many other spells available to you - they allow you to heal yourself, surround yourself with a protective shield, teleport around, summon a skeleton army, or even modify the terrain by creating volcanoes and splitting landmasses. Not all spells are available to you from the beginning, though. Throughout all the levels, you are on your flying carpet, which can move in 3 dimensions. You can bring up a top-down map at any time.  </desc>
-    <rating>0</rating>
-    <releasedate>19940101T000000</releasedate>
-    <developer>Bullfrog</developer>
-    <publisher>Electronic Arts</publisher>
-    <image>./mixart/Magic Carpet.png</image>
-    <marquee>./wheel/Magic Carpet.png</marquee>
-    <video>./snap/Magic Carpet.mp4</video>
-  </game>
-  <game id="188085" source="ScreenScraper.fr">
-    <path>./Magic Pockets.sh</path>
-    <name>Magic Pockets</name>
-    <desc>In Magic Pockets, players control the cool Bitmap Kid who has deep pockets that can store virtually anything. Bitmap Kid's mission is to get back his toys that were stolen by some creatures.The game is a side-scrolling shooter that plays out across four worlds inhabited by a variety of enemies. Players can cause more damage to these enemies by charging their shots before firing. The player's weapon also changes its shape and features according to the requirements of each world.The Bitmap Kid has special athletic abilities. He can jump high by stepping on whirlwinds, and can even destroy all the creatures he hits after falling down from a high place. In addition, players can drive a bike, dive, and even fly through the use of special items. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Bitmap Brothers, The</developer>
-    <publisher>Konami</publisher>
-    <image>./mixart/Magic Pockets.png</image>
-    <marquee>./wheel/Magic Pockets.png</marquee>
-    <video>./snap/Magic Pockets.mp4</video>
-  </game>
-  <game id="157440" source="ScreenScraper.fr">
-    <path>./Master Of Orion 2 - Battle At Antares.sh</path>
-    <name>Master of Orion II: Battle at Antares</name>
-    <desc>Legends speak somewhere in space of the mystical planet Orion. Created by the Ancients, it remains unclaimed due to a powerful Guardian that orbits the planet and keeps out intruders. These same Ancients long ago fought a war against the Antarans and banished them into another dimension. Now... long after the Ancients empire has vanished, new races take to the stars, wishing to establish their own star empires, defeat the Antarans and become... The Master of Orion.  Master of Orion II: Battle At Antares is a turn-based 4x space empire game and is the sequel to Master of Orion, reinterpreting that game from scratch. Unlike the original the game can be played single player or with other human players. The player takes the role of a ruler of one of 8 races. They must manage planet resources to build ships and facilities, improving producion. Exploration of the galaxy is done via scouts and colony ships, which can establish new planets as part of the empire. Research must also be done to discover and utilize new technologies. Alien civilizations which are encountered can be negotiated with, or ships can engage in combat in a turn-based grid system. As new systems are explored, random events are triggered and strange artifacts found in orbit around unexplored planets. Wormholes can also be found which allow transport across dozens of parsecs into new star systems.  The game can be won in different ways: Through conquest of all other races, Being voted supreme leader of the galaxy or destruction of the Antarans race.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>SimTex, Inc.</developer>
-    <publisher>MicroProse</publisher>
     <genre>Strategy</genre>
-    <image>./mixart/Master Of Orion 2 - Battle At Antares.png</image>
-    <marquee>./wheel/Master Of Orion 2 - Battle At Antares.png</marquee>
-    <video>./snap/Master Of Orion 2 - Battle At Antares.mp4</video>
+    <image>./mixart/Syndicate.png</image>
+    <marquee>./wheel/Syndicate.png</marquee>
+    <video>./snap/Syndicate.mp4</video>
   </game>
-  <game id="157439" source="ScreenScraper.fr">
-    <path>./Master of Orion.sh</path>
-    <name>Master of Orion</name>
-    <desc>Master of Orion overlaps with Civilization insofar as you are the leader of one of several races. Technological advance, realm expansion and combat are all key elements. Where it differs is in being set in space.  The planet Orion itself is a lush, fertile planet with vast mineral resources. It is guarded by the Guardian - a powerful vessel which you have to defeat in order to plunder Orion's riches.  As you attempt to expand your empire, you will have to trade and steal technologies form rivals, again much like Civ. Your ships can be improved over the game, in terms of engine power, shields, cloaking devices and weapons, and different combinations of these can be integrated. Resource management is largely set using sliders, which reduces the amount of time spent on micro-management.</desc>
-    <rating>0</rating>
-    <releasedate>19930101T000000</releasedate>
-    <developer>SimTex, Inc.</developer>
-    <publisher>MicroProse</publisher>
-    <genre>Strategy</genre>
-    <players>1</players>
-    <image>./mixart/Master of Orion.png</image>
-    <marquee>./wheel/Master of Orion.png</marquee>
-    <video>./snap/Master Of Orion.mp4</video>
-  </game>
-  <game id="156979" source="ScreenScraper.fr">
-    <path>./Normality.sh</path>
-    <name>Normality</name>
-    <desc>Kent lives in the police state of Neutropolis where everyone and everything is supposed to be normal. But Kent doesn't want to be normal.  In this 1st-person 3D animated graphic adventure (ala Tex Murphy, but more cartoony), you must elude the police and solve puzzles as you travel through the many locations.</desc>
+  <game id="171143" source="ScreenScraper.fr">
+    <path>./Wacky Wheels.sh</path>
+    <name>Wacky Wheels</name>
+    <desc>Racing at its ''wacky-est''? Wacky Wheels is a go-kart racing game where you can play any of eight wacky animals. Each animal has its own colorful antics and animations, including a tiger, elephant, raccoon, panda, shark, and more. You can use a variety of special pick ups and power ups to use on your opponents. Featuring internet, null modem, and split screen modes to play your friends.</desc>
     <rating>0</rating>
     <releasedate />
-    <developer>Gremlin Interactive</developer>
-    <publisher>Interplay</publisher>
-    <genre>Adventure</genre>
-    <image>./mixart/Normality.png</image>
-    <marquee>./wheel/Normality.png</marquee>
-    <video>./snap/Normality.mp4</video>
-  </game>
-  <game id="157896" source="ScreenScraper.fr">
-    <path>./North &amp; South.sh</path>
-    <name>North &amp; South</name>
-    <desc>Based on the Belgian comic book, ''Les Tuniques Bleues'', this strategy game allows you to replay the American Civil War from both the North and the South sides.  In the strategy part of the game, you can move your troops on a map of the US. If two opposing armies enter the same state, the battle is played out in an action sequence. Additional action sequences must be accomplished when capturing an enemy fort or train.  The game also offers a two-player-mode.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Infogrames</developer>
-    <publisher>Infogrames</publisher>
-    <genre>Strategy</genre>
-    <image>./mixart/North &amp; South.png</image>
-    <marquee>./wheel/North &amp; South.png</marquee>
-    <video>./snap/North &amp; South.mp4</video>
-  </game>
-  <game id="171585" source="ScreenScraper.fr">
-    <path>./Pinball Fantasies.sh</path>
-    <name>Pinball Fantasies</name>
-    <desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Digital Illusions CE AB</developer>
-    <publisher>21st Century</publisher>
+    <developer>Beavis-Soft</developer>
+    <publisher>Apogee Software, Ltd.</publisher>
     <genre>Simulation</genre>
-    <image>./mixart/Pinball Fantasies.png</image>
-    <marquee>./wheel/Pinball Fantasies.png</marquee>
-    <video>./snap/Pinball Fantasies.mp4</video>
+    <image>./mixart/Wacky Wheels.png</image>
+    <marquee>./wheel/Wacky Wheels.png</marquee>
+    <video>./snap/Wacky Wheels.mp4</video>
   </game>
-  <game id="152355" source="ScreenScraper.fr">
-    <path>./Prehistorik 2.sh</path>
-    <name>Prehistorik 2</name>
-    <desc>Prehistorik 2 takes up the story of its predecessor, for another caveman-era platform game.     The hero must use his club to crush animal enemies, many of which then release bonus items to collect. He no longer needs to feed his clan, so there is no required minimum food target, unlike the original game. Other bonus items are located around the levels, while yet more can be found by using your club creatively and adventurously.     Passwords for every level can be found written in various places and they are different on every computer. You also encounter bosses after every few levels. In addition, the game includes hidden locations, multiple level exits and even hidden levels.</desc>
-    <rating>0.75</rating>
-    <releasedate>19930101T000000</releasedate>
-    <developer>Titus</developer>
-    <publisher>Titus</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Prehistorik 2.png</image>
-    <marquee>./wheel/Prehistorik 2.png</marquee>
-    <video>./snap/Prehistorik 2.mp4</video>
-  </game>
-  <game id="152354" source="ScreenScraper.fr">
-    <path>./Prehistorik.sh</path>
-    <name>Prehistorik</name>
-    <desc>Prehistorik is a side-view platform game with a superficial similarity to Chuck Rock. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.  These include fire-breathing Pyro-Tax dragons, the Turtosaurus, and the Bad Bat. Each of these must be clubbed to death, some taking up to 5 hits, and then walked over. Some other enemies are indestructible, with the monkeys who throw coconuts at you particularly fiendish.  You will have to complete the level within the time limit, and avoid contact with these foes. However, bombs and improved weapons can be collected, as can extra lives, time bonuses and an improved jump.</desc>
-    <rating>0.8</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Titus</developer>
-    <publisher>Titus</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Prehistorik.png</image>
-    <marquee>./wheel/Prehistorik.png</marquee>
-    <video>./snap/Prehistorik.mp4</video>
-  </game>
-  <game id="188585" source="ScreenScraper.fr">
-    <path>./Chaos Engine, The.sh</path>
-    <name>The Chaos Engine</name>
-    <desc>A time traveler from the future was stranded in Victorian England, and his knowledge of yet unknown technological inventions was passed to the Royal Society, headed by Baron Fortesque.  With the help of this knowledge, Fortesque managed to construct an immensely complex artificial intelligence known as the Chaos Engine. However, creation rebelled against its creator, assimilated its mind, and turned Britain into a war zone populated by mad machines. Mercenaries are willing to enter this dangerous place and put an end to the chaos, hoping for an appropriate reward.Chaos Engine (Soldiers of Fortune in the US) is a run-and-gun overhead shooter. Sixteen levels (in four groups of four) await the players in the game. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and other features in the maps. The visuals are in the 'metallic and blue' style Bitmap Brothers appeared to favor.There are six characters available in the game, each with different strengths and weaknesses, and different starting prices. In two-player mode each player chooses a character and plays co-operatively, but in one-player games the player also chooses a character for the computer to control, with its artificial intelligence allowing it to open doors, pick up power-ups and take on enemies away from the ones occupying the player-controlled character. </desc>
-    <rating>0</rating>
-    <releasedate>19940101T000000</releasedate>
-    <developer>Bitmap Brothers, The</developer>
-    <publisher>Renegade Software</publisher>
-    <players>1-2</players>
-    <image>./mixart/Chaos Engine, The.png</image>
-    <marquee>./wheel/Chaos Engine, The.png</marquee>
-    <video>./snap/Chaos Engine, The.mp4</video>
-  </game>
-  <game id="171646" source="ScreenScraper.fr">
-    <path>./Star Wars Tie Fighter.sh</path>
-    <name>Star Wars Tie Fighter</name>
-    <desc>In the wake of the Battle of Hoth, through their treachery at Yavin, the alliance of Rebels and other criminals have threatened the very foundation of the peaceful Empire. The Imperial Navy is called upon to eradicate the last of the rebellion and restore law and order. As an Imperial navy starfighter pilot, you will safeguard imperiled lives thoughout the galaxy. Join the Emperor's cause in eliminating the Rebel uprising as the Empire strikes back!</desc>
-    <rating>0.85</rating>
-    <releasedate>19940701T000000</releasedate>
-    <developer>Totally Games</developer>
-    <publisher>LucasArts</publisher>
-    <genre>Simulation-Simulation / SciFi</genre>
-    <players>1</players>
-    <image>./mixart/Star Wars Tie Fighter.png</image>
-    <marquee>./wheel/Star Wars Tie Fighter.png</marquee>
-    <video>./snap/Star Wars Tie Fighter.mp4</video>
-  </game>
-  <game id="188648" source="ScreenScraper.fr">
-    <path>./Star Wars.sh</path>
-    <name>Star Wars</name>
-    <desc>Star Wars is a conversion of Atari Games' first-person shoot 'em up based around the original Star Wars film.You take on the role of Luke Skywalker, aiming to destroy the Death Star - which, as any fan knows, involves attacking the 'weak spot' near the exhaust. To even get to this you have to pass swarms of TIE Fighters. Complete the game and it loops back around at ever-increasing difficulty. The game uses vector graphics, which allow lots of action at high speed on comparatively slow systems. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Atari Info</developer>
+  <game id="152362" source="ScreenScraper.fr">
+    <path>./Stunts.sh</path>
+    <name>Stunts</name>
+    <desc>One of the classic 3D car racing simulations. A variety of cars and opponents to choose from. The game provided unusual stunt objects including loops, corkscrews and jumps. You can watch your race in instant replay from different camera angles. A track editor is included as well.</desc>
+    <rating>0.6</rating>
+    <releasedate>19901001T000000</releasedate>
+    <developer>Distinctive Software, Inc.</developer>
     <publisher>Br?derbund Software, Inc.</publisher>
-    <image>./mixart/Star Wars.png</image>
-    <marquee>./wheel/Star Wars.png</marquee>
-    <video>./snap/Star Wars.mp4</video>
-  </game>
-  <game id="188649" source="ScreenScraper.fr">
-    <path>./Star Wars Dark Forces.sh</path>
-    <name>Star Wars: Dark Forces</name>
-    <desc>Kyle Katarn is a former Imperial officer turned mercenary, now hired by the Rebel Alliance.  After having stolen the Death Star plans from a remote facility, he is tasked with investigating the sudden destruction of a hidden Rebel base. This leads him to face off against Imperial General Rom Mohc and the various iterations of his ''Dark Troopers'' - cybernetic soldiers with the armor and firepower to turn the tide of the war.Dark Forces is a close prequel to the original Star Wars movie trilogy. The game marks LucasArts' first attempt to enter the first-person shooter market. Instead of licensing the Doom engine, like many competitors, LucasArts created its own internal ''Jedi'' engine. The Jedi engine contains advanced features over similar tech, including the ability to look up and down, jump, crouch, and limited support (in the build used for Dark Forces) for rooms (sectors) over rooms. 3D models also make occasional appearances inside the game, as turrets or Kyle's ship dropping him off or picking him up from each mission. Most levels have a fairly complex, often maze-like structure, and include various switches that need to be activated to change the layout of the level. Jumping is integrated into the gameplay, as certain areas can only be accessed in that way. In addition to weapons, Kyle can use shields to protect himself from damage, a head lamp to illuminate dark areas, as well as specific items used to counter environmental hazards. The player character is given a certain amount of ''lives'' per level; he dies permanently once he runs out of all of them. Game progress can be saved only between missions.The game features fourteen substantial levels as Kyle works to disarm the Dark Trooper project. Many levels reference characters or areas from the Star Wars movie trilogy, such as a visit with Jabba the Hutt, a trip to Coruscant, and a battle through the interior of a Star Destroyer.  As opposed to most first-person shooters of the time period, every level has objectives for Kyle to complete, ranging from grabbing a clue and getting out alive, to planting charges around a facility to demolish it.  Cutscenes appear between key missions to update the plot.The Star Wars license gets plenty of use, and the game features Imperial officers, stormtroopers, and a collection of aliens seen in the films as enemies. Blaster rifles and thermal detonators are used as weapons, along with other firearms inspired by the tech of the films. Dark Forces also uses the iMuse engine to dynamically change the music during action scenes, with much of the music based off, or directly replicating, John Williams' original film score. The game is entirely a single-player campaign, and no multiplayer is included or supported. </desc>
-    <rating>0</rating>
-    <releasedate>19950101T000000</releasedate>
-    <developer>LucasArts</developer>
-    <publisher>LucasArts</publisher>
-    <genre>Shooter-Shooter / 1st person</genre>
-    <players>1</players>
-    <image>./mixart/Star Wars Dark Forces.png</image>
-    <marquee>./wheel/Star Wars Dark Forces.png</marquee>
-    <video>./snap/Star Wars Dark Forces.mp4</video>
-  </game>
-  <game id="188651" source="ScreenScraper.fr">
-    <path>./Star Wars - Rebel Assault 2 - The Hidden Empire.sh</path>
-    <name>Star Wars: Rebel Assault II - The Hidden Empire</name>
-    <desc>Following his successes for the Rebel Alliance in the previous game, the adventures of the starfighter pilot ''Rookie One'' continue. While out scouting in the Dreighton Nebula, Rookie One's patrols receive a distress call from a freighter. As this is an area where ships are known to disappear, any deviation from the flight path is dangerous. But what they find is an Imperial presence where there shouldn't be one... and a new secret project to bring about the destruction of the Rebel Alliance.Rebel Assault II is a rail-shooter ''interactive movie'' featuring a variety of action sequences. Rookie One will fly sequences in an X-Wing, the Millennium Falcon, speeder bikes and being on foot. His only real ability is the precise targeting and shooting of laser weapon and occasionally the chance to take cover and avoid obstacles. Rookie One will team up with other characters who will aid him and need to be defended in turn. Occasionally different paths can be chosen in the animation and different events triggered, but for the most part the game is a closed environment. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>LucasArts</developer>
-    <publisher>LucasArts</publisher>
-    <image>./mixart/Star Wars - Rebel Assault 2 - The Hidden Empire.png</image>
-    <marquee>./wheel/Star Wars - Rebel Assault 2 - The Hidden Empire.png</marquee>
-    <video>./snap/Star Wars - Rebel Assault 2 - The Hidden Empire.mp4</video>
-  </game>
-  <game id="188650" source="ScreenScraper.fr">
-    <path>./Star Wars Rebel Assault.sh</path>
-    <name>Star Wars: Rebel Assault</name>
-    <desc>You play a Rebel space cadet and have various missions to complete: Flying starships, destroying Walkers, infiltrating an enemy base etc.  All viewpoints and gameplay is through the use of motion video backdrops. </desc>
-    <rating>0</rating>
-    <releasedate>19931101T000000</releasedate>
-    <developer>LucasArts</developer>
-    <publisher>LucasArts</publisher>
-    <players>1</players>
-    <image>./mixart/Star Wars Rebel Assault.png</image>
-    <marquee>./wheel/Star Wars Rebel Assault.png</marquee>
-    <video>./snap/Star Wars Rebel Assault.mp4</video>
-  </game>
-  <game id="170782" source="ScreenScraper.fr">
-    <path>./Star Wars X Wing.sh</path>
-    <name>Star Wars: X-Wing</name>
-    <desc>Star Wars: X-Wing is a space simulation video game.    The player's character flies starfighters, including the eponymous X-wing (but also A-Wing and Y-Wing), for the Rebel Alliance as part of a narrative that precedes and parallels the events of Star Wars Episode IV: A New Hope.    Later, an expansion adds the B-wing as a playable vehicle.</desc>
-    <rating>0.75</rating>
-    <releasedate>19930101T000000</releasedate>
-    <developer>Totally Games</developer>
-    <publisher>LucasArts</publisher>
     <genre>Simulation</genre>
-    <players>1</players>
-    <image>./mixart/Star Wars X Wing.png</image>
-    <marquee>./wheel/Star Wars X Wing.png</marquee>
-    <video>./snap/Star Wars X Wing.mp4</video>
-  </game>
-  <game id="187294" source="ScreenScraper.fr">
-    <path>./The Blues Brothers.sh</path>
-    <name>The Blues Brothers</name>
-    <desc>The Blues Brothers are on the run from the law. Take control of either bulky Jake or nippy Elwood in this five-level platform game. You must cross a prison, a river and the big city to reach freedom. You also must find your missing records and collect these. Everything and everyone is against you, but you can pick up and throw warehouse crates to defeat your opponents.</desc>
-    <rating>0</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Titus</developer>
-    <publisher>Titus</publisher>
-    <image>./mixart/The Blues Brothers.png</image>
-    <marquee>./wheel/The Blues Brothers.png</marquee>
-    <video>./snap/The Blues Brothers.mp4</video>
-  </game>
-  <game id="188845" source="ScreenScraper.fr">
-    <path>./Turrican II - The Final Fight.sh</path>
-    <name>Turrican II: The Final Fight</name>
-    <desc>Turrican II: The Final Fight is a platformer/shooter as typically seen on consoles, but designed for home computers from the ground up.Its plot is - naturally - very simple: an evil mega-robot called The Machine attacks the United Planets Ship Avalon 1, slaughtering all who resist. All - except Bren McGuire, who manages to escape and slips into the experimental Turrican bionic armor. As Turrican, he strives to show The Machine who's the boss.Unlike other games of its type, this game contains three levels of horizontal shooter action in the spirit of R-Type or the developers' own Katakis. Six large worlds are to be explored, where you are basically free to go everywhere you want, since there is no automatic scrolling and the levels are packed with hidden extra lives and weapons. All those levels are very different: the first one in the rock desert is pretty colorful with parallaxing rainbow background and happy music, while the following worlds get darker and darker.Turrican can get some different weapons for his arm cannon:   The bounce weapon which rebounds from surfaces into smaller bouncing balls when powered up;  The laser, which can shoots beams as large as Turrican himself when maxed out;   the multiple shot beam, which can shoot up to five beams covering approximately a 90 degree angle.   The Turrican suit weaponry is not limited to the arm cannon however:   He also can fire a continuous beam, activated by holding the fire button. This beam can be rotated around Turrican, so it is possible to blast things below him in this way;  Additionally, he can fire power lines by pressing the space bar, resulting in two energy bars as high as the screen going from the Turrican suit to the left and right of the screen, severely damaging enemies in the process;  If the space bar is pressed when the hero is crouching, the Turrican will morph into a shuriken shape. In this state, it will roll to the left or the right, damaging enemies while being invincible and small bombs can be dropped by pressing the fire button;  Finally, the most powerful attack, which can only be used one time per life, can be delivered by pressing the fire button and the space bar at the same time. The Turrican suit will morph into a shuriken shape and fly around the screen for several seconds, while firing shots of the different weapons in multiple directions.  </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Factor 5</developer>
-    <publisher>Rainbow Arts (Softgold)</publisher>
-    <image>./mixart/Turrican II - The Final Fight.png</image>
-    <marquee>./wheel/Turrican II - The Final Fight.png</marquee>
-    <video>./snap/Turrican II - The Final Fight.mp4</video>
-  </game>
-  <game id="157735" source="ScreenScraper.fr">
-    <path>./Worms - Reinforcements.sh</path>
-    <name>Worms - Reinforcements</name>
-    <desc>Worms: Reinforcements is an add-on to Worms. It includes some modifications to the gameplay, such as the ability to choose the worm the player wants to use each turn, as well as additional levels and multiplayer support. It also allows the creation and the use of custom levels and speech packs.</desc>
-    <rating>0</rating>
-    <releasedate>19950101T000000</releasedate>
-    <developer>Team 17</developer>
-    <publisher>Ocean</publisher>
-    <genre>Strategy</genre>
-    <image>./mixart/Worms - Reinforcements.png</image>
-    <marquee>./wheel/Worms - Reinforcements.png</marquee>
-    <video>./snap/Worms - Reinforcements.mp4</video>
-  </game>
-  <game id="155706" source="ScreenScraper.fr">
-    <path>./XCOM - UFO Defense.sh</path>
-    <name>Xcom Ufo Defense</name>
-    <desc>In the year 1998, the amount of reports of UFO sightings has been drastically increased. Stories about abductions and alien attacks became more and more widespread. Finally, after various nations of the world have failed to intercept the UFOs, their representatives met in a conference of global importance in Geneva, Switzerland. It was eventually decided to organize a secret paramilitary group, dubbed Extraterrestrial Combat Unit (X-COM). Starting with one base, two fighters, one transport, and a few soldiers, X-COM must locate the aliens, learn about their origins and technology, find out where their base is, and destroy it.X-COM: UFO Defense is a strategy game featuring separate but interlinked elements. On the strategic side, called GeoScape, you get a rotating view of the globe, where you see all visible UFOs (those that are within your detection range) as well as major cities and your base(s). You order movements from here, such as sending out fighters to intercept UFOs, transports with soldiers to assault/recover UFOs, and perhaps assaults on alien bases (if you find any). You also control your research, as you must invent better weapons (the Terran weapons are just no match against the alien weapons) quickly, not to mention all the other cool tech you can recover from the aliens. You also need to control your budget, as you can't afford to overextend your reach. Researchers need to be paid, engineers (who build the new toys) need to be paid, base(s) need to be be built/expanded, planes need to be bought/maintained, supplies need to be replenished, and so on.You can earn money by selling unneeded stuff, and you receive funding from the nations of the world; however, a nation can decrease its funding if it decides you aren't operating efficiently enough within its region. It's even possible that a nation gets so fed up with you that it signs a pact with the aliens and ceases funding altogether. Once you join a ground battle, the game switches to Battlescape, which is an isometric view of the battlefield with realistic line-of-sight calculations and turn-based combat. Your mission is usually extermination of all aliens on the battlefield, though if you can capture a few it would surely help your research efforts. If you win, you also recover any alien artifacts left on the field, which can then be researched.In combat, each of your soldiers has a specific number of Time Units. Doing anything (moving, shooting, turning around, rearranging objects in the inventory etc.) costs a number of TUs. Once a soldier is out of TUs, he cannot act any more this turn (he gets all his TUs back on the next turn, though).  </desc>
-    <rating>0</rating>
-    <releasedate>19940101T000000</releasedate>
-    <developer>Mythos Games Ltd.</developer>
-    <publisher>MicroProse</publisher>
-    <genre>Strategy</genre>
-    <players>1</players>
-    <image>./mixart/XCOM - UFO Defense.png</image>
-    <marquee>./wheel/XCOM - UFO Defense.png</marquee>
-    <video>./snap/XCOM - UFO Defense.mp4</video>
-  </game>
-  <game id="188239" source="ScreenScraper.fr">
-    <path>./Oddworld - Abe's Oddysee.sh</path>
-    <name>Oddworld: Abe's Oddysee</name>
-    <rating>0</rating>
-    <releasedate />
-    <image>./mixart/Oddworld - Abe's Oddysee.png</image>
-    <marquee>./wheel/Oddworld - Abe's Oddysee.png</marquee>
-    <video>./snap/Oddworld - Abe's Oddysee.mp4</video>
-  </game>
-<game id="152343" source="ScreenScraper.fr">
-    <path>./Epic Pinball.sh</path>
-    <name>Epic Pinball</name>
-    <desc>This version is Epic Pinball - Complete Edition, you will love the sound effects and bouncing action of this PC version of pinball. All the elements of the classic game are preserved, including the concentration of keeping your ball rolling, tilting the tables and getting all the right combinations of letters and channels to score maximum.</desc>
-    <rating>0.8</rating>
-    <releasedate>19931101T000000</releasedate>
-    <developer>Digital Extremes</developer>
-    <publisher>Epic MegaGames, Inc.</publisher>
-    <genre>Pinball-Shooter Small</genre>
-    <image>./mixart/Epic Pinball.png</image>
-    <marquee>./wheel/Epic Pinball.png</marquee>
-    <video>./snap/Epic Pinball.mp4</video>
-  </game>
-  <game id="188083" source="ScreenScraper.fr">
-    <path>./Magic Carpet 2 - The Netherworlds.sh</path>
-    <name>Magic Carpet 2: The Netherworlds</name>
-    <desc>The evil demon lord Vissuluth has taken control of the realms of the Netherworld. Once prosperous lands have been infested with monsters and several evil wizards, Vissuluth's side-kicks, are up to no good either. Fortunately the magician Kafkar knows a promising young apprentice who may stand up to Vissuluth. You're that apprentice!Magic Carpet 2: The Netherworlds is the sequel to Magic Carpet and uses a new 3D engine to produce better looking graphics. New spells and monsters are also included. It's an action game with some elements from other genres thrown into the mix. The biggest part of the gameplay is FPS action. You fly around on your magic carpet, clearing levels by killing monsters and battling other wizards. Instead of guns, you use offensive spells like fireball, meteor, lightning, tornado etc.Every monster you kill leaves behind a certain amount of mana which you can possess and store in your castle. You need this mana to cast spells and if you store it in your castle other wizards can't steal it (in some levels you need to defend your castle from attacks by monsters and rival wizards). With enough mana you can upgrade your castle which allows you to cast more powerful spells. During the course of the game you'll get all kinds of new spells and improve the ones you already have.Like many other games by Bullfrog Magic Carpet 2 is also a bit of a god game. Many realms are inhabited by neutral citizens; you can help them by destroying monsters that attack them or destroy their cities yourself. You can also completely transform each game world with spells like volcano, earthquake and gravity well. </desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Bullfrog</developer>
-    <publisher>Electronic Arts</publisher>
-    <image>./mixart/Magic Carpet 2 - The Netherworlds.png</image>
-    <marquee>./wheel/Magic Carpet 2 - The Netherworlds.png</marquee>
-    <video>./snap/Magic Carpet 2 - The Netherworlds.mp4</video>
-  </game>
-  <game id="156430" source="ScreenScraper.fr">
-    <path>./Martian Memorandum.sh</path>
-    <name>Martian Memorandum</name>
-    <desc>Martian Memorandum is the sequel to Mean Streets. Six years have found Tex broke, down on his luck, and seriously in need of a new case. He gets a call from Marshall Alexander, a business tycoon who owns most of the industry on Mars. It seems his daughter Alexis has run away from home, and taken ''something else'' with her. Marshall won't say what that ''something else'' is, but he is willing to pay handsomely to get it, and his daughter, back.</desc>
-    <rating>0</rating>
-    <releasedate />
-    <developer>Access Games</developer>
-    <publisher>Access Games</publisher>
-    <genre>Adventure</genre>
-    <image>./mixart/Martian Memorandum.png</image>
-    <marquee>./wheel/Martian Memorandum.png</marquee>
-    <video>./snap/Martian Memorandum.mp4</video>
+    <image>./mixart/Stunts.png</image>
+    <marquee>./wheel/Stunts.png</marquee>
+    <video>./snap/Stunts.mp4</video>
   </game>
 </gameList>
