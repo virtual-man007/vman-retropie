@@ -258,20 +258,6 @@
 		<marquee>./wheel/Fire Emblem - Path of Radiance (USA).png</marquee>
 		<video>./snap/Fire Emblem - Path of Radiance (USA).mp4</video>
 	</game>
-	<game id="4782" source="ScreenScraper.fr">
-		<path>./F-Zero GX (Europe).rvz</path>
-		<name>F-Zero GX</name>
-		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
-		<rating>0.8</rating>
-		<releasedate>20031031T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-		<image>./mixart/F-Zero GX (Europe).png</image>
-		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
-		<video>./snap/F-Zero GX (Europe).mp4</video>
-	</game>
 	<game id="5257" source="ScreenScraper.fr">
 		<path>./Giftpia (Japan).rvz</path>
 		<name>GiFTPiA</name>
@@ -395,34 +381,6 @@
 		<image>./mixart/Ant Bully, The (USA) (En,Fr).png</image>
 		<marquee>./wheel/Ant Bully, The (USA) (En,Fr).png</marquee>
 		<video>./snap/Ant Bully, The (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="4751" source="ScreenScraper.fr">
-		<path>./Luigi's Mansion (USA).rvz</path>
-		<name>Luigi's Mansion</name>
-		<desc>Luigi's Mansion pits you as Luigi, Mario's forgotten brother.  Luigi, while checking his mail, found out he won a mansion in a contest.  What's weird, is he never entered any contest to begin with.  Being the curious person he is, he calls up his brother, Mario, and asks to meet him at the house.  Luigi sets forth through a dark and scary jungle to find the house, but sees that Mario is nowhere to be found.  Puzzled, Luigi enters the mansion, only to encounter ghosts.  He meets up with a scientist, Professor E. Gadd, who explains the situation and hands over the Poltergust 3000.  Luigi must now make his way through the mansion's many rooms, sucking up as many ghosts as he can.  As you explore, you must solve mysteries, collect cash/gems/jewels/coins, and encounter boss characters.  Luigi's vacuum has the ability to suck up ghosts that have inhabited this strange mansion.  However, the ghosts will not give up so easily.  You must struggle with them and pull them back to catch your prey with your trusty vacuum.  As you continue to your goal, you must face off with the deceased denizens of the house and the boos that haunt it, and unlock new rooms with the keys you find along the way.  You can also gain special abilities for your vacuum, such as the ability to shoot fire, water, or ice.  Remember though, treasure is scattered everywhere.  Check all the objects for coins and paper money, and who knows, you may just make enough money for Luigi to buy a mansion of his own...  As you explore the strange mansion, the plot slowly unravels and it becomes apparent that something more sinister is going on in that haunted house.  Will you ever see your lost brother Mario again?</desc>
-		<rating>0.75</rating>
-		<releasedate>20011117T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Luigi's Mansion (USA).png</image>
-		<marquee>./wheel/Luigi's Mansion (USA).png</marquee>
-		<video>./snap/Luigi's Mansion (USA).mp4</video>
-	</game>
-	<game id="4955" source="ScreenScraper.fr">
-		<path>./Mario Golf - Toadstool Tour (USA).rvz</path>
-		<name>Mario Golf : Toadstool Tour</name>
-		<desc>Hit the links in the Mushroom Kingdom!    Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushroom Kingdom! Challenge them to tournaments, or take them on in character matches to collect rings or nab coins! Play on resort-style courses or look out for Chain Chomps, Warp Pipes and Thwomps on the Mushroom Kingdom courses!</desc>
-		<rating>0.85</rating>
-		<releasedate>20030729T000000</releasedate>
-		<developer>Camelot Software</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>2-4</players>
-		<image>./mixart/Mario Golf - Toadstool Tour (USA).png</image>
-		<marquee>./wheel/Mario Golf - Toadstool Tour (USA).png</marquee>
-		<video>./snap/Mario Golf - Toadstool Tour (USA).mp4</video>
 	</game>
 	<game id="4812" source="ScreenScraper.fr">
 		<path>./Mario Party 4 (USA) (v1.00).rvz</path>
@@ -1200,20 +1158,6 @@
 		<marquee>./wheel/Star Wars - Bounty Hunter (USA).png</marquee>
 		<video>./snap/Star Wars - Bounty Hunter (USA).mp4</video>
 	</game>
-	<game id="4773" source="ScreenScraper.fr">
-		<path>./Star Wars - Rogue Squadron III - Rebel Strike (USA).rvz</path>
-		<name>Star Wars : Rogue Squadron III : Rebel Strike</name>
-		<desc>Factor 5's follow-up to the successful Star Wars launch title recreates battles from the first three movies both in the air and on the ground. Pilot your favorite vehicles from the movies such as AT-Sts, B-wings, A-wings, and speederbikes, and navigate them through various places in the Star Wars universe. Participate in multiplayer modes including co-op mode, capture-the-base, endurance mode, and dogfighting. Star Wars Rogue Squadron III: Rebel Strike takes full advantage of the technical capabilities of the Nintendo GameCube supporting HDTV Progressive Scan, and vivid 5-channel Dolby Pro Logic 2 surround sound.</desc>
-		<rating>0.8</rating>
-		<releasedate>20031024T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>Factor 5</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>2</players>
-		<image>./mixart/Star Wars - Rogue Squadron III - Rebel Strike (USA).png</image>
-		<marquee>./wheel/Star Wars - Rogue Squadron III - Rebel Strike (USA).png</marquee>
-		<video>./snap/Star Wars - Rogue Squadron III - Rebel Strike (USA).mp4</video>
-	</game>
 	<game id="4839" source="ScreenScraper.fr">
 		<path>./Star Wars - The Clone Wars (USA).rvz</path>
 		<name>Star Wars: The Clone Wars</name>
@@ -1283,20 +1227,6 @@
 		<image>./mixart/Super Mario Strikers (USA).png</image>
 		<marquee>./wheel/Super Mario Strikers (USA).png</marquee>
 		<video>./snap/Super Mario Strikers (USA).mp4</video>
-	</game>
-	<game id="4752" source="ScreenScraper.fr">
-		<path>./Super Mario Sunshine (USA).rvz</path>
-		<name>Super Mario Sunshine</name>
-		<desc>Mario, Princess Peach, Toadsworth, and Toad have come to Isle Delfino for some relaxation. Upon arrival, however, they discover the island has been polluted causing its energy source, the Shine Sprites, to disappear. The culprit is similar in appearance to Mario, who is blamed for the mess, so the portly plumber is forced to clean up the island. Mario is given an invention called FLUDD (a backpack with several water nozzles) to help him clean up graffiti and mud and capture the real villain. Gameplay features a combination of action and puzzle solving, with numerous stages and multiple episodes to each stage, and plenty of hidden secrets and surprises.</desc>
-		<rating>0.8</rating>
-		<releasedate>20020826T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure-Action-Platform</genre>
-		<players>1</players>
-		<image>./mixart/Super Mario Sunshine (USA).png</image>
-		<marquee>./wheel/Super Mario Sunshine (USA).png</marquee>
-		<video>./snap/Super Mario Sunshine (USA).mp4</video>
 	</game>
 	<game id="4952" source="ScreenScraper.fr">
 		<path>./Super Monkey Ball 2 (USA).rvz</path>
@@ -1939,20 +1869,6 @@
 		<marquee>./wheel/Zatch Bell! Mamodo Fury (USA).png</marquee>
 		<video>./snap/Zatch Bell! Mamodo Fury (USA).mp4</video>
 	</game>
-	<game id="4836" source="ScreenScraper.fr">
-		<path>./007 - Everything or Nothing (USA).rvz</path>
-		<name>007: Everything or Nothing</name>
-		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
-		<rating>0.85</rating>
-		<releasedate>20040217T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<image>./mixart/007 - Everything or Nothing (USA).png</image>
-		<marquee>./wheel/007 - Everything or Nothing (USA).png</marquee>
-		<video>./snap/007 - Everything or Nothing (USA).mp4</video>
-	</game>
 	<game id="4961" source="ScreenScraper.fr">
 		<path>./Batman Begins (USA).rvz</path>
 		<name>Batman Begins</name>
@@ -2327,20 +2243,6 @@
 		<image>./mixart/Teen Titans (USA) (En,Fr).png</image>
 		<marquee>./wheel/Teen Titans (USA) (En,Fr).png</marquee>
 		<video>./snap/Teen Titans (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="4899" source="ScreenScraper.fr">
-		<path>./Teenage Mutant Ninja Turtles (USA).rvz</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Based on the newer anime styled FOX cartoon of the same name, Teenage Mutant Ninja Turtles features Leonardo, Raphael, Michelangelo and Donatello as green ninjas. Living in the sewers, they creep out when nobody is looking to fight for truth, justice and another slice of pizza. Fighting against the public face of inventor Baxter Stockman and the more shadowy figure of Shredder and his Foot Clan, these Ninja Turtles will get the chance to make their opponents eat shell!  The game is a 3D beat-em-up with multiple players. The game sprites all resemble the cartoony look of the TV show and each turtle features unique moves, sound bytes and fighting style all his own. Ninja Turtle moves include a weaker/quicker attack, a stronger/slower attack, Ninja Shuriken and a Jump-Kick.</desc>
-		<rating>0.75</rating>
-		<releasedate>20040416T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Fight-Beat'em Up</genre>
-		<players>2</players>
-		<image>./mixart/Teenage Mutant Ninja Turtles (USA).png</image>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles (USA).png</marquee>
-		<video>./snap/Teenage Mutant Ninja Turtles (USA).mp4</video>
 	</game>
 	<game id="4926" source="ScreenScraper.fr">
 		<path>./Tony Hawk's American Wasteland (USA).rvz</path>
@@ -4579,20 +4481,6 @@
 		<video>./snap/Disney's Tarzan Untamed (USA).mp4</video>
 	</game>
 	<game id="5043" source="ScreenScraper.fr">
-		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).rvz</path>
-		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus</name>
-		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
-		<rating>0.6</rating>
-		<releasedate>20050310T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2-4</players>
-		<image>./mixart/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</image>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</marquee>
-		<video>./snap/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).mp4</video>
-	</game>
-	<game id="5043" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2).rvz</path>
 		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus</name>
 		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
@@ -5201,5 +5089,115 @@
 		<developer>LucasArts</developer>
 		<publisher>Factor 5</publisher>
 		<genre>Simulation</genre>
+	</game>
+	<game>
+		<path>./007 - Everything or Nothing (USA).rvz</path>
+		<name>007: Everything or Nothing</name>
+		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
+		<image>./mixart/007 - Everything or Nothing (USA).png</image>
+		<video>./snap/007 - Everything or Nothing (USA).mp4</video>
+		<marquee>./wheel/007 - Everything or Nothing (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040217T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./F-Zero GX (Europe).rvz</path>
+		<name>F-Zero GX</name>
+		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
+		<image>./mixart/F-Zero GX (Europe).png</image>
+		<video>./snap/F-Zero GX (Europe).mp4</video>
+		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031031T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Luigi's Mansion (USA).rvz</path>
+		<name>Luigi's Mansion</name>
+		<desc>Luigi's Mansion pits you as Luigi, Mario's forgotten brother.  Luigi, while checking his mail, found out he won a mansion in a contest.  What's weird, is he never entered any contest to begin with.  Being the curious person he is, he calls up his brother, Mario, and asks to meet him at the house.  Luigi sets forth through a dark and scary jungle to find the house, but sees that Mario is nowhere to be found.  Puzzled, Luigi enters the mansion, only to encounter ghosts.  He meets up with a scientist, Professor E. Gadd, who explains the situation and hands over the Poltergust 3000.  Luigi must now make his way through the mansion's many rooms, sucking up as many ghosts as he can.  As you explore, you must solve mysteries, collect cash/gems/jewels/coins, and encounter boss characters.  Luigi's vacuum has the ability to suck up ghosts that have inhabited this strange mansion.  However, the ghosts will not give up so easily.  You must struggle with them and pull them back to catch your prey with your trusty vacuum.  As you continue to your goal, you must face off with the deceased denizens of the house and the boos that haunt it, and unlock new rooms with the keys you find along the way.  You can also gain special abilities for your vacuum, such as the ability to shoot fire, water, or ice.  Remember though, treasure is scattered everywhere.  Check all the objects for coins and paper money, and who knows, you may just make enough money for Luigi to buy a mansion of his own...  As you explore the strange mansion, the plot slowly unravels and it becomes apparent that something more sinister is going on in that haunted house.  Will you ever see your lost brother Mario again?</desc>
+		<image>./mixart/Luigi's Mansion (USA).png</image>
+		<video>./snap/Luigi's Mansion (USA).mp4</video>
+		<marquee>./wheel/Luigi's Mansion (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20011117T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+	</game>
+	<game>
+		<path>./Mario Golf - Toadstool Tour (USA).rvz</path>
+		<name>Mario Golf : Toadstool Tour</name>
+		<desc>Hit the links in the Mushroom Kingdom!    Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushroom Kingdom! Challenge them to tournaments, or take them on in character matches to collect rings or nab coins! Play on resort-style courses or look out for Chain Chomps, Warp Pipes and Thwomps on the Mushroom Kingdom courses!</desc>
+		<image>./mixart/Mario Golf - Toadstool Tour (USA).png</image>
+		<video>./snap/Mario Golf - Toadstool Tour (USA).mp4</video>
+		<marquee>./wheel/Mario Golf - Toadstool Tour (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030729T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron III - Rebel Strike (USA).rvz</path>
+		<name>Star Wars : Rogue Squadron III : Rebel Strike</name>
+		<desc>Factor 5's follow-up to the successful Star Wars launch title recreates battles from the first three movies both in the air and on the ground. Pilot your favorite vehicles from the movies such as AT-Sts, B-wings, A-wings, and speederbikes, and navigate them through various places in the Star Wars universe. Participate in multiplayer modes including co-op mode, capture-the-base, endurance mode, and dogfighting. Star Wars Rogue Squadron III: Rebel Strike takes full advantage of the technical capabilities of the Nintendo GameCube supporting HDTV Progressive Scan, and vivid 5-channel Dolby Pro Logic 2 surround sound.</desc>
+		<image>./mixart/Star Wars - Rogue Squadron III - Rebel Strike (USA).png</image>
+		<video>./snap/Star Wars - Rogue Squadron III - Rebel Strike (USA).mp4</video>
+		<marquee>./wheel/Star Wars - Rogue Squadron III - Rebel Strike (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031024T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Factor 5</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Sunshine (USA).rvz</path>
+		<name>Super Mario Sunshine</name>
+		<desc>Mario, Princess Peach, Toadsworth, and Toad have come to Isle Delfino for some relaxation. Upon arrival, however, they discover the island has been polluted causing its energy source, the Shine Sprites, to disappear. The culprit is similar in appearance to Mario, who is blamed for the mess, so the portly plumber is forced to clean up the island. Mario is given an invention called FLUDD (a backpack with several water nozzles) to help him clean up graffiti and mud and capture the real villain. Gameplay features a combination of action and puzzle solving, with numerous stages and multiple episodes to each stage, and plenty of hidden secrets and surprises.</desc>
+		<image>./mixart/Super Mario Sunshine (USA).png</image>
+		<video>./snap/Super Mario Sunshine (USA).mp4</video>
+		<marquee>./wheel/Super Mario Sunshine (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020826T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure-Action-Platform</genre>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles (USA).rvz</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Based on the newer anime styled FOX cartoon of the same name, Teenage Mutant Ninja Turtles features Leonardo, Raphael, Michelangelo and Donatello as green ninjas. Living in the sewers, they creep out when nobody is looking to fight for truth, justice and another slice of pizza. Fighting against the public face of inventor Baxter Stockman and the more shadowy figure of Shredder and his Foot Clan, these Ninja Turtles will get the chance to make their opponents eat shell!  The game is a 3D beat-em-up with multiple players. The game sprites all resemble the cartoony look of the TV show and each turtle features unique moves, sound bytes and fighting style all his own. Ninja Turtle moves include a weaker/quicker attack, a stronger/slower attack, Ninja Shuriken and a Jump-Kick.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles (USA).png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles (USA).mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20040416T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Fight-Beat'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).rvz</path>
+		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus</name>
+		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20050310T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2-4</players>
 	</game>
 </gameList>

@@ -4374,8 +4374,6 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Race, Driving</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200802T160913</lastplayed>
 	</game>
 	<game>
 		<path>./Daytona USA - Championship Circuit Edition (USA).chd</path>
@@ -4390,8 +4388,6 @@
 		<publisher>Sega</publisher>
 		<genre>Race, Driving</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20200802T161204</lastplayed>
 	</game>
 	<game id="97662" source="ScreenScraper.fr">
 		<path>./Assault Suit Leynos 2 (JAP) (DW0195).chd</path>
