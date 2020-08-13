@@ -28169,7 +28169,7 @@ The game has seven stages. The first and the last must be played first and last 
 	</game>
 	<game>
 		<path>./Gaplus for NES.zip</path>
-		<name>~H~Gaplus (NES Version)</name>
+		<name>'H'Gaplus (NES Version)</name>
 		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
 		<image>./mixart/Gaplus for NES.png</image>
 		<video>./snap/Gaplus for NES.mp4</video>
@@ -28183,7 +28183,7 @@ The game has seven stages. The first and the last must be played first and last 
 	</game>
 	<game>
 		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>~H~Pac-Man Championship-Edition Demake</name>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
 		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
 		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
 		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>

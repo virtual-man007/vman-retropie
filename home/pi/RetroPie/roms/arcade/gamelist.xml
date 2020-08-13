@@ -26819,7 +26819,7 @@ Karate Tournament uses a distinctive graphical technique in that it 'morphs' som
 	</game>
 	<game>
 		<path>./cphd.zip</path>
-		<name>~H~Crouching Pony Hidden Dragon</name>
+		<name>'H'Crouching Pony Hidden Dragon</name>
 		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
 		<image>./mixart/cphd.png</image>
 		<video>./snap/cphd.mp4</video>

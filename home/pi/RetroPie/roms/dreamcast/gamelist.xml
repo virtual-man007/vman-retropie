@@ -3596,7 +3596,7 @@
   </game>
   <game id="78499" source="ScreenScraper.fr">
     <path>./Yu Suzuki - Game Works Vol. 1 (Japan).chd</path>
-    <name>~H~Yu Suzuki Game Works Vol. 1</name>
+    <name>'H'Yu Suzuki Game Works Vol. 1</name>
     <desc>This Dreamcast-exclusive compilation was bundled with a book documenting Yu Suzuki-designed arcade games. It includes:nnnnAfter Burner IInnHang-OnnnOutRunnnPower DriftnnSpace Harrier</desc>
     <rating>0.65</rating>
     <releasedate>20011201T000000</releasedate>
@@ -3685,7 +3685,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game>
 		<path>./Fast Striker (2010)(NGDEV.TEAM).cdi</path>
-		<name>~H~Fast Striker</name>
+		<name>'H'Fast Striker</name>
 		<desc>Fast Striker is an arcade-style vertical shooter with a science fiction setting. While the game is essentially 2D, the backgrounds consists of pre-rendered 3D graphics. This game features six stages with over 40 enemy types.    You can choose between 3 game modes (Novice, Original and Maniac) with different scoring systems. The modes differ, for example, in the set of available techniques. In comparison to the Novice mode, the Original mode features a shield to protect the ship, which can be activated for a short time, and holding the down the spread fire button will also shoot rockets after a few moments. Furthermore, the enemies are colored differently in Novice mode to make them more visible, and you collect golden stars as part of the scoring system. The Maniac mode adds some new ways to get higher scores. For example, the distance between your ship and an enemy influences the score: you get a larger bonus the nearer you are to the enemy ship when you destroy it. Destroying many enemies in short time will also increase the number of awarded points. Last, you can activate a "Grind Mode" by focusing your ship's laser beam on a huge enemy. The beam will turn green after a while and then all destroyed enemies will give a higher score.</desc>
 		<image>./mixart/Fast Striker (2010)(NGDEV.TEAM).png</image>
 		<video>./snap/Fast Striker (2010)(NGDEV.TEAM).mp4</video>
@@ -3712,7 +3712,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game>
 		<path>./GunLord (2012)(NGDEV.TEAM).cdi</path>
-		<name>~H~Gunlord</name>
+		<name>'H'Gunlord</name>
 		<desc>Gunlord is a Eurostyle Platformer with emphasis on exploring huge worlds and blasting off enemies. This game features 8 stages of exciting 2D game play with over 45 unique enemy types. Blast yourself through giant landscapes, explore caverns and reveal all secrets!!</desc>
 		<image>./mixart/GunLord (2012)(NGDEV.TEAM).png</image>
 		<video>./snap/GunLord (2012)(NGDEV.TEAM).mp4</video>
@@ -3725,7 +3725,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game>
 		<path>./Last Hope - Pink Bullets (2011)(NGDEV.TEAM).cdi</path>
-		<name>~H~Last Hope - Pink Bullets</name>
+		<name>'H'Last Hope - Pink Bullets</name>
 		<desc>The evil empire is rushing at light-speed across the galaxies, heading towards Mother Earth. Barely 24 hours ago, they penetrated the last defence line of our galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of our fleet was destroyed during first contact. Our intelligence has now extrapolated their arrival within six days. Conventional weapons cannot stop them. Our last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth.</desc>
 		<image>./mixart/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).png</image>
 		<video>./snap/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).mp4</video>
@@ -3738,7 +3738,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game>
 		<path>./Neo XYX (2014)(NGDEV.TEAM).cdi</path>
-		<name>~H~Neo Xyx</name>
+		<name>'H'Neo Xyx</name>
 		<desc>NEO XYX is early 90is style maniac shooting game. Fast and intense.nnnnGame Features:nnnn    6 stages with varied and colorful settingsnn    6 endbossesnn    5 midbossesnn    16-bit hand-drawn graphics (dot graphics)nn    Switchable between vertical (TATE) and horizontal controls (YOKO)nn    The HUD/score/lives/bombs etc. switch between TATE and YOKO too.nn    Maniac shooting gamnn    Professional printed CD</desc>
 		<image>./mixart/Neo XYX (2014)(NGDEV.TEAM).png</image>
 		<video>./snap/Neo XYX (2014)(NGDEV.TEAM).mp4</video>
@@ -3821,7 +3821,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game>
 		<path>./Volgarr the Viking.cdi</path>
-		<name>~H~Volgarr the Viking</name>
+		<name>'H'Volgarr the Viking</name>
 		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
 		<image>./mixart/Volgarr the Viking.png</image>
 		<video>./snap/Volgarr the Viking.mp4</video>
@@ -3835,7 +3835,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game id="13493" source="ScreenScraper.fr">
 		<path>./Half-Life.chd</path>
-		<name>~H~Half-life</name>
+		<name>'H'Half-life</name>
 		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.    Cancelled.</desc>
 		<rating>0.75</rating>
 		<releasedate />
@@ -3849,7 +3849,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
 	<game>
 		<path>./Flashback HD.cdi</path>
-		<name>~H~Flashback HD - The Quest for Identity</name>
+		<name>'H'Flashback HD - The Quest for Identity</name>
 		<desc>FlashBack HD: Quest for Identity developed by Delphine Software is back and looking better on the Sega Dreamcast! Quest for identity is the 1st game in the series with the sequels "Another World" and "Fade to Black" out this month on the Dreamcast! Pulling together the work from the 1995 PC release, a new animated opening even includes the never released Sega Megadrive Japanese version with English support!</desc>
 		<image>./mixart/Flashback - The Quest for Identity HD.png</image>
 		<video>./snap/Flashback - The Quest for Identity HD.mp4</video>
@@ -3862,7 +3862,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 	</game>
   <game id="143384" source="ScreenScraper.fr">
     <path>./Capcom Fighting Collection (Hack)[Final v2].cdi</path>
-    <name>~H~Capcom Fighting Collection</name>
+    <name>'H'Capcom Fighting Collection</name>
     <desc>Homebrew Compilation content :  - Capcom vs SNK 2 (JP)   - Capcom vs SNK 2: Fan Disk (JP)    - Ikaruga (JP)   - Marvel vs Capcom 2 (US)   - Marvel vs Capcom 2 (JP)   - Super Street Fighter 2 X (NEW English Translation)   - Super Street Fighter 2 X (JP)   - Street Fighter 3: 3rd Strike (US)   - Street Fighter 3: 3rd Strike (JP)   - Super Puzzle Fighter 2 X (NEW English Translation)   - Super Puzzle Fighter 2 X (JP)</desc>
     <rating>0.8</rating>
     <releasedate />
@@ -3876,7 +3876,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
   </game>
   <game id="0" source="ScreenScraper.fr">
     <path>./Capcom vs. SNK Millennium Collection (Hack)[RDC].cdi</path>
-    <name>~H~Capcom vs. SNK Millennium Collection (Hack)[RDC]</name>
+    <name>'H'Capcom vs. SNK Millennium Collection (Hack)[RDC]</name>
  	<desc>Capcom vs. SNK Millennium Collection is a Collection/Fighting/Hack game published by Capcom released on November 16th, 2011 for the SEGA Dreamcast.</desc>
 	<rating>0.9</rating>
 	<releasedate>20020814T000000</releasedate>
@@ -3903,7 +3903,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
   </game>
   <game id="0" source="ScreenScraper.fr">
     <path>./Hellgate v2 (Europe) [accel99].cdi</path>
-    <name>~H~Hellgate v2 (Europe) [accel99]</name>
+    <name>'H'Hellgate v2 (Europe) [accel99]</name>
 	<desc>Hellgate is a Shoot 'Em Up game published by Jester Interactive was cancel but leaked/released on April 10th, 2001 for the SEGA Dreamcast.</desc>
 	<image>./mixart/Hellgate v2 (Europe) [accel99].png</image>
 	<video>./snap/Hellgate v2 (Europe) [accel99].mp4</video>
@@ -3916,7 +3916,7 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
   </game>
   <game id="0" source="ScreenScraper.fr">
     <path>./Seven Mansions Beta v1.0.cdi</path>
-    <name>~H~Seven Mansions (English Patched)</name>
+    <name>'H'Seven Mansions (English Patched)</name>
     <path>./Hellgate v2 (Europe) [accel99].cdi</path>
 	<desc>Seven Mansions (English Patched) is a Survival Horror game that was cancelled and later published by Koei released on January 20th, 2000 for the SEGA Dreamcast.</desc>
 	<image>./mixart/Seven Mansions Beta v1.0.png</image>

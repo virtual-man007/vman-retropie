@@ -13211,14 +13211,14 @@ You control one of three characters in this side-scroller, as you fight your way
 	</game>
 	<game>
 		<path>./Oh No! More Zombies Ate My Neighbors.7z</path>
-		<name>~H~Oh No! More Zombies Ate My Neighbors</name>
+		<name>'H'Oh No! More Zombies Ate My Neighbors</name>
 		<image>./mixart/Oh No! More Zombies Ate My Neighbors.jpg</image>
 		<video>./snap/Oh No! More Zombies Ate My Neighbors.mp4</video>
 		<marquee>./wheel/Oh No! More Zombies Ate My Neighbors.png</marquee>
 	</game>
 	<game>
 		<path>./NBA Jam 2k20.7z</path>
-		<name>~H~NBA Jam 2k20</name>
+		<name>'H'NBA Jam 2k20</name>
 		<image>./mixart/NBA Jam 2k20.png</image>
 		<video>./snap/NBA Jam 2k20.mp4</video>
 		<marquee>./wheel/NBA Jam 2k20.png</marquee>
@@ -13254,7 +13254,7 @@ You control one of three characters in this side-scroller, as you fight your way
 	</game>
 	<game>
 		<path>./Donkey Kong Country 2 Brigand Barrage.7z</path>
-		<name>~H~Donkey Kong Country 2 Brigand Barrage</name>
+		<name>'H'Donkey Kong Country 2 Brigand Barrage</name>
 		<image>./mixart/Donkey Kong Country 2 Brigand Barrage.jpg</image>
 		<video>./snap/Donkey Kong Country 2 Brigand Barrage.mp4</video>
 		<marquee>./wheel/Donkey Kong Country 2 Brigand Barrage.png</marquee>
@@ -13295,7 +13295,7 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 	</game>
 	<game>
 		<path>./Metroid Super Zero Mission.7z</path>
-		<name>~H~Metroid Super Zero Mission</name>
+		<name>'H'Metroid Super Zero Mission</name>
 		<image>./mixart/Metroid Super Zero Mission.jpg</image>
 		<video>./snap/Metroid Super Zero Mission.mp4</video>
 		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
@@ -13461,7 +13461,7 @@ Super Mario All-Stars + Super Mario World could only be found in "Mario Set" bun
 	</game>
 	<game>
 		<path>./New Super Mario Land.7z</path>
-		<name>~H~New Super Mario Land</name>
+		<name>'H'New Super Mario Land</name>
 		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/New Super Mario Land.png</image>
 		<video>./snap/New Super Mario Land.mp4</video>
@@ -13487,7 +13487,7 @@ Super Mario All-Stars + Super Mario World could only be found in "Mario Set" bun
 	</game>
 	<game>
 		<path>./Cooly Skunk (Japan).7z</path>
-		<name>~H~Cooly Skunk</name>
+		<name>'H'Cooly Skunk</name>
 		<desc>Cooly Skunk is an unreleased platform game that was originally in development by Visit for the Super Famicom. The game was never released for the Nintendo console, but the title was somehow resurrected by Ukiyotei with some graphical changes for the Playstation and later published in Japan by Visit and in America by Jaleco. The original Super Famicom version was recovered in late 2019 from a Satellaview BS-X “8M” cartridge and made publicly available in January 2020.
 In Cooly Skunk the player takes the role of an anthropomorphic skunk and the game plays much like other side-scrolling action games, featuring a set of special tools including a skunk spray, parasail, a pogo stick, inline skates, digging claws, and a snowboard.</desc>
 		<image>./mixart/Cooly Skunk (Japan).png</image>
@@ -13531,7 +13531,7 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 	</game>
 	<game>
 		<path>./Hyper Street Kart.7z</path>
-		<name>~H~Hyper Street Kart</name>
+		<name>'H'Hyper Street Kart</name>
 		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
 		<image>./mixart/Hyper Street Kart.png</image>
 		<video>./snap/Hyper Street Kart.mp4</video>
@@ -13559,7 +13559,7 @@ Now Leonardo, Raphael, Donatello, and Michaelangelo have to fight their way thro
 	</game>
 	<game>
 		<path>./Super Mario 100 Rooms of Enemies (Do or Die Mode).7z</path>
-		<name>~H~Super Mario 100 Rooms of Enemies (Do or Die Mode)</name>
+		<name>'H'Super Mario 100 Rooms of Enemies (Do or Die Mode)</name>
 		<image>./mixart/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</image>
 		<video>./snap/Super Mario 100 Rooms of Enemies (Do or Die Mode).mp4</video>
 		<marquee>./wheel/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</marquee>
@@ -13660,7 +13660,7 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 	</game>
 	<game>
 		<path>./Justice for Mario.7z</path>
-		<name>~H~Justice for Mario</name>
+		<name>'H'Justice for Mario</name>
 		<desc>Justice for Mario is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/Justice for Mario.jpg</image>
 		<video>./snap/Justice for Mario.mp4</video>
@@ -13672,7 +13672,7 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 	</game>
 	<game>
 		<path>./New Super Mario World 2 Around The World.7z</path>
-		<name>~H~New Super Mario World 2 Around The World</name>
+		<name>'H'New Super Mario World 2 Around The World</name>
 		<desc>New Super Mario World 2 Around The World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/New Super Mario World 2 Around The World.jpg</image>
 		<video>./snap/New Super Mario World 2 Around The World.mp4</video>
@@ -13684,7 +13684,7 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 	</game>
 	<game>
 		<path>./Pasedonal Mario Worlds.7z</path>
-		<name>~H~Pasedonal Mario Worlds</name>
+		<name>'H'Pasedonal Mario Worlds</name>
 		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/Pasedonal Mario Worlds.jpg</image>
 		<video>./snap/Pasedonal Mario Worlds.mp4</video>
@@ -13696,7 +13696,7 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 	</game>
 	<game>
 		<path>./Super Enan World.7z</path>
-		<name>~H~Super Enan World</name>
+		<name>'H'Super Enan World</name>
 		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/Super Enan World.jpg</image>
 		<video>./snap/Super Enan World.mp4</video>
@@ -13708,7 +13708,7 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 	</game>
 	<game>
 		<path>./Super Luigi Land.7z</path>
-		<name>~H~Super Luigi Land</name>
+		<name>'H'Super Luigi Land</name>
 		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/Super Luigi Land.jpg</image>
 		<video>./snap/Super Luigi Land.mp4</video>
