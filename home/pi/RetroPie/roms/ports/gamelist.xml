@@ -283,7 +283,7 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<name>Doom II</name>
 		<desc>Doom II original from PC edition!</desc>
 		<image>./mixart/Doom2.png</image>
-		<video>./snap/Doom.mp4</video>
+		<video>./snap/Doom2.mp4</video>
 		<marquee>./wheel/Doom2.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>19940101T000000</releasedate>

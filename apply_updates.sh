@@ -1,7 +1,7 @@
 #!/bin/sh
 # all the changes neccessary to apply the updates
 
-#~VMAN-1.5~ changes baked into the builds 64GB_RETRO-ARCADE-BLISS and 512GB RETRO-BLISS-REVOLUTION RELOADED
+#~VMAN-1.0~ post changes
 # 2020-04-01 emulators master for specific games 
 #cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 #cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
@@ -104,116 +104,123 @@
 #cp -p ./opt/retropie/configs/all/videomodes.cfg /opt/retropie/configs/all/videomodes.cfg.VM
 #cp -rf ./opt/retropie/configs/all/videomodes.cfg /opt/retropie/configs/all/videomodes.cfg
 
-#~VMAN-2.0~ Post-changes after 1.5 release for 64GB-512GB
+#~VMAN-1.5 ~ Post-changes
 # 2020-04-13 N64 - Enhancement/Fix graphic glitches for some N64 games, Enable Frame Buffer required for some games. Unique .opt files optimized. Reported by @Drewster 
-cp -rf ./opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/*.* /opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/*.* /opt/retropie/configs/all/retroarch/config/Mupen64Plus\ GLES3/
 # 2020-04-14 Scummvm ini update for additional supported games
-cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
-cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
+#cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
+#cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
 # 2020-04-14 - MAME 2003 Plus retroarch cfg & bezel enhancements
-cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/*.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/*.cfg /opt/retropie/configs/all/retroarch/config/MAME\ 2003-Plus/
 # 2020-04-14 - PSX Star Wars: Episode 1, Jedi Power Battles random freezes and unplayable - flagged for deletion (275MB) known issue and reported by Zartheus
-rm -f /home/pi/RetroPie/roms/psx/Star\ Wars\ -\ Episode\ I\ -\ Jedi\ Power\ Battle\ \(USA\).chd
+#rm -f /home/pi/RetroPie/roms/psx/Star\ Wars\ -\ Episode\ I\ -\ Jedi\ Power\ Battle\ \(USA\).chd
 # 2020-04-15 Boot splashcreen option to lower "omxvol" volume (now set to 50% lower), reported by @morbid#4803 and enhancement by @2play!
-sudo cp ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh.VM
-sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh
+#sudo cp ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh.VM
+#sudo cp -rf ./opt/retropie/supplementary/splashscreen/asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh
 # 2020-04-15 Desktop from CLI known freeze issue fixed - Pressing F4 to exit to CLi with the command "startx" will no longer freeze to start Desktop - enhancement by @2play!
-sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
-sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
+#sudo cp ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh.VM
+#sudo cp -rf ./etc/profile.d/10-retropie.sh /etc/profile.d/10-retropie.sh
 # 2020-07-03 PlayBox xinmo, USB-Extend, BGM, Samba core scripts fixes-enhancements by 2play!
-rm -Rf /home/pi/RetroPie/extras+/xinmo-juyao/
-cp -rf ./home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh
-cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autostart.sh
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py
-cp -rf ./home/pi/.livewire.py /home/pi/.livewire.py
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh
-cp -rf ./home/pi/RetroPie/retropiemenu/System/bgm.sh /home/pi/RetroPie/retropiemenu/System/bgm.sh
-cp -rf ./home/pi/RetroPie/extras+/usb/10-retropie.sh.USB /home/pi/RetroPie/extras+/usb/10-retropie.sh.USB
-chmod +x /home/pi/RetroPie/extras+/usb/10-retropie.sh.USB
-cp -rf ./home/pi/RetroPie/extras+/usb/smb.conf.USB /home/pi/RetroPie/extras+/usb/smb.conf.USB
-chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
-cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
-cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
+#rm -Rf /home/pi/RetroPie/extras+/xinmo-juyao/
+#cp -rf ./home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/retropiemenu/Emulation/xinmo-juyao.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation/xinmo-juyao.sh
+#cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autostart.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py /home/pi/RetroPie/extras+/.pb-fixes/bgm/.livewire.py
+#cp -rf ./home/pi/.livewire.py /home/pi/.livewire.py
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/bgm.sh
+#cp -rf ./home/pi/RetroPie/retropiemenu/System/bgm.sh /home/pi/RetroPie/retropiemenu/System/bgm.sh
+#cp -rf ./home/pi/RetroPie/extras+/usb/10-retropie.sh.USB /home/pi/RetroPie/extras+/usb/10-retropie.sh.USB
+#chmod +x /home/pi/RetroPie/extras+/usb/10-retropie.sh.USB
+#cp -rf ./home/pi/RetroPie/extras+/usb/smb.conf.USB /home/pi/RetroPie/extras+/usb/smb.conf.USB
+#chmod +x /home/pi/RetroPie/extras+/usb/smb.conf.USB
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/USB/usb-ext.sh
+#cp -rf ./home/pi/RetroPie/extras+/usb/usb-off.sh /home/pi/RetroPie/extras+/usb/usb-off.sh
+#cp -rf ./home/pi/RetroPie/extras+/usb/usb-on.sh /home/pi/RetroPie/extras+/usb/usb-on.sh
 # 2020-07-13 fixplaybox toolkit update - Fix retropiemenu (option 1) without exiting to CLi. As on PlayBox v2 -Latest PlayBox Toolkit with updates and new option to force a filesystem - by 2play!
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
-cp -rf ./home/pi/RetroPie/retropiemenu/fixplaybox.sh /home/pi/RetroPie/retropiemenu/fixplaybox.sh
-chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
-chmod +x /home/pi/RetroPie/retropiemenu/fixplaybox.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
+#cp -rf ./home/pi/RetroPie/retropiemenu/fixplaybox.sh /home/pi/RetroPie/retropiemenu/fixplaybox.sh
+#chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/fixplaybox.sh
+#chmod +x /home/pi/RetroPie/retropiemenu/fixplaybox.sh
 # 2020-04-18 Playbox Region Systems Fixed EU Regions - reported by austin
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/es_cfg/*.cfg /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/es_cfg/*.cfg /home/pi/RetroPie/extras+/.pb-fixes/es_cfg/
 # 2020-04-18 fixplaybox Playbox new omxvol script - by 2play!
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
-chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
+#chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/omxvol.sh
 # 2020-04-18 53 Custom Collections enhancement/fixes - by Zartheus
-cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
+#cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
 # 2020-04-22 omxplayer /usr/bin replaced - by 2play!
-sudo cp ./usr/bin/omxplayer /usr/bin/omxplayer.VM
-sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
+#sudo cp ./usr/bin/omxplayer /usr/bin/omxplayer.VM
+#sudo cp -rf ./usr/bin/omxplayer /usr/bin/omxplayer
 # 2020-06-13 emulators master for specific games
-cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
-cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
+#cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
+#cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-05-10 - lr-flycast Dreamcast/Atomiswave retroarch cfg update-prep for addon, .opt files no longer needed
-cp -rf ./opt/retropie/configs/all/retroarch/config/Flycast/*.cfg /opt/retropie/configs/all/retroarch/config/Flycast/
-rm -f /opt/retropie/configs/all/retroarch/config/Flycast/*.opt
+#cp -rf ./opt/retropie/configs/all/retroarch/config/Flycast/*.cfg /opt/retropie/configs/all/retroarch/config/Flycast/
+#rm -f /opt/retropie/configs/all/retroarch/config/Flycast/*.opt
 # 2020-04-28 - Atomiswave retroarch cfg update-prep for addon
-cp -p ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg.VM
-cp -rf ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg
+#cp -p ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg.VM
+#cp -rf ./opt/retropie/configs/atomiswave/retroarch.cfg /opt/retropie/configs/atomiswave/retroarch.cfg
 # 2020-04-29 - emulationstation themes permission fix so files can easily be overwritten via samba share
-sudo chown pi:pi -R /etc/emulationstation/themes/
+#sudo chown pi:pi -R /etc/emulationstation/themes/
 # 2020-05-29 lr-vice Commodore 64 retroarch fix/optimization for keyboard-controller options to work with new emulator - reported by @sunrise169
-cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.cfg /opt/retropie/configs/all/retroarch/config/VICE\ x64/
-cp -rf ./opt/retropie/configs/c64/*.cfg /opt/retropie/configs/c64/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.cfg /opt/retropie/configs/all/retroarch/config/VICE\ x64/
+#cp -rf ./opt/retropie/configs/c64/*.cfg /opt/retropie/configs/c64/
 # 2020-05-03 - PPSSPP ini optimized game configs for PlayStation Portable - More to come!!
-cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
+#cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 # 2020-05-05 - Atomiswave/Naomi delete cached <game>.nvmem* fixes stuck at bios for certain games - reported by @acsalazar9 
-rm -rf /home/pi/RetroPie/saves/atomiswave/reicast/*.*
-rm -rf /home/pi/RetroPie/saves/naomi/reicast/*.*
+#rm -rf /home/pi/RetroPie/saves/atomiswave/reicast/*.*
+#rm -rf /home/pi/RetroPie/saves/naomi/reicast/*.*
 # 2020-05-10 Nintendo 64 emulators.cfg update mupen64plus-gles2rice to use 1920x1080 - reported by @GeekOB
-cp -p /opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulators.cfg.VM
-cp -rf ./opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulators.cfg
+#cp -p /opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulators.cfg.VM
+#cp -rf ./opt/retropie/configs/n64/emulators.cfg /opt/retropie/configs/n64/emulators.cfg
 # 2020-06-15 3DO Retroarch prep for addon bundle and lr-opera emulator
-cp -p /opt/retropie/configs/3do/emulators.cfg /opt/retropie/configs/3do/emulators.cfg.VM
-cp -rf ./opt/retropie/configs/3do/emulators.cfg /opt/retropie/configs/3do/emulators.cfg
-cp -rf ./opt/retropie/configs/all/retroarch/config/Opera/ /opt/retropie/configs/all/retroarch/config/
+#cp -p /opt/retropie/configs/3do/emulators.cfg /opt/retropie/configs/3do/emulators.cfg.VM
+#cp -rf ./opt/retropie/configs/3do/emulators.cfg /opt/retropie/configs/3do/emulators.cfg
+#cp -rf ./opt/retropie/configs/all/retroarch/config/Opera/ /opt/retropie/configs/all/retroarch/config/
 # 2020-05-17 SNES-MSU1 retroarch Snes9x config fix-prep for future addon
-cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg.VM
-cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/*.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/
+#cp -p /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/snescd.cfg.VM
+#cp -rf ./opt/retropie/configs/all/retroarch/config/Snes9x/*.cfg /opt/retropie/configs/all/retroarch/config/Snes9x/
 # 2020-05-25 3DO updated enhanced Panasonic-3DO.png bezel
-cp -rf ./opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png /opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png
+#cp -rf ./opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png /opt/retropie/configs/all/retroarch/overlay/borders/Panasonic-3DO.png
 # 2020-05-29 retroarch master options file
-cp -p /opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.VM
-cp -rf ./opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.cfg
+#cp -p /opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.VM
+#cp -rf ./opt/retropie/configs/all/retroarch-core-options.cfg /opt/retropie/configs/all/retroarch-core-options.cfg
 # 2020-05-30 fixplaybox oc.sh update - by 2play!
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
-cp -rf ./home/pi/RetroPie/retropiemenu/System/oc.sh /home/pi/RetroPie/retropiemenu/System/oc.sh
-chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
-chmod +x /home/pi/RetroPie/retropiemenu/System/oc.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
+#cp -rf ./home/pi/RetroPie/retropiemenu/System/oc.sh /home/pi/RetroPie/retropiemenu/System/oc.sh
+#chmod +x /home/pi/RetroPie/extras+/.pb-fixes/retropiemenu/System/oc.sh
+#chmod +x /home/pi/RetroPie/retropiemenu/System/oc.sh
 # 2020-05-31 - SNESCD retroarch cfg update fixed save state - repoted by @crashbang
-cp -p ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg.VM
-cp -rf ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg
+#cp -p ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg.VM
+#cp -rf ./opt/retropie/configs/snescd/retroarch.cfg /opt/retropie/configs/snescd/retroarch.cfg
 # 2020-06-02 C64 - Enhancement/Fix for certain game options. Unique .opt files optimized. Reported by @sunrise169 
-cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.opt /opt/retropie/configs/all/retroarch/config/VICE\ x64/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/VICE\ x64/*.opt /opt/retropie/configs/all/retroarch/config/VICE\ x64/
 # 2020-06-13 Arcade retroarch prep for addon bundle bezel/emulators optimization
-cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2010/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2010/
-cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2016/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2016/
-cp -rf ./opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/*.* /opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/
-cp -rf ./opt/retropie/configs/all/retroarch/config/MAME/*.* /opt/retropie/configs/all/retroarch/config/MAME/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2010/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2010/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/MAME\ 2016/*.* /opt/retropie/configs/all/retroarch/config/MAME\ 2016/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/*.* /opt/retropie/configs/all/retroarch/config/FinalBurn\ Neo/
+#cp -rf ./opt/retropie/configs/all/retroarch/config/MAME/*.* /opt/retropie/configs/all/retroarch/config/MAME/
 # 2020-06-28 Updated PlayBox USB-Extend core scripts fixes-enhancements (supports these ART folders/tags (skraper, VirtualMan...) by 2play!
-cp -rf ./home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
-chmod +x /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
+#cp -rf ./home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
+#chmod +x /home/pi/RetroPie/retropiemenu/System/USB/usb-ext.sh
 # 2020 kinst optimization must change rom as per instructions
 # 2020-07-06 Playbox gamelist-autoclean script updated fix bug - by 2play!
-cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
-chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
+#cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
+#chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
 # 2020-07-22 Scummvm retroarch.cfg update for save state reported by @thrillho
-cp -p ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg.VM
-cp -rf ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg
+#cp -p ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg.VM
+#cp -rf ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg
 # 2020-08-02 lr-picodrive retroarch segacd config fix-prep for multi-disc & for future addons
-cp -p /opt/retropie/configs/all/retroarch/config/PicoDrive/PicoDrive.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/PicoDrive.cfg.VM
-cp -p /opt/retropie/configs/all/retroarch/config/PicoDrive/segacd.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/segacd.cfg.VM
-cp -rf ./opt/retropie/configs/all/retroarch/config/PicoDrive/*.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/
+#cp -p /opt/retropie/configs/all/retroarch/config/PicoDrive/PicoDrive.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/PicoDrive.cfg.VM
+#cp -p /opt/retropie/configs/all/retroarch/config/PicoDrive/segacd.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/segacd.cfg.VM
+#cp -rf ./opt/retropie/configs/all/retroarch/config/PicoDrive/*.cfg /opt/retropie/configs/all/retroarch/config/PicoDrive/
+
+
+#~VMAN-1.98x ~ Post-changes
+# 2020-09-03 - emulationstation themes permission fix so files can easily be overwritten via samba share
+sudo chown pi:pi -R /etc/emulationstation/themes/
+# 2020-09-03 - Ports uploaded video snap for Doom2.mp4, reported by @Sunrise169 - To avoid conflicts, please backup roms/ports/gamelist.xml and manually copy VMAN's from gamelist repo/backup /home/pi/VMAN/home/pi/RetroPie/roms/ports/*
+cp -rf ./home/pi/RetroPie/roms/ports/snap/*.mp4 /home/pi/RetroPie/roms/ports/snap/
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
