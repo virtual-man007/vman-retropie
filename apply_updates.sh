@@ -221,6 +221,11 @@
 sudo chown pi:pi -R /etc/emulationstation/themes/
 # 2020-09-03 - Ports uploaded video snap for Doom2.mp4, reported by @Sunrise169 - To avoid conflicts, please backup roms/ports/gamelist.xml and manually copy VMAN's from gamelist repo/backup /home/pi/VMAN/home/pi/RetroPie/roms/ports/*
 cp -rf ./home/pi/RetroPie/roms/ports/snap/*.mp4 /home/pi/RetroPie/roms/ports/snap/
+# 2020-09-03 - PC Dosbox fixed Stunts now launching, updated autoexec.bat - reported by @Sunrise169 and fixed by @VirtualMan
+cp -rf ./home/pi/RetroPie/roms/pc/Stunts/*.* /home/pi/RetroPie/roms/pc/Stunts/
+
+C:\Users\Owner\vman-retropie\home\pi\RetroPie\roms\pc\Stunts
+
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
