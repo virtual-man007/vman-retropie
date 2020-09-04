@@ -224,8 +224,6 @@ cp -rf ./home/pi/RetroPie/roms/ports/snap/*.mp4 /home/pi/RetroPie/roms/ports/sna
 # 2020-09-03 - PC Dosbox fixed Stunts now launching, updated autoexec.bat - reported by @Sunrise169 and fixed by @VirtualMan
 cp -rf ./home/pi/RetroPie/roms/pc/Stunts/*.* /home/pi/RetroPie/roms/pc/Stunts/
 
-C:\Users\Owner\vman-retropie\home\pi\RetroPie\roms\pc\Stunts
-
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
