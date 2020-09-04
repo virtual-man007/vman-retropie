@@ -226,6 +226,11 @@ cp -rf ./home/pi/RetroPie/roms/pc/Stunts/*.* /home/pi/RetroPie/roms/pc/Stunts/
 # 2020-09-04 - ScummVM save file directory fix - reported and fixed by @Thrillho
 sed -i 's|savefile_directory = "~/RetroPie/saves/saturn"|savefile_directory = "~/RetroPie/saves/scummvm"|g' /opt/retropie/configs/scummvm/retroarch.cfg
 sed -i 's|savestate_directory = "~/RetroPie/saves/saturn/states"|savestate_directory = "~/RetroPie/saves/scummvm/states"|g' /opt/retropie/configs/scummvm/retroarch.cfg
+# 2020-09-04 - PiMarquee2 enhancements, no need for playbox enable/disable script - auto detect display if function in place - reported by @zack and fixed by @Virtualman
+cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autostart.sh
+# 2020-09-04 - PiMarquee2 enhancements to support full screen on intro/maintitle on query displays and future png marquees bundle will be provided as mega.nz coming soon! - reported by @zack and fixed by @Virtualman
+cp -rf ./home/pi/PieMarquee2/PieMarquee2/PieMarquee2.py /home/pi/PieMarquee2/PieMarquee2/PieMarquee2.py
+
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
