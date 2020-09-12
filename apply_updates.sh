@@ -232,6 +232,8 @@ cp -rf ./opt/retropie/configs/all/autostart.sh /opt/retropie/configs/all/autosta
 cp -rf ./home/pi/PieMarquee2/PieMarquee2/PieMarquee2.py /home/pi/PieMarquee2/PieMarquee2/PieMarquee2.py
 # 2020-09-12 - PPSSPP ini optimized game configs for PlayStation Portable - Changed default to use 2xPSP upscale, if some games lag create custom game settings and that specific game settings to 1xPSP upscale.
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
+# 2020-09-12 Update Custom Collections enhancement
+cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
