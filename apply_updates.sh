@@ -234,6 +234,9 @@ cp -rf ./home/pi/PieMarquee2/PieMarquee2/PieMarquee2.py /home/pi/PieMarquee2/Pie
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 # 2020-09-12 Update Custom Collections enhancement
 cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
+# 2020-09-16 Sega32x emulators.cfg update - reported by @thrillho
+cp -rf ./opt/retropie/configs/sega32x/*.cfg /opt/retropie/configs/sega32x/*.cfg
+
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
