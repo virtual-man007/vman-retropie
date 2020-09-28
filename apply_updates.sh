@@ -236,7 +236,12 @@ cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP
 cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
 # 2020-09-16 Sega32x emulators.cfg update - reported by @thrillho
 cp -rf ./opt/retropie/configs/sega32x/*.cfg /opt/retropie/configs/sega32x/*.cfg
-
+# 2020-09-28 Scummvm ini update for additional supported games (The Feebile Files now loads) - required to update emulator scummvm/lr-scummvm
+cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
+cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
+# 2020-09-28 emulators master for specific games
+cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
+cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 
 
 # 2020-04-29 sleep and force reboot - VMAN!
