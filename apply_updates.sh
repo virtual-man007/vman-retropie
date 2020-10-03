@@ -239,6 +239,12 @@ cp -rf ./opt/retropie/configs/sega32x/*.cfg /opt/retropie/configs/sega32x/*.cfg
 # 2020-09-25 Fixes right joystick y-axis for Quake - reported and fixed by @ryanpconnors
 sed -i '5 i input_player1_r_y_minus_axis = "+3"' /opt/retropie/configs/ports/quake/retroarch.cfg
 sed -i '6 i input_player1_r_y_plus_axis = "-3"' /opt/retropie/configs/ports/quake/retroarch.cfg
+# 2020-09-28 Scummvm ini update for additional supported games (The Feebile Files now loads) - required to update emulator scummvm/lr-scummvm
+cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
+cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
+# 2020-09-28 emulators master for specific games
+cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
+cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
