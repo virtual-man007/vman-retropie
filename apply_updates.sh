@@ -220,9 +220,9 @@
 # 2020-09-03 - emulationstation themes permission fix so files can easily be overwritten via samba share
 sudo chown pi:pi -R /etc/emulationstation/themes/
 # 2020-09-03 - Ports uploaded video snap for Doom2.mp4, reported by @Sunrise169 - To avoid conflicts, please backup roms/ports/gamelist.xml and manually copy VMAN's from gamelist repo/backup /home/pi/VMAN/home/pi/RetroPie/roms/ports/*
-#cp -rf ./home/pi/RetroPie/roms/ports/snap/*.mp4 /home/pi/RetroPie/roms/ports/snap/
+cp -rf ./home/pi/RetroPie/roms/ports/snap/Doom2.mp4 /home/pi/RetroPie/roms/ports/snap/Doom2.mp4
 # 2020-09-03 - PC Dosbox fixed Stunts now launching, updated autoexec.bat - reported by @Sunrise169 and fixed by @VirtualMan
-#cp -rf ./home/pi/RetroPie/roms/pc/Stunts/*.* /home/pi/RetroPie/roms/pc/Stunts/
+cp -rf ./home/pi/RetroPie/roms/pc/Stunts/AUTOEXEC.BAT /home/pi/RetroPie/roms/pc/Stunts/AUTOEXEC.BAT
 # 2020-09-04 - ScummVM save file directory fix - reported and fixed by @Thrillho
 sed -i 's|savefile_directory = "~/RetroPie/saves/saturn"|savefile_directory = "~/RetroPie/saves/scummvm"|g' /opt/retropie/configs/scummvm/retroarch.cfg
 sed -i 's|savestate_directory = "~/RetroPie/saves/saturn/states"|savestate_directory = "~/RetroPie/saves/scummvm/states"|g' /opt/retropie/configs/scummvm/retroarch.cfg
