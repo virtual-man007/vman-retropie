@@ -220,7 +220,7 @@
 # 2020-09-03 - emulationstation themes permission fix so files can easily be overwritten via samba share
 sudo chown pi:pi -R /etc/emulationstation/themes/
 # 2020-09-03 - Ports uploaded video snap for Doom2.mp4, reported by @Sunrise169 - To avoid conflicts, please backup roms/ports/gamelist.xml and manually copy VMAN's from gamelist repo/backup /home/pi/VMAN/home/pi/RetroPie/roms/ports/*
-cp -rf ./home/pi/RetroPie/roms/ports/snap/*.mp4 /home/pi/RetroPie/roms/ports/snap/
+cp -rf ./home/pi/RetroPie/roms/ports/snap/Doom2.mp4 /home/pi/RetroPie/roms/ports/snap/Doom2.mp4
 # 2020-09-03 - PC Dosbox fixed Stunts now launching, updated autoexec.bat - reported by @Sunrise169 and fixed by @VirtualMan
 cp -rf ./home/pi/RetroPie/roms/pc/Stunts/*.* /home/pi/RetroPie/roms/pc/Stunts/
 # 2020-09-04 - ScummVM save file directory fix - reported and fixed by @ryanpconnors
@@ -239,6 +239,8 @@ cp -rf ./opt/retropie/configs/sega32x/*.cfg /opt/retropie/configs/sega32x/*.cfg
 # 2020-09-25 Fixes right joystick y-axis for Quake - reported and fixed by @ryanpconnors
 sed -i '5 i input_player1_r_y_minus_axis = "+3"' /opt/retropie/configs/ports/quake/retroarch.cfg
 sed -i '6 i input_player1_r_y_plus_axis = "-3"' /opt/retropie/configs/ports/quake/retroarch.cfg
+# 2020-09-16 Sega32x emulators.cfg update - reported by @thrillho
+cp -rf ./opt/retropie/configs/sega32x/emulators.cfg /opt/retropie/configs/sega32x/emulators.cfg
 # 2020-09-28 Scummvm ini update for additional supported games (The Feebile Files now loads) - required to update emulator scummvm/lr-scummvm
 cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
 cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini
