@@ -207,7 +207,7 @@
 # 2020-07-06 Playbox gamelist-autoclean script updated fix bug - by 2play!
 #cp -rf ./home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
 #chmod +x /home/pi/RetroPie/extras+/.pb-fixes/_scripts/gamelist-autoclean.sh
-# 2020-07-22 Scummvm retroarch.cfg update for save state reported by @thrillho
+# 2020-07-22 Scummvm retroarch.cfg update for save state reported by @ryanpconnors
 #cp -p ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg.VM
 #cp -rf ./opt/retropie/configs/scummvm/retroarch.cfg /opt/retropie/configs/scummvm/retroarch.cfg
 # 2020-08-02 lr-picodrive retroarch segacd config fix-prep for multi-disc & for future addons
@@ -222,8 +222,8 @@ sudo chown pi:pi -R /etc/emulationstation/themes/
 # 2020-09-03 - Ports uploaded video snap for Doom2.mp4, reported by @Sunrise169 - To avoid conflicts, please backup roms/ports/gamelist.xml and manually copy VMAN's from gamelist repo/backup /home/pi/VMAN/home/pi/RetroPie/roms/ports/*
 cp -rf ./home/pi/RetroPie/roms/ports/snap/Doom2.mp4 /home/pi/RetroPie/roms/ports/snap/Doom2.mp4
 # 2020-09-03 - PC Dosbox fixed Stunts now launching, updated autoexec.bat - reported by @Sunrise169 and fixed by @VirtualMan
-cp -rf ./home/pi/RetroPie/roms/pc/Stunts/AUTOEXEC.BAT /home/pi/RetroPie/roms/pc/Stunts/AUTOEXEC.BAT
-# 2020-09-04 - ScummVM save file directory fix - reported and fixed by @Thrillho
+cp -rf ./home/pi/RetroPie/roms/pc/Stunts/*.* /home/pi/RetroPie/roms/pc/Stunts/
+# 2020-09-04 - ScummVM save file directory fix - reported and fixed by @ryanpconnors
 sed -i 's|savefile_directory = "~/RetroPie/saves/saturn"|savefile_directory = "~/RetroPie/saves/scummvm"|g' /opt/retropie/configs/scummvm/retroarch.cfg
 sed -i 's|savestate_directory = "~/RetroPie/saves/saturn/states"|savestate_directory = "~/RetroPie/saves/scummvm/states"|g' /opt/retropie/configs/scummvm/retroarch.cfg
 # 2020-09-04 - PiMarquee2 enhancements, no need for playbox enable/disable script - auto detect display if function in place - reported by @zack and fixed by @Virtualman
@@ -234,7 +234,12 @@ cp -rf ./home/pi/PieMarquee2/PieMarquee2/PieMarquee2.py /home/pi/PieMarquee2/Pie
 cp -rf ./opt/retropie/configs/psp/PSP/SYSTEM/*.ini /opt/retropie/configs/psp/PSP/SYSTEM/
 # 2020-09-12 Update Custom Collections enhancement
 cp -rf ./opt/retropie/configs/all/emulationstation/collections/*.cfg /opt/retropie/configs/all/emulationstation/collections/
-# 2020-09-16 Sega32x emulators.cfg update - reported by @thrillho
+# 2020-09-16 Sega32x emulators.cfg update - reported by @ryanpconnors
+cp -rf ./opt/retropie/configs/sega32x/*.cfg /opt/retropie/configs/sega32x/*.cfg
+# 2020-09-25 Fixes right joystick y-axis for Quake - reported and fixed by @ryanpconnors
+sed -i '5 i input_player1_r_y_minus_axis = "+3"' /opt/retropie/configs/ports/quake/retroarch.cfg
+sed -i '6 i input_player1_r_y_plus_axis = "-3"' /opt/retropie/configs/ports/quake/retroarch.cfg
+# 2020-09-16 Sega32x emulators.cfg update - reported by @ryanpconnors 
 cp -rf ./opt/retropie/configs/sega32x/emulators.cfg /opt/retropie/configs/sega32x/emulators.cfg
 # 2020-09-28 Scummvm ini update for additional supported games (The Feebile Files now loads) - required to update emulator scummvm/lr-scummvm
 cp -p ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/scummvm.ini.VM
@@ -242,7 +247,6 @@ cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/
 # 2020-09-28 emulators master for specific games
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
-
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
