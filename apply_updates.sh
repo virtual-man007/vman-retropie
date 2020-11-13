@@ -248,13 +248,13 @@ cp -rf ./opt/retropie/configs/scummvm/scummvm.ini /opt/retropie/configs/scummvm/
 cp -p /opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg.VM
 cp -rf ./opt/retropie/configs/all/emulators.cfg /opt/retropie/configs/all/emulators.cfg
 # 2020-11-13 Dosbox game launch fixes - reported by @bilu
-sed -i 's/Aladdin/Alien_Breed/g' Alien\ Breed.sh
-sed -i 's/Aladdin/Dynablaster/g' Bomberman.sh
-sed -i 's/Aladdin/Gods/g' Gods.sh
-sed -i 's/Alien_Carnage/Realms_of_Chaos/g' Realms\ of\ Chaos.sh
-sed -i 's/Alien_Carnage/The_Elder_Scrolls_II_Daggerfall/g' The\ Elder\ Scrolls\ -\ Daggerfall.sh
-sed -i 's/Hi_Octane/Worms/g' Worms\ -\ Reinforcements.sh
-sed -i 's/Tomb_Raider_Gold/Tomb_Raider_Gold\/TUBPATH/g' Tomb\ Raider\ Gold.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Aladdin/Alien_Breed/g' Alien\ Breed.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Aladdin/Dynablaster/g' Bomberman.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Aladdin/Gods/g' Gods.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Alien_Carnage/Realms_of_Chaos/g' Realms\ of\ Chaos.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Alien_Carnage/The_Elder_Scrolls_II_Daggerfall/g' The\ Elder\ Scrolls\ -\ Daggerfall.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Hi_Octane/Worms/g' Worms\ -\ Reinforcements.sh
+cd /home/pi/RetroPie/roms/pc sed -i 's/Tomb_Raider_Gold/Tomb_Raider_Gold\/TUBPATH/g' Tomb\ Raider\ Gold.sh
 
 # 2020-04-29 sleep and force reboot - VMAN!
 sleep 10
